@@ -24,6 +24,12 @@
     ((window.TAGS && window.TAGS.tags) || []).forEach(t => m.set(t.id, t));
     return m;
   })();
+  // Stable order from the curated vocabulary (geo → sectors → domestic → ...).
+  // Used to sort the filter bar so chips appear in a meaningful sequence
+  // rather than jumping around by frequency.
+  const TAG_ORDER = new Map(
+    ((window.TAGS && window.TAGS.tags) || []).map((t, i) => [t.id, i])
+  );
   // Per-tab filter state. Cleared whenever the tab or week changes.
   const activeFilters = new Set();
   let filterExpanded = false;
@@ -423,7 +429,11 @@
     if (tab !== "lens") {
       const { counts } = entriesForTab(w, tab);
       const tagList = [...counts.entries()]
-        .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+        .sort((a, b) => {
+          const oa = TAG_ORDER.has(a[0]) ? TAG_ORDER.get(a[0]) : 9999;
+          const ob = TAG_ORDER.has(b[0]) ? TAG_ORDER.get(b[0]) : 9999;
+          return oa - ob;
+        });
       if (tagList.length) {
         const visible = filterExpanded
           ? tagList
