@@ -1,7 +1,6 @@
 // W19-2026 — Wochenbericht (German media review).
 // Separate file to keep the main weekly data manageable.
-// Loaded BEFORE data/W19-2026.js so window.W19_WOCHENBERICHT is in place
-// when the week record references it.
+// Script-load order is irrelevant: whichever file loads second attaches.
 
 window.W19_WOCHENBERICHT = {
   label: "Wochenbericht: CN-Beziehungen durch die DE-Medien-Brille",

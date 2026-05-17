@@ -11,7 +11,7 @@
 (function () {
   "use strict";
 
-  const WEEKS = [window.W19_2026, window.W16_2026]
+  const WEEKS = [window.W19_2026, window.W18_2026]
     .filter(Boolean)
     .sort((a, b) => (b.year - a.year) || (b.week - a.week));
 
