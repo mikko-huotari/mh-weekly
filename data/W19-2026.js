@@ -129,55 +129,55 @@ window.W19_2026 = {
             {
               "outlet": "SCMP",
               "date": "2026-05-07",
-              "url": "https://www.businessinsider.de/wirtschaft/enbw-china-supplier-xcharge-ev-ladesaeulen/",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3352714/china-eu-investment-deal-should-stay-deep-freezer-warns-outgoing-trade-chief",
               "note": "“China–EU investment deal should stay in deep freezer” — outgoing “trade chief” S. Weyand."
             },
             {
               "outlet": "POLITICO",
               "date": "2026-05-06",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3352714/china-eu-investment-deal-should-stay-deep-freezer-warns-outgoing-trade-chief",
+              "url": "https://www.politico.eu/article/belgium-urges-eu-save-industry-getting-tough-on-china/",
               "note": "BEL urges EU (again) to save industry by getting tough on China."
             },
             {
               "outlet": "Reuters",
               "date": "2026-05-08",
-              "url": "https://www.politico.eu/article/belgium-urges-eu-save-industry-getting-tough-on-china/",
+              "url": "https://www.reuters.com/world/china/sweden-arrests-chinese-captain-suspected-russia-linked-vessel-2026-05-04/",
               "note": "SWE arrests CN captain of suspected Russia-linked vessel."
             },
             {
               "outlet": "heise",
               "date": "2026-05-09",
-              "url": "https://www.reuters.com/world/china/sweden-arrests-chinese-captain-suspected-russia-linked-vessel-2026-05-04/",
+              "url": "https://www.heise.de/en/news/Irish-data-protection-authorities-investigate-Shein-over-data-transfer-to-China-11284890.html",
               "note": "IRL data protection authorities investigate Shein over data transfer to CN."
             },
             {
               "outlet": "SCMP",
               "date": "2026-05-05",
-              "url": "https://www.heise.de/en/news/Irish-data-protection-authorities-investigate-Shein-over-data-transfer-to-China-11284890.html",
+              "url": "https://www.scmp.com/economy/china-economy/article/3352610/eu-cyber-plan-barring-chinese-suppliers-will-cost-us430-billion-report",
               "note": "Lobbying report by China Chamber of Commerce to the EU (CCCEU) and KPMG uses scare numbers (430bn USD) to project cost of barring CN suppliers due to new EU Cybersecurity Act."
             },
             {
               "outlet": "Brussels Teahouse / ICES",
               "date": "2026-05-08",
-              "url": "https://www.scmp.com/economy/china-economy/article/3352610/eu-cyber-plan-barring-chinese-suppliers-will-cost-us430-billion-report",
+              "url": "https://brusselsteahouse.substack.com/",
               "note": "Renewed Chinese efforts to shape the information environment in Brussels: (1) Brussels Teahouse Substack newsletter; (2) Upgraded presence of ICES (Institute for China–Europe Studies)."
             },
             {
               "outlet": "Social Europe",
               "date": "2026-05-07",
-              "url": "https://brusselsteahouse.substack.com/",
+              "url": "https://www.socialeurope.eu/the-china-overcapacity-debate-needs-a-rethink",
               "note": "Social democratic think tank / publisher doubles down on China overcapacity problem (related INTA study)."
             },
             {
               "outlet": "EEAS",
               "date": "2026-05-09",
-              "url": "https://www.socialeurope.eu/the-china-overcapacity-debate-needs-a-rethink",
+              "url": "https://www.eeas.europa.eu/delegations/china/europe-day-2026-celebrated-china-culture-dialogue-and-partnership_en",
               "note": "Europe Day and EU delegation reception + EU–China Think Tank Dialogue and 2nd conference on EU–China relations in China (featuring our colleague Bernhard Bartsch): Amb. Toledo hosted 1,000+ guests incl. VFM Hua Chunying and from 27 EU member states, conference tomorrow."
             },
             {
               "outlet": "Euractiv",
               "date": "2026-05-09",
-              "url": "https://www.eeas.europa.eu/delegations/china/europe-day-2026-celebrated-china-culture-dialogue-and-partnership_en",
+              "url": "https://www.euractiv.com/section/eu-elections/news/the-ring-meps-eu-trade-china/",
               "note": "“The Ring” debate features S&D (cautioning against escalation) and EPP (warning about power shift) MEPs to discuss EU trade policy."
             }
           ]
@@ -186,21 +186,27 @@ window.W19_2026 = {
           "label": "G7 and global context",
           "items": [
             {
+              "outlet": "BBC",
+              "date": "2026-05-07",
+              "url": "https://www.bbc.com/news/articles/c0m21mndm71o",
+              "note": "China calls for the Strait of Hormuz to be reopened “as soon as possible” in Iran talks; Iranian FM in Beijing."
+            },
+            {
               "outlet": "US News",
               "date": "2026-05-08",
-              "url": "https://www.euractiv.com/section/eu-elections/news/the-ring-meps-eu-trade-china/",
+              "url": "https://www.usnews.com/news/world/articles/2026-05-08/g7-trade-ministers-meet-in-paris-amid-tariff-tensions",
               "note": "G7 trade ministers meet in Paris (ahead of G7 leaders’ Summit in June). Communiqué focus was on critical minerals. There is broad agreement on the need to reduce reliance on CN, but significant differences about how to do so; meeting overshadowed by renewed US threats to raise EU auto tariffs from 15% to 25%."
             },
             {
               "outlet": "Reuters",
               "date": "2026-05-07",
-              "url": "https://www.usnews.com/news/world/articles/2026-05-08/g7-trade-ministers-meet-in-paris-amid-tariff-tensions",
+              "url": "https://www.reuters.com/world/china/us-revises-un-resolution-iran-china-russia-still-expected-veto-2026-05-08/",
               "note": "US revises UN resolution on Iran but CN, RU still expected to veto."
             },
             {
               "outlet": "Climate Action",
               "date": "2026-05-09",
-              "url": "https://www.reuters.com/world/china/us-revises-un-resolution-iran-china-russia-still-expected-veto-2026-05-08/",
+              "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-brazil-and-china-launch-open-coalition-boost-integrity-and-effectiveness-carbon-markets-2026-05-07_en",
               "note": "EU, Brazil and CN launch coalition to boost integrity and effectiveness of carbon markets."
             }
           ]
