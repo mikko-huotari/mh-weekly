@@ -16,15 +16,15 @@
 
 window.OUTLET_MAP = {
   // ---------------- Wires & dailies ----------------
-  "FT":              { mono: "FT",   bg: "#FFF1E5", fg: "#1B1B1B", font: "serif" },
+  "FT":              { iconUrl: "assets/icons/ft.png",        mono: "FT",   bg: "#FFF1E5", fg: "#1B1B1B", font: "serif" },
   "NYT":             { mono: "NYT",  bg: "#000000", fg: "#FFFFFF", font: "serif", size: 8 },
-  "WSJ":             { mono: "WSJ",  bg: "#000000", fg: "#FFFFFF", font: "serif", size: 8 },
+  "WSJ":             { iconUrl: "assets/icons/wsj.png",       mono: "WSJ",  bg: "#000000", fg: "#FFFFFF", font: "serif", size: 8 },
   "Reuters":         { mono: "R",    bg: "#FF8000", fg: "#FFFFFF" },
   "AP":              { mono: "AP",   bg: "#FA0000", fg: "#FFFFFF" },
-  "Bloomberg":       { mono: "B",    bg: "#000000", fg: "#FA7E1E" },
+  "Bloomberg":       { iconUrl: "assets/icons/bloomberg.png", mono: "B",    bg: "#000000", fg: "#FA7E1E" },
 
   // ---------------- China-focused ------------------
-  "SCMP":            { mono: "SCMP", bg: "#A11626", fg: "#FFFFFF", size: 7 },
+  "SCMP":            { iconUrl: "assets/icons/scmp.png",      mono: "SCMP", bg: "#A11626", fg: "#FFFFFF", size: 7 },
   "Caixin":          { mono: "Cx",   bg: "#9C1010", fg: "#FFFFFF" },
   "Nikkei":          { mono: "N",    bg: "#D4202C", fg: "#FFFFFF" },
   "ChinaTalk":       { mono: "CT",   bg: "#C41E1E", fg: "#FFFFFF" },
@@ -86,7 +86,7 @@ window.OUTLET_MAP = {
   "Soapbox–MERICS Data Highlight":   { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
 
   // ---------------- Bylines (analyst quotes) -------
-  "Jacob Gunter":    { mono: "JG", bg: "#1A1916", fg: "#FFFFFF" },
+  "Jacob Gunter":    { iconUrl: "assets/people/gunter.jpg", shape: "round", mono: "JG", bg: "#1A1916", fg: "#FFFFFF" },
   "Helena Legarda":  { mono: "HL", bg: "#1A1916", fg: "#FFFFFF" },
   "Johanna Krebs":   { mono: "JK", bg: "#1A1916", fg: "#FFFFFF" },
   "Wendy Chang":     { mono: "WC", bg: "#1A1916", fg: "#FFFFFF" },
@@ -112,7 +112,8 @@ window.outletBadge = function (name) {
   // via `iconUrl` on the map entry. The renderer wraps it in the standard
   // 22x22 badge frame.
   if (m && m.iconUrl) {
-    return `<span class="outlet-badge has-img" aria-label="${escape(name)}">`
+    const cls = "outlet-badge has-img" + (m.shape === "round" ? " is-round" : "");
+    return `<span class="${cls}" aria-label="${escape(name)}">`
       + `<img src="${escape(m.iconUrl)}" alt="" loading="lazy" />`
       + `</span>`;
   }
