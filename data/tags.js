@@ -31,6 +31,7 @@ window.TAGS = {
     { id: "eu-cn",        label: "EU-CN",        group: "geo" },
     { id: "de-cn",        label: "DE-CN",        group: "geo" },
     { id: "jp-cn",        label: "JP-CN",        group: "geo" },
+    { id: "india-cn",     label: "IN-CN",        group: "geo" },
     { id: "twn",          label: "Taiwan",       group: "geo" },
     { id: "mid-east",     label: "Mid-East",     group: "geo" },
     { id: "ru-cn",        label: "RU-CN",        group: "geo" },
@@ -57,17 +58,21 @@ window.TAGS = {
     { id: "ideology",     label: "Ideology",     group: "domestic" },
     { id: "corruption",   label: "Corruption",   group: "domestic" },
     { id: "security",     label: "Security",     group: "domestic" },
+    { id: "climate",      label: "Climate",      group: "domestic" },
 
     // Geoeconomics tools
-    { id: "trade",        label: "Trade",        group: "geoecon" },
-    { id: "econsec",      label: "Econ-sec",     group: "geoecon" },
-    { id: "sanctions",    label: "Sanctions",    group: "geoecon" },
-    { id: "investment",   label: "Investment",   group: "geoecon" },
-    { id: "supply-chain", label: "Supply chain", group: "geoecon" },
+    { id: "trade",            label: "Trade",             group: "geoecon" },
+    { id: "export-controls",  label: "Export controls",   group: "geoecon" },
+    { id: "investment-screening", label: "Inv. screening", group: "geoecon" },
+    { id: "sanctions",        label: "Sanctions",         group: "geoecon" },
+    { id: "investment",       label: "Investment",        group: "geoecon" },
+    { id: "supply-chain",     label: "Supply chain",      group: "geoecon" },
+    { id: "bri",              label: "BRI",               group: "geoecon" },
 
     // Defense & external
     { id: "pla",          label: "PLA",          group: "defense" },
     { id: "fimi",         label: "FIMI",         group: "defense" },
+    { id: "cyber",        label: "Cyber",        group: "defense" },
     { id: "nuclear",      label: "Nuclear",      group: "defense" },
     { id: "maritime",     label: "Maritime",     group: "defense" },
 

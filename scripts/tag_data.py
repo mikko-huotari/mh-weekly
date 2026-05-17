@@ -151,8 +151,13 @@ Hard rules:
 - Output strictly a JSON object: keys are entry numbers as strings, values are arrays of tag ids.
 - Never invent tags. If an entry only fits one tag, return one. Prefer specificity (e.g. "semcon" over "trade" when both apply).
 - Skip generic catch-alls like "macro" unless the entry is about CN macro indicators (GDP, fiscal, monetary, PMI).
-- "us-cn" / "eu-cn" / "de-cn" / "jp-cn" / "ru-cn" apply only when the entry is *about* that bilateral relationship, not when a US/EU outlet writes about CN.
+- "us-cn" / "eu-cn" / "de-cn" / "jp-cn" / "india-cn" / "ru-cn" apply only when the entry is *about* that bilateral relationship, not when a US/EU outlet writes about CN.
 - "cn-discourse" = Chinese-language sources or Chinese scholar/official views; do not use for Western analysis of China.
+- "cyber" = digital governance, cybersecurity, data localization, AI cyber risks. Reserve "security" for CCP-internal security, surveillance, foreign-policy security.
+- "bri" = overseas infrastructure / Belt & Road projects. Do NOT use "bri" for generic outbound M&A or FDI — use "investment" for those.
+- "investment-screening" = inbound screening regimes (CFIUS, EU FDI screening, GER foreign-investment review). Use "investment" for actual deals.
+- "export-controls" = chip / dual-use / tech export restrictions. Use "sanctions" only for designated-entity actions and financial sanctions.
+- "climate" = emissions, carbon markets, energy transition policy (CN domestic or international).
 - No prose, no explanations, no markdown — JSON object only.
 
 Entries:

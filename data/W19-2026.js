@@ -35,7 +35,7 @@ window.W19_2026 = {
         ],
         "tags": [
           "us-cn",
-          "eu-cn",
+          "twn",
           "trade"
         ]
       },
@@ -61,7 +61,8 @@ window.W19_2026 = {
         ],
         "tags": [
           "us-cn",
-          "energy"
+          "energy",
+          "investment"
         ]
       },
       {
@@ -130,7 +131,8 @@ window.W19_2026 = {
               "note": "CN calls on GER to stem “EU drift toward protectionism” during video conference with Minister Reiche, who will visit China end of the month (26–29 May to Beijing and Guangzhou, while the EU Commission debates China policy).",
               "tags": [
                 "de-cn",
-                "eu-cn"
+                "eu-cn",
+                "trade"
               ]
             },
             {
@@ -140,8 +142,8 @@ window.W19_2026 = {
               "note": "New report by German Chamber of Commerce (DIHK) finds that handling of CN end-use declarations and the challenges associated with export license applications for exports to CN constitute the primary advisory topics, while delivery times for critical raw materials / rare earths from CN is gaining importance. (DIHK Außenwirtschaftsreport 2026)",
               "tags": [
                 "de-cn",
-                "rare-earths",
-                "trade"
+                "export-controls",
+                "rare-earths"
               ]
             },
             {
@@ -151,7 +153,8 @@ window.W19_2026 = {
               "note": "ENBW (largest provider of fast EV charging in GER) cooperates with CN supplier Xcharge in critical infrastructure.",
               "tags": [
                 "de-cn",
-                "auto"
+                "auto",
+                "energy"
               ]
             }
           ]
@@ -186,7 +189,7 @@ window.W19_2026 = {
               "note": "SWE arrests CN captain of suspected Russia-linked vessel.",
               "tags": [
                 "ru-cn",
-                "security"
+                "maritime"
               ]
             },
             {
@@ -195,8 +198,7 @@ window.W19_2026 = {
               "url": "https://www.heise.de/en/news/Irish-data-protection-authorities-investigate-Shein-over-data-transfer-to-China-11284890.html",
               "note": "IRL data protection authorities investigate Shein over data transfer to CN.",
               "tags": [
-                "eu-cn",
-                "security"
+                "cyber"
               ]
             },
             {
@@ -206,7 +208,7 @@ window.W19_2026 = {
               "note": "Lobbying report by China Chamber of Commerce to the EU (CCCEU) and KPMG uses scare numbers (430bn USD) to project cost of barring CN suppliers due to new EU Cybersecurity Act.",
               "tags": [
                 "eu-cn",
-                "security"
+                "cyber"
               ]
             },
             {
@@ -235,8 +237,7 @@ window.W19_2026 = {
               "url": "https://www.eeas.europa.eu/delegations/china/europe-day-2026-celebrated-china-culture-dialogue-and-partnership_en",
               "note": "Europe Day and EU delegation reception + EU–China Think Tank Dialogue and 2nd conference on EU–China relations in China (featuring our colleague Bernhard Bartsch): Amb. Toledo hosted 1,000+ guests incl. VFM Hua Chunying and from 27 EU member states, conference tomorrow.",
               "tags": [
-                "eu-cn",
-                "cn-discourse"
+                "eu-cn"
               ]
             },
             {
@@ -280,7 +281,6 @@ window.W19_2026 = {
               "url": "https://www.reuters.com/world/china/us-revises-un-resolution-iran-china-russia-still-expected-veto-2026-05-08/",
               "note": "US revises UN resolution on Iran but CN, RU still expected to veto.",
               "tags": [
-                "us-cn",
                 "ru-cn",
                 "mid-east"
               ]
@@ -293,7 +293,7 @@ window.W19_2026 = {
               "tags": [
                 "eu-cn",
                 "latam",
-                "energy"
+                "climate"
               ]
             }
           ]
@@ -322,8 +322,8 @@ window.W19_2026 = {
               ],
               "tags": [
                 "energy",
-                "sea",
-                "econsec"
+                "export-controls",
+                "sea"
               ]
             },
             {
@@ -338,9 +338,8 @@ window.W19_2026 = {
                 ]
               ],
               "tags": [
-                "mid-east",
                 "sanctions",
-                "econsec"
+                "energy"
               ]
             },
             {
@@ -355,7 +354,7 @@ window.W19_2026 = {
                 ]
               ],
               "tags": [
-                "energy",
+                "climate",
                 "society"
               ]
             },
@@ -388,8 +387,8 @@ window.W19_2026 = {
               ],
               "tags": [
                 "twn",
-                "eu-cn",
-                "trade"
+                "auto",
+                "semcon"
               ]
             }
           ]
@@ -409,8 +408,7 @@ window.W19_2026 = {
                 ]
               ],
               "tags": [
-                "ai",
-                "robotics"
+                "ai"
               ]
             },
             {
@@ -458,8 +456,7 @@ window.W19_2026 = {
               ],
               "tags": [
                 "eu-cn",
-                "trade",
-                "econsec"
+                "export-controls"
               ]
             }
           ]
@@ -491,7 +488,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "cn-discourse",
-            "ideology",
+            "bri",
             "security"
           ]
         },
@@ -511,7 +508,6 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn",
             "cn-discourse",
             "security"
           ]
@@ -532,8 +528,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn",
             "cn-discourse",
+            "us-cn",
             "macro"
           ]
         }
@@ -561,8 +557,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "macro",
-            "society"
+            "macro"
           ]
         },
         {
@@ -581,8 +576,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "investment",
-            "semcon"
+            "semcon",
+            "investment"
           ]
         },
         {
@@ -601,8 +596,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "semcon",
-            "supply-chain"
+            "semcon"
           ]
         },
         {
@@ -622,8 +616,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "ai",
-            "property",
-            "society"
+            "property"
           ]
         },
         {
@@ -642,8 +635,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "society",
-            "macro"
+            "society"
           ]
         },
         {
@@ -706,7 +698,8 @@ window.W19_2026 = {
           ],
           "tags": [
             "auto",
-            "batteries"
+            "batteries",
+            "supply-chain"
           ]
         }
       ]
@@ -758,7 +751,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "society"
+            "security",
+            "ideology"
           ]
         },
         {
@@ -778,7 +772,8 @@ window.W19_2026 = {
           ],
           "tags": [
             "corruption",
-            "pla"
+            "pla",
+            "security"
           ]
         },
         {
@@ -798,7 +793,8 @@ window.W19_2026 = {
           ],
           "tags": [
             "ai",
-            "society"
+            "society",
+            "cyber"
           ]
         },
         {
@@ -818,7 +814,8 @@ window.W19_2026 = {
           ],
           "tags": [
             "ai",
-            "society"
+            "society",
+            "cyber"
           ]
         },
         {
@@ -857,7 +854,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "society"
+            "society",
+            "semcon"
           ]
         },
         {
@@ -876,6 +874,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
+            "climate",
             "society"
           ]
         },
@@ -895,6 +894,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
+            "security",
             "society",
             "jp-cn"
           ]
@@ -925,7 +925,7 @@ window.W19_2026 = {
           "tags": [
             "us-cn",
             "semcon",
-            "ai"
+            "export-controls"
           ]
         },
         {
@@ -944,8 +944,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "ai",
             "semcon",
+            "ai",
             "investment"
           ]
         },
@@ -1003,8 +1003,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "us-cn",
-            "trade",
-            "econsec"
+            "trade"
           ]
         },
         {
@@ -1048,8 +1047,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn",
-            "trade"
+            "trade",
+            "us-cn"
           ]
         },
         {
@@ -1072,9 +1071,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "semcon",
             "ideology",
-            "cn-discourse"
+            "semcon"
           ]
         },
         {
@@ -1119,7 +1117,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "econsec",
+            "cyber",
             "trade"
           ]
         },
@@ -1187,7 +1185,7 @@ window.W19_2026 = {
           "tags": [
             "us-cn",
             "sanctions",
-            "energy"
+            "trade"
           ]
         },
         {
@@ -1210,8 +1208,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "investment",
-            "trade"
+            "investment"
           ]
         },
         {
@@ -1263,8 +1260,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "de-cn",
-            "energy"
+            "climate"
           ]
         },
         {
@@ -1402,7 +1398,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "security",
-            "ideology"
+            "cyber"
           ]
         },
         {
@@ -1421,7 +1417,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "security"
+            "security",
+            "cyber"
           ]
         },
         {
@@ -1441,6 +1438,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "cn-discourse",
+            "us-cn",
             "ideology"
           ]
         },
@@ -1485,7 +1483,8 @@ window.W19_2026 = {
           ],
           "tags": [
             "us-cn",
-            "eu-cn"
+            "eu-cn",
+            "investment"
           ]
         },
         {
@@ -1504,7 +1503,9 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn"
+            "us-cn",
+            "society",
+            "cn-discourse"
           ]
         },
         {
@@ -1543,7 +1544,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn"
+            "us-cn",
+            "fimi"
           ]
         },
         {
@@ -1588,6 +1590,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "cn-discourse",
+            "bri",
             "security"
           ]
         },
@@ -1607,9 +1610,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn",
-            "security",
-            "cn-discourse"
+            "cn-discourse",
+            "us-cn"
           ]
         },
         {
@@ -1653,8 +1655,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "jp-cn",
-            "trade",
-            "cn-discourse"
+            "export-controls"
           ]
         },
         {
@@ -1673,7 +1674,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "jp-cn"
+            "jp-cn",
+            "twn"
           ]
         },
         {
@@ -1692,7 +1694,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "pla",
+            "india-cn",
             "mil-tech"
           ]
         },
@@ -1718,7 +1720,7 @@ window.W19_2026 = {
           "tags": [
             "mid-east",
             "energy",
-            "trade"
+            "export-controls"
           ]
         },
         {
@@ -1764,8 +1766,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "mid-east",
-            "us-cn"
+            "mid-east"
           ]
         },
         {
@@ -1785,8 +1786,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "mid-east",
-            "energy",
-            "us-cn"
+            "energy"
           ]
         },
         {
@@ -1809,9 +1809,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "twn",
-            "security",
-            "cn-discourse"
+            "twn"
           ]
         },
         {
@@ -1830,8 +1828,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn",
-            "twn"
+            "twn",
+            "us-cn"
           ]
         },
         {
@@ -1855,8 +1853,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "twn",
-            "security",
-            "ideology"
+            "security"
           ]
         }
       ]
@@ -1884,8 +1881,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "trade",
-            "econsec"
+            "trade"
           ]
         },
         {
@@ -1905,8 +1901,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "trade",
-            "econsec"
+            "auto"
           ]
         },
         {
@@ -1926,8 +1921,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "investment",
-            "trade"
+            "investment"
           ]
         },
         {
@@ -1947,8 +1941,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "trade",
-            "econsec"
+            "trade"
           ]
         },
         {
@@ -1972,7 +1965,6 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "trade",
             "property"
           ]
         },
@@ -1998,7 +1990,7 @@ window.W19_2026 = {
           "tags": [
             "eu-cn",
             "energy",
-            "security"
+            "cyber"
           ]
         },
         {
@@ -2021,9 +2013,8 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "econsec",
-            "rare-earths",
-            "supply-chain"
+            "supply-chain",
+            "export-controls"
           ]
         },
         {
@@ -2043,8 +2034,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "us-cn",
-            "semcon",
-            "supply-chain"
+            "semcon"
           ]
         },
         {
@@ -2067,9 +2057,9 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn",
             "supply-chain",
-            "rare-earths"
+            "rare-earths",
+            "mil-tech"
           ]
         },
         {
@@ -2089,8 +2079,8 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "security",
-            "econsec"
+            "cyber",
+            "supply-chain"
           ]
         },
         {
@@ -2111,7 +2101,7 @@ window.W19_2026 = {
           "tags": [
             "eu-cn",
             "auto",
-            "security"
+            "cyber"
           ]
         },
         {
@@ -2131,8 +2121,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "auto",
-            "security"
+            "cyber"
           ]
         },
         {
@@ -2156,8 +2145,8 @@ window.W19_2026 = {
           ],
           "tags": [
             "us-cn",
-            "mid-east",
-            "cn-discourse"
+            "cn-discourse",
+            "security"
           ]
         },
         {
@@ -2178,7 +2167,7 @@ window.W19_2026 = {
           "tags": [
             "us-cn",
             "jp-cn",
-            "pla"
+            "sea"
           ]
         },
         {
@@ -2248,8 +2237,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "twn",
-            "mil-tech",
-            "security"
+            "mil-tech"
           ]
         },
         {
@@ -2273,7 +2261,6 @@ window.W19_2026 = {
           ],
           "tags": [
             "us-cn",
-            "eu-cn",
             "trade"
           ]
         },
@@ -2293,8 +2280,7 @@ window.W19_2026 = {
             ]
           ],
           "tags": [
-            "us-cn",
-            "cn-discourse"
+            "us-cn"
           ]
         },
         {
@@ -2318,8 +2304,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "us-cn",
-            "trade",
-            "ai"
+            "trade"
           ]
         },
         {
@@ -2360,8 +2345,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "us-cn",
-            "ai",
-            "security"
+            "ai"
           ]
         },
         {
@@ -2386,7 +2370,7 @@ window.W19_2026 = {
           "tags": [
             "us-cn",
             "ai",
-            "semcon"
+            "export-controls"
           ]
         },
         {
@@ -2407,7 +2391,7 @@ window.W19_2026 = {
           "tags": [
             "us-cn",
             "ai",
-            "semcon"
+            "export-controls"
           ]
         },
         {
@@ -2427,8 +2411,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "us-cn",
-            "ai",
-            "security"
+            "ai"
           ]
         },
         {
@@ -2448,8 +2431,7 @@ window.W19_2026 = {
           ],
           "tags": [
             "eu-cn",
-            "security",
-            "trade"
+            "cyber"
           ]
         }
       ]
