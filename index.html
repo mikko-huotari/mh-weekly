@@ -425,6 +425,108 @@
   /* Default: show long labels, hide short ones. Mobile media query flips this. */
   .tab-label-short { display: none; }
 
+  /* Filter bar — third row inside the sticky nav. Shows tag chips for the
+     currently-visible tab; OR-semantics; resets when tab or week changes. */
+  .filter-bar {
+    display: none;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 0 10px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    border-bottom: 1px solid var(--rule-soft);
+    -webkit-mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), transparent 100%);
+            mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), transparent 100%);
+  }
+  .filter-bar.is-open { display: flex; }
+  .filter-bar::-webkit-scrollbar { display: none; }
+  .filter-label {
+    font-family: var(--sans);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--slate);
+    white-space: nowrap;
+    margin-right: 4px;
+    flex: 0 0 auto;
+  }
+  .filter-clear {
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: 0;
+    font-family: var(--sans);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--merics-red);
+    cursor: pointer;
+    padding: 3px 4px;
+    flex: 0 0 auto;
+    white-space: nowrap;
+  }
+  .filter-clear:hover { color: var(--merics-red-deep); }
+
+  /* Tag chip — used both in the filter bar and under each entry */
+  .tag-chip {
+    appearance: none;
+    -webkit-appearance: none;
+    background: var(--paper-soft);
+    border: 1px solid var(--rule-soft);
+    color: var(--graphite);
+    padding: 3px 8px;
+    font-family: var(--sans);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    border-radius: 3px;
+    cursor: pointer;
+    line-height: 1.4;
+    transition: background .12s ease, color .12s ease, border-color .12s ease;
+    white-space: nowrap;
+    flex: 0 0 auto;
+  }
+  .tag-chip:hover { color: var(--ink); border-color: var(--rule); }
+  .tag-chip.is-active {
+    background: var(--merics-red);
+    color: #fff;
+    border-color: var(--merics-red);
+  }
+  .tag-chip .tag-count {
+    margin-left: 5px;
+    font-weight: 400;
+    color: inherit;
+    opacity: 0.65;
+    font-size: 9px;
+    letter-spacing: 0.02em;
+  }
+  .entry-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 0 0 14px;
+  }
+  .entry-tags .tag-chip {
+    text-transform: lowercase;
+    letter-spacing: 0.02em;
+    font-size: 10px;
+  }
+  .empty-filter {
+    margin: 32px 0;
+    padding: 18px 16px;
+    text-align: center;
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--slate);
+    letter-spacing: 0.04em;
+    border: 1px dashed var(--rule);
+  }
+
   .tabs-sub {
     display: none;
     gap: 0;
@@ -986,6 +1088,7 @@
   </div>
 
   <!-- ============================ DATA + RENDER ========================== -->
+  <script src="data/tags.js"></script>
   <script src="data/W19-2026.js"></script>
   <script src="data/W19-2026-wochenbericht.js"></script>
   <script src="data/W18-2026.js"></script>

@@ -17,6 +17,17 @@
 
   if (!WEEKS.length) { console.error("No week data loaded."); return; }
 
+  // -------- tag vocabulary (online-only) -----------------------------------
+  // window.TAGS comes from data/tags.js — { version, groups: [...], tags: [...] }
+  const TAG_LOOKUP = (() => {
+    const m = new Map();
+    ((window.TAGS && window.TAGS.tags) || []).forEach(t => m.set(t.id, t));
+    return m;
+  })();
+  // Per-tab filter state. Cleared whenever the tab or week changes.
+  const activeFilters = new Set();
+  let lastTabKey = null; // "weekId|tab"
+
   // -------- tabs definition -------------------------------------------------
   const TABS = [
     { id: "highlights", num: "I",   label: "Highlights",       short: "Highlights" },
@@ -85,6 +96,20 @@
     return chips;
   }
 
+  // Render the row of clickable tag chips beneath an entry. Only tags in the
+  // controlled vocabulary render; unknown ids are silently dropped.
+  function renderEntryTags(tags) {
+    if (!tags || !tags.length) return "";
+    const chips = tags
+      .filter(id => TAG_LOOKUP.has(id))
+      .map(id => {
+        const t = TAG_LOOKUP.get(id);
+        const active = activeFilters.has(id) ? "is-active" : "";
+        return `<button type="button" class="tag-chip ${active}" data-tag="${esc(id)}">${esc(t.label)}</button>`;
+      }).join("");
+    return chips ? `<div class="entry-tags">${chips}</div>` : "";
+  }
+
   // -------- entry render ----------------------------------------------------
   function renderEntry(e) {
     const url = e.url || "#";
@@ -98,10 +123,12 @@
           ${date ? `<span class="entry-sep">&middot;</span><span class="entry-date">${esc(date)}</span>` : ""}
         </div>`;
 
+    const tagsHtml = renderEntryTags(e.tags);
+
     // Compact note style \u2014 used for the brief context items that mirror the
     // PDF's one-line "ticker" entries (German Lens etc).
     if (e.note) {
-      return `<article class="entry entry-note">${meta}<p class="entry-note-text">${esc(e.note)}</p></article>`;
+      return `<article class="entry entry-note">${meta}<p class="entry-note-text">${esc(e.note)}</p>${tagsHtml}</article>`;
     }
 
     const titleInner = e.title
@@ -122,28 +149,73 @@
         return `<li>${lead}${rest}</li>`;
       }).join("");
 
-    return `<article class="entry">${head}${bullets ? `<ul class="bullets">${bullets}</ul>` : ""}</article>`;
+    return `<article class="entry">${head}${bullets ? `<ul class="bullets">${bullets}</ul>` : ""}${tagsHtml}</article>`;
   }
+
+  // Does an entry pass the current filter set? OR-semantics; entries with no
+  // tags are hidden when any filter is active.
+  function entryPassesFilter(e) {
+    if (activeFilters.size === 0) return true;
+    const tags = e.tags || [];
+    if (!tags.length) return false;
+    for (const t of tags) if (activeFilters.has(t)) return true;
+    return false;
+  }
+
+  // Walk every entry visible in (tab) and return { entries, tagCounts }.
+  function entriesForTab(week, tab) {
+    const out = [];
+    function pushItems(items) { (items || []).forEach(it => out.push(it)); }
+    if (tab === "highlights") {
+      if (week.spotlight) pushItems(week.spotlight.items);
+      (week.contextSections || []).forEach(sec => {
+        pushItems(sec.items);
+        (sec.groups || []).forEach(g => pushItems(g.items));
+      });
+    } else if (tab === "research") {
+      (week.researchSections || []).forEach(sec => {
+        pushItems(sec.items);
+        (sec.groups || []).forEach(g => pushItems(g.items));
+      });
+    } else if (tab === "intl") {
+      (week.numberedSections || []).forEach(sec => pushItems(sec.items));
+    }
+    const counts = new Map();
+    out.forEach(e => (e.tags || []).forEach(t => {
+      if (!TAG_LOOKUP.has(t)) return;
+      counts.set(t, (counts.get(t) || 0) + 1);
+    }));
+    return { entries: out, counts };
+  }
+
+  // Filter helper used by block renderers — applies activeFilters to a list.
+  const filtered = (items) => (items || []).filter(entryPassesFilter);
 
   // -------- block renderers -------------------------------------------------
   function renderSpotlight(s) {
     if (!s) return "";
+    const items = filtered(s.items);
+    if (!items.length && activeFilters.size) return "";
     return `
       <section class="section" id="hl-spotlight">
         <header class="section-h">
           <h2 class="label">${esc(s.title || "Spotlight")}</h2>
         </header>
         ${s.intro ? `<p class="section-intro">${esc(s.intro)}</p>` : ""}
-        ${(s.items || []).map(renderEntry).join("")}
+        ${items.map(renderEntry).join("")}
       </section>`;
   }
   function renderContext(sec) {
-    const groups = (sec.groups || []).map(g => `
+    const groups = (sec.groups || []).map(g => {
+      const items = filtered(g.items);
+      if (!items.length) return "";
+      return `
       <div class="group">
         <h3 class="group-label">${esc(g.label)}</h3>
-        ${(g.items || []).map(renderEntry).join("")}
-      </div>
-    `).join("");
+        ${items.map(renderEntry).join("")}
+      </div>`;
+    }).join("");
+    if (!groups.trim() && activeFilters.size) return "";
     return `
       <section class="section" id="hl-${esc(slugify(sec.label))}">
         <header class="section-h">
@@ -154,14 +226,19 @@
       </section>`;
   }
   function renderResearch(sec) {
-    const groupsHtml = (sec.groups || []).map(g => `
+    const groupsHtml = (sec.groups || []).map(g => {
+      const items = filtered(g.items);
+      if (!items.length) return "";
+      return `
       <div class="group" id="mr-${esc(slugify(g.label))}">
         <h3 class="group-label">${esc(g.label)}</h3>
         ${g.note ? `<p class="section-note">${esc(g.note)}</p>` : ""}
-        ${(g.items || []).map(renderEntry).join("")}
-      </div>
-    `).join("");
-    const itemsHtml = (sec.items || []).map(renderEntry).join("");
+        ${items.map(renderEntry).join("")}
+      </div>`;
+    }).join("");
+    const items = filtered(sec.items);
+    const itemsHtml = items.map(renderEntry).join("");
+    if (!groupsHtml.trim() && !itemsHtml && activeFilters.size) return "";
     return `
       <section class="section">
         <header class="section-h">
@@ -173,6 +250,8 @@
       </section>`;
   }
   function renderNumbered(sec) {
+    const items = filtered(sec.items);
+    if (!items.length && activeFilters.size) return "";
     const numHtml = sec.number ? `<span class="num">${esc(sec.number)}.</span>` : "";
     const anchorId = sec.slug ? `intl-${esc(sec.slug)}` : "";
     return `
@@ -182,7 +261,7 @@
           <h2 class="label">${esc(sec.label)}</h2>
         </header>
         ${sec.note ? `<p class="section-note">${esc(sec.note)}</p>` : ""}
-        ${(sec.items || []).map(renderEntry).join("")}
+        ${items.map(renderEntry).join("")}
       </section>`;
   }
 
@@ -335,10 +414,37 @@
     }
     const showSubs = tab === "highlights" || tab === "research" || tab === "intl" || tab === "lens";
 
+    // Filter bar: tag chips for the tags present in this tab's entries.
+    // The Wochenbericht ("lens") is excluded — its entries are untagged.
+    let filterBarHtml = "";
+    if (tab !== "lens") {
+      const { counts } = entriesForTab(w, tab);
+      const tagList = [...counts.entries()]
+        .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+      if (tagList.length) {
+        const chips = tagList.map(([id, n]) => {
+          const meta = TAG_LOOKUP.get(id);
+          if (!meta) return "";
+          const active = activeFilters.has(id) ? "is-active" : "";
+          return `<button type="button" class="tag-chip ${active}" data-tag="${esc(id)}">${esc(meta.label)}<span class="tag-count">${n}</span></button>`;
+        }).join("");
+        const clear = activeFilters.size
+          ? `<button type="button" class="filter-clear" data-clear-filters>Clear</button>`
+          : "";
+        filterBarHtml = `
+          <div class="filter-bar is-open" role="toolbar" aria-label="Filter by tag">
+            <span class="filter-label">Filter</span>
+            ${chips}
+            ${clear}
+          </div>`;
+      }
+    }
+
     return `
       <nav class="tabs" aria-label="Issue navigation">
         <div class="tabs-primary" role="tablist">${primary}</div>
         <div class="tabs-sub ${showSubs ? 'is-open' : ''}" role="tablist" aria-hidden="${!showSubs}">${subs}</div>
+        ${filterBarHtml}
       </nav>`;
   }
 
@@ -476,6 +582,13 @@
     const week = WEEKS.find(w => w.id === weekId) || WEEKS[0];
     const { tab, sub } = tabAndSubFromSlug(slug);
 
+    // Reset tag filter whenever tab or week changes (per-tab semantics).
+    const tabKey = `${week.id}|${tab}`;
+    if (tabKey !== lastTabKey) {
+      activeFilters.clear();
+      lastTabKey = tabKey;
+    }
+
     setMasthead(week);
     $("#weekSelect").value = week.id;
 
@@ -511,12 +624,32 @@
       btn.addEventListener("click", () => writeHash(week.id, btn.dataset.sub));
     });
 
+    // Filter-bar chip clicks + clear
+    navHost.querySelectorAll(".filter-bar [data-tag]").forEach(btn => {
+      btn.addEventListener("click", () => toggleFilter(btn.dataset.tag));
+    });
+    const clearBtn = navHost.querySelector("[data-clear-filters]");
+    if (clearBtn) clearBtn.addEventListener("click", () => {
+      activeFilters.clear();
+      render();
+    });
+
     // Content with a quick fade swap.
     const main = $("#content");
     main.style.transition = "opacity .14s ease";
     main.style.opacity = "0";
     setTimeout(() => {
-      main.innerHTML = viewForTab(week, tab, sub);
+      let html = viewForTab(week, tab, sub);
+      // If filters are active and nothing matched, show a small empty state.
+      if (activeFilters.size && !html.trim()) {
+        const sel = [...activeFilters].map(id => (TAG_LOOKUP.get(id) || {}).label || id).join(", ");
+        html = `<div class="empty-filter">No entries match the active filter: ${esc(sel)}.</div>`;
+      }
+      main.innerHTML = html;
+      // Entry-level tag chips open the filter on click.
+      main.querySelectorAll(".entry-tags [data-tag]").forEach(btn => {
+        btn.addEventListener("click", () => toggleFilter(btn.dataset.tag));
+      });
       main.style.opacity = "1";
       // Only auto-scroll the body on user-initiated changes after first paint.
       // Anchor-scroll for tabs that stack their sub-sections (highlights, intl, lens).
@@ -568,6 +701,13 @@
     }, 60);
     // After paint, install the scrollspy for stacked-section tabs.
     setTimeout(() => setupScrollSpy(tab, week.id), 120);
+  }
+
+  function toggleFilter(id) {
+    if (!TAG_LOOKUP.has(id)) return;
+    if (activeFilters.has(id)) activeFilters.delete(id);
+    else activeFilters.add(id);
+    render();
   }
 
   window.addEventListener("hashchange", render);
