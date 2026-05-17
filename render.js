@@ -438,11 +438,18 @@
         const visible = filterExpanded
           ? tagList
           : tagList.filter(([id]) => activeFilters.has(id));
+        // Insert a thin separator between groups when expanded.
+        let lastGroup = null;
         const chips = visible.map(([id, n]) => {
           const meta = TAG_LOOKUP.get(id);
           if (!meta) return "";
           const active = activeFilters.has(id) ? "is-active" : "";
-          return `<button type="button" class="tag-chip ${active}" data-tag="${esc(id)}">${esc(meta.label)}<span class="tag-count">${n}</span></button>`;
+          let sep = "";
+          if (filterExpanded && lastGroup !== null && meta.group !== lastGroup) {
+            sep = `<span class="filter-group-sep" aria-hidden="true"></span>`;
+          }
+          lastGroup = meta.group;
+          return `${sep}<button type="button" class="tag-chip ${active}" data-tag="${esc(id)}">${esc(meta.label)}<span class="tag-count">${n}</span></button>`;
         }).join("");
         const clear = activeFilters.size
           ? `<button type="button" class="filter-clear" data-clear-filters>Clear</button>`
