@@ -413,6 +413,9 @@
   }
   .tab-btn:first-child.is-active::after { left: 0; }
 
+  /* Default: show long labels, hide short ones. Mobile media query flips this. */
+  .tab-label-short { display: none; }
+
   .tabs-sub {
     display: none;
     gap: 0;
@@ -881,9 +884,6 @@
     .brand .name { display: none; }
     .week-title { font-size: 15px; }
   }
-  /* Default: show long labels, hide short ones. */
-  .tab-label-short { display: none; }
-
   /* Scroll fade hint only on the sub-chip row (which may overflow on mobile). */
   .tabs-sub {
     -webkit-mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), transparent 100%);
