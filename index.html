@@ -447,6 +447,47 @@
     margin-right: 4px;
     flex: 0 0 auto;
   }
+  .filter-toggle {
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    padding: 3px 4px 3px 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--sans);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--slate);
+    white-space: nowrap;
+    flex: 0 0 auto;
+    transition: color .12s ease;
+  }
+  .filter-toggle:hover { color: var(--ink); }
+  .filter-toggle .filter-toggle-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 16px;
+    padding: 0 4px;
+    height: 14px;
+    background: var(--merics-red);
+    color: #fff;
+    border-radius: 7px;
+    font-size: 9px;
+    font-weight: 500;
+    letter-spacing: 0;
+  }
+  .filter-toggle .filter-toggle-chev {
+    color: var(--graphite);
+    font-size: 9px;
+    transition: transform .12s ease, color .12s ease;
+  }
+  .filter-toggle.is-open .filter-toggle-chev { transform: rotate(180deg); color: var(--merics-red); }
   .filter-clear {
     appearance: none;
     -webkit-appearance: none;

@@ -26,6 +26,7 @@
   })();
   // Per-tab filter state. Cleared whenever the tab or week changes.
   const activeFilters = new Set();
+  let filterExpanded = false;
   let lastTabKey = null; // "weekId|tab"
 
   // -------- tabs definition -------------------------------------------------
@@ -416,13 +417,18 @@
 
     // Filter bar: tag chips for the tags present in this tab's entries.
     // The Wochenbericht ("lens") is excluded — its entries are untagged.
+    // Collapsed by default. Collapsed view still shows any active chips
+    // and the Clear button so the user can act without expanding.
     let filterBarHtml = "";
     if (tab !== "lens") {
       const { counts } = entriesForTab(w, tab);
       const tagList = [...counts.entries()]
         .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
       if (tagList.length) {
-        const chips = tagList.map(([id, n]) => {
+        const visible = filterExpanded
+          ? tagList
+          : tagList.filter(([id]) => activeFilters.has(id));
+        const chips = visible.map(([id, n]) => {
           const meta = TAG_LOOKUP.get(id);
           if (!meta) return "";
           const active = activeFilters.has(id) ? "is-active" : "";
@@ -431,9 +437,14 @@
         const clear = activeFilters.size
           ? `<button type="button" class="filter-clear" data-clear-filters>Clear</button>`
           : "";
+        const toggle = `<button type="button" class="filter-toggle ${filterExpanded ? 'is-open' : ''}" data-filter-toggle aria-expanded="${filterExpanded}">
+            Filter
+            ${activeFilters.size ? `<span class="filter-toggle-count">${activeFilters.size}</span>` : ""}
+            <span class="filter-toggle-chev" aria-hidden="true">&#9662;</span>
+          </button>`;
         filterBarHtml = `
           <div class="filter-bar is-open" role="toolbar" aria-label="Filter by tag">
-            <span class="filter-label">Filter</span>
+            ${toggle}
             ${clear}
             ${chips}
           </div>`;
@@ -586,6 +597,7 @@
     const tabKey = `${week.id}|${tab}`;
     if (tabKey !== lastTabKey) {
       activeFilters.clear();
+      filterExpanded = false;
       lastTabKey = tabKey;
     }
 
@@ -624,13 +636,18 @@
       btn.addEventListener("click", () => writeHash(week.id, btn.dataset.sub));
     });
 
-    // Filter-bar chip clicks + clear
+    // Filter-bar chip clicks + clear + expand/collapse toggle
     navHost.querySelectorAll(".filter-bar [data-tag]").forEach(btn => {
       btn.addEventListener("click", () => toggleFilter(btn.dataset.tag));
     });
     const clearBtn = navHost.querySelector("[data-clear-filters]");
     if (clearBtn) clearBtn.addEventListener("click", () => {
       activeFilters.clear();
+      render();
+    });
+    const toggleBtn = navHost.querySelector("[data-filter-toggle]");
+    if (toggleBtn) toggleBtn.addEventListener("click", () => {
+      filterExpanded = !filterExpanded;
       render();
     });
 
@@ -707,6 +724,9 @@
     if (!TAG_LOOKUP.has(id)) return;
     if (activeFilters.has(id)) activeFilters.delete(id);
     else activeFilters.add(id);
+    // Auto-expand when the user adds a filter from an entry chip, so they can
+    // see the full list and add/remove more easily.
+    if (activeFilters.size) filterExpanded = true;
     render();
   }
 
