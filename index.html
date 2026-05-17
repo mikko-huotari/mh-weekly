@@ -429,19 +429,13 @@
      currently-visible tab; OR-semantics; resets when tab or week changes. */
   .filter-bar {
     display: none;
+    flex-wrap: wrap;
     align-items: center;
     gap: 6px;
     padding: 8px 0 10px;
-    overflow-x: auto;
-    overflow-y: hidden;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
     border-bottom: 1px solid var(--rule-soft);
-    -webkit-mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), transparent 100%);
-            mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), transparent 100%);
   }
   .filter-bar.is-open { display: flex; }
-  .filter-bar::-webkit-scrollbar { display: none; }
   .filter-label {
     font-family: var(--sans);
     font-size: 10px;

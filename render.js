@@ -434,8 +434,8 @@
         filterBarHtml = `
           <div class="filter-bar is-open" role="toolbar" aria-label="Filter by tag">
             <span class="filter-label">Filter</span>
-            ${chips}
             ${clear}
+            ${chips}
           </div>`;
       }
     }
