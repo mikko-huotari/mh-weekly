@@ -118,16 +118,20 @@
   .week-title {
     font-family: var(--sans);
     font-weight: 400;
-    font-size: 18px;
+    font-size: 20px;
     color: var(--ink);
     letter-spacing: 0;
     line-height: 1;
     white-space: nowrap;
     cursor: pointer;
     display: inline-flex;
-    align-items: baseline;
+    align-items: center;
     margin: 0;
-    transition: color .12s ease;
+    padding: 6px 12px;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    background: var(--paper-soft);
+    transition: color .12s ease, border-color .12s ease, background .12s ease;
   }
   .week-title em {
     font-style: normal;
@@ -137,12 +141,17 @@
   }
   .week-switcher .chev {
     color: var(--graphite);
-    font-size: 0.55em;
-    margin-left: 6px;
-    transition: color .12s ease;
+    font-size: 0.7em;
+    margin-left: 8px;
+    transition: color .12s ease, transform .12s ease;
+    display: inline-block;
   }
-  .week-switcher:hover .chev { color: var(--merics-red); }
-  .week-switcher:hover .week-title { color: var(--merics-red-deep); }
+  .week-switcher:hover .chev { color: var(--merics-red); transform: translateY(1px); }
+  .week-switcher:hover .week-title {
+    color: var(--merics-red-deep);
+    border-color: var(--merics-red);
+    background: var(--paper);
+  }
   .week-select {
     position: absolute;
     inset: 0;
@@ -388,7 +397,7 @@
     padding: 14px 14px 12px;
     margin: 0;
     font-family: var(--sans);
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 500;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -437,7 +446,7 @@
     padding: 12px 14px 10px;
     margin: 0;
     font-family: var(--sans);
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 500;
     letter-spacing: 0;
     color: var(--graphite);
@@ -458,7 +467,7 @@
     background: var(--merics-red);
   }
   @media (max-width: 540px) {
-    .tab-btn { padding: 14px 12px 12px; font-size: 12px; }
+    .tab-btn { padding: 14px 12px 12px; font-size: 13px; }
   }
 
   /* ------------------------------------------------------------------ */
@@ -852,16 +861,16 @@
     .topbar-inner { height: 50px; gap: 10px; padding: 0 var(--read-pad); }
     .brand .name { font-size: 10px; letter-spacing: 0.08em; }
     .pdf-link { padding: 5px 8px; font-size: 10px; letter-spacing: 0.06em; }
-    .week-title { font-size: 16px; }
+    .week-title { font-size: 17px; padding: 5px 10px; }
 
     #nav { top: 50px; }
-    .tab-btn { padding: 12px 10px 10px; font-size: 11px; letter-spacing: 0.06em; }
+    .tab-btn { padding: 12px 10px 10px; font-size: 12px; letter-spacing: 0.06em; }
     .tab-btn .tab-num { margin-right: 4px; }
     /* Mobile: use short labels on all tabs so the row never scrolls horizontally. */
     .tab-label-long { display: none; }
     .tab-label-short { display: inline; }
     .tabs-sub { padding: 0; }
-    .chip { padding: 10px 10px 8px; font-size: 11px; }
+    .chip { padding: 10px 10px 8px; font-size: 12px; }
     .chip:first-child { padding-left: 0; }
 
     .section { margin-top: 36px; scroll-margin-top: 130px; }
@@ -882,7 +891,7 @@
   @media (max-width: 420px) {
     :root { --read-pad: 14px; }
     .brand .name { display: none; }
-    .week-title { font-size: 15px; }
+    .week-title { font-size: 16px; padding: 5px 9px; }
   }
   /* Scroll fade hint only on the sub-chip row (which may overflow on mobile). */
   .tabs-sub {
