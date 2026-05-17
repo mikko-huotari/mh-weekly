@@ -1,0 +1,985 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>MH@MERICS Weekly Update — archive</title>
+<meta name="description" content="Mikko Huotari's weekly China brief, archived. One issue per week." />
+
+<style>
+  /* ------------------------------------------------------------------ */
+  /* Type — Neo Sans Pro for chrome/headings, serif for body            */
+  /* ------------------------------------------------------------------ */
+  @font-face {
+    font-family: "Neo Sans Pro";
+    src: url("fonts/NeoSansPro-Light.otf") format("opentype");
+    font-weight: 300; font-style: normal; font-display: swap;
+  }
+  @font-face {
+    font-family: "Neo Sans Pro";
+    src: url("fonts/NeoSansPro-Regular.otf") format("opentype");
+    font-weight: 400; font-style: normal; font-display: swap;
+  }
+  @font-face {
+    font-family: "Neo Sans Pro";
+    src: url("fonts/NeoSansPro-Italic.otf") format("opentype");
+    font-weight: 400; font-style: italic; font-display: swap;
+  }
+  @font-face {
+    font-family: "Neo Sans Pro";
+    src: url("fonts/NeoSansPro-Medium.otf") format("opentype");
+    font-weight: 500; font-style: normal; font-display: swap;
+  }
+
+  :root {
+    --merics-red:        #E8412B;
+    --merics-red-deep:   #971418;
+    --paper:             #F6F3EC;
+    --paper-soft:        #FBF8F2;
+    --ink:               #1A1916;
+    --ink-2:             #2B2A26;
+    --graphite:          #51504A;
+    --slate:             #7A786F;
+    --rule:              #C9C4B6;
+    --rule-soft:         #E2DDCD;
+
+    --sans: "Neo Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --serif: "Source Serif Pro", Charter, "Iowan Old Style", "Georgia", "Times New Roman", serif;
+
+    /* One column. Everything aligns to these edges. */
+    --read-w: 720px;
+    --read-pad: 24px;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Base                                                                */
+  /* ------------------------------------------------------------------ */
+  *, *::before, *::after { box-sizing: border-box; }
+
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.55;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: "kern", "liga";
+  }
+  ::selection { background: var(--merics-red); color: #fff; }
+  a { color: var(--merics-red); text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; transition: color .12s ease; }
+  a:hover { color: var(--merics-red-deep); }
+  a:visited { color: var(--merics-red-deep); }
+
+  /* ------------------------------------------------------------------ */
+  /* Masthead                                                            */
+  /* ------------------------------------------------------------------ */
+  .topbar {
+    border-bottom: 1px solid var(--rule);
+    background: var(--paper);
+    position: sticky; top: 0; z-index: 30;
+    backdrop-filter: saturate(140%) blur(6px);
+  }
+  .topbar-inner {
+    max-width: var(--read-w);
+    margin: 0 auto;
+    padding: 0 var(--read-pad);
+    display: flex; align-items: center; gap: 14px;
+    height: 56px;
+    font-family: var(--sans);
+  }
+  .brand {
+    display: flex; align-items: center; gap: 8px;
+    font-weight: 500; font-size: 11px;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+    flex: 0 0 auto;
+  }
+  .brand-mark {
+    width: 6px; height: 12px;
+    background: var(--merics-red);
+    display: inline-block;
+    transform: skewX(-12deg);
+  }
+  .brand .name { white-space: nowrap; }
+
+  /* Week switcher — lives in the topbar now */
+  .week-switcher {
+    position: relative;
+    flex: 1 1 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 0;
+  }
+  .week-title {
+    font-family: var(--sans);
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--ink);
+    letter-spacing: 0;
+    line-height: 1;
+    white-space: nowrap;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: baseline;
+    margin: 0;
+    transition: color .12s ease;
+  }
+  .week-title em {
+    font-style: normal;
+    color: var(--merics-red);
+    font-weight: 500;
+    margin: 0 2px;
+  }
+  .week-switcher .chev {
+    color: var(--graphite);
+    font-size: 0.55em;
+    margin-left: 6px;
+    transition: color .12s ease;
+  }
+  .week-switcher:hover .chev { color: var(--merics-red); }
+  .week-switcher:hover .week-title { color: var(--merics-red-deep); }
+  .week-select {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  .topbar-actions {
+    flex: 0 0 auto;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .pdf-link {
+    font-family: var(--sans);
+    font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase;
+    font-weight: 500;
+    color: var(--ink);
+    text-decoration: none;
+    padding: 6px 10px;
+    border: 1px solid var(--ink);
+    background: transparent;
+    transition: background .12s ease, color .12s ease;
+    white-space: nowrap;
+  }
+  .pdf-link:hover { background: var(--ink); color: var(--paper); }
+  @media (max-width: 420px) { .pdf-link .full { display: none; } }
+  @media (min-width: 421px) { .pdf-link .short { display: none; } }
+  .icon-btn {
+    cursor: pointer;
+    padding: 6px;
+    width: 28px; height: 28px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .icon-btn:hover { background: var(--ink); color: var(--paper); }
+  .sr-only {
+    position: absolute; width: 1px; height: 1px;
+    padding: 0; margin: -1px; overflow: hidden;
+    clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Search modal                                                        */
+  /* ------------------------------------------------------------------ */
+  .search-modal[hidden] { display: none; }
+  .search-modal {
+    position: fixed; inset: 0;
+    z-index: 100;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 80px 16px 16px;
+  }
+  .search-backdrop {
+    position: absolute; inset: 0;
+    background: rgba(26, 25, 22, 0.55);
+    backdrop-filter: blur(2px);
+  }
+  .search-panel {
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    max-height: calc(100vh - 120px);
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    box-shadow: var(--shadow-3, 0 24px 64px rgba(0,0,0,.2));
+    display: flex;
+    flex-direction: column;
+    font-family: var(--sans);
+  }
+  .search-head {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .search-icon { flex: 0 0 auto; color: var(--graphite); }
+  #searchInput {
+    flex: 1 1 auto;
+    appearance: none;
+    -webkit-appearance: none;
+    border: 0;
+    background: transparent;
+    outline: none;
+    font-family: var(--serif);
+    font-size: 18px;
+    line-height: 1.4;
+    color: var(--ink);
+    padding: 4px 0;
+    min-width: 0;
+  }
+  #searchInput::placeholder { color: var(--slate); }
+  .search-close {
+    flex: 0 0 auto;
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: 1px solid var(--rule);
+    padding: 4px;
+    width: 26px; height: 26px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--graphite);
+    cursor: pointer;
+    transition: background .12s ease, color .12s ease, border-color .12s ease;
+  }
+  .search-close:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .search-results {
+    flex: 1 1 auto;
+    overflow-y: auto;
+    padding: 8px 0;
+  }
+  .search-hint, .search-empty {
+    padding: 24px 20px;
+    color: var(--slate);
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0.02em;
+  }
+  .search-result {
+    display: grid;
+    grid-template-columns: 22px 1fr;
+    column-gap: 12px;
+    row-gap: 4px;
+    padding: 10px 16px;
+    border: 0;
+    border-left: 3px solid transparent;
+    border-bottom: 1px solid var(--rule-soft);
+    background: transparent;
+    text-align: left;
+    cursor: pointer;
+    width: 100%;
+    transition: background .1s ease, border-color .1s ease;
+  }
+  .search-result:hover, .search-result.is-active {
+    background: var(--paper-soft);
+    border-left-color: var(--merics-red);
+  }
+  .search-result .outlet-badge { grid-row: 1 / span 2; }
+  .search-result .sr-meta {
+    grid-column: 2;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: baseline;
+    font-size: 11px;
+    color: var(--graphite);
+    letter-spacing: 0.04em;
+  }
+  .search-result .sr-week {
+    font-weight: 500;
+    color: var(--merics-red);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .search-result .sr-crumb { color: var(--slate); }
+  .search-result .sr-outlet {
+    font-weight: 500;
+    color: var(--ink);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .search-result .sr-text {
+    grid-column: 2;
+    font-family: var(--serif);
+    font-size: 14px;
+    line-height: 1.45;
+    color: var(--ink-2);
+    text-wrap: pretty;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .search-result mark {
+    background: rgba(232, 65, 43, 0.18);
+    color: inherit;
+    font-weight: 600;
+    padding: 0 1px;
+  }
+  .search-foot {
+    display: flex;
+    gap: 14px;
+    padding: 8px 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 11px;
+    color: var(--slate);
+    letter-spacing: 0.04em;
+  }
+  .search-foot kbd {
+    font-family: var(--mono, monospace);
+    font-size: 10px;
+    background: var(--paper-soft);
+    border: 1px solid var(--rule);
+    padding: 1px 5px;
+    margin-right: 3px;
+  }
+  @media (max-width: 540px) {
+    .search-modal { padding: 60px 8px 8px; }
+    .search-foot { display: none; }
+    #searchInput { font-size: 16px; }
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* (Issue header was removed — week info now lives in the topbar.)     */
+  /* ------------------------------------------------------------------ */
+
+  /* ------------------------------------------------------------------ */
+  /* Tabs                                                                */
+  /* ------------------------------------------------------------------ */
+  #nav {
+    position: sticky;
+    top: 56px; /* below the topbar */
+    z-index: 20;
+    background: var(--paper);
+  }
+  .tabs {
+    max-width: var(--read-w);
+    margin: 0 auto;
+    padding: 0 var(--read-pad);
+  }
+  .tabs-primary {
+    display: flex;
+    gap: 0;
+    border-bottom: 1px solid var(--rule);
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    margin: 0;
+  }
+  .tabs-primary::-webkit-scrollbar { display: none; }
+  .tab-btn {
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: 0;
+    padding: 14px 14px 12px;
+    margin: 0;
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--graphite);
+    cursor: pointer;
+    position: relative;
+    white-space: nowrap;
+    transition: color .12s ease;
+  }
+  .tab-btn:first-child { padding-left: 0; }
+  .tab-btn + .tab-btn { padding-left: 16px; }
+  .tab-btn:hover { color: var(--ink); }
+  .tab-btn .tab-num { color: var(--merics-red); margin-right: 6px; font-weight: 500; }
+  .tab-btn.is-active { color: var(--ink); }
+  .tab-btn.is-active::after {
+    content: "";
+    position: absolute;
+    left: 0; right: 0;
+    bottom: -1px;
+    height: 2px;
+    background: var(--merics-red);
+  }
+  .tab-btn:first-child.is-active::after { left: 0; }
+
+  .tabs-sub {
+    display: none;
+    gap: 0;
+    padding: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  .tabs-sub.is-open { display: flex; }
+  .tabs-sub::-webkit-scrollbar { display: none; }
+  .chip {
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 12px 14px 10px;
+    margin: 0;
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    color: var(--graphite);
+    cursor: pointer;
+    white-space: nowrap;
+    position: relative;
+    transition: color .12s ease;
+  }
+  .chip:first-child { padding-left: 0; }
+  .chip:hover { color: var(--ink); }
+  .chip.is-active { color: var(--ink); }
+  .chip.is-active::after {
+    content: "";
+    position: absolute;
+    left: 0; right: 0;
+    bottom: -1px;
+    height: 2px;
+    background: var(--merics-red);
+  }
+  @media (max-width: 540px) {
+    .tab-btn { padding: 14px 12px 12px; font-size: 12px; }
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Compact one-line note style — used for German Lens etc. that mirror
+     the PDF's terse context tickers. */
+  .entry-note {
+    padding: 16px 0 6px;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  .entry-note:last-child { border-bottom: 0; }
+  .entry-note .entry-meta { margin-bottom: 8px; }
+  .entry-note-text {
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.5;
+    color: var(--ink-2);
+    margin: 0 0 6px;
+    text-wrap: pretty;
+  }
+  @media (max-width: 640px) {
+    .entry-note-text { font-size: 16px; }
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Top Charts                                                           */
+  /* ------------------------------------------------------------------ */
+  .charts-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+    margin-top: 16px;
+  }
+  .chart {
+    margin: 0;
+    background: var(--bg-1);
+    border: 1px solid var(--rule-soft);
+    padding: 10px;
+  }
+  .chart img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .chart figcaption {
+    margin-top: 8px;
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--slate);
+    letter-spacing: 0.02em;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Wochenbericht (German media review)                                 */
+  /* ------------------------------------------------------------------ */
+  .wb-caveat {
+    font-family: var(--serif);
+    font-style: italic;
+    color: var(--graphite);
+    font-size: 14px;
+    margin: 0 0 8px;
+    padding: 12px 14px;
+    background: rgba(232, 65, 43, 0.06);
+    border-left: 3px solid var(--merics-red);
+  }
+  .wb-item { padding: 20px 0 6px; border-bottom: 1px solid var(--rule-soft); }
+  .wb-item:last-child { border-bottom: 0; }
+  .wb-text {
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.55;
+    color: var(--ink-2);
+    margin: 0 0 8px;
+    text-wrap: pretty;
+  }
+  .wb-text strong { color: var(--ink); font-weight: 600; }
+  .wb-source {
+    font-family: var(--sans);
+    font-size: 12px;
+    color: var(--slate);
+    margin: 0;
+    letter-spacing: 0.02em;
+  }
+  .wb-theme {
+    padding: 28px 0 12px;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  .wb-theme:last-child { border-bottom: 0; }
+  .wb-theme-title {
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 19px;
+    color: var(--merics-red-deep);
+    line-height: 1.3;
+    margin: 0 0 12px;
+    text-wrap: balance;
+  }
+  .wb-theme-text {
+    font-family: var(--serif);
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--ink-2);
+    margin: 0 0 16px;
+    text-wrap: pretty;
+  }
+  .wb-theme-prom {
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--graphite);
+    margin: 0 0 10px;
+    padding-bottom: 6px;
+    border-bottom: 1px dashed var(--rule-soft);
+  }
+  .wb-theme-sources { list-style: none; padding: 0; margin: 0; }
+  .wb-theme-source {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin: 0 0 8px;
+    font-family: var(--sans);
+    color: var(--graphite);
+  }
+  .wb-theme-source .outlet-badge { width: 18px; height: 18px; font-size: 9px; transform: translateY(2px); }
+  .wb-theme-source-meta {
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    color: var(--ink);
+    text-transform: uppercase;
+    font-size: 11px;
+  }
+  .wb-theme-source-title {
+    color: var(--graphite);
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 13px;
+  }
+  @media (max-width: 640px) {
+    .wb-text { font-size: 16px; }
+    .wb-theme-title { font-size: 17px; }
+    .wb-theme-text { font-size: 15px; }
+  }
+
+  /* Outlet badge                                                        */
+  /* ------------------------------------------------------------------ */
+  .outlet-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 0;
+    flex: 0 0 auto;
+    user-select: none;
+    overflow: hidden;
+  }
+  .outlet-badge.has-img { background: var(--paper-soft); }
+  .outlet-badge img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+  }
+
+  .dateline {
+    /* Unused now — kept here in case prior styles referenced it. */
+    display: none;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Reading column                                                      */
+  /* ------------------------------------------------------------------ */
+  main {
+    max-width: var(--read-w);
+    margin: 0 auto;
+    padding: 24px var(--read-pad) 96px;
+  }
+
+  /* H2: section heading */
+  .section {
+    margin-top: 32px;
+    scroll-margin-top: 100px;
+  }
+  .section:first-child { margin-top: 16px; }
+  .section-h {
+    display: flex; align-items: baseline; gap: 10px;
+    margin: 0 0 6px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  .section-h .num {
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 22px;
+    color: var(--merics-red);
+    letter-spacing: -0.005em;
+    line-height: 1;
+  }
+  .section-h .label {
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: -0.005em;
+    line-height: 1.15;
+    color: var(--ink);
+    margin: 0;
+    text-wrap: balance;
+  }
+  .section-note {
+    font-family: var(--serif);
+    font-style: italic;
+    color: var(--graphite);
+    font-size: 16px;
+    margin: 14px 0 6px;
+    line-height: 1.5;
+  }
+  .section-intro {
+    font-family: var(--serif);
+    color: var(--ink-2);
+    font-size: 18px;
+    line-height: 1.55;
+    margin: 14px 0 8px;
+  }
+
+  .group {
+    margin-top: 20px;
+  }
+  .group-label {
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--graphite);
+    margin: 0 0 4px;
+    padding: 0;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Article entries                                                     */
+  /* ------------------------------------------------------------------ */
+  .entry {
+    padding: 22px 0 4px;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  .entry:last-child { border-bottom: 0; }
+
+  /* Entry meta row (badge + outlet + date) */
+  .entry-head {
+    margin: 0 0 12px;
+    font-family: var(--serif);
+    line-height: 1.35;
+    text-wrap: pretty;
+  }
+  .entry-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .entry-outlet {
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+  .entry-sep {
+    font-family: var(--sans);
+    color: var(--rule);
+    margin: 0 8px;
+    font-size: 12px;
+    vertical-align: 1px;
+  }
+  .entry-date {
+    font-family: var(--sans);
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    color: var(--slate);
+    text-transform: uppercase;
+  }
+  .entry-title {
+    display: block;
+    font-family: var(--serif);
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 6px 0 0;
+    color: var(--ink);
+    letter-spacing: -0.005em;
+    text-wrap: balance;
+  }
+  .entry-title-link {
+    color: inherit;
+    text-decoration: none;
+    background-image: linear-gradient(var(--ink), var(--ink));
+    background-size: 0% 1px;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    transition: background-size .2s ease, color .12s ease;
+  }
+  .entry-title-link:hover {
+    color: var(--merics-red-deep);
+    background-image: linear-gradient(var(--merics-red-deep), var(--merics-red-deep));
+    background-size: 100% 1px;
+  }
+  .entry-title .arrow {
+    color: var(--merics-red);
+    font-family: var(--sans);
+    font-weight: 400;
+    margin-left: 4px;
+    font-size: 0.85em;
+  }
+
+  .bullets {
+    list-style: none;
+    margin: 0 0 14px;
+    padding: 0;
+  }
+  .bullets li {
+    position: relative;
+    padding-left: 22px;
+    margin: 0 0 10px;
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.55;
+    color: var(--ink-2);
+    text-wrap: pretty;
+  }
+  .bullets li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+    width: 10px;
+    height: 1px;
+    background: var(--merics-red);
+  }
+  .bullets li b, .bullets li strong {
+    color: var(--ink);
+    font-weight: 600;
+  }
+
+  /* Empty state */
+  .empty-state {
+    margin: 64px 0;
+    padding: 24px 0;
+    text-align: center;
+    font-family: var(--sans);
+    font-size: 14px;
+    color: var(--slate);
+    letter-spacing: 0.04em;
+    border-top: 1px dashed var(--rule);
+    border-bottom: 1px dashed var(--rule);
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Footer                                                              */
+  /* ------------------------------------------------------------------ */
+  footer.foot {
+    max-width: var(--read-w);
+    margin: 0 auto;
+    padding: 56px var(--read-pad) 64px;
+    border-top: 1px solid var(--rule);
+    font-family: var(--sans);
+    font-size: 12px;
+    letter-spacing: 0.04em;
+    color: var(--slate);
+  }
+  footer.foot a { color: var(--graphite); }
+  .foot-meta { color: var(--graphite); margin: 0 0 6px; }
+  .foot-meta .sep { color: var(--rule); margin: 0 6px; }
+  .foot-note { color: var(--slate); }
+
+  /* ------------------------------------------------------------------ */
+  /* ------------------------------------------------------------------ */
+  /* Responsive: phone tightening                                        */
+  /* ------------------------------------------------------------------ */
+  @media (max-width: 640px) {
+    :root { --read-pad: 18px; }
+    body { font-size: 16px; }
+    .topbar-inner { height: 50px; gap: 10px; padding: 0 var(--read-pad); }
+    .brand .name { font-size: 10px; letter-spacing: 0.08em; }
+    .pdf-link { padding: 5px 8px; font-size: 10px; letter-spacing: 0.06em; }
+    .week-title { font-size: 16px; }
+
+    #nav { top: 50px; }
+    .tab-btn { padding: 12px 10px 10px; font-size: 11px; letter-spacing: 0.06em; }
+    .tab-btn .tab-num { margin-right: 4px; }
+    /* Mobile: use short labels on all tabs so the row never scrolls horizontally. */
+    .tab-label-long { display: none; }
+    .tab-label-short { display: inline; }
+    .tabs-sub { padding: 0; }
+    .chip { padding: 10px 10px 8px; font-size: 11px; }
+    .chip:first-child { padding-left: 0; }
+
+    .section { margin-top: 36px; scroll-margin-top: 130px; }
+    .section-h .num, .section-h .label { font-size: 19px; }
+    .section-intro { font-size: 16px; }
+    .group { margin-top: 22px; }
+
+    .entry { padding: 18px 0 4px; }
+    .entry-title { font-size: 18px; line-height: 1.28; }
+    .bullets li { font-size: 16px; padding-left: 18px; }
+    .bullets li::before { width: 8px; }
+    .outlet-badge { width: 20px; height: 20px; font-size: 9px; }
+    .entry-meta { gap: 6px; }
+    .entry-outlet { font-size: 11px; letter-spacing: 0.1em; }
+    .entry-date { font-size: 11px; }
+  }
+
+  @media (max-width: 420px) {
+    :root { --read-pad: 14px; }
+    .brand .name { display: none; }
+    .week-title { font-size: 15px; }
+  }
+  /* Default: show long labels, hide short ones. */
+  .tab-label-short { display: none; }
+
+  /* Scroll fade hint only on the sub-chip row (which may overflow on mobile). */
+  .tabs-sub {
+    -webkit-mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), transparent 100%);
+            mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 22px), transparent 100%);
+  }
+  /* ------------------------------------------------------------------ */
+  /* Skeleton loading state                                              */
+  /* ------------------------------------------------------------------ */
+  .skeleton .entry-title,
+  .skeleton .bullets li {
+    color: transparent !important;
+    background: linear-gradient(90deg, var(--rule-soft), #efeadf, var(--rule-soft));
+    background-size: 200% 100%;
+    animation: shimmer 1.4s linear infinite;
+  }
+  @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+  /* Reduce-motion */
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+
+  /* Print: clean issue paper */
+  @media print {
+    .topbar, footer.foot, .pdf-link { display: none !important; }
+    body { background: white; }
+    main, .issue-header { max-width: none; padding: 0; }
+  }
+</style>
+
+</head>
+<body>
+
+  <!-- ============================ TOP BAR =============================== -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#" aria-label="MH at MERICS">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="name">MH<span style="color:var(--merics-red)">@</span>MERICS</span>
+      </a>
+
+      <div class="week-switcher" aria-label="Choose a week">
+        <span class="week-title" id="weekTitle">Week <em>19</em> &middot; 2026<span class="chev">&#9662;</span></span>
+        <select id="weekSelect" class="week-select" aria-label="Choose a week"></select>
+      </div>
+
+      <div class="topbar-actions">
+        <button id="searchBtn" class="pdf-link icon-btn" type="button" aria-label="Search the archive" aria-haspopup="dialog">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <span class="sr-only">Search</span>
+        </button>
+        <a id="pdfLink" class="pdf-link" href="#" target="_blank" rel="noopener" aria-label="Download issue as PDF">
+          <span class="full">Download PDF &darr;</span>
+          <span class="short">PDF &darr;</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================== NAV ================================== -->
+  <div id="nav"><!-- injected --></div>
+
+  <!-- ============================== MAIN ================================= -->
+  <main id="content" aria-live="polite">
+    <!-- rendered -->
+  </main>
+
+  <footer class="foot">
+    <div class="foot-meta" id="footerMeta"><!-- injected --></div>
+    <div class="foot-note">Personal weekly brief. Not for redistribution.</div>
+  </footer>
+
+  <!-- =========================== SEARCH MODAL ============================ -->
+  <div id="searchModal" class="search-modal" hidden role="dialog" aria-modal="true" aria-labelledby="searchTitle">
+    <div class="search-backdrop" data-search-close></div>
+    <div class="search-panel">
+      <header class="search-head">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="searchInput" type="search" placeholder="Search the archive… (titles, outlets, content)" aria-label="Search the archive" autocomplete="off" spellcheck="false" />
+        <button type="button" class="search-close" data-search-close aria-label="Close search">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><line x1="6" y1="6" x2="18" y2="18"/><line x1="6" y1="18" x2="18" y2="6"/></svg>
+        </button>
+      </header>
+      <div id="searchResults" class="search-results" role="listbox" aria-label="Search results"></div>
+      <footer class="search-foot">
+        <span><kbd>Esc</kbd> close</span>
+        <span><kbd>↑</kbd> <kbd>↓</kbd> navigate</span>
+        <span><kbd>↵</kbd> open</span>
+      </footer>
+    </div>
+  </div>
+
+  <!-- ============================ DATA + RENDER ========================== -->
+  <script src="data/W19-2026-wochenbericht.js"></script>
+  <script src="data/W19-2026.js"></script>
+  <script src="data/W16-2026.js"></script>
+  <script src="outlets.js"></script>
+  <script src="render.js"></script>
+  <script src="search.js"></script>
+</body>
+</html>
