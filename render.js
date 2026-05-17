@@ -22,7 +22,7 @@
     { id: "highlights", num: "I",   label: "Highlights",       short: "Highlights" },
     { id: "research",   num: "II",  label: "MERICS",           short: "MERICS" },
     { id: "intl",       num: "III", label: "International",    short: "Intl." },
-    { id: "lens",       num: "IV",  label: "German lens",      short: "Lens" },
+    { id: "lens",       num: "IV",  label: "German lens",      short: "GER Lens" },
   ];
   const SUB_ORDER = ["debates", "econ", "domestic", "tech", "trade", "foreign", "responses"];
   const SUB_LABELS = {
