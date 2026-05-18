@@ -7,6 +7,13 @@ search, and per-issue PDF links.
 
 ---
 
+## Hosting
+
+- **`main` branch** → deployed to https://mh-weekly.pages.dev/ via Cloudflare Pages, gated by Cloudflare Access (Email OTP, allowlist from `.w20_bcc.json`).
+- **`redirect-stub` branch** → deployed to https://mikko-huotari.github.io/mh-weekly/ via GitHub Pages. Contains only a tiny `index.html` that 302s to `mh-weekly.pages.dev` (preserves `#W…` hash). Keeps the old sent URLs alive.
+
+Do not merge `redirect-stub` into `main`. It exists only so the legacy GH Pages URL keeps working without serving the archive content publicly.
+
 ## Repo layout
 
 ```
