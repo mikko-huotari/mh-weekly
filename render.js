@@ -208,13 +208,20 @@
   const filtered = (items) => (items || []).filter(entryPassesFilter);
 
   // -------- block renderers -------------------------------------------------
-  // Spotlight items are note-style commentary (no outlet/url meta) — render as
-  // a real bulleted list rather than a stack of horizontal-rule "entry cards".
-  function renderSpotlightBullets(items) {
-    const notes = (items || []).filter(it => it && it.note);
-    if (!notes.length) return "";
-    const lis = notes.map(it => `<li>${inlineMd(it.note)}</li>`).join("");
-    return `<ul class="spotlight-bullets">${lis}</ul>`;
+  // Spotlight items come in two shapes:
+  //  - note-style commentary (W20 style): render as a real bulleted list.
+  //  - byline items with outlet/title/bullets (W19 style): render through
+  //    the regular entry-card pipeline so the outlet badge, title link and
+  //    bullets all show.
+  function renderSpotlightItems(items) {
+    const list = (items || []).filter(it => it);
+    if (!list.length) return "";
+    const allNotes = list.every(it => it.note && !it.title && !it.bullets);
+    if (allNotes) {
+      const lis = list.map(it => `<li>${inlineMd(it.note)}</li>`).join("");
+      return `<ul class="spotlight-bullets">${lis}</ul>`;
+    }
+    return list.map(renderEntry).join("");
   }
   function renderSpotlight(s) {
     if (!s) return "";
@@ -226,7 +233,7 @@
       <div class="spotlight-sub">
         <h3 class="spotlight-sub-h">${esc(sub.label)}</h3>
         ${sub.intro ? `<p class="section-intro">${inlineMd(sub.intro)}</p>` : ""}
-        ${renderSpotlightBullets(subItems)}
+        ${renderSpotlightItems(subItems)}
       </div>`;
     }).join("");
     if (!items.length && !subs.trim() && activeFilters.size) return "";
@@ -236,7 +243,7 @@
           <h2 class="label">${esc(s.title || "Spotlight")}</h2>
         </header>
         ${s.intro ? `<p class="section-intro">${inlineMd(s.intro)}</p>` : ""}
-        ${renderSpotlightBullets(items)}
+        ${renderSpotlightItems(items)}
         ${subs}
       </section>`;
   }
