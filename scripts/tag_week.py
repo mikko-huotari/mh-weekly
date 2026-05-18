@@ -37,6 +37,11 @@ RULES: list[tuple[str, list[str]]] = [
         ["india-cn"]),
     (r"\btaiwan\b|\btsmc\b|\bipac\b|\bcross-strait\b|\btaipei\b|lai ching-te",
         ["twn"]),
+    (r"\bhong[- ]?kong\b|\bhkma\b|\bnsl\b|article 23|\bhkfp\b",
+        ["hk"]),
+    (r"\bbritain\b|\bbritish\b|\bunited kingdom\b|\buk\b|downing street|"
+     r"\bstarmer\b|\bsunak\b|whitehall|british steel",
+        ["uk-cn"]),
     (r"\biran\b|\bhormuz\b|\btehran\b|\bmiddle east\b|\bmiddle-east\b|\bisrael\b|\bgaza\b",
         ["mid-east"]),
     (r"\brussia\b|\brussian\b|\bputin\b|\bkremlin\b|moscow|ru-cn",
@@ -49,6 +54,10 @@ RULES: list[tuple[str, list[str]]] = [
     (r"\bafrica\b|\bafrican\b|\bnigeria\b|\bkenya\b|\bsouth africa\b|\bzimbabwe\b|"
      r"\bmadagascar\b",
         ["afr"]),
+    (r"\bsco\b|shanghai cooperation organi[sz]ation",
+        ["sco"]),
+    (r"\bbrics\b|brics summit|brics\+",
+        ["brics"]),
 
     # ---- Sectors / tech ----
     (r"\bchip\b|\bchips\b|semiconductor|\bsemcon\b|\bsemi\b|\basml\b|\btsmc\b|\bnvidia\b|"
@@ -92,6 +101,9 @@ RULES: list[tuple[str, list[str]]] = [
         ["security"]),
     (r"\bclimate\b|\bcarbon\b|emissions|\bnet zero\b|net-zero|decarboniz|\bcop\d+\b",
         ["climate"]),
+    (r"\bipo\b|\bipos\b|\ba-shares\b|hang seng|stock market|stock exchange|\bnasdaq\b|"
+     r"\bcsi 300\b|stoxx|listed company|equit(y|ies)|\bbourse\b",
+        ["markets"]),
 
     # ---- Geoeconomics tools ----
     (r"\btariff\b|\btrade\b|\bsurplus\b|\bdeficit\b|\bimport\b|\bexport\b|\bwto\b|\btrade war\b",
@@ -109,6 +121,10 @@ RULES: list[tuple[str, list[str]]] = [
         ["supply-chain"]),
     (r"\bbri\b|belt and road|silk road|one belt one road",
         ["bri"]),
+    (r"made in china 2025|\bmic 2025\b|industrial polic|industrial subsid|"
+     r"overcapacity|state-led|state capitalism|china standards 2035|"
+     r"strategic emerging industries|industries brief",
+        ["industrial-policy"]),
 
     # ---- Defense & external ----
     (r"\bpla\b|people's liberation army|navy exercises|naval exercise|joint exercise|"
@@ -124,6 +140,12 @@ RULES: list[tuple[str, list[str]]] = [
     (r"\bmaritime\b|south china sea|east china sea|\bspratly\b|paracel|coast guard|"
      r"\bvessel|\bshipping\b",
         ["maritime"]),
+    (r"\bspy\b|\bspies\b|\bespionage\b|\bspy case\b|recruited as (an?\s+)?(spy|agent|asset)|"
+     r"intelligence officer|mss[- ]linked|undercover|\bmole\b|\bdefector\b",
+        ["espionage"]),
+    (r"\bsummit\b|state visit|bilateral meeting|head[- ]of[- ]state|\bdiplomatic\b|"
+     r"foreign minister|state council|presidential visit|\benvoy\b|prime minister visit",
+        ["diplomacy"]),
 
     # ---- Discourse ----
     (r"aisixiang|\b爱思想\b|yan xuetong|wang yi|zhou li|chinese scholars?|chinese academic|"
@@ -132,6 +154,10 @@ RULES: list[tuple[str, list[str]]] = [
     (r"\bpropaganda\b|global times|people's daily|xinhua|cctv|english.news.cn|state media|"
      r"party line",
         ["propaganda"]),
+    (r"\buyghur|\bxinjiang\b|\btibet\b|\bdissident|\bhuman rights\b|"
+     r"religious persecution|forced labor|forced labour|re-education|reeducation|"
+     r"falun gong|press freedom|political prisoner",
+        ["human-rights"]),
 ]
 
 
