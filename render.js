@@ -343,7 +343,19 @@
         <span class="entry-outlet">${esc(display)}</span>
         ${date ? `<span class="entry-sep">&middot;</span><span class="entry-date">${esc(date)}</span>` : ""}
       </div>
-      <p class="wb-text"><strong>${esc((item.lead || "").replace(/\s*\([^)]*\)\s*$/, "").trim())}</strong> ${esc(item.text || "")}</p>
+      <p class="wb-text">${(() => {
+        let lead = (item.lead || "").trim();
+        let text = item.text || "";
+        // If the lead ends with "(verb/role)", the bracket content is sentence
+        // material — unwrap it and move it to the start of the body so the
+        // bold stays just the name and the sentence reads correctly.
+        const m = lead.match(/^(.*?)\s*\(([^)]+)\)\s*$/);
+        if (m) {
+          lead = m[1].trim();
+          text = (m[2].trim() + " " + text).trim();
+        }
+        return `<strong>${esc(lead)}</strong> ${esc(text)}`;
+      })()}</p>
       ${src.title ? `<p class="wb-source">“${esc(src.title)}”</p>` : ""}
     </article>`;
   }
