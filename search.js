@@ -295,13 +295,19 @@
 
     input.addEventListener("input", (e) => renderResults(e.target.value));
 
-    input.addEventListener("keydown", (e) => {
+    // Bind keyboard nav on the *modal* (not just the input) so arrow keys
+    // still work if focus drifts to a result button (e.g. after a click +
+    // re-render). Without this, hovering a result and then trying ↓ does
+    // nothing.
+    modal.addEventListener("keydown", (e) => {
       if (e.key === "ArrowDown") {
         e.preventDefault();
-        if (lastResults.length) setActive(Math.min(activeIdx + 1, lastResults.length - 1));
+        if (lastResults.length) setActive(Math.min(Math.max(activeIdx, -1) + 1, lastResults.length - 1));
+        input.focus();
       } else if (e.key === "ArrowUp") {
         e.preventDefault();
         if (lastResults.length) setActive(Math.max(activeIdx - 1, 0));
+        input.focus();
       } else if (e.key === "Enter") {
         e.preventDefault();
         if (activeIdx >= 0) openResult(activeIdx);

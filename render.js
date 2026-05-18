@@ -11,9 +11,19 @@
 (function () {
   "use strict";
 
-  const WEEKS = [window.W20_2026, window.W19_2026, window.W18_2026]
-    .filter(Boolean)
-    .sort((a, b) => (b.year - a.year) || (b.week - a.week));
+  // Discover weeks dynamically — every `window.W<NN>_<YYYY>` global counts.
+  // search.js does the same; adding a new week now means dropping the data
+  // file + registering it in data/manifest.json, no edits here or in index.html.
+  const WEEKS = (function () {
+    const pat = /^W(\d+)_(\d{4})$/;
+    const out = [];
+    for (const key in window) {
+      if (!pat.test(key)) continue;
+      const w = window[key];
+      if (w && typeof w === "object" && w.id) out.push(w);
+    }
+    return out.sort((a, b) => (b.year - a.year) || (b.week - a.week));
+  })();
 
   if (!WEEKS.length) { console.error("No week data loaded."); return; }
 
@@ -309,12 +319,26 @@
   }
 
   // -------- Top Charts -----------------------------------------------------
+  // Render a structured supplement table (headers + rows of strings). The
+  // previous chart.supplementHtml field allowed raw HTML — replaced because
+  // a typo (or unsanitised paste) would inject untrusted markup. Old data
+  // using supplementHtml is silently ignored.
+  function renderSupplementTable(t) {
+    if (!t || !Array.isArray(t.rows) || !t.rows.length) return "";
+    const head = (t.headers || []).length
+      ? `<thead><tr>${t.headers.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>`
+      : "";
+    const body = `<tbody>${t.rows.map(r =>
+      `<tr>${(r || []).map(c => `<td>${esc(c == null ? "" : c)}</td>`).join("")}</tr>`
+    ).join("")}</tbody>`;
+    return `<div class="chart-supplement"><table class="chart-table">${head}${body}</table></div>`;
+  }
   function renderTopCharts(charts, w) {
     const items = charts.map((c, i) => `
       <figure class="chart">
         ${c.caption ? `<figcaption class="chart-caption">${inlineMd(c.caption)}</figcaption>` : ""}
         <img src="${esc(c.src)}" alt="${esc(c.alt || ('Top Chart ' + (i+1)))}" loading="lazy" />
-        ${c.supplementHtml ? `<div class="chart-supplement">${c.supplementHtml}</div>` : ""}
+        ${renderSupplementTable(c.supplementTable)}
       </figure>
     `).join("");
     return `
