@@ -185,6 +185,36 @@ def parse_numbered_section(text: str, number: str) -> dict | None:
 # Context section (German China policy in context)
 # ---------------------------------------------------------------------------
 
+def _rewrite_bold_link_lead(match: "re.Match[str]") -> str:
+    """Rewrite `**Title** ([Outlet](url){tail})` so the bold headline carries the
+    link and the redundant outlet name (already shown as a badge) is dropped.
+    Any additional content after the outlet (e.g. "praise by [Global Times](url2)")
+    is preserved inside parens."""
+    title = match.group(1)
+    url = match.group(3)
+    tail = match.group(4).lstrip(",").strip()
+    if tail:
+        return f"**[{title}]({url})** ({tail})"
+    return f"**[{title}]({url})**"
+
+
+def _context_item_from_line(raw_line: str) -> dict:
+    line = raw_line.strip()[2:].strip()  # drop leading '- '
+    link = INLINE_LINK_RE.search(line)
+    if not link:
+        return {"outlet": "", "date": "", "url": "", "note": line}
+    text_part = link.group("text")
+    url = link.group("url")
+    outlet = text_part.split("|")[-1].strip() if "|" in text_part else text_part.split("—")[-1].strip() or text_part
+    note = line.strip(" -—")
+    note = re.sub(
+        r"\*\*([^*]+?)\*\*\s+\(\[([^\]]+)\]\((https?://[^)\s]+)\)((?:[^()]|\([^)]*\))*)\)",
+        _rewrite_bold_link_lead,
+        note, count=1,
+    )
+    return {"outlet": outlet[:40], "date": "", "url": url, "note": note}
+
+
 def parse_context_section(text: str) -> dict | None:
     pat = re.compile(r"^##\s+German China policy in context\s*$", re.MULTILINE)
     m = pat.search(text)
@@ -195,36 +225,33 @@ def parse_context_section(text: str) -> dict | None:
     end = start + nxt.start() if nxt else len(text)
     body = text[start:end].strip()
 
-    items = []
-    for line in body.splitlines():
-        line = line.strip()
-        if not line.startswith("- "):
-            continue
-        line = line[2:].strip()
-        link = INLINE_LINK_RE.search(line)
-        if link:
-            text_part = link.group("text")
-            url = link.group("url")
-            outlet = text_part.split("|")[-1].strip() if "|" in text_part else text_part.split("—")[-1].strip() or text_part
-            note = line.strip(" -—")
-            # If the bullet looks like `**Title** ([Outlet](url)) ...`, rewrite as
-            # `**[Title](url)** (Outlet) ...` so inlineMd produces a bold+linked
-            # headline instead of a tiny clickable "(Outlet)" at the end.
-            note = re.sub(
-                # Tail captures the rest of the outer parens (handles e.g.
-                # `([ZDF](url), praise by [Global Times](url2))` by allowing one
-                # level of nested `(...)` inside the trailing content).
-                r"\*\*([^*]+?)\*\*\s+\(\[([^\]]+)\]\((https?://[^)\s]+)\)((?:[^()]|\([^)]*\))*)\)",
-                r"**[\1](\3)** (\2\4)",
-                note, count=1,
-            )
-            items.append({"outlet": outlet[:40], "date": "", "url": url, "note": note})
-        else:
-            items.append({"outlet": "", "date": "", "url": "", "note": line})
+    # Honor `### Subgroup` headings if present (e.g. GER / EU / G7); otherwise
+    # fall back to a single ungrouped list.
+    h3_iter = list(re.finditer(r"^###\s+(.+?)\s*$", body, re.MULTILINE))
+    if h3_iter:
+        groups = []
+        for i, h in enumerate(h3_iter):
+            label = h.group(1).strip()
+            sub_start = h.end()
+            sub_end = h3_iter[i + 1].start() if i + 1 < len(h3_iter) else len(body)
+            sub_items = [
+                _context_item_from_line(line)
+                for line in body[sub_start:sub_end].splitlines()
+                if line.strip().startswith("- ")
+            ]
+            if sub_items:
+                groups.append({"label": label, "items": sub_items})
+    else:
+        items = [
+            _context_item_from_line(line)
+            for line in body.splitlines()
+            if line.strip().startswith("- ")
+        ]
+        groups = [{"label": "", "items": items}]
 
     return {
         "label": "German China policy in context",
-        "groups": [{"label": "All", "items": items}],
+        "groups": groups,
     }
 
 
@@ -388,6 +415,17 @@ def parse_spotlight_section(text: str) -> dict:
     end = start + nxt.start() if nxt else len(text)
     body = text[start:end]
 
+    # Split off the trailing `Sources:` block (sits inside the Spotlight section
+    # but is a flat link list, not part of any H3 sub-section).
+    sources_items: list[dict] = []
+    sources_m = re.search(r"^Sources?:\s*$", body, re.MULTILINE)
+    if sources_m:
+        for line in body[sources_m.end():].splitlines():
+            ls = line.strip()
+            if ls.startswith("- "):
+                sources_items.append({"note": ls[2:].strip()})
+        body = body[:sources_m.start()]
+
     h3_iter = list(re.finditer(r"^###\s+(.+?)\s*$", body, re.MULTILINE))
     top_end = h3_iter[0].start() if h3_iter else len(body)
     intro_parts, items = _split_spotlight_subsection(body[:top_end])
@@ -402,6 +440,13 @@ def parse_spotlight_section(text: str) -> dict:
             "label": label,
             "intro": " ".join(sub_intro).strip(),
             "items": sub_items,
+        })
+
+    if sources_items:
+        subsections.append({
+            "label": "Selected sources",
+            "intro": "",
+            "items": sources_items,
         })
 
     return {

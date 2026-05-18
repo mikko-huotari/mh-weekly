@@ -244,9 +244,10 @@
     const groups = (sec.groups || []).map(g => {
       const items = filtered(g.items);
       if (!items.length) return "";
+      const label = (g.label || "").trim();
       return `
       <div class="group">
-        <h3 class="group-label">${esc(g.label)}</h3>
+        ${label ? `<h3 class="group-label">${esc(label)}</h3>` : ""}
         ${items.map(renderEntry).join("")}
       </div>`;
     }).join("");
