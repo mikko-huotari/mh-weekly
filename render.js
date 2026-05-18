@@ -208,6 +208,14 @@
   const filtered = (items) => (items || []).filter(entryPassesFilter);
 
   // -------- block renderers -------------------------------------------------
+  // Spotlight items are note-style commentary (no outlet/url meta) — render as
+  // a real bulleted list rather than a stack of horizontal-rule "entry cards".
+  function renderSpotlightBullets(items) {
+    const notes = (items || []).filter(it => it && it.note);
+    if (!notes.length) return "";
+    const lis = notes.map(it => `<li>${inlineMd(it.note)}</li>`).join("");
+    return `<ul class="spotlight-bullets">${lis}</ul>`;
+  }
   function renderSpotlight(s) {
     if (!s) return "";
     const items = filtered(s.items);
@@ -218,7 +226,7 @@
       <div class="spotlight-sub">
         <h3 class="spotlight-sub-h">${esc(sub.label)}</h3>
         ${sub.intro ? `<p class="section-intro">${inlineMd(sub.intro)}</p>` : ""}
-        ${subItems.map(renderEntry).join("")}
+        ${renderSpotlightBullets(subItems)}
       </div>`;
     }).join("");
     if (!items.length && !subs.trim() && activeFilters.size) return "";
@@ -228,7 +236,7 @@
           <h2 class="label">${esc(s.title || "Spotlight")}</h2>
         </header>
         ${s.intro ? `<p class="section-intro">${inlineMd(s.intro)}</p>` : ""}
-        ${items.map(renderEntry).join("")}
+        ${renderSpotlightBullets(items)}
         ${subs}
       </section>`;
   }
