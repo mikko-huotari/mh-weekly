@@ -206,9 +206,18 @@ def parse_context_section(text: str) -> dict | None:
             text_part = link.group("text")
             url = link.group("url")
             outlet = text_part.split("|")[-1].strip() if "|" in text_part else text_part.split("—")[-1].strip() or text_part
-            # Keep the `[text](url)` markdown in the note so inlineMd renders it
-            # as a clickable link. Just strip any leading separator from the bullet.
             note = line.strip(" -—")
+            # If the bullet looks like `**Title** ([Outlet](url)) ...`, rewrite as
+            # `**[Title](url)** (Outlet) ...` so inlineMd produces a bold+linked
+            # headline instead of a tiny clickable "(Outlet)" at the end.
+            note = re.sub(
+                # Tail captures the rest of the outer parens (handles e.g.
+                # `([ZDF](url), praise by [Global Times](url2))` by allowing one
+                # level of nested `(...)` inside the trailing content).
+                r"\*\*([^*]+?)\*\*\s+\(\[([^\]]+)\]\((https?://[^)\s]+)\)((?:[^()]|\([^)]*\))*)\)",
+                r"**[\1](\3)** (\2\4)",
+                note, count=1,
+            )
             items.append({"outlet": outlet[:40], "date": "", "url": url, "note": note})
         else:
             items.append({"outlet": "", "date": "", "url": "", "note": line})
@@ -291,10 +300,11 @@ def _parse_part_ii_new_schema(text: str) -> dict | None:
                 link = INLINE_LINK_RE.search(content)
                 url = link.group("url") if link else ""
                 outlet = (link.group("text") if link else "MERICS")[:40]
-                note = INLINE_LINK_RE.sub(lambda mm: mm.group("text"), content)
+                # Keep `[text](url)` markdown so inlineMd renders each outlet
+                # name as its own clickable link in the rendered bullet.
                 items.append({
                     "outlet": outlet, "title": "", "date": "", "url": url,
-                    "bullets": [["", note]],
+                    "bullets": [["", content]],
                 })
         if items:
             groups.append({"label": label, "items": items})
