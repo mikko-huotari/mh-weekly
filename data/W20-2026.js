@@ -2116,31 +2116,38 @@ window.W20_2026 = {
   "topCharts": [
     {
       "src": "assets/charts/W20-2026-chart-1.png",
-      "alt": "2026 Conference on EU-China Relations – panel in Beijing, 12 May 2026"
+      "alt": "2026 Conference on EU-China Relations – panel in Beijing, 12 May 2026",
+      "caption": "**2026 Conference on EU-China Relations – Navigating Beyond the Inflection Point**, Beijing, 12 May 2026. Bernhard Bartsch moderated the main panel."
     },
     {
       "src": "https://merics.org/sites/default/files/2026-05/Beijing%20ties%20career%20prospects%20of%20officials%20to%20carbon%20reduction_0.png",
-      "alt": "Beijing ties career prospects of officials to carbon reduction"
+      "alt": "Beijing ties career prospects of officials to carbon reduction",
+      "caption": "**Chart 1 – Beijing ties career prospects of officials to carbon reduction** ([MERICS China Industries Brief, May 2026](https://merics.org/en/merics-briefs/climate-goals-officials-textile-sector-alcohol-industry))"
     },
     {
       "src": "assets/charts/W20-2026-chart-3.png",
-      "alt": "China's industrial exports are on the rise"
+      "alt": "China's industrial exports are on the rise",
+      "caption": "**Chart 2 – China's industrial exports are on the rise**"
     },
     {
       "src": "assets/charts/W20-2026-chart-4.png",
-      "alt": "US-CN trade collapsed 10% y/y across all flows in the four months before the Trump-Xi summit"
+      "alt": "US-CN trade collapsed 10% y/y across all flows in the four months before the Trump-Xi summit",
+      "caption": "**Chart 3 – US-CN trade collapsed 10% y/y across all flows in the four months before the Trump-Xi summit**"
     },
     {
       "src": "assets/charts/W20-2026-chart-5.png",
-      "alt": "China sells much more to Germany, while imports from Germany barely rise"
+      "alt": "China sells much more to Germany, while imports from Germany barely rise",
+      "caption": "**Chart 4 – China sells much more to Germany, while imports from Germany barely rise**"
     },
     {
       "src": "assets/charts/W20-2026-chart-6.png",
-      "alt": "The EU wants INP sovereignty, but the supply trail points to China"
+      "alt": "The EU wants INP sovereignty, but the supply trail points to China",
+      "caption": "**Chart 5 – The EU wants Indium phosphide sovereignty, but the supply trail points to China**"
     },
     {
       "src": "assets/charts/W20-2026-chart-7.png",
-      "alt": "China's goods surplus with Africa jumps nearly 50%"
+      "alt": "China's goods surplus with Africa jumps nearly 50%",
+      "caption": "**Chart 6 – China's goods surplus with Africa jumps nearly 50%**"
     }
   ]
 };

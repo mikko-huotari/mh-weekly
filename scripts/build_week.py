@@ -500,9 +500,16 @@ def parse_spotlight_section(text: str) -> dict:
 _IMG_RE = re.compile(r"!\[(?P<alt>[^\]]*)\]\((?P<src>[^)\s]+)(?:\s+\"[^\"]*\")?\)")
 
 
+def _strip_alt_prefix(caption: str) -> str:
+    """Drop leading 'Chart N – ' / 'Chart N - ' from the caption (the
+    explanatory body should stand alone)."""
+    return re.sub(r"^\*\*\s*", "**", caption).strip()
+
+
 def parse_top_charts_section(text: str, week_id: str) -> list[dict]:
-    """Parse `## Top Charts/Visuals` images. Copies any locally-referenced PNG
-    into `assets/charts/W{NN}-chart-{N}.png` and returns the topCharts payload."""
+    """Parse `## Top Charts/Visuals` images plus the bold caption / explanation
+    paragraphs preceding each image. Copies any locally-referenced PNG into
+    `assets/charts/W{NN}-chart-{N}.png` and returns the topCharts payload."""
     m = re.search(r"^##\s+Top Charts(?:/Visuals)?\s*$", text, re.MULTILINE)
     if not m:
         return []
@@ -515,30 +522,58 @@ def parse_top_charts_section(text: str, week_id: str) -> list[dict]:
     assets_dir = repo_root / "assets" / "charts"
     assets_dir.mkdir(parents=True, exist_ok=True)
 
+    # Walk paragraph-by-paragraph. A paragraph that contains `![alt](src)` is a
+    # chart; the most recent non-image / non-table paragraph above it (or any
+    # leading text inside the image paragraph itself) is its caption.
+    paragraphs = re.split(r"\n\s*\n", body)
     charts: list[dict] = []
-    for i, img in enumerate(_IMG_RE.finditer(body), 1):
-        alt = img.group("alt").strip() or f"Top chart {i}"
-        src = img.group("src").strip()
-        out_name = f"{week_id}-chart-{i}.png"
-        out_path = assets_dir / out_name
-        if src.startswith("http://") or src.startswith("https://"):
-            # Keep remote URL as-is (e.g. merics.org-hosted images).
-            charts.append({"src": src, "alt": alt})
+    pending_caption = ""
+    chart_n = 0
+
+    for para in paragraphs:
+        para_stripped = para.strip()
+        if not para_stripped:
             continue
-        from urllib.parse import unquote
-        rel = unquote(src)
-        # Markdown paths are relative to the export .md location.
-        src_path = (EXPORT_DIR / rel).resolve()
-        if not src_path.exists():
-            print(f"  WARN: chart {i} source not found: {src_path}")
+        imgs = list(_IMG_RE.finditer(para))
+        if not imgs:
+            # Reference tables (markdown `|...|` rows) aren't captions.
+            if para_stripped.startswith("|"):
+                pending_caption = ""
+            else:
+                pending_caption = para_stripped
             continue
-        try:
-            import shutil
-            shutil.copyfile(src_path, out_path)
-            charts.append({"src": f"assets/charts/{out_name}", "alt": alt})
-            print(f"  copied chart {i}: {src_path.name} -> {out_name}")
-        except Exception as e:
-            print(f"  WARN: failed to copy chart {i}: {e}")
+        # Text in this paragraph but outside the image markdown — typically the
+        # caption sits on the same line as `![image]` (e.g. "**Chart 2 – …**\n![…]")
+        # or right above it. Prefer same-paragraph text; fall back to pending.
+        para_text = _IMG_RE.sub("", para).strip()
+        caption_src = para_text or pending_caption
+        pending_caption = ""
+
+        for img in imgs:
+            chart_n += 1
+            alt = img.group("alt").strip() or f"Top chart {chart_n}"
+            src = img.group("src").strip()
+            caption = _strip_alt_prefix(caption_src) if caption_src else ""
+
+            from urllib.parse import unquote
+            if src.startswith("http://") or src.startswith("https://"):
+                charts.append({"src": src, "alt": alt, "caption": caption})
+                # subsequent images in the same paragraph reuse the caption
+                continue
+            rel = unquote(src)
+            src_path = (EXPORT_DIR / rel).resolve()
+            if not src_path.exists():
+                print(f"  WARN: chart {chart_n} source not found: {src_path}")
+                continue
+            out_name = f"{week_id}-chart-{chart_n}.png"
+            out_path = assets_dir / out_name
+            try:
+                import shutil
+                shutil.copyfile(src_path, out_path)
+                charts.append({"src": f"assets/charts/{out_name}", "alt": alt, "caption": caption})
+                print(f"  copied chart {chart_n}: {src_path.name} -> {out_name}")
+            except Exception as e:
+                print(f"  WARN: failed to copy chart {chart_n}: {e}")
     return charts
 
 
