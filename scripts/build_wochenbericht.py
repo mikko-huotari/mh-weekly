@@ -235,9 +235,9 @@ def main() -> int:
             it["kind"] = kind
         sections.append({"number": number, "slug": slug, "short": short, "label": label, "items": items})
 
-    # Safety net: even with structured output, a Zitate lead can still contain
-    # a parenthetical ("Donald Trump (bekräftigte)"). Unwrap to keep bold = name
-    # only AND preserve the verb in the body. Never drop the content.
+    # Safety net A: even with structured output, a Zitate lead can still
+    # contain a parenthetical ("Donald Trump (bekräftigte)"). Unwrap to keep
+    # bold = name only AND preserve the verb in the body. Never drop content.
     for sec in sections:
         if sec["slug"] != "quotes":
             continue
@@ -247,6 +247,17 @@ def main() -> int:
             if m:
                 it["lead"] = m.group(1).strip()
                 it["text"] = (m.group(2).strip() + " " + (it.get("text") or "")).strip()
+
+    # Safety net B: strip any trailing "(Source: ...)" Gemini left dangling in
+    # the body text. The source is already structured in `item.source`, so the
+    # raw inline tail just looks like hanging garbage on the page.
+    # Allow either a complete "(Source: …)" or a truncated "(Source:" tail.
+    _src_tail = re.compile(r"\s*\(\s*Source\s*:[^)]*\)?\.?\s*$", re.IGNORECASE)
+    for sec in sections:
+        for it in sec["items"]:
+            v = it.get("text")
+            if isinstance(v, str):
+                it["text"] = _src_tail.sub("", v).rstrip()
 
     ordered = {
         "label": "Wochenbericht: CN-Beziehungen durch die DE-Medien-Brille",
