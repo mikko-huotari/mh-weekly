@@ -13,235 +13,235 @@ window.W20_2026_WOCHENBERICHT = {
       "label": "Prominente Zitate und Positionen zu China-bezogenen Angelegenheiten",
       "items": [
         {
-          "kind": "quote",
-          "lead": "Donald Trump (bekräftigte)",
-          "text": "am Donnerstag in Peking bei seinem ersten Staatsbesuch seit neun Jahren die Vision einer neuen Kooperation und sagte: „Wir sollten Partner und nicht Rivalen sein“, wobei er den Fokus demonstrativ auf Handelsabschlüsse statt auf strategische Konflikte legte.",
+          "lead": "Donald Trump",
+          "text": "bekräftigte am Donnerstag in Peking bei seinem ersten Staatsbesuch seit neun Jahren die Vision einer neuen Kooperation und sagte: „Wir sollten Partner und nicht Rivalen sein“, wobei er den Fokus demonstrativ auf Handelsabschlüsse statt auf strategische Konflikte legte. (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-14",
             "title": "TRUMP IN PEKING; \"Wir sollten Partner und nicht Rivalen sein\""
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Xi Jinping (warnte den US-Präsidenten)",
-          "text": "am Donnerstag in Peking eindringlich vor der Thukydides-Falle und erklärte bezüglich der Unterstützung Taiwans, dass eine falsche Handhabung dieser Frage die Beziehungen in eine „äußerst gefährliche Lage bringen“ könne.",
+          "lead": "Xi Jinping",
+          "text": "warnte den US-Präsidenten am Donnerstag in Peking eindringlich vor der Thukydides-Falle und erklärte bezüglich der Unterstützung Taiwans, dass eine falsche Handhabung dieser Frage die Beziehungen in eine „äußerst gefährliche Lage bringen“ könne. (Source:",
           "source": {
             "outlet": "BILD",
             "outletDisplay": "bild.de",
             "date": "2026-05-14",
             "title": "USA-China-Gipfel in Peking; Wie verlogen ist dieser Handschlag?"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Xi Jinping (versuchte)",
-          "text": "am Donnerstag beim Empfangsbankett in der Großen Halle des Volkes den Wettbewerb zu relativieren und sagte laut Xinhua: „Im Himmel ist für beide [USA und China] Platz“, man müsse die wichtigste bilaterale Beziehung der Welt nicht vermasseln.",
+          "lead": "Xi Jinping",
+          "text": "versuchte am Donnerstag beim Empfangsbankett in der Großen Halle des Volkes den Wettbewerb zu relativieren und sagte laut Xinhua: „Im Himmel ist für beide [USA und China] Platz“, man müsse die wichtigste bilaterale Beziehung der Welt nicht vermasseln. (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-14",
             "title": "TRUMP IN PEKING; \"Wir sollten Partner und nicht Rivalen sein\""
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Donald Trump (lobte seinen Gastgeber)",
-          "text": "am Donnerstag in Peking in gewohnt überschwänglicher Manier als „großartige Führungspersönlichkeit“ und betonte mehrfach: „Es ist eine Ehre, Ihr Freund zu sein.“",
+          "lead": "Donald Trump",
+          "text": "lobte seinen Gastgeber am Donnerstag in Peking in gewohnt überschwänglicher Manier als „großartige Führungspersönlichkeit“ und betonte mehrfach: „Es ist eine Ehre, Ihr Freund zu sein.“ (Source:",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
             "date": "2026-05-14",
             "title": "USA und China; Trump lädt Chinas Staatschef Xi in die USA ein"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Friedrich Merz (forderte)",
-          "text": "am Donnerstag in seiner Laudatio zur Karlspreis-Verleihung in Aachen, dass Europa angesichts der Großmachtpolitik der USA und Chinas endlich „eine Macht werden“ müsse, um nicht zum Spielball zu degenerieren.",
+          "lead": "Friedrich Merz",
+          "text": "forderte am Donnerstag in seiner Laudatio zur Karlspreis-Verleihung in Aachen, dass Europa angesichts der Großmachtpolitik der USA und Chinas endlich „eine Macht werden“ müsse, um nicht zum Spielball zu degenerieren. (Source:",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
             "date": "2026-05-14",
             "title": "Karlspreis-Verleihung; Merz: Europa muss „eine Macht werden“"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Markus Söder (kündigte)",
-          "text": "am Freitag in München eine Regierungserklärung an, in der er darlegen will, wie Bayern als Spitzenstandort für Hightech „gegenüber den USA und China wettbewerbsfähig bleibt“.",
+          "lead": "Markus Söder",
+          "text": "kündigte am Freitag in München eine Regierungserklärung an, in der er darlegen will, wie Bayern als Spitzenstandort für Hightech „gegenüber den USA und China wettbewerbsfähig bleibt“. (Source:",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
             "date": "2026-05-15",
             "title": "Südkorea hält Kim Jong-uns Tochter für Nachfolgerin [Kontext Bayern-Spezial]"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Marco Rubio (setzte)",
-          "text": "am Freitag bei der Sicherung der Straße von Hormus offen auf die Kooperation Pekings und betonte, dass die Chinesen als exportorientierte Wirtschaft „ein eigenes Interesse an einer Lösung“ der Seeblockade hätten.",
+          "lead": "Marco Rubio",
+          "text": "setzte am Freitag bei der Sicherung der Straße von Hormus offen auf die Kooperation Pekings und betonte, dass die Chinesen als exportorientierte Wirtschaft „ein eigenes Interesse an einer Lösung“ der Seeblockade hätten. (Source:",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
             "date": "2026-05-15",
             "title": "Diplomatie; Rubio: USA setzen bei Straße von Hormus auf Hilfe aus China"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "He Lifeng (Vize-Ministerpräsident Chinas) (bezeichnete die vorbereitenden Handelsgespräche mit US-Finanzminister Bessent)",
-          "text": "am Mittwoch in Südkorea als „offen und konstruktiv“, was den Weg für die symbolträchtigen Abschlüsse in Peking ebnete.",
+          "lead": "He Lifeng",
+          "text": "bezeichnete die vorbereitenden Handelsgespräche mit US-Finanzminister Bessent am Mittwoch in Südkorea als „offen und konstruktiv“, was den Weg für die symbolträchtigen Abschlüsse in Peking ebnete. (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-13",
             "title": "Dax aktuell; Dax eröffnet im Plus – Trump-Xi-Treffen im Fokus"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Scott Bessent (US-Finanzminister) (bewertete die Verhandlungen mit seinem chinesischen Counterpart)",
-          "text": "am Donnerstag in Peking als Erfolg und sprach von „balancierten und positiven Ergebnissen“ für die Weltwirtschaft.",
+          "lead": "Scott Bessent",
+          "text": "bewertete die Verhandlungen mit seinem chinesischen Counterpart am Donnerstag in Peking als Erfolg und sprach von „balancierten und positiven Ergebnissen“ für die Weltwirtschaft. (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-14",
             "title": "STAATSBEUCH IN PEKING; Xi setzt Trump die Pistole auf die Brust"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Dan Wang (Ökonom und Philosoph) (kritisierte die deutsche Wachstumskultur)",
-          "text": "am Donnerstag scharf und konstatierte: „Für mich fühlt sich ganz Europa wie ein Mausoleum an“, da Steuern zu hoch und Anreize für ruchlose Entschlossenheit zu gering seien.",
+          "lead": "Dan Wang",
+          "text": "kritisierte die deutsche Wachstumskultur am Donnerstag scharf und konstatierte: „Für mich fühlt sich ganz Europa wie ein Mausoleum an“, da Steuern zu hoch und Anreize für ruchlose Entschlossenheit zu gering seien. (Source:",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
             "date": "2026-05-14",
             "title": "Dan Wang; »Für mich fühlt sich ganz Europa wie ein Mausoleum an«"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Anders Fogh Rasmussen (Ehemaliger NATO-Generalsekretär) (forderte)",
-          "text": "am Dienstag den Aufbau eines neuen Staatenbündnisses („D7“ – D für demokratisch) als Alternative zur G7, da die „Unberechenbarkeit Donald Trumps“ und Chinas Machtansprüche neue Allianzen erforderten.",
+          "lead": "Anders Fogh Rasmussen",
+          "text": "forderte am Dienstag den Aufbau eines neuen Staatenbündnisses („D7“ – D für demokratisch) als Alternative zur G7, da die „Unberechenbarkeit Donald Trumps“ und Chinas Machtansprüche neue Allianzen erforderten. (Source:",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
             "date": "2026-05-12",
             "title": "D7 statt G7? Früherer Nato-Chef wirbt für Aufbau von neuem Staatenbündnis"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Katherina Reiche (Bundeswirtschaftsministerin, CDU) (kündigte)",
-          "text": "am Dienstag in Berlin ihren baldigen Antrittsbesuch in Peking an, wobei Beobachter davon ausgehen, dass die Volksrepublik die europäischen „Pilger“ angesichts der US-Zollpolitik zurückgelehnt empfangen wird.",
+          "lead": "Katherina Reiche",
+          "text": "kündigte am Dienstag in Berlin ihren baldigen Antrittsbesuch in Peking an, wobei Beobachter davon ausgehen, dass die Volksrepublik die europäischen „Pilger“ angesichts der US-Zollpolitik zurückgelehnt empfangen wird. (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-12",
             "title": "STAATSBESUCH IN PEKING; Trumps Werk und Chinas Beitrag"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Frank Bösenberg (Geschäftsführer Silicon Saxony) (beklagte)",
-          "text": "am Freitag in Dresden das deutsche Umsetzungstempo gegenüber Asien: „Die Politik ist wahnsinnig langsam.“",
+          "lead": "Frank Bösenberg",
+          "text": "beklagte am Freitag in Dresden das deutsche Umsetzungstempo gegenüber Asien: „Die Politik ist wahnsinnig langsam.“ (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-15",
             "title": "Halbleiter; Angst ums Silicon Saxony – „Wir fallen de facto zurück“"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Lars Reger (Technikvorstand NXP) (stellte)",
-          "text": "am Freitag die ökonomische Logik europäischer Chip-Souveränität infrage: „Die Frage ist: Sind die Kunden bereit, für europäische Chips mehr Geld auszugeben?“",
+          "lead": "Lars Reger",
+          "text": "stellte am Freitag die ökonomische Logik europäischer Chip-Souveränität infrage: „Die Frage ist: Sind die Kunden bereit, für europäische Chips mehr Geld auszugeben?“ (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-15",
             "title": "Halbleiter; Angst ums Silicon Saxony – „Wir fallen de facto zurück“"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Qimin Fei (Analyst, First Sentier) (bezeichnete den chinesischen Markt)",
-          "text": "am Freitag als große Chance für Anleger, da das Umfeld sich stabilisiere und „die Bewertungen der Unternehmen attraktiv sind“.",
+          "lead": "Qimin Fei",
+          "text": "bezeichnete den chinesischen Markt am Freitag als große Chance für Anleger, da das Umfeld sich stabilisiere und „die Bewertungen der Unternehmen attraktiv sind“. (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
             "date": "2026-05-15",
             "title": "Diese Chancen in China übersehen gerade viele Anleger"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Sarah Speicher-Utsch (Finanzexpertin) (analysierte)",
-          "text": "am Freitag, dass der chinesische Aktienmarkt 2025 um fast ein Drittel zugelegt habe und damit eine „große Chance“ für jene darstelle, die das Land nicht länger ignorieren wollen.",
+          "lead": "Sarah Speicher-Utsch",
+          "text": "analysierte am Freitag, dass der chinesische Aktienmarkt 2025 um fast ein Drittel zugelegt habe und damit eine „große Chance“ für jene darstelle, die das Land nicht länger ignorieren wollen. (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
             "date": "2026-05-15",
             "title": "Diese Chancen in China übersehen gerade viele Anleger"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Milan Nedeljkovic (BMW-Produktionsvorstand/designierter Chef) (wurde)",
-          "text": "am Mittwoch als das „Gegenmodell zum schillernden Topmanager“ porträtiert, der die neue Konzernstrategie im Schatten der China-Krise umsetzen müsse.",
+          "lead": "Milan Nedeljkovic",
+          "text": "wurde am Mittwoch als das „Gegenmodell zum schillernden Topmanager“ porträtiert, der die neue Konzernstrategie im Schatten der China-Krise umsetzen müsse. (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-13",
             "title": "Autoindustrie; Neuer BMW-Chef macht Vertrauten zum Konzernstrategen"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Wang Yiwei (Professor, Renmin-Universität) (verteidigte)",
-          "text": "am Montag den Einsatz ökonomischer Druckmittel durch Peking: „Israel nutzt ihn, andere Länder nutzen ihn. Warum sollte China ihn nicht nutzen?“",
+          "lead": "Wang Yiwei",
+          "text": "verteidigte am Montag den Einsatz ökonomischer Druckmittel durch Peking: „Israel nutzt ihn, andere Länder nutzen ihn. Warum sollte China ihn nicht nutzen?“ (Source:",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
             "date": "2026-05-11",
             "title": "Trump in Peking; Der Unberechenbare wird kalkulierbar"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Alicia Garcia Herrero (Chefökonomin Natixis) (warnte)",
-          "text": "am Dienstag, dass der Iran-Krieg die „Risse in Chinas Wirtschaft“ zwar beleuchtet habe, Peking aber seine Macht in der Energiekrise dennoch weiter ausbaue.",
+          "lead": "Alicia Garcia Herrero",
+          "text": "warnte am Dienstag, dass der Iran-Krieg die „Risse in Chinas Wirtschaft“ zwar beleuchtet habe, Peking aber seine Macht in der Energiekrise dennoch weiter ausbaue. (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-05-12",
             "title": "HANDELSBLATT – GASTKOMMENTAR – ; China profitiert vom Irankrieg, hat aber strukturelle Defizite"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Holger Schmidt (FAZ-Autor) (konstatierte)",
-          "text": "am Dienstag zum technologischen Wettlauf: „Wer wissen will, wer an der KI-Welle verdient, muss der Wertschöpfungskette folgen.“",
+          "lead": "Holger Schmidt",
+          "text": "konstatierte am Dienstag zum technologischen Wettlauf: „Wer wissen will, wer an der KI-Welle verdient, muss der Wertschöpfungskette folgen.“ (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-12",
             "title": "SANDISK, CORNING & CO; Die 50 Unternehmen, die am KI-Boom definitiv verdienen"
-          }
+          },
+          "kind": "quote"
         },
         {
-          "kind": "quote",
-          "lead": "Jens Mühling (Journalist) (analysierte)",
-          "text": "am Donnerstag die veränderte Machtbalance: „Zuletzt hat sich die Machtbalance zwischen China und den USA gründlich verändert – nicht gerade zu Donald Trumps Gunsten.“",
+          "lead": "Jens Mühling",
+          "text": "analysierte am Donnerstag die veränderte Machtbalance: „Zuletzt hat sich die Machtbalance zwischen China und den USA gründlich verändert – nicht gerade zu Donald Trumps Gunsten.“ (Source:",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
             "date": "2026-05-14",
             "title": "Donald Trump in China; Auf der Agenda: Sojabohnen und zwei Kriege"
-          }
+          },
+          "kind": "quote"
         }
       ]
     },
@@ -252,114 +252,114 @@ window.W20_2026_WOCHENBERICHT = {
       "label": "Wichtige China-bezogene Entwicklungen in Fakten und Zahlen",
       "items": [
         {
-          "kind": "fact",
           "lead": "Unitree-Börsengang in Sicht",
-          "text": "Der führende chinesische Hersteller humanoider Roboter, Unitree, bereitet seinen Börsengang vor; Analysten schätzen die Bewertung des Unternehmens bereits auf rund 5,9 Milliarden Dollar.",
+          "text": "Der führende chinesische Hersteller humanoider Roboter, Unitree, bereitet seinen Börsengang vor; Analysten schätzen die Bewertung des Unternehmens bereits auf rund 5,9 Milliarden Dollar. (Source:",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
             "date": "2026-05-13",
             "title": "BörsenTag; Diese chinesischen Aktien sind aktuell attraktiv"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Divergenz der Tech-Indizes",
-          "text": "Während der Nasdaq 100 in den letzten fünf Jahren um 130 Prozent zulegte, verlor das chinesische Pendant, der Hang Seng Tech Index, im gleichen Zeitraum ein Drittel seines Wertes.",
+          "text": "Während der Nasdaq 100 in den letzten fünf Jahren um 130 Prozent zulegte, verlor das chinesische Pendant, der Hang Seng Tech Index, im gleichen Zeitraum ein Drittel seines Wertes. (Source:",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "Die Welt",
             "date": "2026-05-15",
             "title": "Chinas vergessene KI-Aktien"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Trumps geheimes Apple-Portfolio",
-          "text": "Vor seiner China-Reise investierte US-Präsident Donald Trump massiv in den Tech-Konzern Apple; laut Daten der Ethikbehörde kaufte er im ersten Quartal 2026 Papiere im Wert von bis zu 7,2 Millionen Dollar.",
+          "text": "Vor seiner China-Reise investierte US-Präsident Donald Trump massiv in den Tech-Konzern Apple; laut Daten der Ethikbehörde kaufte er im ersten Quartal 2026 Papiere im Wert von bis zu 7,2 Millionen Dollar. (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-15",
             "title": "Tech-Konzern; Trump investierte vor China-Reise Millionen Dollar in Apple"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Rekord-Jahresziele für Merck",
-          "text": "Getrieben durch die Nachfrage aus der Halbleiterindustrie hob Merck seine Ziele für 2026 an und erwartet nun einen Umsatz zwischen 20,4 und 21,4 Milliarden Euro.",
+          "text": "Getrieben durch die Nachfrage aus der Halbleiterindustrie hob Merck seine Ziele für 2026 an und erwartet nun einen Umsatz zwischen 20,4 und 21,4 Milliarden Euro. (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-13",
             "title": "Dax im Plus – Pharma-Aktie springt acht Prozent nach oben"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Sojabohnen-Flugzeug-Deal",
-          "text": "Als Teil der Gipfel-Ergebnisse stellte China den Kauf amerikanischer Flugzeuge (Boeing) sowie massiver Mengen Sojabohnen aus Trump-freundlichen US-Bundesstaaten in Aussicht.",
+          "text": "Als Teil der Gipfel-Ergebnisse stellte China den Kauf amerikanischer Flugzeuge (Boeing) sowie massiver Mengen Sojabohnen aus Trump-freundlichen US-Bundesstaaten in Aussicht. (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-13",
             "title": "F.A.Z. FRÜHDENKER"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Erosion der Bildungsinvestitionen",
-          "text": "Neue Zahlen von McKinsey belegen, dass deutsche Unternehmen ihre Budgets für die Weiterbildung ihrer Mitarbeiter um 30 Prozent gekürzt haben, während China massiv in Humankapital investiert.",
+          "text": "Neue Zahlen von McKinsey belegen, dass deutsche Unternehmen ihre Budgets für die Weiterbildung ihrer Mitarbeiter um 30 Prozent gekürzt haben, während China massiv in Humankapital investiert. (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-05-13",
             "title": "PERSONAL; Budgets für Weiterbildung um 30 Prozent gekürzt"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Chinas Kerosin-Vorteil",
-          "text": "Die Internationale Energieagentur (IEA) warnt, dass europäische Fluggesellschaften wie die Lufthansa infolge der Hormus-Blockade bereits 20.000 Flüge streichen mussten, während China seine Energieversorgung diversifiziert.",
+          "text": "Die Internationale Energieagentur (IEA) warnt, dass europäische Fluggesellschaften wie die Lufthansa infolge der Hormus-Blockade bereits 20.000 Flüge streichen mussten, während China seine Energieversorgung diversifiziert. (Source:",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "Die Welt",
             "date": "2026-05-08",
             "title": "Dass die Lufthansa zuletzt 20.000 Flüge gestrichen hat, ist kein Zufall"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Absage an RWTH Aachen",
-          "text": "Die Universität Aachen sagte eine geplante Jobbörse mit chinesischen Unternehmen ab, nachdem der Verfassungsschutz vor der gezielten Rekrutierung an Exzellenz-Unis warnte; allein in Aachen forschen 4.000 Chinesen.",
+          "text": "Die Universität Aachen sagte eine geplante Jobbörse mit chinesischen Unternehmen ab, nachdem der Verfassungsschutz vor der gezielten Rekrutierung an Exzellenz-Unis warnte; allein in Aachen forschen 4.000 Chinesen. (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-05-13",
             "title": "SICHERHEIT; Wie China auf deutsche Exzellenz-Unis zielt"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Öl-Fakturierung in Yuan",
-          "text": "Chinesische Raffinerien wickeln ihre Importe aus dem Iran und Russland inzwischen fast vollständig in Yuan ab, um US-Sanktionen zu umgehen.",
+          "text": "Chinesische Raffinerien wickeln ihre Importe aus dem Iran und Russland inzwischen fast vollständig in Yuan ab, um US-Sanktionen zu umgehen. (Source:",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-13",
             "title": "Ein Deal und sonst nicht viel"
-          }
+          },
+          "kind": "fact"
         },
         {
-          "kind": "fact",
           "lead": "Schrumpfendes Silicon Saxony",
-          "text": "Dresden verzeichnet erstmals einen Rückgang bei Neuprojekten im Halbleiterbereich, während asiatische Standorte ihr Investitionsvolumen um 37 Prozent steigerten.",
+          "text": "Dresden verzeichnet erstmals einen Rückgang bei Neuprojekten im Halbleiterbereich, während asiatische Standorte ihr Investitionsvolumen um 37 Prozent steigerten. (Source:",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-15",
             "title": "Halbleiter; Angst ums Silicon Saxony – „Wir fallen de facto zurück“"
-          }
+          },
+          "kind": "fact"
         }
       ]
     },
@@ -370,7 +370,6 @@ window.W20_2026_WOCHENBERICHT = {
       "label": "Fünf zentrale Themen in der deutschen China-Politik Diskussion",
       "items": [
         {
-          "kind": "theme",
           "title": "Taiwan als \"Verhandlungsmasse\" – Das Ende der US-Sicherheitsgarantien?",
           "text": "Die Berichterstattung über den Peking-Besuch von Donald Trump ist von tiefer Sorge über eine strategische Kehrtwende Washingtons geprägt. Während US-Präsidenten wie Joe Biden die Verteidigung Taiwans zur Staatsräson erklärten, wird Trump in deutschen Medien als \"Dealmaker\" wahrgenommen, für den Taiwan lediglich ein Hebel für bessere Handelsbedingungen bei Sojabohnen und Boeing-Flugzeugen ist. Die Diskussion fokussiert sich auf das Schweigen Trumps zu Xis harten Warnungen und die daraus resultierende Schutzlosigkeit des für die globale Chipindustrie essenziellen Inselstaats.",
           "sources": [
@@ -392,10 +391,10 @@ window.W20_2026_WOCHENBERICHT = {
               "date": "2026-05-15",
               "title": "So brandgefährlich ist die Schwäche der USA für Taiwan"
             }
-          ]
+          ],
+          "kind": "theme"
         },
         {
-          "kind": "theme",
           "title": "Der \"DeepSeek-Moment\" und die finanzielle Rehabilitation Chinas",
           "text": "Ein zentrales Thema ist die Neubewertung chinesischer Tech-Aktien durch die Wall Street. Das Erscheinen des neuen chinesischen KI-Modells \"DeepSeek-V4\", das technisch nur noch Monate hinter der US-Spitze liegen soll, hat den jahrelangen Konsens der \"Uninvestierbarkeit\" Chinas erschüttert. Die Debatte dreht sich darum, ob die extrem niedrigen Bewertungen und der technologische Fortschritt Pekings einen massiven Kapitalrückfluss aus den USA nach China auslösen werden, ungeachtet der politischen Systemrivalität.",
           "sources": [
@@ -417,10 +416,10 @@ window.W20_2026_WOCHENBERICHT = {
               "date": "2026-05-15",
               "title": "Diese Chancen in China übersehen gerade viele Anleger"
             }
-          ]
+          ],
+          "kind": "theme"
         },
         {
-          "kind": "theme",
           "title": "Die \"D7-Architektur\" als Antwort auf die NATO-Erosion",
           "text": "Angesichts der Unberechenbarkeit Donald Trumps und der militärischen Expansion Chinas wird in Deutschland verstärkt über alternative Sicherheitsbündnisse debattiert. Der Vorschlag des ehemaligen NATO-Chefs Rasmussen, eine \"D7-Allianz\" der führenden Demokratien (inkl. Japan und Australien) zu gründen, wird als notwendige Versicherung gegen einen Rückzug der USA aus ihrer Führungsrolle gewertet. Die Diskussion markiert eine Abkehr von der totalen Abhängigkeit von Washington hin zu einer eigenständigen, globalen Sicherheitsarchitektur.",
           "sources": [
@@ -442,10 +441,10 @@ window.W20_2026_WOCHENBERICHT = {
               "date": "2026-05-13",
               "title": "Was diese zwei Männer besprechen, hat Folgen für die ganze Welt"
             }
-          ]
+          ],
+          "kind": "theme"
         },
         {
-          "kind": "theme",
           "title": "Der „Bauplan für ein neues Wirtschaftswunder“ als industrieller Weckruf",
           "text": "In der Wirtschaftspresse formiert sich zum 80. Jubiläum des Handelsblatts eine Debatte über die kulturellen und strukturellen Ursachen des deutschen Abstiegs gegenüber China. Experten fordern einen radikalen „Bauplan“, der sich an den Erfolgsmodellen von Shenzhen und Bangalore orientiert: Konzentration auf Schlüsseltechnologien statt Gießkannen-Förderung, enge Verzahnung von Forschung und Industrie sowie eine Abkehr vom „Mausoleum-Gefühl“ europäischer Trägheit. Experten wie Dan Wang werfen der deutschen Gesellschaft einen Mangel an \"Ruchlosigkeit\" und \"Geldhunger\" vor, während man sich in Bürokratie und Selbstmitleid (\"Jammerei\") verliere. Das Thema kontrastiert den chinesischen \"Ingenieursstaat\" mit dem deutschen \"Politikerstaat\" und fordert eine radikale Rückbesinnung auf industrielle Härte, um im \"Gesetz des Dschungels\" der neuen Weltordnung zu bestehen.",
           "sources": [
@@ -467,10 +466,10 @@ window.W20_2026_WOCHENBERICHT = {
               "date": "2026-05-14",
               "title": "Dan Wang: Ganz Europa fühlt sich wie ein Mausoleum an"
             }
-          ]
+          ],
+          "kind": "theme"
         },
         {
-          "kind": "theme",
           "title": "Wissenschaftssicherheit an „Exzellenz-Unis“ im Visier der Geheimdienste",
           "text": "Ein neues Eskalationsniveau in der Debatte um den Know-how-Abfluss wird durch den Fall der RWTH Aachen markiert. Die Absage einer chinesischen Jobbörse nach Warnungen des Verfassungsschutzes hat eine Diskussion über die „Naivität“ der Hochschulen ausgelöst. Die Diskussion thematisiert, dass China gezielt an deutschen Spitzenstandorten rekrutiert, während die Politik bei der Umsetzung einer nationalen Plattform für Forschungssicherheit und der Überprüfung von Stipendiaten (CSC) hinterherhinkt.",
           "sources": [
@@ -492,7 +491,8 @@ window.W20_2026_WOCHENBERICHT = {
               "date": "2026-05-15",
               "title": "Halbleiter; Angst ums Silicon Saxony"
             }
-          ]
+          ],
+          "kind": "theme"
         }
       ]
     }
