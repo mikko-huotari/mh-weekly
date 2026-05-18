@@ -12,16 +12,16 @@ window.W20_2026 = {
     "intro": "As I told [ARD Tagesthemen](https://www.tagesschau.de/tagesthemen/video-1585882.html), [ZDF Morgenmagazin](https://www.zdfheute.de/video/zdf-morgenmagazin/zdf-morgenmagazin-huotari-china-usa-100.html), [SRF](https://www.srf.ch/audio/echo-der-zeit/kaum-konkrete-resultate-beim-treffen-zwischen-trump-und-xi?partId=c6WDW5A0Gzw7z7zClkYp2lWV73k), [Deutschlandfunk](https://www.deutschlandfunk.de/trump-in-china-deals-und-wenig-konkretes-intv-mit-mikko-huotari-merics-100.html) and [Handelsblatt](https://www.handelsblatt.com/politik/international/usa-und-china-zwei-giganten-die-auf-augenhoehe-im-gefecht-stehen/100225404.html) during and after the meeting:",
     "items": [
       {
-        "note": "**The summit was rich in theater, but not in substance:** it prioritized atmospherics over deliverables. For China, the primary goals were establishing a \"floor\" to prevent escalation, buying time, and securing advances on Taiwan – while it remains hard to identify what Trump (or the USG) sought beyond a handful of transactional outcomes."
+        "note": "**The summit was rich in theater, but not in substance.** It prioritized atmospherics over deliverables. For China, the primary goals were establishing a \"floor\" to prevent escalation, buying time and securing advances on Taiwan, while it remains hard to understand what the primary goals were for Trump (or the USG) beyond selected transactional outcomes."
       },
       {
-        "note": "What sticks are Trump's effusive comments, which seem more about personal validation-seeking (and family rent-seeking) **and allowed Beijing to set the tone and win at least strategic communication points**."
+        "note": "What sticks are Trump's effusive comments, which seem more about personal validation-seeking (and family rent-seeking), **allowing Beijing to set the tone and win at least strategic communication points**."
       },
       {
-        "note": "**No real progress was made on any of the fundamental questions.** Every substantive deliverable is one-sided. The contested files (Taiwan, chips, AI, Iran) were pushed out of the written record – entirely or asymmetrically. Beijing emerged with \"optionality\" on every Trump-announced commitment."
+        "note": "**No real progress on any of the fundamental questions** has been made. Every substantive deliverable is one-sided. The contested files (Taiwan, chips, AI, Iran) have been pushed out of the written record entirely or asymmetrically. Beijing emerged with \"optionality\" on every Trump-announced commitment."
       },
       {
-        "note": "**Taiwan remains the biggest uncertainty.** The PRC readout leads with it as \"the most important issue\", quotes Xi's \"clashes and even conflicts\" warning, and explicitly demands the US \"exercise extra caution\". The US position is muffled and confused by Trump's Air Force One comments and a Fox News interview (with some reassurances from M. Rubio)."
+        "note": "**Taiwan remains the biggest uncertainty.** The PRC readout leads with Taiwan as \"the most important issue\", quotes Xi's \"clashes and even conflicts\" warning, and explicit demands the US \"exercise extra caution\". The US position is muffled and confused by Trump Air Force One comments and a Fox News interview (with some reassurances by M. Rubio)."
       }
     ],
     "subsections": [
@@ -383,7 +383,7 @@ window.W20_2026 = {
           "label": "Selected insights for media by colleagues",
           "items": [
             {
-              "outlet": "Nikkei Asia",
+              "outlet": "Media",
               "title": "",
               "date": "",
               "url": "https://asia.nikkei.com/economy/trade-war/china-us-trade-chiefs-huddle-for-last-minute-talks-before-trump-visit",
@@ -395,7 +395,7 @@ window.W20_2026 = {
               ]
             },
             {
-              "outlet": "Global News Morning Toronto",
+              "outlet": "Media",
               "title": "",
               "date": "",
               "url": "https://globalnews.ca/video/11849580/u-s-president-trumps-visit-to-china",
