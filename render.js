@@ -305,8 +305,9 @@
   function renderTopCharts(charts, w) {
     const items = charts.map((c, i) => `
       <figure class="chart">
+        ${c.caption ? `<figcaption class="chart-caption">${inlineMd(c.caption)}</figcaption>` : ""}
         <img src="${esc(c.src)}" alt="${esc(c.alt || ('Top Chart ' + (i+1)))}" loading="lazy" />
-        ${c.caption ? `<figcaption>${inlineMd(c.caption)}</figcaption>` : ""}
+        ${c.supplementHtml ? `<div class="chart-supplement">${c.supplementHtml}</div>` : ""}
       </figure>
     `).join("");
     return `

@@ -14,7 +14,7 @@ window.W20_2026_WOCHENBERICHT = {
       "items": [
         {
           "lead": "Donald Trump",
-          "text": "bekräftigte am Donnerstag in Peking bei seinem ersten Staatsbesuch seit neun Jahren die Vision einer neuen Kooperation und sagte: „Wir sollten Partner und nicht Rivalen sein“, wobei er den Fokus demonstrativ auf Handelsabschlüsse statt auf strategische Konflikte legte. (Source:",
+          "text": "bekräftigte am Donnerstag in Peking bei seinem ersten Staatsbesuch seit neun Jahren die Vision einer neuen Kooperation und sagte: „Wir sollten Partner und nicht Rivalen sein“, wobei er den Fokus demonstrativ auf Handelsabschlüsse statt auf strategische Konflikte legte.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -25,7 +25,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Xi Jinping",
-          "text": "warnte den US-Präsidenten am Donnerstag in Peking eindringlich vor der Thukydides-Falle und erklärte bezüglich der Unterstützung Taiwans, dass eine falsche Handhabung dieser Frage die Beziehungen in eine „äußerst gefährliche Lage bringen“ könne. (Source:",
+          "text": "warnte den US-Präsidenten am Donnerstag in Peking eindringlich vor der Thukydides-Falle und erklärte bezüglich der Unterstützung Taiwans, dass eine falsche Handhabung dieser Frage die Beziehungen in eine „äußerst gefährliche Lage bringen“ könne.",
           "source": {
             "outlet": "BILD",
             "outletDisplay": "bild.de",
@@ -36,7 +36,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Xi Jinping",
-          "text": "versuchte am Donnerstag beim Empfangsbankett in der Großen Halle des Volkes den Wettbewerb zu relativieren und sagte laut Xinhua: „Im Himmel ist für beide [USA und China] Platz“, man müsse die wichtigste bilaterale Beziehung der Welt nicht vermasseln. (Source:",
+          "text": "versuchte am Donnerstag beim Empfangsbankett in der Großen Halle des Volkes den Wettbewerb zu relativieren und sagte laut Xinhua: „Im Himmel ist für beide [USA und China] Platz“, man müsse die wichtigste bilaterale Beziehung der Welt nicht vermasseln.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -47,7 +47,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Donald Trump",
-          "text": "lobte seinen Gastgeber am Donnerstag in Peking in gewohnt überschwänglicher Manier als „großartige Führungspersönlichkeit“ und betonte mehrfach: „Es ist eine Ehre, Ihr Freund zu sein.“ (Source:",
+          "text": "lobte seinen Gastgeber am Donnerstag in Peking in gewohnt überschwänglicher Manier als „großartige Führungspersönlichkeit“ und betonte mehrfach: „Es ist eine Ehre, Ihr Freund zu sein.“",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
@@ -58,7 +58,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Friedrich Merz",
-          "text": "forderte am Donnerstag in seiner Laudatio zur Karlspreis-Verleihung in Aachen, dass Europa angesichts der Großmachtpolitik der USA und Chinas endlich „eine Macht werden“ müsse, um nicht zum Spielball zu degenerieren. (Source:",
+          "text": "forderte am Donnerstag in seiner Laudatio zur Karlspreis-Verleihung in Aachen, dass Europa angesichts der Großmachtpolitik der USA und Chinas endlich „eine Macht werden“ müsse, um nicht zum Spielball zu degenerieren.",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
@@ -69,7 +69,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Markus Söder",
-          "text": "kündigte am Freitag in München eine Regierungserklärung an, in der er darlegen will, wie Bayern als Spitzenstandort für Hightech „gegenüber den USA und China wettbewerbsfähig bleibt“. (Source:",
+          "text": "kündigte am Freitag in München eine Regierungserklärung an, in der er darlegen will, wie Bayern als Spitzenstandort für Hightech „gegenüber den USA und China wettbewerbsfähig bleibt“.",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -80,7 +80,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Marco Rubio",
-          "text": "setzte am Freitag bei der Sicherung der Straße von Hormus offen auf die Kooperation Pekings und betonte, dass die Chinesen als exportorientierte Wirtschaft „ein eigenes Interesse an einer Lösung“ der Seeblockade hätten. (Source:",
+          "text": "setzte am Freitag bei der Sicherung der Straße von Hormus offen auf die Kooperation Pekings und betonte, dass die Chinesen als exportorientierte Wirtschaft „ein eigenes Interesse an einer Lösung“ der Seeblockade hätten.",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
@@ -91,7 +91,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "He Lifeng",
-          "text": "bezeichnete die vorbereitenden Handelsgespräche mit US-Finanzminister Bessent am Mittwoch in Südkorea als „offen und konstruktiv“, was den Weg für die symbolträchtigen Abschlüsse in Peking ebnete. (Source:",
+          "text": "(Vize-Ministerpräsident Chinas) bezeichnete die vorbereitenden Handelsgespräche mit US-Finanzminister Bessent am Mittwoch in Südkorea als „offen und konstruktiv“, was den Weg für die symbolträchtigen Abschlüsse in Peking ebnete.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -102,7 +102,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Scott Bessent",
-          "text": "bewertete die Verhandlungen mit seinem chinesischen Counterpart am Donnerstag in Peking als Erfolg und sprach von „balancierten und positiven Ergebnissen“ für die Weltwirtschaft. (Source:",
+          "text": "(US-Finanzminister) bewertete die Verhandlungen mit seinem chinesischen Counterpart am Donnerstag in Peking als Erfolg und sprach von „balancierten und positiven Ergebnissen“ für die Weltwirtschaft.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -113,7 +113,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Dan Wang",
-          "text": "kritisierte die deutsche Wachstumskultur am Donnerstag scharf und konstatierte: „Für mich fühlt sich ganz Europa wie ein Mausoleum an“, da Steuern zu hoch und Anreize für ruchlose Entschlossenheit zu gering seien. (Source:",
+          "text": "(Ökonom und Philosoph) kritisierte die deutsche Wachstumskultur am Donnerstag scharf und konstatierte: „Für mich fühlt sich ganz Europa wie ein Mausoleum an“, da Steuern zu hoch und Anreize für ruchlose Entschlossenheit zu gering seien.",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
@@ -124,7 +124,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Anders Fogh Rasmussen",
-          "text": "forderte am Dienstag den Aufbau eines neuen Staatenbündnisses („D7“ – D für demokratisch) als Alternative zur G7, da die „Unberechenbarkeit Donald Trumps“ und Chinas Machtansprüche neue Allianzen erforderten. (Source:",
+          "text": "(Ehemaliger NATO-Generalsekretär) forderte am Dienstag den Aufbau eines neuen Staatenbündnisses („D7“ – D für demokratisch) als Alternative zur G7, da die „Unberechenbarkeit Donald Trumps“ und Chinas Machtansprüche neue Allianzen erforderten.",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
@@ -135,7 +135,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Katherina Reiche",
-          "text": "kündigte am Dienstag in Berlin ihren baldigen Antrittsbesuch in Peking an, wobei Beobachter davon ausgehen, dass die Volksrepublik die europäischen „Pilger“ angesichts der US-Zollpolitik zurückgelehnt empfangen wird. (Source:",
+          "text": "(Bundeswirtschaftsministerin, CDU) kündigte am Dienstag in Berlin ihren baldigen Antrittsbesuch in Peking an, wobei Beobachter davon ausgehen, dass die Volksrepublik die europäischen „Pilger“ angesichts der US-Zollpolitik zurückgelehnt empfangen wird.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -146,7 +146,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Frank Bösenberg",
-          "text": "beklagte am Freitag in Dresden das deutsche Umsetzungstempo gegenüber Asien: „Die Politik ist wahnsinnig langsam.“ (Source:",
+          "text": "(Geschäftsführer Silicon Saxony) beklagte am Freitag in Dresden das deutsche Umsetzungstempo gegenüber Asien: „Die Politik ist wahnsinnig langsam.“",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -157,7 +157,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Lars Reger",
-          "text": "stellte am Freitag die ökonomische Logik europäischer Chip-Souveränität infrage: „Die Frage ist: Sind die Kunden bereit, für europäische Chips mehr Geld auszugeben?“ (Source:",
+          "text": "(Technikvorstand NXP) stellte am Freitag die ökonomische Logik europäischer Chip-Souveränität infrage: „Die Frage ist: Sind die Kunden bereit, für europäische Chips mehr Geld auszugeben?“",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -168,7 +168,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Qimin Fei",
-          "text": "bezeichnete den chinesischen Markt am Freitag als große Chance für Anleger, da das Umfeld sich stabilisiere und „die Bewertungen der Unternehmen attraktiv sind“. (Source:",
+          "text": "(Analyst, First Sentier) bezeichnete den chinesischen Markt am Freitag als große Chance für Anleger, da das Umfeld sich stabilisiere und „die Bewertungen der Unternehmen attraktiv sind“.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
@@ -179,7 +179,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Sarah Speicher-Utsch",
-          "text": "analysierte am Freitag, dass der chinesische Aktienmarkt 2025 um fast ein Drittel zugelegt habe und damit eine „große Chance“ für jene darstelle, die das Land nicht länger ignorieren wollen. (Source:",
+          "text": "(Finanzexpertin) analysierte am Freitag, dass der chinesische Aktienmarkt 2025 um fast ein Drittel zugelegt habe und damit eine „große Chance“ für jene darstelle, die das Land nicht länger ignorieren wollen.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
@@ -190,7 +190,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Milan Nedeljkovic",
-          "text": "wurde am Mittwoch als das „Gegenmodell zum schillernden Topmanager“ porträtiert, der die neue Konzernstrategie im Schatten der China-Krise umsetzen müsse. (Source:",
+          "text": "(BMW-Produktionsvorstand/designierter Chef) wurde am Mittwoch als das „Gegenmodell zum schillernden Topmanager“ porträtiert, der die neue Konzernstrategie im Schatten der China-Krise umsetzen müsse.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -201,7 +201,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Wang Yiwei",
-          "text": "verteidigte am Montag den Einsatz ökonomischer Druckmittel durch Peking: „Israel nutzt ihn, andere Länder nutzen ihn. Warum sollte China ihn nicht nutzen?“ (Source:",
+          "text": "(Professor, Renmin-Universität) verteidigte am Montag den Einsatz ökonomischer Druckmittel durch Peking: „Israel nutzt ihn, andere Länder nutzen ihn. Warum sollte China ihn nicht nutzen?“",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
@@ -212,7 +212,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Alicia Garcia Herrero",
-          "text": "warnte am Dienstag, dass der Iran-Krieg die „Risse in Chinas Wirtschaft“ zwar beleuchtet habe, Peking aber seine Macht in der Energiekrise dennoch weiter ausbaue. (Source:",
+          "text": "(Chefökonomin Natixis) warnte am Dienstag, dass der Iran-Krieg die „Risse in Chinas Wirtschaft“ zwar beleuchtet habe, Peking aber seine Macht in der Energiekrise dennoch weiter ausbaue.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -223,7 +223,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Holger Schmidt",
-          "text": "konstatierte am Dienstag zum technologischen Wettlauf: „Wer wissen will, wer an der KI-Welle verdient, muss der Wertschöpfungskette folgen.“ (Source:",
+          "text": "(FAZ-Autor) konstatierte am Dienstag zum technologischen Wettlauf: „Wer wissen will, wer an der KI-Welle verdient, muss der Wertschöpfungskette folgen.“",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -234,7 +234,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Jens Mühling",
-          "text": "analysierte am Donnerstag die veränderte Machtbalance: „Zuletzt hat sich die Machtbalance zwischen China und den USA gründlich verändert – nicht gerade zu Donald Trumps Gunsten.“ (Source:",
+          "text": "(Journalist) analysierte am Donnerstag die veränderte Machtbalance: „Zuletzt hat sich die Machtbalance zwischen China und den USA gründlich verändert – nicht gerade zu Donald Trumps Gunsten.“",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
@@ -253,7 +253,7 @@ window.W20_2026_WOCHENBERICHT = {
       "items": [
         {
           "lead": "Unitree-Börsengang in Sicht",
-          "text": "Der führende chinesische Hersteller humanoider Roboter, Unitree, bereitet seinen Börsengang vor; Analysten schätzen die Bewertung des Unternehmens bereits auf rund 5,9 Milliarden Dollar. (Source:",
+          "text": "Der führende chinesische Hersteller humanoider Roboter, Unitree, bereitet seinen Börsengang vor; Analysten schätzen die Bewertung des Unternehmens bereits auf rund 5,9 Milliarden Dollar.",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
@@ -264,7 +264,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Divergenz der Tech-Indizes",
-          "text": "Während der Nasdaq 100 in den letzten fünf Jahren um 130 Prozent zulegte, verlor das chinesische Pendant, der Hang Seng Tech Index, im gleichen Zeitraum ein Drittel seines Wertes. (Source:",
+          "text": "Während der Nasdaq 100 in den letzten fünf Jahren um 130 Prozent zulegte, verlor das chinesische Pendant, der Hang Seng Tech Index, im gleichen Zeitraum ein Drittel seines Wertes.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "Die Welt",
@@ -275,7 +275,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Trumps geheimes Apple-Portfolio",
-          "text": "Vor seiner China-Reise investierte US-Präsident Donald Trump massiv in den Tech-Konzern Apple; laut Daten der Ethikbehörde kaufte er im ersten Quartal 2026 Papiere im Wert von bis zu 7,2 Millionen Dollar. (Source:",
+          "text": "Vor seiner China-Reise investierte US-Präsident Donald Trump massiv in den Tech-Konzern Apple; laut Daten der Ethikbehörde kaufte er im ersten Quartal 2026 Papiere im Wert von bis zu 7,2 Millionen Dollar.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -286,7 +286,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Rekord-Jahresziele für Merck",
-          "text": "Getrieben durch die Nachfrage aus der Halbleiterindustrie hob Merck seine Ziele für 2026 an und erwartet nun einen Umsatz zwischen 20,4 und 21,4 Milliarden Euro. (Source:",
+          "text": "Getrieben durch die Nachfrage aus der Halbleiterindustrie hob Merck seine Ziele für 2026 an und erwartet nun einen Umsatz zwischen 20,4 und 21,4 Milliarden Euro.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -297,7 +297,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Sojabohnen-Flugzeug-Deal",
-          "text": "Als Teil der Gipfel-Ergebnisse stellte China den Kauf amerikanischer Flugzeuge (Boeing) sowie massiver Mengen Sojabohnen aus Trump-freundlichen US-Bundesstaaten in Aussicht. (Source:",
+          "text": "Als Teil der Gipfel-Ergebnisse stellte China den Kauf amerikanischer Flugzeuge (Boeing) sowie massiver Mengen Sojabohnen aus Trump-freundlichen US-Bundesstaaten in Aussicht.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -308,7 +308,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Erosion der Bildungsinvestitionen",
-          "text": "Neue Zahlen von McKinsey belegen, dass deutsche Unternehmen ihre Budgets für die Weiterbildung ihrer Mitarbeiter um 30 Prozent gekürzt haben, während China massiv in Humankapital investiert. (Source:",
+          "text": "Neue Zahlen von McKinsey belegen, dass deutsche Unternehmen ihre Budgets für die Weiterbildung ihrer Mitarbeiter um 30 Prozent gekürzt haben, während China massiv in Humankapital investiert.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -319,7 +319,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Chinas Kerosin-Vorteil",
-          "text": "Die Internationale Energieagentur (IEA) warnt, dass europäische Fluggesellschaften wie die Lufthansa infolge der Hormus-Blockade bereits 20.000 Flüge streichen mussten, während China seine Energieversorgung diversifiziert. (Source:",
+          "text": "Die Internationale Energieagentur (IEA) warnt, dass europäische Fluggesellschaften wie die Lufthansa infolge der Hormus-Blockade bereits 20.000 Flüge streichen mussten, während China seine Energieversorgung diversifiziert.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "Die Welt",
@@ -330,7 +330,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Absage an RWTH Aachen",
-          "text": "Die Universität Aachen sagte eine geplante Jobbörse mit chinesischen Unternehmen ab, nachdem der Verfassungsschutz vor der gezielten Rekrutierung an Exzellenz-Unis warnte; allein in Aachen forschen 4.000 Chinesen. (Source:",
+          "text": "Die Universität Aachen sagte eine geplante Jobbörse mit chinesischen Unternehmen ab, nachdem der Verfassungsschutz vor der gezielten Rekrutierung an Exzellenz-Unis warnte; allein in Aachen forschen 4.000 Chinesen.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -341,7 +341,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Öl-Fakturierung in Yuan",
-          "text": "Chinesische Raffinerien wickeln ihre Importe aus dem Iran und Russland inzwischen fast vollständig in Yuan ab, um US-Sanktionen zu umgehen. (Source:",
+          "text": "Chinesische Raffinerien wickeln ihre Importe aus dem Iran und Russland inzwischen fast vollständig in Yuan ab, um US-Sanktionen zu umgehen.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -352,7 +352,7 @@ window.W20_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Schrumpfendes Silicon Saxony",
-          "text": "Dresden verzeichnet erstmals einen Rückgang bei Neuprojekten im Halbleiterbereich, während asiatische Standorte ihr Investitionsvolumen um 37 Prozent steigerten. (Source:",
+          "text": "Dresden verzeichnet erstmals einen Rückgang bei Neuprojekten im Halbleiterbereich, während asiatische Standorte ihr Investitionsvolumen um 37 Prozent steigerten.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",

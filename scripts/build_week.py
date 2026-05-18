@@ -500,15 +500,33 @@ def parse_spotlight_section(text: str) -> dict:
 _IMG_RE = re.compile(r"!\[(?P<alt>[^\]]*)\]\((?P<src>[^)\s]+)(?:\s+\"[^\"]*\")?\)")
 
 
-def _strip_alt_prefix(caption: str) -> str:
-    """Drop leading 'Chart N – ' / 'Chart N - ' from the caption (the
-    explanatory body should stand alone)."""
-    return re.sub(r"^\*\*\s*", "**", caption).strip()
+def _md_table_to_html(table_md: str) -> str:
+    """Convert a GitHub-style markdown table block into an HTML <table>."""
+    lines = [l for l in table_md.splitlines() if l.strip().startswith("|")]
+    if len(lines) < 2:
+        return ""
+    def cells(row: str) -> list[str]:
+        return [c.strip() for c in row.strip().strip("|").split("|")]
+    header = cells(lines[0])
+    data_rows = [cells(l) for l in lines[2:]] if len(lines) >= 3 else []
+    def esc(s: str) -> str:
+        return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    thead = "".join(f"<th>{esc(c)}</th>" for c in header)
+    tbody = "".join(
+        "<tr>" + "".join(f"<td>{esc(c)}</td>" for c in row) + "</tr>"
+        for row in data_rows
+    )
+    return (
+        f'<table class="chart-table">'
+        f'<thead><tr>{thead}</tr></thead>'
+        f'<tbody>{tbody}</tbody></table>'
+    )
 
 
 def parse_top_charts_section(text: str, week_id: str) -> list[dict]:
-    """Parse `## Top Charts/Visuals` images plus the bold caption / explanation
-    paragraphs preceding each image. Copies any locally-referenced PNG into
+    """Parse `## Top Charts/Visuals` images plus the bold caption preceding
+    each image AND any supplement (e.g. markdown reference table) immediately
+    following the image. Copies any locally-referenced PNG into
     `assets/charts/W{NN}-chart-{N}.png` and returns the topCharts payload."""
     m = re.search(r"^##\s+Top Charts(?:/Visuals)?\s*$", text, re.MULTILINE)
     if not m:
@@ -522,13 +540,11 @@ def parse_top_charts_section(text: str, week_id: str) -> list[dict]:
     assets_dir = repo_root / "assets" / "charts"
     assets_dir.mkdir(parents=True, exist_ok=True)
 
-    # Walk paragraph-by-paragraph. A paragraph that contains `![alt](src)` is a
-    # chart; the most recent non-image / non-table paragraph above it (or any
-    # leading text inside the image paragraph itself) is its caption.
     paragraphs = re.split(r"\n\s*\n", body)
     charts: list[dict] = []
     pending_caption = ""
     chart_n = 0
+    last_chart: dict | None = None
 
     for para in paragraphs:
         para_stripped = para.strip()
@@ -536,15 +552,14 @@ def parse_top_charts_section(text: str, week_id: str) -> list[dict]:
             continue
         imgs = list(_IMG_RE.finditer(para))
         if not imgs:
-            # Reference tables (markdown `|...|` rows) aren't captions.
+            # Markdown table → supplement attached to the previous chart.
             if para_stripped.startswith("|"):
-                pending_caption = ""
-            else:
-                pending_caption = para_stripped
+                if last_chart is not None:
+                    last_chart["supplementHtml"] = _md_table_to_html(para_stripped)
+                continue
+            pending_caption = para_stripped
             continue
-        # Text in this paragraph but outside the image markdown — typically the
-        # caption sits on the same line as `![image]` (e.g. "**Chart 2 – …**\n![…]")
-        # or right above it. Prefer same-paragraph text; fall back to pending.
+        # Same-paragraph text takes precedence over the pending caption.
         para_text = _IMG_RE.sub("", para).strip()
         caption_src = para_text or pending_caption
         pending_caption = ""
@@ -553,12 +568,13 @@ def parse_top_charts_section(text: str, week_id: str) -> list[dict]:
             chart_n += 1
             alt = img.group("alt").strip() or f"Top chart {chart_n}"
             src = img.group("src").strip()
-            caption = _strip_alt_prefix(caption_src) if caption_src else ""
+            caption = caption_src.strip() if caption_src else ""
 
             from urllib.parse import unquote
             if src.startswith("http://") or src.startswith("https://"):
-                charts.append({"src": src, "alt": alt, "caption": caption})
-                # subsequent images in the same paragraph reuse the caption
+                chart = {"src": src, "alt": alt, "caption": caption}
+                charts.append(chart)
+                last_chart = chart
                 continue
             rel = unquote(src)
             src_path = (EXPORT_DIR / rel).resolve()
@@ -570,7 +586,9 @@ def parse_top_charts_section(text: str, week_id: str) -> list[dict]:
             try:
                 import shutil
                 shutil.copyfile(src_path, out_path)
-                charts.append({"src": f"assets/charts/{out_name}", "alt": alt, "caption": caption})
+                chart = {"src": f"assets/charts/{out_name}", "alt": alt, "caption": caption}
+                charts.append(chart)
+                last_chart = chart
                 print(f"  copied chart {chart_n}: {src_path.name} -> {out_name}")
             except Exception as e:
                 print(f"  WARN: failed to copy chart {chart_n}: {e}")
