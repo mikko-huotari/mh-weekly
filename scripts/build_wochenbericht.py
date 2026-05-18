@@ -62,38 +62,73 @@ def slice_part3(text: str) -> str:
     sys.exit("Could not locate Part III in the export markdown")
 
 
-def gemini_call(prompt: str) -> str:
+# --- Structured-output schema --------------------------------------------
+# Gemini's `response_schema` enforces a Pydantic shape — it cannot emit
+# unescaped quotes inside string values because the SDK validates the
+# response against the schema before returning it.
+from pydantic import BaseModel
+
+
+class _Source(BaseModel):
+    outlet: str
+    outletDisplay: str
+    date: str
+    title: str
+
+
+class _QuoteItem(BaseModel):
+    lead: str
+    text: str
+    source: _Source
+
+
+class _FactItem(BaseModel):
+    lead: str
+    text: str
+    source: _Source
+
+
+class _ThemeItem(BaseModel):
+    title: str
+    text: str
+    sources: list[_Source]
+
+
+class _WochenberichtPayload(BaseModel):
+    quotes: list[_QuoteItem]
+    facts: list[_FactItem]
+    themes: list[_ThemeItem]
+
+
+def gemini_call_structured(prompt: str) -> dict:
+    """Call Gemini with response_schema = _WochenberichtPayload; returns the
+    parsed dict. Dumps the raw response to data/.wochenbericht_debug.txt if
+    something still slips through."""
     from google import genai
     from google.genai import types
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         sys.exit("GEMINI_API_KEY not set in environment.")
     client = genai.Client(api_key=api_key)
-    # Force JSON output so Gemini doesn't wrap or interleave prose.
-    config = types.GenerateContentConfig(response_mime_type="application/json")
+    config = types.GenerateContentConfig(
+        response_mime_type="application/json",
+        response_schema=_WochenberichtPayload,
+    )
     resp = client.models.generate_content(model=GEMINI_MODEL, contents=prompt, config=config)
-    return resp.text or ""
-
-
-def extract_json(raw: str) -> dict:
-    """Strip code fences and parse a JSON object. Dumps raw on failure."""
-    raw = raw.strip()
-    m = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", raw, re.DOTALL)
-    candidate = m.group(1) if m else None
-    if candidate is None:
-        a = raw.find("{")
-        b = raw.rfind("}")
-        if a < 0 or b < 0 or b <= a:
-            dump = DATA / ".wochenbericht_debug.txt"
-            dump.write_text(raw, encoding="utf-8")
-            raise ValueError(f"No JSON object in response. Raw saved to {dump}")
-        candidate = raw[a:b + 1]
+    # Prefer SDK-parsed value when available (post-validation by Pydantic).
+    parsed = getattr(resp, "parsed", None)
+    if parsed is not None:
+        try:
+            return parsed.model_dump()
+        except AttributeError:
+            return dict(parsed) if isinstance(parsed, dict) else json.loads(resp.text or "{}")
+    # Fallback: validate text against the schema manually.
     try:
-        return json.loads(candidate)
-    except json.JSONDecodeError as e:
+        return _WochenberichtPayload.model_validate_json(resp.text or "").model_dump()
+    except Exception as e:
         dump = DATA / ".wochenbericht_debug.txt"
-        dump.write_text(candidate, encoding="utf-8")
-        raise ValueError(f"JSON parse failed: {e}. Raw saved to {dump}") from e
+        dump.write_text(resp.text or "", encoding="utf-8")
+        raise ValueError(f"Gemini structured response invalid: {e}. Raw saved to {dump}") from e
 
 
 def caveat_for(week_id: str) -> str:
@@ -111,55 +146,17 @@ def caveat_for(week_id: str) -> str:
     return f"Caveat: nur stichprobenartig auf Qualität / Richtigkeit überprüft — Coverage nur bis {nice}."
 
 
-PROMPT = """Du konvertierst eine deutsche Wochen-Presseschau (Wochenbericht zur China-Berichterstattung) aus Markdown in eine strukturierte JSON-Form.
-
-Schema (dies ist die ZIELSTRUKTUR):
-{
-  "sections": [
-    {
-      "number": "1", "slug": "quotes", "short": "Zitate",
-      "label": "Prominente Zitate und Positionen zu China-bezogenen Angelegenheiten",
-      "items": [
-        {"kind": "quote",
-         "lead": "Name (Rolle, falls genannt)",
-         "text": "Verbphrase mit Originalwortlaut und Anführungszeichen",
-         "source": {"outlet": "FAZ", "outletDisplay": "FAZ", "date": "YYYY-MM-DD", "title": "Originaltitel"}}
-      ]
-    },
-    {
-      "number": "2", "slug": "facts", "short": "Fakten",
-      "label": "Wichtige China-bezogene Entwicklungen in Fakten und Zahlen",
-      "items": [
-        {"kind": "fact",
-         "lead": "Kurzer Fett-Titel",
-         "text": "Beschreibender Satz",
-         "source": {"outlet": "...", "outletDisplay": "...", "date": "YYYY-MM-DD", "title": "..."}}
-      ]
-    },
-    {
-      "number": "3", "slug": "themes", "short": "Themen",
-      "label": "Fünf zentrale Themen in der deutschen China-Politik Diskussion",
-      "items": [
-        {"kind": "theme",
-         "title": "Themen-Titel",
-         "text": "Analyseabsatz",
-         "sources": [
-           {"outlet": "FAZ", "outletDisplay": "faz.net", "date": "YYYY-MM-DD", "title": "Originaltitel"}
-         ]}
-      ]
-    }
-  ]
-}
+PROMPT = """Du konvertierst eine deutsche Wochen-Presseschau (Wochenbericht zur China-Berichterstattung) aus Markdown in eine strukturierte JSON-Form. Das Schema wird vom SDK über response_schema erzwungen — du musst exakt die drei Felder `quotes`, `facts`, `themes` mit den jeweils typisierten Items liefern.
 
 Regeln (zwingend):
 1. Behalte den deutschen Text WORT-WÖRTLICH. Keine Übersetzung, keine Paraphrase, keine Zusammenfassung.
 2. Entferne führende "- " und "**" Bold-Marker bei den Zitaten/Fakten/Themen.
-3. Zitate: `lead` = NUR der Name der Person (z.B. "Donald Trump", "Xi Jinping"). KEINE Rolle, KEIN Verb, KEINE Klammern im Lead. `text` = der gesamte Body-Satz (inklusive eventueller Verben wie "bekräftigte"/"warnte" und Rollenangaben) bis "(Source:".
-4. Fakten: `lead` = fett markierter Kurz-Titel. `text` = Body bis "(Source:".
-5. Themen: `title` = fett markierter Titel. `text` = alles zwischen Titel und "Prominente Quellen:". `sources` = die Liste danach.
+3. Zitate (`quotes[]`): `lead` = NUR der Name der Person (z.B. "Donald Trump", "Xi Jinping"). KEINE Rolle, KEIN Verb, KEINE Klammern im Lead. `text` = der gesamte Body-Satz (inklusive eventueller Verben wie "bekräftigte"/"warnte" und Rollenangaben) bis "(Source:".
+4. Fakten (`facts[]`): `lead` = fett markierter Kurz-Titel. `text` = Body bis "(Source:".
+5. Themen (`themes[]`): `title` = fett markierter Titel. `text` = alles zwischen Titel und "Prominente Quellen:". `sources` = die Liste danach.
 6. Deutsche Daten "27. April 2026" → ISO "2026-04-27". Monate: Januar=01, Februar=02, März=03, April=04, Mai=05, Juni=06, Juli=07, August=08, September=09, Oktober=10, November=11, Dezember=12.
 7. `outlet` = kanonische Kurzform (FAZ, Handelsblatt, Spiegel, Die Welt, DIE ZEIT, NZZ, Tagesspiegel, Welt am Sonntag, Süddeutsche Zeitung, WirtschaftsWoche, BILD). `outletDisplay` = wie in der Quelle erscheint (oft lowercase domain wie "faz.net", "handelsblatt.com").
-8. Gib AUSSCHLIESSLICH das JSON-Objekt zurück. Keine Prosa, keine Markdown-Code-Fences.
+8. ALLE inneren Anführungszeichen im Fließtext MÜSSEN als ASCII `"` korrekt mit Backslash escaped werden — sonst bricht das JSON. Im Zweifel verwende deutsche Gänsefüßchen „…" für innere Zitate.
 
 Markdown-Quelle:
 %s
@@ -218,40 +215,44 @@ def main() -> int:
     print(f"Part III: {len(part3):,} chars")
 
     prompt = PROMPT % part3
-    print("Calling Gemini…")
-    resp = gemini_call(prompt)
-    parsed = extract_json(resp)
+    print("Calling Gemini (response_schema=_WochenberichtPayload)…")
+    payload = gemini_call_structured(prompt)
 
-    # Fill in number / slug / short / label per our canonical mapping, since
-    # the LLM sometimes drops them or restyles them.
+    # Assemble the legacy {sections: [{slug, items, ...}]} shape the renderer
+    # expects from the flat {quotes, facts, themes} payload.
     by_slug = {h[1]: h for h in SECTION_HINTS}
-    for sec in parsed.get("sections", []):
-        slug = sec.get("slug") or ""
-        if slug in by_slug:
-            _, _, short, label = by_slug[slug]
-            sec["number"] = {"quotes": "1", "facts": "2", "themes": "3"}[slug]
-            sec["short"] = short
-            sec["label"] = label
+    section_specs = [
+        ("quotes", "1", "quote",  payload.get("quotes", [])),
+        ("facts",  "2", "fact",   payload.get("facts",  [])),
+        ("themes", "3", "theme",  payload.get("themes", [])),
+    ]
+    sections = []
+    for slug, number, kind, items in section_specs:
+        _, _, short, label = by_slug[slug]
+        # Re-attach `kind` (the renderer dispatches on it); Pydantic dropped it
+        # since the discriminator lives in the per-section schema.
+        for it in items:
+            it["kind"] = kind
+        sections.append({"number": number, "slug": slug, "short": short, "label": label, "items": items})
 
-    # Safety net: if Gemini slips a parenthetical into a Zitate lead
-    # ("Donald Trump (bekräftigte)"), UNWRAP the bracket content and prepend
-    # it to the body. The bold stays just the name; the sentence keeps its
-    # verb and reads correctly. Never drop the content — that breaks grammar.
-    for sec in parsed.get("sections", []):
-        if sec.get("slug") != "quotes":
+    # Safety net: even with structured output, a Zitate lead can still contain
+    # a parenthetical ("Donald Trump (bekräftigte)"). Unwrap to keep bold = name
+    # only AND preserve the verb in the body. Never drop the content.
+    for sec in sections:
+        if sec["slug"] != "quotes":
             continue
-        for it in sec.get("items", []):
+        for it in sec["items"]:
             lead = (it.get("lead") or "").strip()
             m = re.match(r"^(.*?)\s*\(([^)]+)\)\s*$", lead)
             if m:
                 it["lead"] = m.group(1).strip()
                 it["text"] = (m.group(2).strip() + " " + (it.get("text") or "")).strip()
 
-    parsed["label"] = "Wochenbericht: CN-Beziehungen durch die DE-Medien-Brille"
-    parsed["caveat"] = caveat_for(args.week_id)
-
-    # Reorder top-level keys to match W19 file style.
-    ordered = {"label": parsed["label"], "caveat": parsed["caveat"], "sections": parsed["sections"]}
+    ordered = {
+        "label": "Wochenbericht: CN-Beziehungen durch die DE-Medien-Brille",
+        "caveat": caveat_for(args.week_id),
+        "sections": sections,
+    }
 
     validate(ordered)
 
