@@ -161,7 +161,7 @@
       .filter(b => b && (b[0] || b[1]))
       .map(b => {
         const lead = b[0] ? `<b>${esc(b[0])}</b>` : "";
-        const rest = b[1] ? ` ${esc(b[1])}` : "";
+        const rest = b[1] ? ` ${inlineMd(b[1])}` : "";
         return `<li>${lead}${rest}</li>`;
       }).join("");
 
@@ -216,7 +216,7 @@
       if (!subItems.length && !(sub.intro || "").trim() && activeFilters.size) return "";
       return `
       <div class="spotlight-sub">
-        <h3 class="group-label">${esc(sub.label)}</h3>
+        <h3 class="spotlight-sub-h">${esc(sub.label)}</h3>
         ${sub.intro ? `<p class="section-intro">${inlineMd(sub.intro)}</p>` : ""}
         ${subItems.map(renderEntry).join("")}
       </div>`;
