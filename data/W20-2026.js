@@ -425,6 +425,62 @@ window.W20_2026 = {
   ],
   "numberedSections": [
     {
+      "number": "",
+      "slug": "debates",
+      "short": "CN Debates",
+      "label": "Chinese debates",
+      "items": [
+        {
+          "outlet": "爱思想",
+          "title": "Zhou Li: The US-Israel-Iran Conflict Further Weakens the Unipolar Hegemonic Order",
+          "date": "2026-05-11",
+          "url": "https://www.aisixiang.com/data/175756.html",
+          "bullets": [
+            [
+              "The article argues the Iran war exposes US military overstretch",
+              "Zhou Li (a senior strategist) frames the conflict as accelerating the decline of US-led unipolarity by stretching forces and depleting munitions, the piece contends."
+            ],
+            [
+              "Beijing positioned as the beneficiary of multipolar drift",
+              "The article reasons that as Washington's coercive credibility erodes, more Global South states will hedge or align with China rather than risk dependence on US security guarantees."
+            ]
+          ]
+        },
+        {
+          "outlet": "爱思想",
+          "title": "Yan Xuetong: Projecting the International Order in 2035",
+          "date": "2026-05-12",
+          "url": "https://www.aisixiang.com/data/175836.html",
+          "bullets": [
+            [
+              "Tsinghua's Yan Xuetong forecasts bipolar rivalry with shifting blocs by 2035",
+              "The article argues neither pure unipolarity nor multipolarity will dominate; instead, two US- and China-led coalitions of partial overlap will define great-power competition."
+            ],
+            [
+              "Yan emphasizes moral leadership as the decisive variable for the next decade",
+              "The piece argues China can only outpace US influence by combining economic statecraft with norms of fair conduct – a \"humane authority\" framing he has long associated with Xi-era foreign policy."
+            ]
+          ]
+        },
+        {
+          "outlet": "爱思想",
+          "title": "Huang Yiping: The Nature of China's Economic Pressure and Strategic Response",
+          "date": "2026-05-14",
+          "url": "https://www.aisixiang.com/data/175984.html",
+          "bullets": [
+            [
+              "PKU's Huang Yiping diagnoses three structural pressures",
+              "Demand insufficiency, supply-chain decoupling, and demographic transition combine to require an integrated rather than sectoral policy response, according to the article."
+            ],
+            [
+              "The strategic prescription emphasizes domestic demand expansion plus selective opening",
+              "Huang argues China cannot rebuild external demand through export drives alone; consumption-led rebalancing must be paired with targeted opening to keep foreign investment from fully decoupling."
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "number": "1",
       "slug": "econ",
       "short": "Econ",
