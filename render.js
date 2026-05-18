@@ -93,7 +93,7 @@
       });
     });
     if (w.topCharts && w.topCharts.length) {
-      chips.push({ sub: "mr-top-charts", label: `Top Charts W${w.week}` });
+      chips.push({ sub: "mr-top-charts", label: `Top charts and visuals W${w.week}` });
     }
     return chips;
   }
@@ -306,13 +306,13 @@
     const items = charts.map((c, i) => `
       <figure class="chart">
         <img src="${esc(c.src)}" alt="${esc(c.alt || ('Top Chart ' + (i+1)))}" loading="lazy" />
-        ${c.caption ? `<figcaption>${esc(c.caption)}</figcaption>` : ""}
+        ${c.caption ? `<figcaption>${inlineMd(c.caption)}</figcaption>` : ""}
       </figure>
     `).join("");
     return `
       <section class="section" id="mr-top-charts">
         <header class="section-h">
-          <h2 class="label">Top Charts W${w.week}</h2>
+          <h2 class="label">Top charts and visuals W${w.week}</h2>
         </header>
         <div class="charts-grid">${items}</div>
       </section>`;
