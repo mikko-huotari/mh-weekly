@@ -18,8 +18,21 @@
     .replace(/^-+|-+$/g, "");
 
   // -------- Build a flat search index from every loaded week. -------------
+  // Discover weeks dynamically — any `window.W<NN>_<YYYY>` global counts, so
+  // newly-added weeks don't need a code change here.
+  function discoverWeeks() {
+    const pat = /^W(\d+)_(\d{4})$/;
+    const found = [];
+    for (const key in window) {
+      const m = key.match(pat);
+      if (!m) continue;
+      const w = window[key];
+      if (w && typeof w === "object" && w.id) found.push(w);
+    }
+    return found.sort((a, b) => (b.year - a.year) || (b.week - a.week));
+  }
   function buildIndex() {
-    const weeks = [window.W19_2026, window.W16_2026].filter(Boolean);
+    const weeks = discoverWeeks();
     const entries = [];
 
     weeks.forEach(w => {
