@@ -345,6 +345,94 @@ def parse_research_section(text: str) -> dict | None:
 
 
 # ---------------------------------------------------------------------------
+# Spotlight section
+# ---------------------------------------------------------------------------
+
+def parse_spotlight_section(text: str) -> dict:
+    """Parse `## Spotlight: <subtitle>` into title + intro + top-level bullets.
+    H3 sub-sections inside Spotlight are ignored (hand-edit if you want them)."""
+    m = re.search(r"^##\s+(Spotlight[^\n]*)$", text, re.MULTILINE)
+    if not m:
+        return {"title": "Spotlight", "intro": "", "items": []}
+    title = m.group(1).strip()
+    start = m.end()
+    nxt = re.search(r"^(##\s|#\s)", text[start:], re.MULTILINE)
+    end = start + nxt.start() if nxt else len(text)
+    body = text[start:end]
+    # Stop at first ### so the top-level bullets are isolated from sub-sections.
+    h3_m = re.search(r"^###\s", body, re.MULTILINE)
+    if h3_m:
+        body = body[:h3_m.start()]
+    intro_parts: list[str] = []
+    items: list[dict] = []
+    in_bullets = False
+    for line in body.splitlines():
+        ls = line.strip()
+        if not ls:
+            continue
+        if ls.startswith("- "):
+            in_bullets = True
+            items.append({"note": ls[2:].strip()})
+        elif not in_bullets:
+            intro_parts.append(ls)
+    return {
+        "title": title,
+        "intro": " ".join(intro_parts).strip(),
+        "items": items,
+    }
+
+
+# ---------------------------------------------------------------------------
+# Top Charts section
+# ---------------------------------------------------------------------------
+
+# Match either '![alt](path)' or a bold label line preceding it.
+_IMG_RE = re.compile(r"!\[(?P<alt>[^\]]*)\]\((?P<src>[^)\s]+)(?:\s+\"[^\"]*\")?\)")
+
+
+def parse_top_charts_section(text: str, week_id: str) -> list[dict]:
+    """Parse `## Top Charts/Visuals` images. Copies any locally-referenced PNG
+    into `assets/charts/W{NN}-chart-{N}.png` and returns the topCharts payload."""
+    m = re.search(r"^##\s+Top Charts(?:/Visuals)?\s*$", text, re.MULTILINE)
+    if not m:
+        return []
+    start = m.end()
+    nxt = re.search(r"^(##\s|#\s)", text[start:], re.MULTILINE)
+    end = start + nxt.start() if nxt else len(text)
+    body = text[start:end]
+
+    repo_root = Path(__file__).resolve().parents[1]
+    assets_dir = repo_root / "assets" / "charts"
+    assets_dir.mkdir(parents=True, exist_ok=True)
+
+    charts: list[dict] = []
+    for i, img in enumerate(_IMG_RE.finditer(body), 1):
+        alt = img.group("alt").strip() or f"Top chart {i}"
+        src = img.group("src").strip()
+        out_name = f"{week_id}-chart-{i}.png"
+        out_path = assets_dir / out_name
+        if src.startswith("http://") or src.startswith("https://"):
+            # Keep remote URL as-is (e.g. merics.org-hosted images).
+            charts.append({"src": src, "alt": alt})
+            continue
+        from urllib.parse import unquote
+        rel = unquote(src)
+        # Markdown paths are relative to the export .md location.
+        src_path = (EXPORT_DIR / rel).resolve()
+        if not src_path.exists():
+            print(f"  WARN: chart {i} source not found: {src_path}")
+            continue
+        try:
+            import shutil
+            shutil.copyfile(src_path, out_path)
+            charts.append({"src": f"assets/charts/{out_name}", "alt": alt})
+            print(f"  copied chart {i}: {src_path.name} -> {out_name}")
+        except Exception as e:
+            print(f"  WARN: failed to copy chart {i}: {e}")
+    return charts
+
+
+# ---------------------------------------------------------------------------
 # JS serialization
 # ---------------------------------------------------------------------------
 
@@ -381,8 +469,10 @@ def main() -> None:
     text = export_path.read_text(encoding="utf-8")
 
     # ---- Sections
+    spotlight = parse_spotlight_section(text)
     context = parse_context_section(text)
     research = parse_research_section(text)
+    top_charts = parse_top_charts_section(text, week_id)
 
     numbered = []
     for num in ["1", "2", "3", "3a", "3b", "4", "5"]:
@@ -396,11 +486,11 @@ def main() -> None:
         "year": year,
         "dateRange": week_date_range(year, week_no),
         "pdf": f"pdfs/{week_id}.pdf",
-        "spotlight": {"title": "Spotlight", "intro": "", "items": []},
+        "spotlight": spotlight,
         "contextSections": [context] if context else [],
         "researchSections": [research] if research else [],
         "numberedSections": numbered,
-        "topCharts": [],
+        "topCharts": top_charts,
     }
 
     out = DATA_DIR / f"{week_id}.js"

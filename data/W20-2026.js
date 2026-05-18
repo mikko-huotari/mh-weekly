@@ -8,9 +8,22 @@ window.W20_2026 = {
   "dateRange": "11 – 17 May 2026",
   "pdf": "pdfs/W20-2026.pdf",
   "spotlight": {
-    "title": "Spotlight",
-    "intro": "",
-    "items": []
+    "title": "Spotlight: Trump-Xi Beijing summit readout",
+    "intro": "As I told [ARD Tagesthemen](https://www.tagesschau.de/tagesthemen/video-1585882.html), [ZDF Morgenmagazin](https://www.zdfheute.de/video/zdf-morgenmagazin/zdf-morgenmagazin-huotari-china-usa-100.html), [SRF](https://www.srf.ch/audio/echo-der-zeit/kaum-konkrete-resultate-beim-treffen-zwischen-trump-und-xi?partId=c6WDW5A0Gzw7z7zClkYp2lWV73k), [Deutschlandfunk](https://www.deutschlandfunk.de/trump-in-china-deals-und-wenig-konkretes-intv-mit-mikko-huotari-merics-100.html) and [Handelsblatt](https://www.handelsblatt.com/politik/international/usa-und-china-zwei-giganten-die-auf-augenhoehe-im-gefecht-stehen/100225404.html) during and after the meeting:",
+    "items": [
+      {
+        "note": "**The summit was rich in theater, but not in substance.** It prioritized atmospherics over deliverables. For China, the primary goals were establishing a \"floor\" to prevent escalation, buying time and securing advances on Taiwan, while it remains hard to understand what the primary goals were for Trump (or the USG) beyond selected transactional outcomes."
+      },
+      {
+        "note": "What sticks are Trump's effusive comments, which seem more about personal validation-seeking (and family rent-seeking), **allowing Beijing to set the tone and win at least strategic communication points**."
+      },
+      {
+        "note": "**No real progress on any of the fundamental questions** has been made. Every substantive deliverable is one-sided. The contested files (Taiwan, chips, AI, Iran) have been pushed out of the written record entirely or asymmetrically. Beijing emerged with \"optionality\" on every Trump-announced commitment."
+      },
+      {
+        "note": "**Taiwan remains the biggest uncertainty.** The PRC readout leads with Taiwan as \"the most important issue\", quotes Xi's \"clashes and even conflicts\" warning, and explicit demands the US \"exercise extra caution\". The US position is muffled and confused by Trump Air Force One comments and a Fox News interview (with some reassurances by M. Rubio)."
+      }
+    ]
   },
   "contextSections": [
     {
@@ -1881,7 +1894,36 @@ window.W20_2026 = {
       ]
     }
   ],
-  "topCharts": []
+  "topCharts": [
+    {
+      "src": "assets/charts/W20-2026-chart-1.png",
+      "alt": "2026 Conference on EU-China Relations – panel in Beijing, 12 May 2026"
+    },
+    {
+      "src": "https://merics.org/sites/default/files/2026-05/Beijing%20ties%20career%20prospects%20of%20officials%20to%20carbon%20reduction_0.png",
+      "alt": "Beijing ties career prospects of officials to carbon reduction"
+    },
+    {
+      "src": "assets/charts/W20-2026-chart-3.png",
+      "alt": "China's industrial exports are on the rise"
+    },
+    {
+      "src": "assets/charts/W20-2026-chart-4.png",
+      "alt": "US-CN trade collapsed 10% y/y across all flows in the four months before the Trump-Xi summit"
+    },
+    {
+      "src": "assets/charts/W20-2026-chart-5.png",
+      "alt": "China sells much more to Germany, while imports from Germany barely rise"
+    },
+    {
+      "src": "assets/charts/W20-2026-chart-6.png",
+      "alt": "The EU wants INP sovereignty, but the supply trail points to China"
+    },
+    {
+      "src": "assets/charts/W20-2026-chart-7.png",
+      "alt": "China's goods surplus with Africa jumps nearly 50%"
+    }
+  ]
 };
 
 if (window.W20_2026_WOCHENBERICHT) window.W20_2026.wochenbericht = window.W20_2026_WOCHENBERICHT;

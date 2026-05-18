@@ -62,6 +62,13 @@
   const esc = (s) => String(s == null ? "" : s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  // HTML-escape then convert minimal inline Markdown (`**bold**`, `*italic*`,
+  // `[text](url)`) for note-style entries that carry source-side formatting.
+  const inlineMd = (s) => esc(s)
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
+             '<a href="$2" target="_blank" rel="noopener">$1</a>')
+    .replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, "$1<em>$2</em>");
   const fmtDate = (d) => {
     if (typeof d !== "string") return "";
     const m = d.match(/^(\d{4})-(\d{2})-(\d{2})$/);
@@ -135,7 +142,7 @@
     // Compact note style \u2014 used for the brief context items that mirror the
     // PDF's one-line "ticker" entries (German Lens etc).
     if (e.note) {
-      return `<article class="entry entry-note">${meta}<p class="entry-note-text">${esc(e.note)}</p>${tagsHtml}</article>`;
+      return `<article class="entry entry-note">${meta}<p class="entry-note-text">${inlineMd(e.note)}</p>${tagsHtml}</article>`;
     }
 
     const titleInner = e.title
@@ -208,7 +215,7 @@
         <header class="section-h">
           <h2 class="label">${esc(s.title || "Spotlight")}</h2>
         </header>
-        ${s.intro ? `<p class="section-intro">${esc(s.intro)}</p>` : ""}
+        ${s.intro ? `<p class="section-intro">${inlineMd(s.intro)}</p>` : ""}
         ${items.map(renderEntry).join("")}
       </section>`;
   }
