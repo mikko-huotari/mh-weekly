@@ -130,7 +130,13 @@ window.W20_2026 = {
           },
           {
             "note": "On Taiwan's chip industry: \"I'd like to see everybody making chips over in Taiwan come into America.\" \"All of those chip companies, if they're smart, they're going to start heading to Arizona and the places where they're building. That's going to solve your problems.\""
-          },
+          }
+        ]
+      },
+      {
+        "label": "Selected sources",
+        "intro": "",
+        "items": [
           {
             "note": "[PRC Ministry of Foreign Affairs – Xi-Trump talks readout](https://www.fmprc.gov.cn/eng/xw/zyxw/202605/t20260514_11910330.html)"
           },
@@ -182,109 +188,114 @@ window.W20_2026 = {
       "label": "German China policy in context",
       "groups": [
         {
-          "label": "All",
+          "label": "GER",
           "items": [
             {
               "outlet": "FT",
               "date": "",
               "url": "https://www.ft.com/content/c2586266-b18d-49c2-99b6-e151eec312f1?syn-25a6b1a6=1",
-              "note": "**[Xpeng in talks with VW about buying a factory in Europe](https://www.ft.com/content/c2586266-b18d-49c2-99b6-e151eec312f1?syn-25a6b1a6=1)** (FT)"
+              "note": "**[Xpeng in talks with VW about buying a factory in Europe](https://www.ft.com/content/c2586266-b18d-49c2-99b6-e151eec312f1?syn-25a6b1a6=1)**"
             },
             {
               "outlet": "ZDF",
               "date": "",
               "url": "https://www.zdfheute.de/politik/sachsen-vw-werk-zwickau-china-partner-100.html",
-              "note": "**[GER state leaders (Saxony and Lower Saxony) open for CN production in VW factory Zwickau](https://www.zdfheute.de/politik/sachsen-vw-werk-zwickau-china-partner-100.html)** (ZDF, praise by [Global Times](https://www.globaltimes.cn/page/202605/1361008.shtml))"
+              "note": "**[GER state leaders (Saxony and Lower Saxony) open for CN production in VW factory Zwickau](https://www.zdfheute.de/politik/sachsen-vw-werk-zwickau-china-partner-100.html)** (praise by [Global Times](https://www.globaltimes.cn/page/202605/1361008.shtml))"
             },
             {
               "outlet": "Reuters",
               "date": "",
               "url": "https://www.reuters.com/world/china/german-union-urges-caution-allowing-chinese-carmakers-use-vw-plants-2026-05-11/",
-              "note": "**[German union urges caution on allowing Chinese carmakers to use VW plants](https://www.reuters.com/world/china/german-union-urges-caution-allowing-chinese-carmakers-use-vw-plants-2026-05-11/)** (Reuters)"
+              "note": "**[German union urges caution on allowing Chinese carmakers to use VW plants](https://www.reuters.com/world/china/german-union-urges-caution-allowing-chinese-carmakers-use-vw-plants-2026-05-11/)**"
             },
             {
               "outlet": "HKFP",
               "date": "",
               "url": "https://hongkongfp.com/2026/05/17/german-town-fears-impact-of-industrial-decline-after-chemical-giant-shifts-focus-to-china/",
-              "note": "**[German town fears impact of industrial decline after chemical giant shifts focus to China](https://hongkongfp.com/2026/05/17/german-town-fears-impact-of-industrial-decline-after-chemical-giant-shifts-focus-to-china/)** (HKFP)"
+              "note": "**[German town fears impact of industrial decline after chemical giant shifts focus to China](https://hongkongfp.com/2026/05/17/german-town-fears-impact-of-industrial-decline-after-chemical-giant-shifts-focus-to-china/)**"
             },
             {
               "outlet": "FT",
               "date": "",
               "url": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126?syn-25a6b1a6=1",
-              "note": "**[Germany goes from labour shortages to hiring freezes](https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126?syn-25a6b1a6=1)** (FT): Germany is suffering from rising unemployment as several years of economic stagnation and industrial decline, in part driven by competition from China, finally feed through to the jobs market."
+              "note": "**[Germany goes from labour shortages to hiring freezes](https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126?syn-25a6b1a6=1)**: Germany is suffering from rising unemployment as several years of economic stagnation and industrial decline, in part driven by competition from China, finally feed through to the jobs market."
             },
             {
               "outlet": "Africa Business Insider",
               "date": "",
               "url": "https://africa.businessinsider.com/local/markets/germany-turns-to-madagascar-graphite-as-europe-seeks-alternatives-to-china/8lfqlnb",
-              "note": "**[Germany turns to Madagascar as Europe races to cut China out of the battery supply chain](https://africa.businessinsider.com/local/markets/germany-turns-to-madagascar-graphite-as-europe-seeks-alternatives-to-china/8lfqlnb)** (Africa Business Insider)"
+              "note": "**[Germany turns to Madagascar as Europe races to cut China out of the battery supply chain](https://africa.businessinsider.com/local/markets/germany-turns-to-madagascar-graphite-as-europe-seeks-alternatives-to-china/8lfqlnb)**"
             },
             {
               "outlet": "Nikkei Asia",
               "date": "",
               "url": "https://asia.nikkei.com/business/markets/commodities/china-investor-gobbles-up-120-year-old-german-sewing-machine-maker",
-              "note": "**[China investor gobbles up 120-year-old German sewing machine maker](https://asia.nikkei.com/business/markets/commodities/china-investor-gobbles-up-120-year-old-german-sewing-machine-maker)** (Nikkei Asia)"
+              "note": "**[China investor gobbles up 120-year-old German sewing machine maker](https://asia.nikkei.com/business/markets/commodities/china-investor-gobbles-up-120-year-old-german-sewing-machine-maker)**"
             },
             {
               "outlet": "German Chamber of Commerce",
               "date": "",
               "url": "https://china.ahk.de/en/download/flash-survey-may-2026-slightly-more-positive-business-outlook-despite-impact-of-geopolitical-escalations",
-              "note": "**[AHK Flash Survey: German firms in China most optimistic since 2023](https://china.ahk.de/en/download/flash-survey-may-2026-slightly-more-positive-business-outlook-despite-impact-of-geopolitical-escalations)** (German Chamber of Commerce): 37% predict improvement (+22 pp vs 2025); 61% plan to raise China investments within two years; Iran war hit 75% of operations; 52% cite EU dependency-reduction as their top EU-China business concern."
+              "note": "**[AHK Flash Survey: German firms in China most optimistic since 2023](https://china.ahk.de/en/download/flash-survey-may-2026-slightly-more-positive-business-outlook-despite-impact-of-geopolitical-escalations)**: 37% predict improvement (+22 pp vs 2025); 61% plan to raise China investments within two years; Iran war hit 75% of operations; 52% cite EU dependency-reduction as their top EU-China business concern."
             },
             {
               "outlet": "IW",
               "date": "",
               "url": "https://www.iwkoeln.de/presse/iw-nachrichten/juergen-matthes-handel-was-der-us-china-gipfel-fuer-die-deutsche-wirtschaft-bedeutet.html",
-              "note": "**[IW Köln: EU sidelined in Trump-Xi Peking summit on tariffs](https://www.iwkoeln.de/presse/iw-nachrichten/juergen-matthes-handel-was-der-us-china-gipfel-fuer-die-deutsche-wirtschaft-bedeutet.html)** (IW): If the US secures preferential rare-earth supply from China, Beijing may tighten Europe-bound restrictions to deter EU action against Chinese market distortions."
-            },
+              "note": "**[IW Köln: EU sidelined in Trump-Xi Peking summit on tariffs](https://www.iwkoeln.de/presse/iw-nachrichten/juergen-matthes-handel-was-der-us-china-gipfel-fuer-die-deutsche-wirtschaft-bedeutet.html)**: If the US secures preferential rare-earth supply from China, Beijing may tighten Europe-bound restrictions to deter EU action against Chinese market distortions."
+            }
+          ]
+        },
+        {
+          "label": "EU",
+          "items": [
             {
               "outlet": "SCMP",
               "date": "",
               "url": "https://www.scmp.com/news/china/diplomacy/article/3353092/eu-subsidy-raids-chinese-company-nuctech-were-legal-court",
-              "note": "**[EU subsidy raids on Chinese company Nuctech were legal, court rules](https://www.scmp.com/news/china/diplomacy/article/3353092/eu-subsidy-raids-chinese-company-nuctech-were-legal-court)** (SCMP)"
+              "note": "**[EU subsidy raids on Chinese company Nuctech were legal, court rules](https://www.scmp.com/news/china/diplomacy/article/3353092/eu-subsidy-raids-chinese-company-nuctech-were-legal-court)**"
             },
             {
               "outlet": "Reuters",
               "date": "",
               "url": "https://www.reuters.com/world/china/china-orders-entities-not-comply-with-eu-probe-into-nuctech-2026-05-15/",
-              "note": "**[China orders entities not to comply with EU Nuctec probe](https://www.reuters.com/world/china/china-orders-entities-not-comply-with-eu-probe-into-nuctech-2026-05-15/)** (Reuters)"
+              "note": "**[China orders entities not to comply with EU Nuctec probe](https://www.reuters.com/world/china/china-orders-entities-not-comply-with-eu-probe-into-nuctech-2026-05-15/)**"
             },
             {
               "outlet": "POLITICO",
               "date": "",
               "url": "https://www.politico.eu/article/eu-commission-reduce-economic-dependence-chinese-trade-plan/",
-              "note": "**[EU Commission plans new squeeze on Chinese trade](https://www.politico.eu/article/eu-commission-reduce-economic-dependence-chinese-trade-plan/)** (POLITICO): DG Trade draws up “more assertive and effective trade defense policy”"
+              "note": "**[EU Commission plans new squeeze on Chinese trade](https://www.politico.eu/article/eu-commission-reduce-economic-dependence-chinese-trade-plan/)**: DG Trade draws up “more assertive and effective trade defense policy”"
             },
             {
               "outlet": "FT",
               "date": "",
               "url": "https://www.ft.com/content/57b4852c-f323-45b8-b8d0-5a6426dd781e?syn-25a6b1a6=1",
-              "note": "**[EU plans to force companies to buy parts from non-Chinese suppliers](https://www.ft.com/content/57b4852c-f323-45b8-b8d0-5a6426dd781e?syn-25a6b1a6=1)** (FT): Proposed rules seek to target chemicals and industrial machinery makers"
+              "note": "**[EU plans to force companies to buy parts from non-Chinese suppliers](https://www.ft.com/content/57b4852c-f323-45b8-b8d0-5a6426dd781e?syn-25a6b1a6=1)**: Proposed rules seek to target chemicals and industrial machinery makers"
             },
             {
               "outlet": "EEAS",
               "date": "",
               "url": "https://www.eeas.europa.eu/delegations/china/opening-speech-european-union-ambassador-china-mr-jorge-toledo-2nd-eu-china-conference-navigating_en?s=166",
-              "note": "**[Opening Speech by European Union Ambassador to China Mr Jorge Toledo at the 2nd EU-China Conference: navigating beyond the inflection point](https://www.eeas.europa.eu/delegations/china/opening-speech-european-union-ambassador-china-mr-jorge-toledo-2nd-eu-china-conference-navigating_en?s=166)** (EEAS)"
+              "note": "**[Opening Speech by European Union Ambassador to China Mr Jorge Toledo at the 2nd EU-China Conference: navigating beyond the inflection point](https://www.eeas.europa.eu/delegations/china/opening-speech-european-union-ambassador-china-mr-jorge-toledo-2nd-eu-china-conference-navigating_en?s=166)**"
             },
             {
               "outlet": "SCMP",
               "date": "",
               "url": "https://www.scmp.com/news/china/diplomacy/article/3353867/sinking-ship-why-eu-and-china-could-be-heading-trade-war",
-              "note": "**[A sinking ship? Why the EU and China could be heading for a trade war](https://www.scmp.com/news/china/diplomacy/article/3353867/sinking-ship-why-eu-and-china-could-be-heading-trade-war)** (SCMP): Clashes at a conference in Chinese capital reflect wider tensions that threaten to descend into an economic conflict."
+              "note": "**[A sinking ship? Why the EU and China could be heading for a trade war](https://www.scmp.com/news/china/diplomacy/article/3353867/sinking-ship-why-eu-and-china-could-be-heading-trade-war)**: Clashes at a conference in Chinese capital reflect wider tensions that threaten to descend into an economic conflict."
             },
             {
               "outlet": "SCMP",
               "date": "",
               "url": "https://www.scmp.com/news/china/diplomacy/article/3353452/netherlands-protests-us-proposal-further-bar-chip-giant-asml-china-market",
-              "note": "**[Netherlands protests U.S. MATCH Act extending DUV / China-servicing ban for ASML](https://www.scmp.com/news/china/diplomacy/article/3353452/netherlands-protests-us-proposal-further-bar-chip-giant-asml-china-market)** (SCMP): The Hague lodged an official objection over the extraterritoriality of the bipartisan US bill."
+              "note": "**[Netherlands protests U.S. MATCH Act extending DUV / China-servicing ban for ASML](https://www.scmp.com/news/china/diplomacy/article/3353452/netherlands-protests-us-proposal-further-bar-chip-giant-asml-china-market)**: The Hague lodged an official objection over the extraterritoriality of the bipartisan US bill."
             },
             {
               "outlet": "FT",
               "date": "",
               "url": "https://www.ft.com/content/b1fdbad1-2793-4975-a10b-74bb928d3b13",
-              "note": "**[France presses EU to crack down on platforms like Shein and Temu](https://www.ft.com/content/b1fdbad1-2793-4975-a10b-74bb928d3b13)** (FT): Paris urges EU sanctions up to 4% of annual turnover; 46% of tested foreign-marketplace products were non-conforming or dangerous."
+              "note": "**[France presses EU to crack down on platforms like Shein and Temu](https://www.ft.com/content/b1fdbad1-2793-4975-a10b-74bb928d3b13)**: Paris urges EU sanctions up to 4% of annual turnover; 46% of tested foreign-marketplace products were non-conforming or dangerous."
             }
           ]
         }
