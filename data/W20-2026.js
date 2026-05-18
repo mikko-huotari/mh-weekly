@@ -2928,21 +2928,7 @@ window.W20_2026 = {
       "src": "assets/charts/W20-2026-chart-3.png",
       "alt": "China's industrial exports are on the rise",
       "caption": "**Chart 2 – China's industrial exports are on the rise**",
-      "supplementTable": {
-        "headers": ["Category", "HS6 codes"],
-        "rows": [
-          ["Batteries (Li-ion)", "850760"],
-          ["EV & hybrid cars", "870380 BEV · 870360 PHEV · 870340 petrol-hybrid"],
-          ["Shipbuilding", "890190 cargo · 890120 tankers · 890520 drilling rigs · 890590 other vessels"],
-          ["Steel (semis & bars)", "720711/720720 billets · 721391 rods · 720838 hot-rolled flat · 721420 rebar"],
-          ["Specialty chemicals", "290919 ethers · 300439 hormone meds · 281820 alumina · 290241 o-xylene · 290323 perchloroethylene"],
-          ["Power transformers", "850421/850422/850423 (liquid-dielectric, three size tiers)"],
-          ["Aerospace", "880330 parts · 880240 large aircraft · 880320 undercarriages · 880220 light aircraft"],
-          ["Construction machinery", "842641 cranes · 843050 earth-movers · 843049 boring · 842959 excavators"],
-          ["Semi equipment", "848620 (semiconductor manufacturing machinery)"],
-          ["Machine tools", "846221 NC bending · 845710 machining centres · 845811 NC lathes · 845630 EDM · 845899 other lathes"]
-        ]
-      }
+      "supplementHtml": "<table class=\"chart-table\"><thead><tr><th>Category</th><th>HS6 codes</th></tr></thead><tbody><tr><td>Batteries (Li-ion)</td><td>850760</td></tr><tr><td>EV &amp; hybrid cars</td><td>870380 BEV · 870360 PHEV · 870340 petrol-hybrid</td></tr><tr><td>Shipbuilding</td><td>890190 cargo · 890120 tankers · 890520 drilling rigs · 890590 other vessels</td></tr><tr><td>Steel (semis &amp; bars)</td><td>720711/720720 billets · 721391 rods · 720838 hot-rolled flat · 721420 rebar</td></tr><tr><td>Specialty chemicals</td><td>290919 ethers · 300439 hormone meds · 281820 alumina · 290241 o-xylene · 290323 perchloroethylene</td></tr><tr><td>Power transformers</td><td>850421/850422/850423 (liquid-dielectric, three size tiers)</td></tr><tr><td>Aerospace</td><td>880330 parts · 880240 large aircraft · 880320 undercarriages · 880220 light aircraft</td></tr><tr><td>Construction machinery</td><td>842641 cranes · 843050 earth-movers · 843049 boring · 842959 excavators</td></tr><tr><td>Semi equipment</td><td>848620 (semiconductor manufacturing machinery)</td></tr><tr><td>Machine tools</td><td>846221 NC bending · 845710 machining centres · 845811 NC lathes · 845630 EDM · 845899 other lathes</td></tr></tbody></table>"
     },
     {
       "src": "assets/charts/W20-2026-chart-4.png",

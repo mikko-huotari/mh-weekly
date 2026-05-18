@@ -192,60 +192,6 @@
     justify-content: center;
   }
   .icon-btn:hover { background: var(--ink); color: var(--paper); }
-  /* Search button with visible keyboard hint — discoverability for ⌘K. */
-  .search-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 5px 8px 5px 8px;
-    cursor: pointer;
-  }
-  .search-btn:hover { background: var(--ink); color: var(--paper); }
-  .search-btn:hover .search-hotkey kbd { border-color: var(--paper); color: var(--paper); }
-  .search-hotkey kbd {
-    font-family: var(--mono, ui-monospace, "SFMono-Regular", Menlo, monospace);
-    font-size: 10px;
-    line-height: 1;
-    padding: 2px 5px;
-    border: 1px solid var(--rule);
-    border-radius: 3px;
-    color: var(--graphite);
-    background: transparent;
-    transition: border-color .12s ease, color .12s ease;
-  }
-  @media (max-width: 540px) { .search-hotkey { display: none; } }
-  /* Back-to-top floating button — appears after the user scrolls past the
-     masthead. Hidden by default; render.js toggles .is-visible on scroll. */
-  .back-to-top {
-    position: fixed;
-    bottom: 24px;
-    right: 24px;
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    background: var(--ink);
-    color: var(--paper);
-    border: 0;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 0;
-    pointer-events: none;
-    transform: translateY(8px);
-    transition: opacity .18s ease, transform .18s ease, background .12s ease;
-    z-index: 25;
-    box-shadow: 0 6px 18px rgba(0,0,0,.16);
-  }
-  .back-to-top.is-visible {
-    opacity: 1;
-    pointer-events: auto;
-    transform: translateY(0);
-  }
-  .back-to-top:hover { background: var(--merics-red); }
-  @media (max-width: 540px) {
-    .back-to-top { bottom: 16px; right: 16px; width: 40px; height: 40px; }
-  }
   .sr-only {
     position: absolute; width: 1px; height: 1px;
     padding: 0; margin: -1px; overflow: hidden;
@@ -1195,10 +1141,9 @@
       </div>
 
       <div class="topbar-actions">
-        <button id="searchBtn" class="pdf-link search-btn" type="button" aria-label="Search the archive (Ctrl/⌘+K)" aria-haspopup="dialog">
+        <button id="searchBtn" class="pdf-link icon-btn" type="button" aria-label="Search the archive" aria-haspopup="dialog">
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-          <span class="search-hotkey" aria-hidden="true"><kbd id="searchHotkey">⌘K</kbd></span>
-          <span class="sr-only">Search the archive (Ctrl+K or Command+K)</span>
+          <span class="sr-only">Search</span>
         </button>
         <a id="pdfLink" class="pdf-link" href="#" target="_blank" rel="noopener" aria-label="Download issue as PDF">
           <span class="full">Download PDF &darr;</span>
@@ -1215,11 +1160,6 @@
   <main id="content" aria-live="polite">
     <!-- rendered -->
   </main>
-
-  <!-- Floating back-to-top. render.js toggles .is-visible based on scroll. -->
-  <button id="backToTop" class="back-to-top" type="button" aria-label="Back to top">
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 15 12 9 18 15"/></svg>
-  </button>
 
   <footer class="foot">
     <div class="foot-meta" id="footerMeta"><!-- injected --></div>
@@ -1247,77 +1187,16 @@
   </div>
 
   <!-- ============================ DATA + RENDER ========================== -->
-  <!-- Bootstrap: fetch the manifest, then load tags, week data, outlets, and
-       finally the renderer. Order matters (tags before week data; week data
-       before render.js so the WEEKS scan finds them). Replaces the previous
-       hand-maintained list of <script src="data/W*.js"> tags — now adding a
-       new week is just "append to data/manifest.json" (or scripts/add_week.py). -->
-  <script>
-    (async function () {
-      function loadScript(src, version) {
-        return new Promise(function (resolve, reject) {
-          var s = document.createElement('script');
-          s.src = src + '?v=' + encodeURIComponent(version);
-          s.onload = resolve;
-          s.onerror = function () { reject(new Error('Failed to load ' + src)); };
-          document.head.appendChild(s);
-        });
-      }
-      try {
-        // Manifest itself is cache-busted via a build-time string baked here.
-        // CF Pages picks up changes within seconds of a deploy.
-        var bootV = '20260519a';
-        var manifestUrl = 'data/manifest.json?v=' + bootV;
-        var m = await fetch(manifestUrl, { cache: 'no-cache' }).then(function (r) {
-          if (!r.ok) throw new Error('manifest fetch HTTP ' + r.status);
-          return r.json();
-        });
-        var v = m.version || bootV;
-        await loadScript('data/tags.js', v);
-        var dataFiles = [];
-        (m.weeks || []).forEach(function (w) {
-          dataFiles.push('data/' + w.id + '.js');
-          if (w.has_wochenbericht) dataFiles.push('data/' + w.id + '-wochenbericht.js');
-        });
-        await Promise.all(dataFiles.map(function (f) { return loadScript(f, v); }));
-        await loadScript('outlets.js', v);
-        await loadScript('render.js', v);
-        await loadScript('search.js', v);
-      } catch (err) {
-        var msg = document.createElement('p');
-        msg.style.cssText = 'padding:48px 24px;font:14px/1.5 -apple-system,sans-serif;color:#971418;text-align:center';
-        msg.textContent = 'Failed to load the archive: ' + (err && err.message ? err.message : err) + '. Try a hard reload (Ctrl+F5).';
-        document.body.appendChild(msg);
-      }
-    })();
-  </script>
-
-  <!-- Chrome interactions: Cmd vs Ctrl label + back-to-top visibility.
-       Both depend on platform/scroll, not on the issue renderer. -->
-  <script>
-    (function () {
-      var hot = document.getElementById('searchHotkey');
-      if (hot && !/Mac|iPhone|iPad|iPod/.test(navigator.platform)) {
-        hot.textContent = 'Ctrl+K';
-      }
-      var btt = document.getElementById('backToTop');
-      if (btt) {
-        btt.addEventListener('click', function () {
-          window.scrollTo({ top: 0, behavior: 'smooth' });
-        });
-        var ticking = false;
-        function update() {
-          ticking = false;
-          btt.classList.toggle('is-visible', window.scrollY > 600);
-        }
-        window.addEventListener('scroll', function () {
-          if (ticking) return;
-          ticking = true;
-          requestAnimationFrame(update);
-        }, { passive: true });
-        update();
-      }
-    })();
-  </script>
+  <!-- Bump ?v= on each deploy to bust browser cache for render.js / data files. -->
+  <script src="data/tags.js?v=20260518p"></script>
+  <script src="data/W20-2026.js?v=20260518p"></script>
+  <script src="data/W20-2026-wochenbericht.js?v=20260518p"></script>
+  <script src="data/W19-2026.js?v=20260518p"></script>
+  <script src="data/W19-2026-wochenbericht.js?v=20260518p"></script>
+  <script src="data/W18-2026.js?v=20260518p"></script>
+  <script src="data/W18-2026-wochenbericht.js?v=20260518p"></script>
+  <script src="outlets.js?v=20260518p"></script>
+  <script src="render.js?v=20260518p"></script>
+  <script src="search.js?v=20260518p"></script>
 </body>
 </html>
