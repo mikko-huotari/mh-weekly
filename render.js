@@ -140,9 +140,11 @@
     const tagsHtml = renderEntryTags(e.tags);
 
     // Compact note style \u2014 used for the brief context items that mirror the
-    // PDF's one-line "ticker" entries (German Lens etc).
+    // PDF's one-line "ticker" entries (German Lens etc). Spotlight bullets and
+    // similar note items without an outlet/date skip the meta line entirely.
     if (e.note) {
-      return `<article class="entry entry-note">${meta}<p class="entry-note-text">${inlineMd(e.note)}</p>${tagsHtml}</article>`;
+      const hasMeta = (e.outlet && e.outlet.trim()) || date;
+      return `<article class="entry entry-note">${hasMeta ? meta : ""}<p class="entry-note-text">${inlineMd(e.note)}</p>${tagsHtml}</article>`;
     }
 
     const titleInner = e.title
@@ -209,7 +211,17 @@
   function renderSpotlight(s) {
     if (!s) return "";
     const items = filtered(s.items);
-    if (!items.length && activeFilters.size) return "";
+    const subs = (s.subsections || []).map(sub => {
+      const subItems = filtered(sub.items || []);
+      if (!subItems.length && !(sub.intro || "").trim() && activeFilters.size) return "";
+      return `
+      <div class="spotlight-sub">
+        <h3 class="group-label">${esc(sub.label)}</h3>
+        ${sub.intro ? `<p class="section-intro">${inlineMd(sub.intro)}</p>` : ""}
+        ${subItems.map(renderEntry).join("")}
+      </div>`;
+    }).join("");
+    if (!items.length && !subs.trim() && activeFilters.size) return "";
     return `
       <section class="section" id="hl-spotlight">
         <header class="section-h">
@@ -217,6 +229,7 @@
         </header>
         ${s.intro ? `<p class="section-intro">${inlineMd(s.intro)}</p>` : ""}
         ${items.map(renderEntry).join("")}
+        ${subs}
       </section>`;
   }
   function renderContext(sec) {
