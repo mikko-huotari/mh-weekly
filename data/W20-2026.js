@@ -23,6 +23,158 @@ window.W20_2026 = {
       {
         "note": "**Taiwan remains the biggest uncertainty.** The PRC readout leads with Taiwan as \"the most important issue\", quotes Xi's \"clashes and even conflicts\" warning, and explicit demands the US \"exercise extra caution\". The US position is muffled and confused by Trump Air Force One comments and a Fox News interview (with some reassurances by M. Rubio)."
       }
+    ],
+    "subsections": [
+      {
+        "label": "What that means for Europe",
+        "intro": "",
+        "items": [
+          {
+            "note": "**Trade and investment diversion:** The bilateral US-China \"boards of trade and investment\" risk redirecting Chinese import demand toward US goods (hitting German machinery, French luxury, EU industrial exports) and possibly granting US firms preferential access to Chinese financial services and biopharma, structurally disadvantaging European banks, asset managers, and exporters in a market they already struggle to penetrate."
+          },
+          {
+            "note": "**Caught between competing legal regimes:** The US MATCH Act (extraterritorial export controls via the Foreign Direct Product Rule) and China's Decrees 834/835 (countering foreign sanctions, protecting supply chain \"security\") put European firms, especially ASML and its German suppliers, in an impossible compliance bind: obey Washington and face Beijing sanctions, or vice versa."
+          },
+          {
+            "note": "**Strategic exposure without a seat at the table:** A US willingness to trade away security commitments to Taiwan in exchange for bilateral concessions from Beijing corrodes the credibility of every other American guarantee – from NATO's Article 5 to backing for Ukraine – and signals that allies are bargaining chips when transactional deals beckon. Combined with persistent rare earths vulnerability and the absence of a coordinated EU industrial and trade strategy, Brussels risks \"managed\" status by both powers unless it builds genuine deterrence leverage of its own."
+          }
+        ]
+      },
+      {
+        "label": "Comparing PRC MFA and White House readouts",
+        "intro": "",
+        "items": [
+          {
+            "note": "**Shared headline (but incompatible meaning):** Both sides ratified the phrase \"constructive China-US relationship of strategic stability\", but with different qualifiers. PRC defines it via four structural dimensions: \"positive stability with cooperation as the mainstay\", \"healthy stability with competition within proper limits\", \"constant stability with manageable differences\", \"lasting stability with expectable peace\". The White House attaches it to \"fairness and reciprocity\". Same words, two different theories of the relationship: \"structural-architectural reset\" vs \"transactional\"."
+          },
+          {
+            "note": "**The only bilateral deliverable: the scaffolding of an institutional architecture.** The U.S.-China Board of Trade and Board of Investment appear in both readouts as government-to-government forums for managing non-sensitive goods trade and investment disputes. Everything else is one-sided."
+          },
+          {
+            "note": "**Taiwan: in PRC, nothing by WH.** The MFA readout leads with Taiwan as \"the most important issue\", quotes Xi's \"clashes and even conflicts\" warning, and demands the US \"exercise extra caution\". The White House Fact Sheet does not mention Taiwan at all. Beijing made it the headline; Washington deleted it from the written record."
+          },
+          {
+            "note": "**Trade specifics: in WH, absent from PRC.** WH itemises hard numbers: at least USD 17 billion per year in US agricultural purchases (2026 prorated, 2027, 2028), 200 Boeing aircraft, more than 400 US beef facilities re-listed, soybean commitments from October 2025 reaffirmed, and a Chinese pledge to \"address US concerns regarding supply chain shortages related to rare earths and other critical minerals\". PRC says only that the teams produced \"generally balanced and positive outcomes\". Beijing has kept full optionality on every concrete number Trump announced."
+          },
+          {
+            "note": "**Iran / Hormuz: US claims joint position but CN remains vague.** WH says both leaders \"agreed Iran cannot have a nuclear weapon\", \"called to reopen the Strait of Hormuz\", and \"agreed no country or organization can be allowed to charge tolls\". PRC says only that leaders \"exchanged views on the Middle East situation\". Beijing refused to publicly co-sign anti-Iran or pro-Hormuz language."
+          },
+          {
+            "note": "**North Korea: in WH, absent from PRC.** WH says Trump and Xi \"confirmed their shared goal to denuclearize North Korea\". PRC readout: nothing on DPRK, ahead of Putin's Beijing visit days later."
+          }
+        ]
+      },
+      {
+        "label": "What's not in",
+        "intro": "",
+        "items": [
+          {
+            "note": "**Semiconductors and chip export controls: deliberately off the agenda.** Both readouts are silent. USTR Jamieson Greer confirmed post-summit on 15 May: \"no talk of chip export controls at the bilateral meeting\". Treasury Secretary Bessent raised the topic only pre-summit with He Lifeng in Seoul."
+          },
+          {
+            "note": "**The H200 file seems frozen, but on Beijing's terms?** Commerce Secretary Lutnick told a Senate hearing that not a single Nvidia H200 has shipped to any of the ten US-approved Chinese buyers. Trump (post-summit): Beijing \"chose not to\" approve H200 purchases because \"they want to develop their own\". The US framing has now flipped: China, not Washington, is the side refusing the chips. Markets read it as \"no deal\" and sold off Nvidia and Intel sharply."
+          },
+          {
+            "note": "**AI: silent in both readouts.** Bessent claimed a US-China framework on non-state-actor access to advanced AI models in his press briefing. Neither gov. confirmed in writing."
+          },
+          {
+            "note": "**Fentanyl / drugs: absent from both written records,** despite a joint US-China arrest of five suspects in a drug smuggling case in the run-up to the trip."
+          }
+        ]
+      },
+      {
+        "label": "Trump on Taiwan (Air Force One and Fox News)",
+        "intro": "",
+        "items": [
+          {
+            "note": "\"I heard him out. I didn't make a comment. I made no commitment either way.\""
+          },
+          {
+            "note": "On Xi's question about defending Taiwan: \"I said, I don't talk about that.\""
+          },
+          {
+            "note": "Xi \"feels very strongly\" and \"doesn't want to see a movement for independence.\""
+          },
+          {
+            "note": "\"We talked the whole night about that issue.\""
+          },
+          {
+            "note": "Asked if he foresaw a war: \"No, I don't think so. I think we'll be fine. Xi doesn't want to see a war.\""
+          },
+          {
+            "note": "\"I think the last thing we need right now is a war that's 9,500 miles away.\""
+          },
+          {
+            "note": "On arms package: \"I will make a determination... I'll make a determination over the next fairly short period.\""
+          },
+          {
+            "note": "\"I'm going to say I have to speak to the person ... that's running Taiwan.\""
+          },
+          {
+            "note": "\"I'm not looking to have somebody go independent. And, you know, we're supposed to travel 9,500 miles to fight a war. I'm not looking for that.\""
+          },
+          {
+            "note": "\"I want them to cool down. I want China to cool down.\""
+          },
+          {
+            "note": "\"We're not looking to have wars, and if you kept it the way it is, I think China's going to be OK with that.\""
+          },
+          {
+            "note": "\"They have somebody there now that wants to go independent. Well, it's a risky thing when you go independent. They're going independent because they want to get into a war and … they figure they have the United States behind them.\""
+          },
+          {
+            "note": "On US policy framing: \"Nothing's changed\" on US policy toward Taiwan."
+          },
+          {
+            "note": "On the $14bn arms package: \"I'm holding that in abeyance, and it depends on China. It's a very good negotiating chip for us, frankly.\""
+          },
+          {
+            "note": "On Taiwan's chip industry: \"I'd like to see everybody making chips over in Taiwan come into America.\" \"All of those chip companies, if they're smart, they're going to start heading to Arizona and the places where they're building. That's going to solve your problems.\""
+          },
+          {
+            "note": "[PRC Ministry of Foreign Affairs – Xi-Trump talks readout](https://www.fmprc.gov.cn/eng/xw/zyxw/202605/t20260514_11910330.html)"
+          },
+          {
+            "note": "[White House – Fact Sheet: Historic Deals with China](https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/)"
+          },
+          {
+            "note": "[Wang Yi briefing on summit and common understandings](https://english.www.gov.cn/news/202605/17/content_WS6a0912c5c6d00ca5f9a0b020.html)"
+          },
+          {
+            "note": "[Xinhua: 习近平同美国总统特朗普会谈](https://www.news.cn/politics/leaders/20260514/94fe0d22f1d340008651826543d29937/c.html)"
+          },
+          {
+            "note": "[CN MFA: 习近平同特朗普在中南海小范围会晤](https://www.mfa.gov.cn/zyxw/202605/t20260515_11911080.shtml)"
+          },
+          {
+            "note": "[White House on X: \"American strength back on the world stage\"](https://x.com/WhiteHouse): (US side video appearing to be a CN propaganda clip)"
+          },
+          {
+            "note": "[Atlantic Council expert panel: What did Trump and Xi accomplish?](https://www.atlanticcouncil.org/content-series/fastthinking/what-did-trump-and-xi-accomplish/)"
+          },
+          {
+            "note": "[CSIS: Trump-Xi Summit in Beijing](https://www.csis.org/analysis/trump-xi-summit-beijing-managing-worlds-most-important-relationship)"
+          },
+          {
+            "note": "[Noah Barkin: What Xi-Trump means for Europe](https://nbarkin.substack.com/p/what-xi-trump-means-for-europe)"
+          },
+          {
+            "note": "[CBS: Lawmakers press Trump for Taiwan support after Xi summit](https://www.cbsnews.com/news/lawmakers-press-trump-for-military-support-for-taiwan-after-he-leaves-arms-package-unresolved/)"
+          },
+          {
+            "note": "[Foreign Policy: \"The Trump-Xi Summit Was Remarkably Banal](https://foreignpolicy.com/2026/05/15/trump-xi-summit-china-us-presidential-visit)"
+          },
+          {
+            "note": "[CFR: \"Trump Wraps China Visit\"](https://www.cfr.org/articles/trump-wraps-china-visit)"
+          },
+          {
+            "note": "[Reuters: \"America's most powerful CEOs don't have much to show from their China trip so far](https://www.reuters.com/business/autos-transportation/americas-most-powerful-ceos-dont-have-much-show-their-china-trip-so-far-2026-05-15)\""
+          },
+          {
+            "note": "[WSJ: \"Five Takeaways From the Trump-Xi Summit](https://www.wsj.com/world/china/five-takeaways-from-the-trump-xi-summit-73a21236)\""
+          }
+        ]
+      }
     ]
   },
   "contextSections": [
@@ -36,103 +188,103 @@ window.W20_2026 = {
               "outlet": "FT",
               "date": "",
               "url": "https://www.ft.com/content/c2586266-b18d-49c2-99b6-e151eec312f1?syn-25a6b1a6=1",
-              "note": "**Xpeng in talks with VW about buying a factory in Europe** (FT)"
+              "note": "**Xpeng in talks with VW about buying a factory in Europe** ([FT](https://www.ft.com/content/c2586266-b18d-49c2-99b6-e151eec312f1?syn-25a6b1a6=1))"
             },
             {
               "outlet": "ZDF",
               "date": "",
               "url": "https://www.zdfheute.de/politik/sachsen-vw-werk-zwickau-china-partner-100.html",
-              "note": "**GER state leaders (Saxony and Lower Saxony) open for CN production in VW factory Zwickau** (ZDF, praise by Global Times)"
+              "note": "**GER state leaders (Saxony and Lower Saxony) open for CN production in VW factory Zwickau** ([ZDF](https://www.zdfheute.de/politik/sachsen-vw-werk-zwickau-china-partner-100.html), praise by [Global Times](https://www.globaltimes.cn/page/202605/1361008.shtml))"
             },
             {
               "outlet": "Reuters",
               "date": "",
               "url": "https://www.reuters.com/world/china/german-union-urges-caution-allowing-chinese-carmakers-use-vw-plants-2026-05-11/",
-              "note": "**German union urges caution on allowing Chinese carmakers to use VW plants** (Reuters)"
+              "note": "**German union urges caution on allowing Chinese carmakers to use VW plants** ([Reuters](https://www.reuters.com/world/china/german-union-urges-caution-allowing-chinese-carmakers-use-vw-plants-2026-05-11/))"
             },
             {
               "outlet": "HKFP",
               "date": "",
               "url": "https://hongkongfp.com/2026/05/17/german-town-fears-impact-of-industrial-decline-after-chemical-giant-shifts-focus-to-china/",
-              "note": "**German town fears impact of industrial decline after chemical giant shifts focus to China** (HKFP)"
+              "note": "**German town fears impact of industrial decline after chemical giant shifts focus to China** ([HKFP](https://hongkongfp.com/2026/05/17/german-town-fears-impact-of-industrial-decline-after-chemical-giant-shifts-focus-to-china/))"
             },
             {
               "outlet": "FT",
               "date": "",
               "url": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126?syn-25a6b1a6=1",
-              "note": "**Germany goes from labour shortages to hiring freezes** (FT): Germany is suffering from rising unemployment as several years of economic stagnation and industrial decline, in part driven by competition from China, finally feed through to the jobs market."
+              "note": "**Germany goes from labour shortages to hiring freezes** ([FT](https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126?syn-25a6b1a6=1)): Germany is suffering from rising unemployment as several years of economic stagnation and industrial decline, in part driven by competition from China, finally feed through to the jobs market."
             },
             {
               "outlet": "Africa Business Insider",
               "date": "",
               "url": "https://africa.businessinsider.com/local/markets/germany-turns-to-madagascar-graphite-as-europe-seeks-alternatives-to-china/8lfqlnb",
-              "note": "**Germany turns to Madagascar as Europe races to cut China out of the battery supply chain** (Africa Business Insider)"
+              "note": "**Germany turns to Madagascar as Europe races to cut China out of the battery supply chain** ([Africa Business Insider](https://africa.businessinsider.com/local/markets/germany-turns-to-madagascar-graphite-as-europe-seeks-alternatives-to-china/8lfqlnb))"
             },
             {
               "outlet": "Nikkei Asia",
               "date": "",
               "url": "https://asia.nikkei.com/business/markets/commodities/china-investor-gobbles-up-120-year-old-german-sewing-machine-maker",
-              "note": "**China investor gobbles up 120-year-old German sewing machine maker** (Nikkei Asia)"
+              "note": "**China investor gobbles up 120-year-old German sewing machine maker** ([Nikkei Asia](https://asia.nikkei.com/business/markets/commodities/china-investor-gobbles-up-120-year-old-german-sewing-machine-maker))"
             },
             {
               "outlet": "German Chamber of Commerce",
               "date": "",
               "url": "https://china.ahk.de/en/download/flash-survey-may-2026-slightly-more-positive-business-outlook-despite-impact-of-geopolitical-escalations",
-              "note": "**AHK Flash Survey: German firms in China most optimistic since 2023** (German Chamber of Commerce): 37% predict improvement (+22 pp vs 2025); 61% plan to raise China investments within two years; Iran war hit 75% of operations; 52% cite EU dependency-reduction as their top EU-China business concern."
+              "note": "**AHK Flash Survey: German firms in China most optimistic since 2023** ([German Chamber of Commerce](https://china.ahk.de/en/download/flash-survey-may-2026-slightly-more-positive-business-outlook-despite-impact-of-geopolitical-escalations)): 37% predict improvement (+22 pp vs 2025); 61% plan to raise China investments within two years; Iran war hit 75% of operations; 52% cite EU dependency-reduction as their top EU-China business concern."
             },
             {
               "outlet": "IW",
               "date": "",
               "url": "https://www.iwkoeln.de/presse/iw-nachrichten/juergen-matthes-handel-was-der-us-china-gipfel-fuer-die-deutsche-wirtschaft-bedeutet.html",
-              "note": "**IW Köln: EU sidelined in Trump-Xi Peking summit on tariffs** (IW): If the US secures preferential rare-earth supply from China, Beijing may tighten Europe-bound restrictions to deter EU action against Chinese market distortions."
+              "note": "**IW Köln: EU sidelined in Trump-Xi Peking summit on tariffs** ([IW](https://www.iwkoeln.de/presse/iw-nachrichten/juergen-matthes-handel-was-der-us-china-gipfel-fuer-die-deutsche-wirtschaft-bedeutet.html)): If the US secures preferential rare-earth supply from China, Beijing may tighten Europe-bound restrictions to deter EU action against Chinese market distortions."
             },
             {
               "outlet": "SCMP",
               "date": "",
               "url": "https://www.scmp.com/news/china/diplomacy/article/3353092/eu-subsidy-raids-chinese-company-nuctech-were-legal-court",
-              "note": "**EU subsidy raids on Chinese company Nuctech were legal, court rules** (SCMP)"
+              "note": "**EU subsidy raids on Chinese company Nuctech were legal, court rules** ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3353092/eu-subsidy-raids-chinese-company-nuctech-were-legal-court))"
             },
             {
               "outlet": "Reuters",
               "date": "",
               "url": "https://www.reuters.com/world/china/china-orders-entities-not-comply-with-eu-probe-into-nuctech-2026-05-15/",
-              "note": "**China orders entities not to comply with EU Nuctec probe** (Reuters)"
+              "note": "**China orders entities not to comply with EU Nuctec probe** ([Reuters](https://www.reuters.com/world/china/china-orders-entities-not-comply-with-eu-probe-into-nuctech-2026-05-15/))"
             },
             {
               "outlet": "POLITICO",
               "date": "",
               "url": "https://www.politico.eu/article/eu-commission-reduce-economic-dependence-chinese-trade-plan/",
-              "note": "**EU Commission plans new squeeze on Chinese trade** (POLITICO): DG Trade draws up “more assertive and effective trade defense policy”"
+              "note": "**EU Commission plans new squeeze on Chinese trade** ([POLITICO](https://www.politico.eu/article/eu-commission-reduce-economic-dependence-chinese-trade-plan/)): DG Trade draws up “more assertive and effective trade defense policy”"
             },
             {
               "outlet": "FT",
               "date": "",
               "url": "https://www.ft.com/content/57b4852c-f323-45b8-b8d0-5a6426dd781e?syn-25a6b1a6=1",
-              "note": "**EU plans to force companies to buy parts from non-Chinese suppliers** (FT): Proposed rules seek to target chemicals and industrial machinery makers"
+              "note": "**EU plans to force companies to buy parts from non-Chinese suppliers** ([FT](https://www.ft.com/content/57b4852c-f323-45b8-b8d0-5a6426dd781e?syn-25a6b1a6=1)): Proposed rules seek to target chemicals and industrial machinery makers"
             },
             {
               "outlet": "EEAS",
               "date": "",
               "url": "https://www.eeas.europa.eu/delegations/china/opening-speech-european-union-ambassador-china-mr-jorge-toledo-2nd-eu-china-conference-navigating_en?s=166",
-              "note": "**Opening Speech by European Union Ambassador to China Mr Jorge Toledo at the 2nd EU-China Conference: navigating beyond the inflection point** (EEAS)"
+              "note": "**Opening Speech by European Union Ambassador to China Mr Jorge Toledo at the 2nd EU-China Conference: navigating beyond the inflection point** ([EEAS](https://www.eeas.europa.eu/delegations/china/opening-speech-european-union-ambassador-china-mr-jorge-toledo-2nd-eu-china-conference-navigating_en?s=166))"
             },
             {
               "outlet": "SCMP",
               "date": "",
               "url": "https://www.scmp.com/news/china/diplomacy/article/3353867/sinking-ship-why-eu-and-china-could-be-heading-trade-war",
-              "note": "**A sinking ship? Why the EU and China could be heading for a trade war** (SCMP): Clashes at a conference in Chinese capital reflect wider tensions that threaten to descend into an economic conflict."
+              "note": "**A sinking ship? Why the EU and China could be heading for a trade war** ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3353867/sinking-ship-why-eu-and-china-could-be-heading-trade-war)): Clashes at a conference in Chinese capital reflect wider tensions that threaten to descend into an economic conflict."
             },
             {
               "outlet": "SCMP",
               "date": "",
               "url": "https://www.scmp.com/news/china/diplomacy/article/3353452/netherlands-protests-us-proposal-further-bar-chip-giant-asml-china-market",
-              "note": "**Netherlands protests U.S. MATCH Act extending DUV / China-servicing ban for ASML** (SCMP): The Hague lodged an official objection over the extraterritoriality of the bipartisan US bill."
+              "note": "**Netherlands protests U.S. MATCH Act extending DUV / China-servicing ban for ASML** ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3353452/netherlands-protests-us-proposal-further-bar-chip-giant-asml-china-market)): The Hague lodged an official objection over the extraterritoriality of the bipartisan US bill."
             },
             {
               "outlet": "FT",
               "date": "",
               "url": "https://www.ft.com/content/b1fdbad1-2793-4975-a10b-74bb928d3b13",
-              "note": "**France presses EU to crack down on platforms like Shein and Temu** (FT): Paris urges EU sanctions up to 4% of annual turnover; 46% of tested foreign-marketplace products were non-conforming or dangerous."
+              "note": "**France presses EU to crack down on platforms like Shein and Temu** ([FT](https://www.ft.com/content/b1fdbad1-2793-4975-a10b-74bb928d3b13)): Paris urges EU sanctions up to 4% of annual turnover; 46% of tested foreign-marketplace products were non-conforming or dangerous."
             }
           ]
         }

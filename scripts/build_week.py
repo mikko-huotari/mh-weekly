@@ -206,12 +206,12 @@ def parse_context_section(text: str) -> dict | None:
             text_part = link.group("text")
             url = link.group("url")
             outlet = text_part.split("|")[-1].strip() if "|" in text_part else text_part.split("—")[-1].strip() or text_part
-            # Replace the link with the link text, then strip ` — ` prefix on note
-            stripped = INLINE_LINK_RE.sub(lambda mm: mm.group("text"), line)
-            note = stripped.strip(" -—")
+            # Keep the `[text](url)` markdown in the note so inlineMd renders it
+            # as a clickable link. Just strip any leading separator from the bullet.
+            note = line.strip(" -—")
             items.append({"outlet": outlet[:40], "date": "", "url": url, "note": note})
         else:
-            items.append({"outlet": "—", "date": "", "url": "", "note": line})
+            items.append({"outlet": "", "date": "", "url": "", "note": line})
 
     return {
         "label": "German China policy in context",
@@ -348,21 +348,8 @@ def parse_research_section(text: str) -> dict | None:
 # Spotlight section
 # ---------------------------------------------------------------------------
 
-def parse_spotlight_section(text: str) -> dict:
-    """Parse `## Spotlight: <subtitle>` into title + intro + top-level bullets.
-    H3 sub-sections inside Spotlight are ignored (hand-edit if you want them)."""
-    m = re.search(r"^##\s+(Spotlight[^\n]*)$", text, re.MULTILINE)
-    if not m:
-        return {"title": "Spotlight", "intro": "", "items": []}
-    title = m.group(1).strip()
-    start = m.end()
-    nxt = re.search(r"^(##\s|#\s)", text[start:], re.MULTILINE)
-    end = start + nxt.start() if nxt else len(text)
-    body = text[start:end]
-    # Stop at first ### so the top-level bullets are isolated from sub-sections.
-    h3_m = re.search(r"^###\s", body, re.MULTILINE)
-    if h3_m:
-        body = body[:h3_m.start()]
+def _split_spotlight_subsection(body: str) -> tuple[list[str], list[dict]]:
+    """Split a Spotlight sub-section body into intro paragraphs and bullet items."""
     intro_parts: list[str] = []
     items: list[dict] = []
     in_bullets = False
@@ -375,10 +362,43 @@ def parse_spotlight_section(text: str) -> dict:
             items.append({"note": ls[2:].strip()})
         elif not in_bullets:
             intro_parts.append(ls)
+    return intro_parts, items
+
+
+def parse_spotlight_section(text: str) -> dict:
+    """Parse `## Spotlight: <subtitle>` into title + intro + top-level bullets
+    + subsections[]. Each H3 inside the Spotlight becomes a subsection with
+    its own intro paragraphs and bullet items."""
+    m = re.search(r"^##\s+(Spotlight[^\n]*)$", text, re.MULTILINE)
+    if not m:
+        return {"title": "Spotlight", "intro": "", "items": [], "subsections": []}
+    title = m.group(1).strip()
+    start = m.end()
+    nxt = re.search(r"^(##\s|#\s)", text[start:], re.MULTILINE)
+    end = start + nxt.start() if nxt else len(text)
+    body = text[start:end]
+
+    h3_iter = list(re.finditer(r"^###\s+(.+?)\s*$", body, re.MULTILINE))
+    top_end = h3_iter[0].start() if h3_iter else len(body)
+    intro_parts, items = _split_spotlight_subsection(body[:top_end])
+
+    subsections: list[dict] = []
+    for i, h in enumerate(h3_iter):
+        label = h.group(1).strip()
+        sub_start = h.end()
+        sub_end = h3_iter[i + 1].start() if i + 1 < len(h3_iter) else len(body)
+        sub_intro, sub_items = _split_spotlight_subsection(body[sub_start:sub_end])
+        subsections.append({
+            "label": label,
+            "intro": " ".join(sub_intro).strip(),
+            "items": sub_items,
+        })
+
     return {
         "title": title,
         "intro": " ".join(intro_parts).strip(),
         "items": items,
+        "subsections": subsections,
     }
 
 
