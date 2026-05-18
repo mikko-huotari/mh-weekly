@@ -14,13 +14,15 @@ window.W20_2026 = {
       {
         "note": "**The summit was rich in theater, but not in substance.** It prioritized atmospherics over deliverables. For China, the primary goals were establishing a \"floor\" to prevent escalation, buying time and securing advances on Taiwan, while it remains hard to understand what the primary goals were for Trump (or the USG) beyond selected transactional outcomes.",
         "tags": [
-          "twn"
+          "twn",
+          "diplomacy"
         ]
       },
       {
         "note": "What sticks are Trump's effusive comments, which seem more about personal validation-seeking (and family rent-seeking), **allowing Beijing to set the tone and win at least strategic communication points**.",
         "tags": [
-          "us-cn"
+          "us-cn",
+          "diplomacy"
         ]
       },
       {
@@ -138,13 +140,15 @@ window.W20_2026 = {
               "us-cn",
               "semcon",
               "trade",
-              "export-controls"
+              "export-controls",
+              "diplomacy"
             ]
           },
           {
             "note": "**The H200 file seems frozen, but on Beijing's terms?** Commerce Secretary Lutnick told a Senate hearing that not a single Nvidia H200 has shipped to any of the ten US-approved Chinese buyers. Trump (post-summit): Beijing \"chose not to\" approve H200 purchases because \"they want to develop their own\". The US framing has now flipped: China, not Washington, is the side refusing the chips. Markets read it as \"no deal\" and sold off Nvidia and Intel sharply.",
             "tags": [
-              "semcon"
+              "semcon",
+              "diplomacy"
             ]
           },
           {
@@ -171,7 +175,8 @@ window.W20_2026 = {
             "note": "\"I heard him out. I didn't make a comment. I made no commitment either way.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
@@ -184,35 +189,40 @@ window.W20_2026 = {
             "note": "Xi \"feels very strongly\" and \"doesn't want to see a movement for independence.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
             "note": "\"We talked the whole night about that issue.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
             "note": "Asked if he foresaw a war: \"No, I don't think so. I think we'll be fine. Xi doesn't want to see a war.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
             "note": "\"I think the last thing we need right now is a war that's 9,500 miles away.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
             "note": "On arms package: \"I will make a determination... I'll make a determination over the next fairly short period.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
@@ -225,28 +235,32 @@ window.W20_2026 = {
             "note": "\"I'm not looking to have somebody go independent. And, you know, we're supposed to travel 9,500 miles to fight a war. I'm not looking for that.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
             "note": "\"I want them to cool down. I want China to cool down.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
             "note": "\"We're not looking to have wars, and if you kept it the way it is, I think China's going to be OK with that.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
             "note": "\"They have somebody there now that wants to go independent. Well, it's a risky thing when you go independent. They're going independent because they want to get into a war and … they figure they have the United States behind them.\"",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
@@ -289,6 +303,7 @@ window.W20_2026 = {
           {
             "note": "[Wang Yi briefing on summit and common understandings](https://english.www.gov.cn/news/202605/17/content_WS6a0912c5c6d00ca5f9a0b020.html)",
             "tags": [
+              "diplomacy",
               "cn-discourse"
             ]
           },
@@ -301,7 +316,8 @@ window.W20_2026 = {
           {
             "note": "[CN MFA: 习近平同特朗普在中南海小范围会晤](https://www.mfa.gov.cn/zyxw/202605/t20260515_11911080.shtml)",
             "tags": [
-              "us-cn"
+              "us-cn",
+              "diplomacy"
             ]
           },
           {
@@ -320,7 +336,8 @@ window.W20_2026 = {
           {
             "note": "[CSIS: Trump-Xi Summit in Beijing](https://www.csis.org/analysis/trump-xi-summit-beijing-managing-worlds-most-important-relationship)",
             "tags": [
-              "us-cn"
+              "us-cn",
+              "diplomacy"
             ]
           },
           {
@@ -333,31 +350,36 @@ window.W20_2026 = {
             "note": "[CBS: Lawmakers press Trump for Taiwan support after Xi summit](https://www.cbsnews.com/news/lawmakers-press-trump-for-military-support-for-taiwan-after-he-leaves-arms-package-unresolved/)",
             "tags": [
               "us-cn",
-              "twn"
+              "twn",
+              "diplomacy"
             ]
           },
           {
             "note": "[Foreign Policy: \"The Trump-Xi Summit Was Remarkably Banal](https://foreignpolicy.com/2026/05/15/trump-xi-summit-china-us-presidential-visit)",
             "tags": [
-              "us-cn"
+              "us-cn",
+              "diplomacy"
             ]
           },
           {
             "note": "[CFR: \"Trump Wraps China Visit\"](https://www.cfr.org/articles/trump-wraps-china-visit)",
             "tags": [
-              "us-cn"
+              "us-cn",
+              "diplomacy"
             ]
           },
           {
             "note": "[Reuters: \"America's most powerful CEOs don't have much to show from their China trip so far](https://www.reuters.com/business/autos-transportation/americas-most-powerful-ceos-dont-have-much-show-their-china-trip-so-far-2026-05-15)\"",
             "tags": [
-              "us-cn"
+              "us-cn",
+              "diplomacy"
             ]
           },
           {
             "note": "[WSJ: \"Five Takeaways From the Trump-Xi Summit](https://www.wsj.com/world/china/five-takeaways-from-the-trump-xi-summit-73a21236)\"",
             "tags": [
-              "us-cn"
+              "us-cn",
+              "diplomacy"
             ]
           }
         ]
@@ -407,7 +429,8 @@ window.W20_2026 = {
               "url": "https://hongkongfp.com/2026/05/17/german-town-fears-impact-of-industrial-decline-after-chemical-giant-shifts-focus-to-china/",
               "note": "**[German town fears impact of industrial decline after chemical giant shifts focus to China](https://hongkongfp.com/2026/05/17/german-town-fears-impact-of-industrial-decline-after-chemical-giant-shifts-focus-to-china/)**",
               "tags": [
-                "de-cn"
+                "de-cn",
+                "hk"
               ]
             },
             {
@@ -461,7 +484,8 @@ window.W20_2026 = {
               "note": "**[IW Köln: EU sidelined in Trump-Xi Peking summit on tariffs](https://www.iwkoeln.de/presse/iw-nachrichten/juergen-matthes-handel-was-der-us-china-gipfel-fuer-die-deutsche-wirtschaft-bedeutet.html)**: If the US secures preferential rare-earth supply from China, Beijing may tighten Europe-bound restrictions to deter EU action against Chinese market distortions.",
               "tags": [
                 "us-cn",
-                "rare-earths"
+                "rare-earths",
+                "diplomacy"
               ]
             }
           ]
@@ -587,7 +611,9 @@ window.W20_2026 = {
                 "de-cn",
                 "energy",
                 "ideology",
-                "climate"
+                "climate",
+                "industrial-policy",
+                "diplomacy"
               ]
             },
             {
@@ -643,7 +669,8 @@ window.W20_2026 = {
                 "rare-earths",
                 "macro",
                 "trade",
-                "export-controls"
+                "export-controls",
+                "diplomacy"
               ]
             }
           ]
@@ -668,7 +695,8 @@ window.W20_2026 = {
                 "mid-east",
                 "semcon",
                 "ai",
-                "trade"
+                "trade",
+                "diplomacy"
               ]
             },
             {
@@ -845,7 +873,8 @@ window.W20_2026 = {
             ]
           ],
           "tags": [
-            "ideology"
+            "ideology",
+            "diplomacy"
           ]
         },
         {
@@ -868,7 +897,9 @@ window.W20_2026 = {
             ]
           ],
           "tags": [
+            "hk",
             "property",
+            "markets",
             "sanctions",
             "pla"
           ]
@@ -1049,7 +1080,8 @@ window.W20_2026 = {
           ],
           "tags": [
             "ideology",
-            "bri"
+            "bri",
+            "human-rights"
           ]
         },
         {
@@ -1238,7 +1270,8 @@ window.W20_2026 = {
             "semcon",
             "ai",
             "trade",
-            "export-controls"
+            "export-controls",
+            "diplomacy"
           ]
         },
         {
@@ -1286,7 +1319,8 @@ window.W20_2026 = {
             "semcon",
             "ai",
             "trade",
-            "export-controls"
+            "export-controls",
+            "diplomacy"
           ]
         },
         {
@@ -1440,7 +1474,8 @@ window.W20_2026 = {
             "macro",
             "ideology",
             "climate",
-            "pla"
+            "pla",
+            "diplomacy"
           ]
         }
       ]
@@ -1467,6 +1502,7 @@ window.W20_2026 = {
             ]
           ],
           "tags": [
+            "uk-cn",
             "energy",
             "security",
             "climate"
@@ -1489,7 +1525,8 @@ window.W20_2026 = {
           ],
           "tags": [
             "batteries",
-            "energy"
+            "energy",
+            "markets"
           ]
         },
         {
@@ -1511,7 +1548,8 @@ window.W20_2026 = {
             "mid-east",
             "energy",
             "macro",
-            "trade"
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -1631,7 +1669,8 @@ window.W20_2026 = {
             "robotics",
             "energy",
             "trade",
-            "supply-chain"
+            "supply-chain",
+            "industrial-policy"
           ]
         },
         {
@@ -1681,6 +1720,7 @@ window.W20_2026 = {
           ],
           "tags": [
             "twn",
+            "hk",
             "mid-east",
             "energy"
           ]
@@ -1709,7 +1749,8 @@ window.W20_2026 = {
             "mid-east",
             "energy",
             "macro",
-            "trade"
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -1728,7 +1769,8 @@ window.W20_2026 = {
             ]
           ],
           "tags": [
-            "us-cn"
+            "us-cn",
+            "diplomacy"
           ]
         },
         {
@@ -1762,7 +1804,8 @@ window.W20_2026 = {
             ]
           ],
           "tags": [
-            "trade"
+            "trade",
+            "industrial-policy"
           ]
         },
         {
@@ -1876,7 +1919,8 @@ window.W20_2026 = {
           "tags": [
             "macro",
             "society",
-            "ideology"
+            "ideology",
+            "industrial-policy"
           ]
         },
         {
@@ -1926,7 +1970,8 @@ window.W20_2026 = {
           "tags": [
             "ru-cn",
             "security",
-            "trade"
+            "trade",
+            "espionage"
           ]
         },
         {
@@ -1947,6 +1992,9 @@ window.W20_2026 = {
               "Chinese tourist surge raises grey-zone surveillance concerns",
               "Chinese overnight stays in Norway rose 78% year-on-year to 392,000, with analysts warning intelligence operators may enter covertly as tourists."
             ]
+          ],
+          "tags": [
+            "espionage"
           ]
         },
         {
@@ -1988,7 +2036,8 @@ window.W20_2026 = {
             "mid-east",
             "ru-cn",
             "sea",
-            "energy"
+            "energy",
+            "diplomacy"
           ]
         },
         {
@@ -2072,7 +2121,8 @@ window.W20_2026 = {
             "twn",
             "semcon",
             "energy",
-            "aerospace"
+            "aerospace",
+            "diplomacy"
           ]
         },
         {
@@ -2100,7 +2150,8 @@ window.W20_2026 = {
             "bio-pharma",
             "trade",
             "export-controls",
-            "supply-chain"
+            "supply-chain",
+            "diplomacy"
           ]
         },
         {
@@ -2125,7 +2176,8 @@ window.W20_2026 = {
           "tags": [
             "twn",
             "mid-east",
-            "energy"
+            "energy",
+            "diplomacy"
           ]
         },
         {
@@ -2145,8 +2197,10 @@ window.W20_2026 = {
           ],
           "tags": [
             "us-cn",
+            "uk-cn",
             "ru-cn",
-            "pla"
+            "pla",
+            "diplomacy"
           ]
         },
         {
@@ -2165,7 +2219,8 @@ window.W20_2026 = {
             ]
           ],
           "tags": [
-            "twn"
+            "twn",
+            "diplomacy"
           ]
         },
         {
@@ -2227,7 +2282,8 @@ window.W20_2026 = {
           "tags": [
             "us-cn",
             "mid-east",
-            "sanctions"
+            "sanctions",
+            "diplomacy"
           ]
         },
         {
@@ -2248,7 +2304,8 @@ window.W20_2026 = {
           "tags": [
             "us-cn",
             "twn",
-            "trade"
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -2306,7 +2363,8 @@ window.W20_2026 = {
           ],
           "tags": [
             "energy",
-            "investment"
+            "investment",
+            "diplomacy"
           ]
         },
         {
@@ -2333,7 +2391,8 @@ window.W20_2026 = {
             "semcon",
             "rare-earths",
             "trade",
-            "export-controls"
+            "export-controls",
+            "diplomacy"
           ]
         },
         {
@@ -2475,7 +2534,9 @@ window.W20_2026 = {
           "tags": [
             "us-cn",
             "security",
-            "sanctions"
+            "sanctions",
+            "espionage",
+            "diplomacy"
           ]
         },
         {
@@ -2501,6 +2562,7 @@ window.W20_2026 = {
             "eu-cn",
             "auto",
             "trade",
+            "industrial-policy",
             "pla"
           ]
         },
@@ -2528,6 +2590,7 @@ window.W20_2026 = {
             "de-cn",
             "mid-east",
             "trade",
+            "industrial-policy",
             "pla"
           ]
         },
@@ -2621,7 +2684,8 @@ window.W20_2026 = {
             "us-cn",
             "de-cn",
             "aerospace",
-            "trade"
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -2643,7 +2707,8 @@ window.W20_2026 = {
             "us-cn",
             "de-cn",
             "rare-earths",
-            "trade"
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -2680,6 +2745,9 @@ window.W20_2026 = {
               "China's commerce ministry demanded protection of Hebei Jingye's investor rights",
               "Jingye acquired British Steel in 2020 for £53 million and invested over £1.2 billion, despite daily losses of £700,000, before the UK assumed de facto control in 2025."
             ]
+          ],
+          "tags": [
+            "uk-cn"
           ]
         },
         {
@@ -2699,7 +2767,8 @@ window.W20_2026 = {
           ],
           "tags": [
             "latam",
-            "trade"
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -2719,7 +2788,8 @@ window.W20_2026 = {
           ],
           "tags": [
             "rare-earths",
-            "trade"
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -2767,8 +2837,10 @@ window.W20_2026 = {
           ],
           "tags": [
             "us-cn",
+            "uk-cn",
             "energy",
-            "trade"
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -2809,7 +2881,8 @@ window.W20_2026 = {
           "tags": [
             "us-cn",
             "latam",
-            "bio-pharma"
+            "bio-pharma",
+            "diplomacy"
           ]
         },
         {

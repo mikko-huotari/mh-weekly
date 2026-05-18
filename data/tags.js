@@ -30,14 +30,18 @@ window.TAGS = {
     { id: "us-cn",        label: "US-CN",        group: "geo" },
     { id: "eu-cn",        label: "EU-CN",        group: "geo" },
     { id: "de-cn",        label: "DE-CN",        group: "geo" },
+    { id: "uk-cn",        label: "UK-CN",        group: "geo" },
     { id: "jp-cn",        label: "JP-CN",        group: "geo" },
     { id: "india-cn",     label: "IN-CN",        group: "geo" },
     { id: "twn",          label: "Taiwan",       group: "geo" },
+    { id: "hk",           label: "Hong Kong",    group: "geo" },
     { id: "mid-east",     label: "Mid-East",     group: "geo" },
     { id: "ru-cn",        label: "RU-CN",        group: "geo" },
     { id: "sea",          label: "SEA",          group: "geo" },
     { id: "latam",        label: "LatAm",        group: "geo" },
     { id: "afr",          label: "Africa",       group: "geo" },
+    { id: "sco",          label: "SCO",          group: "geo" },
+    { id: "brics",        label: "BRICS",        group: "geo" },
 
     // Sectors / tech
     { id: "semcon",       label: "Semcon",       group: "sector" },
@@ -59,6 +63,7 @@ window.TAGS = {
     { id: "corruption",   label: "Corruption",   group: "domestic" },
     { id: "security",     label: "Security",     group: "domestic" },
     { id: "climate",      label: "Climate",      group: "domestic" },
+    { id: "markets",      label: "Markets",      group: "domestic" },
 
     // Geoeconomics tools
     { id: "trade",            label: "Trade",             group: "geoecon" },
@@ -68,6 +73,7 @@ window.TAGS = {
     { id: "investment",       label: "Investment",        group: "geoecon" },
     { id: "supply-chain",     label: "Supply chain",      group: "geoecon" },
     { id: "bri",              label: "BRI",               group: "geoecon" },
+    { id: "industrial-policy", label: "Industrial policy", group: "geoecon" },
 
     // Defense & external
     { id: "pla",          label: "PLA",          group: "defense" },
@@ -75,9 +81,12 @@ window.TAGS = {
     { id: "cyber",        label: "Cyber",        group: "defense" },
     { id: "nuclear",      label: "Nuclear",      group: "defense" },
     { id: "maritime",     label: "Maritime",     group: "defense" },
+    { id: "espionage",    label: "Espionage",    group: "defense" },
+    { id: "diplomacy",    label: "Diplomacy",    group: "defense" },
 
     // Discourse
     { id: "cn-discourse", label: "CN discourse", group: "discourse" },
-    { id: "propaganda",   label: "Propaganda",   group: "discourse" }
+    { id: "propaganda",   label: "Propaganda",   group: "discourse" },
+    { id: "human-rights", label: "Human rights", group: "discourse" }
   ]
 };
