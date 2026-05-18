@@ -351,9 +351,17 @@ def _parse_part_ii_new_schema(text: str) -> dict | None:
                 if not ls.startswith("- "):
                     continue
                 content = ls[2:].strip()
-                link = INLINE_LINK_RE.search(content)
-                url = link.group("url") if link else ""
-                outlet = (link.group("text") if link else "MERICS")[:40]
+                links = list(INLINE_LINK_RE.finditer(content))
+                url = links[0].group("url") if links else ""
+                if len(links) > 1:
+                    # Multi-source bullet — use the generic Media badge so we
+                    # don't misleadingly pin the entry to the first outlet in
+                    # the list.
+                    outlet = "Media"
+                elif links:
+                    outlet = links[0].group("text")[:40]
+                else:
+                    outlet = "MERICS"
                 # Keep `[text](url)` markdown so inlineMd renders each outlet
                 # name as its own clickable link in the rendered bullet.
                 items.append({

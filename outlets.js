@@ -129,7 +129,7 @@ window.OUTLET_MAP = {
   "Lin Yifu (former World Bank chief economist)":         { mono: "林",  bg: "#1A1916", fg: "#FFFFFF" },
 
   // ---------------- Catch-alls ---------------------
-  "Media":           { mono: "·",   bg: "#7A786F", fg: "#FFFFFF" }
+  "Media":           { svg: "news", mono: "···", bg: "#7A786F", fg: "#FFFFFF" }
 };
 
 window.outletBadge = function (name) {
@@ -148,6 +148,18 @@ window.outletBadge = function (name) {
     return `<span class="${cls}" aria-label="${escape(name)}">`
       + `<img src="${escape(m.iconUrl)}" alt="" loading="lazy" />`
       + `</span>`;
+  }
+
+  // Inline-SVG glyphs (currently only the generic "news" icon for multi-source
+  // bullets). Keeps the asset tree tidy — no extra PNG to ship.
+  if (m && m.svg === "news") {
+    const svg = '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" '
+      + 'stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" '
+      + 'aria-hidden="true"><rect x="3" y="5" width="14" height="11" rx="1"/>'
+      + '<line x1="6" y1="9" x2="14" y2="9"/><line x1="6" y1="12" x2="14" y2="12"/>'
+      + '<line x1="6" y1="14.5" x2="11" y2="14.5"/></svg>';
+    return `<span class="outlet-badge has-svg" style="background:${m.bg};color:${m.fg}" `
+      + `aria-label="${escape(name)}">${svg}</span>`;
   }
 
   if (!m) {
