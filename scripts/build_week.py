@@ -152,6 +152,33 @@ NUMBERED_LABELS = {
 }
 
 
+def parse_chinese_debates_section(text: str) -> dict | None:
+    """Parse `## Chinese debates` under Part III as another tabbable section."""
+    m = re.search(r"^##\s+Chinese debates\s*$", text, re.MULTILINE)
+    if not m:
+        return None
+    start = m.end()
+    nxt = re.search(r"^(##\s+(?:\d+[a-z]?|[IVX]+)|#\s+[IVX]+\.)", text[start:], re.MULTILINE)
+    end = start + nxt.start() if nxt else len(text)
+    body = text[start:end]
+    items: list[dict] = []
+    for block in split_article_blocks(body):
+        entry = parse_article_block(block)
+        if entry is None and "_parse_relaxed_article_block" in globals():
+            entry = _parse_relaxed_article_block(block)
+        if entry:
+            items.append(entry)
+    if not items:
+        return None
+    return {
+        "number": "",
+        "slug": "debates",
+        "short": "CN Debates",
+        "label": "Chinese debates",
+        "items": items,
+    }
+
+
 def parse_numbered_section(text: str, number: str) -> dict | None:
     """Find `## N. ...` heading and extract article entries underneath."""
     # Accept e.g. '## 1.' or '## 3a.' allowing punctuation variants.
@@ -550,6 +577,9 @@ def main() -> None:
     top_charts = parse_top_charts_section(text, week_id)
 
     numbered = []
+    debates = parse_chinese_debates_section(text)
+    if debates and debates["items"]:
+        numbered.append(debates)
     for num in ["1", "2", "3", "3a", "3b", "4", "5"]:
         sec = parse_numbered_section(text, num)
         if sec and sec["items"]:

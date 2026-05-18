@@ -154,7 +154,7 @@ Schema (dies ist die ZIELSTRUKTUR):
 Regeln (zwingend):
 1. Behalte den deutschen Text WORT-WÖRTLICH. Keine Übersetzung, keine Paraphrase, keine Zusammenfassung.
 2. Entferne führende "- " und "**" Bold-Marker bei den Zitaten/Fakten/Themen.
-3. Zitate: `lead` = fett markierter Name (inkl. Rolle in Klammern). `text` = alles zwischen Lead und "(Source:".
+3. Zitate: `lead` = NUR der Name der Person (z.B. "Donald Trump", "Xi Jinping"). KEINE Rolle, KEIN Verb, KEINE Klammern im Lead. `text` = der gesamte Body-Satz (inklusive eventueller Verben wie "bekräftigte"/"warnte" und Rollenangaben) bis "(Source:".
 4. Fakten: `lead` = fett markierter Kurz-Titel. `text` = Body bis "(Source:".
 5. Themen: `title` = fett markierter Titel. `text` = alles zwischen Titel und "Prominente Quellen:". `sources` = die Liste danach.
 6. Deutsche Daten "27. April 2026" → ISO "2026-04-27". Monate: Januar=01, Februar=02, März=03, April=04, Mai=05, Juni=06, Juli=07, August=08, September=09, Oktober=10, November=11, Dezember=12.
@@ -232,6 +232,18 @@ def main() -> int:
             sec["number"] = {"quotes": "1", "facts": "2", "themes": "3"}[slug]
             sec["short"] = short
             sec["label"] = label
+
+    # Safety net: even if Gemini slips a parenthetical into a Zitate lead,
+    # strip it so the bold name stays clean (e.g. "Donald Trump (bekräftigte)"
+    # → "Donald Trump"). Role context belongs in the body text.
+    for sec in parsed.get("sections", []):
+        if sec.get("slug") != "quotes":
+            continue
+        for it in sec.get("items", []):
+            lead = (it.get("lead") or "").strip()
+            cleaned = re.sub(r"\s*\([^)]*\)\s*$", "", lead).strip()
+            if cleaned:
+                it["lead"] = cleaned
 
     parsed["label"] = "Wochenbericht: CN-Beziehungen durch die DE-Medien-Brille"
     parsed["caveat"] = caveat_for(args.week_id)

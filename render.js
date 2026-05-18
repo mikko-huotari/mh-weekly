@@ -343,7 +343,7 @@
         <span class="entry-outlet">${esc(display)}</span>
         ${date ? `<span class="entry-sep">&middot;</span><span class="entry-date">${esc(date)}</span>` : ""}
       </div>
-      <p class="wb-text"><strong>${esc(item.lead || "")}</strong> ${esc(item.text || "")}</p>
+      <p class="wb-text"><strong>${esc((item.lead || "").replace(/\s*\([^)]*\)\s*$/, "").trim())}</strong> ${esc(item.text || "")}</p>
       ${src.title ? `<p class="wb-source">“${esc(src.title)}”</p>` : ""}
     </article>`;
   }
