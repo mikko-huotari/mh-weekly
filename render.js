@@ -292,7 +292,6 @@
         <header class="section-h">
           <h2 class="label">Top Charts W${w.week}</h2>
         </header>
-        <p class="section-note">Data provided by SOAPBOX.</p>
         <div class="charts-grid">${items}</div>
       </section>`;
   }
