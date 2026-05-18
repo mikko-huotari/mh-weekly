@@ -92,16 +92,26 @@ window.OUTLET_MAP = {
   "NZZ":              { iconUrl: "assets/icons/nzz.png",          mono: "N",   bg: "#000000", fg: "#FFFFFF", font: "serif" },
 
   // ---------------- MERICS — house red -------------
-  "MERICS":                          { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
-  "MERICS Europe China 360°":        { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
-  "MERICS China Essentials":         { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
-  "MERICS briefings":                { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
-  "MERICS — Future China Conversation": { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
-  "MERICS — China in 26 podcast":    { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
-  "MERICS — online briefing":        { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
-  "Soapbox × MERICS":                { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
-  "Soapbox–MERICS Data Highlight":   { mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS":                          { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS Europe China 360°":        { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS China Essentials":         { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS briefings":                { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS China Industries Brief":   { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS Comment":                  { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS — Future China Conversation": { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS — China in 26 podcast":    { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "MERICS — online briefing":        { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "Soapbox × MERICS":                { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
+  "Soapbox–MERICS Data Highlight":   { iconUrl: "assets/merics_logo_short.png", mono: "M", bg: "#E8412B", fg: "#FFFFFF" },
   "Soapbox Trade":                   { mono: "S", bg: "#0A0A0A", fg: "#FFFFFF" },
+
+  // ---------------- Additional broadcast/digital --
+  "Nikkei Asia":                     { iconUrl: "assets/icons/nikkei.png", mono: "N",  bg: "#D4202C", fg: "#FFFFFF" },
+  "Deutsche Welle":                  { mono: "DW", bg: "#003366", fg: "#FFFFFF", size: 8 },
+  "DW":                              { mono: "DW", bg: "#003366", fg: "#FFFFFF", size: 8 },
+  "Global News Morning Toronto":     { mono: "GN", bg: "#0033A0", fg: "#FFFFFF", size: 8 },
+  "Global News":                     { mono: "GN", bg: "#0033A0", fg: "#FFFFFF", size: 8 },
+  "Newsweek":                        { mono: "NW", bg: "#E20000", fg: "#FFFFFF", size: 8 },
 
   // ---------------- MERICS staff headshots ---------
   "Jacob Gunter":      { iconUrl: "assets/people/gunter.jpg",     shape: "round", mono: "JG", bg: "#1A1916", fg: "#FFFFFF" },
