@@ -223,7 +223,92 @@ def parse_context_section(text: str) -> dict | None:
 # Research section
 # ---------------------------------------------------------------------------
 
+def _parse_relaxed_article_block(block: str) -> dict | None:
+    """Permissive '### ...' parser for Publications-style headers that don't
+    match the strict ARTICLE_HEADER_RE (e.g. MERICS China Industries Brief
+    where the title sits inside the bold span)."""
+    m = re.search(r"^###\s+(.+?)$", block, re.MULTILINE)
+    if not m:
+        return None
+    header = m.group(1).strip()
+    bold_m = re.search(r"\*\*([^*]+)\*\*", header)
+    outlet = (bold_m.group(1).split(":")[0].strip() if bold_m else "MERICS")[:60]
+    link_m = INLINE_LINK_RE.search(header)
+    url = link_m.group("url") if link_m else ""
+    date_m = re.search(r"(\d{4}-\d{2}-\d{2})", header)
+    raw_date = date_m.group(1) if date_m else ""
+    title_m = re.search(r'"\s*\*\*([^*]+)\*\*\s*"', header) or re.search(r'"\s*([^"]+)\s*"', header)
+    if title_m:
+        title = title_m.group(1).strip()
+    elif bold_m and ":" in bold_m.group(1):
+        title = bold_m.group(1).split(":", 1)[1].strip(' "')
+    else:
+        title = header
+    body = block[m.end():]
+    bullets: list[list[str]] = []
+    for bm in BULLET_RE.finditer(body):
+        bullets.append([bm.group("lead").strip(), bm.group("rest").strip()])
+    if not bullets:
+        for line in body.splitlines():
+            ls = line.strip()
+            if ls.startswith("- "):
+                bullets.append(["", ls[2:].strip()])
+    return {"outlet": outlet, "title": title, "date": raw_date, "url": url, "bullets": bullets}
+
+
+def _parse_part_ii_new_schema(text: str) -> dict | None:
+    """W20+ Part II: `# II. MERICS` containing `## Publications`, `## Selected
+    insights for media by colleagues`, etc. Top Charts is skipped."""
+    m = re.search(r"^#\s+II\.\s+MERICS\s*$", text, re.MULTILINE)
+    if not m:
+        return None
+    start = m.end()
+    nxt = re.search(r"^#\s+III\.", text[start:], re.MULTILINE)
+    end = start + nxt.start() if nxt else len(text)
+    body = text[start:end]
+
+    sub_headers = list(re.finditer(r"^##\s+(.+?)\s*$", body, re.MULTILINE))
+    groups = []
+    for i, sh in enumerate(sub_headers):
+        label = sh.group(1).strip()
+        if "Top Chart" in label or "Visual" in label:
+            continue
+        sub_start = sh.end()
+        sub_end = sub_headers[i + 1].start() if i + 1 < len(sub_headers) else len(body)
+        sub_body = body[sub_start:sub_end]
+
+        items: list[dict] = []
+        for block in split_article_blocks(sub_body):
+            entry = parse_article_block(block) or _parse_relaxed_article_block(block)
+            if entry:
+                items.append(entry)
+        if not items:
+            for line in sub_body.splitlines():
+                ls = line.strip()
+                if not ls.startswith("- "):
+                    continue
+                content = ls[2:].strip()
+                link = INLINE_LINK_RE.search(content)
+                url = link.group("url") if link else ""
+                outlet = (link.group("text") if link else "MERICS")[:40]
+                note = INLINE_LINK_RE.sub(lambda mm: mm.group("text"), content)
+                items.append({
+                    "outlet": outlet, "title": "", "date": "", "url": url,
+                    "bullets": [["", note]],
+                })
+        if items:
+            groups.append({"label": label, "items": items})
+
+    if not groups:
+        return None
+    return {"label": "MERICS", "groups": groups}
+
+
 def parse_research_section(text: str) -> dict | None:
+    new_schema = _parse_part_ii_new_schema(text)
+    if new_schema:
+        return new_schema
+    # Legacy W19 schema: `## MERICS research and (media) insights` with **Bold** group labels
     pat = re.compile(r"^##\s+MERICS research and \(media\) insights\s*$", re.MULTILINE)
     m = pat.search(text)
     if not m:
@@ -233,7 +318,6 @@ def parse_research_section(text: str) -> dict | None:
     end = start + nxt.start() if nxt else len(text)
     body = text[start:end].strip()
 
-    # Sub-groups identified by **Bold** label lines
     groups = []
     current_label = None
     current_items: list[dict] = []

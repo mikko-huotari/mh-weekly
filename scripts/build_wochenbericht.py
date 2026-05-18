@@ -64,26 +64,36 @@ def slice_part3(text: str) -> str:
 
 def gemini_call(prompt: str) -> str:
     from google import genai
+    from google.genai import types
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         sys.exit("GEMINI_API_KEY not set in environment.")
     client = genai.Client(api_key=api_key)
-    resp = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
+    # Force JSON output so Gemini doesn't wrap or interleave prose.
+    config = types.GenerateContentConfig(response_mime_type="application/json")
+    resp = client.models.generate_content(model=GEMINI_MODEL, contents=prompt, config=config)
     return resp.text or ""
 
 
 def extract_json(raw: str) -> dict:
-    """Strip code fences and parse a JSON object."""
+    """Strip code fences and parse a JSON object. Dumps raw on failure."""
     raw = raw.strip()
     m = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", raw, re.DOTALL)
-    if m:
-        return json.loads(m.group(1))
-    # Find first '{' and matching last '}'
-    a = raw.find("{")
-    b = raw.rfind("}")
-    if a < 0 or b < 0 or b <= a:
-        raise ValueError(f"No JSON object in response:\n{raw[:400]}")
-    return json.loads(raw[a:b + 1])
+    candidate = m.group(1) if m else None
+    if candidate is None:
+        a = raw.find("{")
+        b = raw.rfind("}")
+        if a < 0 or b < 0 or b <= a:
+            dump = DATA / ".wochenbericht_debug.txt"
+            dump.write_text(raw, encoding="utf-8")
+            raise ValueError(f"No JSON object in response. Raw saved to {dump}")
+        candidate = raw[a:b + 1]
+    try:
+        return json.loads(candidate)
+    except json.JSONDecodeError as e:
+        dump = DATA / ".wochenbericht_debug.txt"
+        dump.write_text(candidate, encoding="utf-8")
+        raise ValueError(f"JSON parse failed: {e}. Raw saved to {dump}") from e
 
 
 def caveat_for(week_id: str) -> str:
