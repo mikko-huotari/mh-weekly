@@ -233,17 +233,19 @@ def main() -> int:
             sec["short"] = short
             sec["label"] = label
 
-    # Safety net: even if Gemini slips a parenthetical into a Zitate lead,
-    # strip it so the bold name stays clean (e.g. "Donald Trump (bekräftigte)"
-    # → "Donald Trump"). Role context belongs in the body text.
+    # Safety net: if Gemini slips a parenthetical into a Zitate lead
+    # ("Donald Trump (bekräftigte)"), UNWRAP the bracket content and prepend
+    # it to the body. The bold stays just the name; the sentence keeps its
+    # verb and reads correctly. Never drop the content — that breaks grammar.
     for sec in parsed.get("sections", []):
         if sec.get("slug") != "quotes":
             continue
         for it in sec.get("items", []):
             lead = (it.get("lead") or "").strip()
-            cleaned = re.sub(r"\s*\([^)]*\)\s*$", "", lead).strip()
-            if cleaned:
-                it["lead"] = cleaned
+            m = re.match(r"^(.*?)\s*\(([^)]+)\)\s*$", lead)
+            if m:
+                it["lead"] = m.group(1).strip()
+                it["text"] = (m.group(2).strip() + " " + (it.get("text") or "")).strip()
 
     parsed["label"] = "Wochenbericht: CN-Beziehungen durch die DE-Medien-Brille"
     parsed["caveat"] = caveat_for(args.week_id)
