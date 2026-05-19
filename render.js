@@ -11,9 +11,19 @@
 (function () {
   "use strict";
 
-  const WEEKS = [window.W20_2026, window.W19_2026, window.W18_2026]
-    .filter(Boolean)
-    .sort((a, b) => (b.year - a.year) || (b.week - a.week));
+  // Discover weeks dynamically — every window.W<NN>_<YYYY> global counts.
+  // Adding a new week now means dropping the data file + registering in
+  // data/manifest.json, no edits here or in index.html.
+  const WEEKS = (function () {
+    const pat = /^W(\d+)_(\d{4})$/;
+    const out = [];
+    for (const key in window) {
+      if (!pat.test(key)) continue;
+      const w = window[key];
+      if (w && typeof w === "object" && w.id) out.push(w);
+    }
+    return out.sort((a, b) => (b.year - a.year) || (b.week - a.week));
+  })();
 
   if (!WEEKS.length) { console.error("No week data loaded."); return; }
 
@@ -309,12 +319,25 @@
   }
 
   // -------- Top Charts -----------------------------------------------------
+  // Structured supplement table replaces the old chart.supplementHtml (raw
+  // HTML sink — a typo or unsanitised paste could inject markup). Each cell
+  // is escaped. Legacy supplementHtml fields are silently ignored.
+  function renderSupplementTable(t) {
+    if (!t || !Array.isArray(t.rows) || !t.rows.length) return "";
+    const head = (t.headers || []).length
+      ? `<thead><tr>${t.headers.map(h => `<th>${esc(h)}</th>`).join("")}</tr></thead>`
+      : "";
+    const body = `<tbody>${t.rows.map(r =>
+      `<tr>${(r || []).map(c => `<td>${esc(c == null ? "" : c)}</td>`).join("")}</tr>`
+    ).join("")}</tbody>`;
+    return `<div class="chart-supplement"><table class="chart-table">${head}${body}</table></div>`;
+  }
   function renderTopCharts(charts, w) {
     const items = charts.map((c, i) => `
       <figure class="chart">
         ${c.caption ? `<figcaption class="chart-caption">${inlineMd(c.caption)}</figcaption>` : ""}
         <img src="${esc(c.src)}" alt="${esc(c.alt || ('Top Chart ' + (i+1)))}" loading="lazy" />
-        ${c.supplementHtml ? `<div class="chart-supplement">${c.supplementHtml}</div>` : ""}
+        ${renderSupplementTable(c.supplementTable)}
       </figure>
     `).join("");
     return `
@@ -796,8 +819,13 @@
   }
 
   window.addEventListener("hashchange", render);
-  document.addEventListener("DOMContentLoaded", () => {
-    populateSelect();
-    render();
-  });
+  // The manifest bootstrap loads this file AFTER DOMContentLoaded fires, so a
+  // plain addEventListener would never run init. Guard with readyState.
+  // (This bug took the site down once — see revert b05d918.)
+  function _init() { populateSelect(); render(); }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", _init);
+  } else {
+    _init();
+  }
 })();
