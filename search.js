@@ -281,7 +281,9 @@
   }
 
   // -------- Wire up --------------------------------------------------------
-  document.addEventListener("DOMContentLoaded", () => {
+  // Same readyState guard as render.js. Without it, the manifest bootstrap's
+  // dynamic injection would mean this listener never fires.
+  function _wire() {
     const btn = $("#searchBtn");
     const input = $("#searchInput");
     const modal = $("#searchModal");
@@ -295,13 +297,17 @@
 
     input.addEventListener("input", (e) => renderResults(e.target.value));
 
-    input.addEventListener("keydown", (e) => {
+    // Bind keyboard nav on the modal (not just the input) so arrow keys
+    // still work if focus drifts to a result button after a hover.
+    modal.addEventListener("keydown", (e) => {
       if (e.key === "ArrowDown") {
         e.preventDefault();
-        if (lastResults.length) setActive(Math.min(activeIdx + 1, lastResults.length - 1));
+        if (lastResults.length) setActive(Math.min(Math.max(activeIdx, -1) + 1, lastResults.length - 1));
+        input.focus();
       } else if (e.key === "ArrowUp") {
         e.preventDefault();
         if (lastResults.length) setActive(Math.max(activeIdx - 1, 0));
+        input.focus();
       } else if (e.key === "Enter") {
         e.preventDefault();
         if (activeIdx >= 0) openResult(activeIdx);
@@ -311,7 +317,7 @@
       }
     });
 
-    // Cmd/Ctrl+K to open search anywhere
+    // Cmd/Ctrl+K to open search from anywhere.
     window.addEventListener("keydown", (e) => {
       if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
         e.preventDefault();
@@ -322,5 +328,10 @@
         closeModal();
       }
     });
-  });
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", _wire);
+  } else {
+    _wire();
+  }
 })();
