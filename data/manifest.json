@@ -1,9 +1,22 @@
 {
-  "version": "20260519a",
+  "version": "20260526a",
   "_comment": "Single source of truth for which weeks the archive loads. Bump version on deploy to bust browser cache. scripts/add_week.py prepends to weeks[].",
   "weeks": [
-    {"id": "W20-2026", "has_wochenbericht": true},
-    {"id": "W19-2026", "has_wochenbericht": true},
-    {"id": "W18-2026", "has_wochenbericht": true}
+    {
+      "id": "W21-2026",
+      "has_wochenbericht": true
+    },
+    {
+      "id": "W20-2026",
+      "has_wochenbericht": true
+    },
+    {
+      "id": "W19-2026",
+      "has_wochenbericht": true
+    },
+    {
+      "id": "W18-2026",
+      "has_wochenbericht": true
+    }
   ]
 }
