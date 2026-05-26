@@ -635,7 +635,7 @@ CN_SOURCES_SLOTS = {
     "quality cn journalism":               ("cn-journalism", "CN journalism", "Quality CN journalism"),
     "government positions & readouts":     ("cn-mfa", "Positions", "Government positions & readouts"),
     "chinese thinking":                    ("cn-thinktanks", "Thinking", "Chinese thinking"),
-    "eu / ger in cn media":                ("cn-media", "EU/GER media", "EU / GER in CN media"),
+    "eu / ger in cn media":                ("cn-media", "EU/GER in CN media", "EU / GER in CN media"),
 }
 
 
