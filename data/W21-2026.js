@@ -2640,8 +2640,8 @@ window.W21_2026 = {
     {
       "number": "",
       "slug": "cn-media",
-      "short": "GER/EU media",
-      "label": "GER / EU in CN media",
+      "short": "EU/GER media",
+      "label": "EU / GER in CN media",
       "items": [
         {
           "outlet": "China Daily",
