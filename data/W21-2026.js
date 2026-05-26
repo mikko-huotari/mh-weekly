@@ -1475,26 +1475,6 @@ window.W21_2026 = {
           ]
         },
         {
-          "outlet": "Brookings",
-          "title": "Will Taiwanese accept Xi Jinping’s version of ‘One China’?",
-          "date": "2026-05-19",
-          "url": "https://www.brookings.edu/articles/will-taiwanese-accept-xi-jinpings-version-of-one-china",
-          "bullets": [
-            [
-              "Survey finds 47% of Taiwanese unclear on the 1992 Consensus",
-              "Despite that ambiguity, 41% overall support Cheng Li-wun's slogan \"1992 Consensus, oppose Taiwanese independence,\" the authors find."
-            ],
-            [
-              "KMT voters support consensus slogan but reject \"one country, two systems\"",
-              "80% back Cheng's formulation while fewer than 40% support the framework Beijing explicitly links to it."
-            ],
-            [
-              "Authors warn of misinterpretation risk in Taiwanese consensus support",
-              "Xi explicitly ties the 1992 Consensus to \"one country, two systems,\" a connection most Taiwanese supporters of the slogan reject."
-            ]
-          ]
-        },
-        {
           "outlet": "Diplomat",
           "title": "What actually caused the latest submarine cut near Taiwan?",
           "date": "2026-05-21",
@@ -2083,6 +2063,26 @@ window.W21_2026 = {
             [
               "China's military-civil fusion contrasts with the unresolved US public-private AI governance split",
               "The article argues the CCP's command over tech firms gives Beijing a structural advantage, while the 2025-26 Anthropic-Pentagon dispute exposed an unresolved question of who governs American AI."
+            ]
+          ]
+        },
+        {
+          "outlet": "Brookings",
+          "title": "Will Taiwanese accept Xi Jinping’s version of ‘One China’?",
+          "date": "2026-05-19",
+          "url": "https://www.brookings.edu/articles/will-taiwanese-accept-xi-jinpings-version-of-one-china",
+          "bullets": [
+            [
+              "Survey finds 47% of Taiwanese unclear on the 1992 Consensus",
+              "Despite that ambiguity, 41% overall support Cheng Li-wun's slogan \"1992 Consensus, oppose Taiwanese independence,\" the authors find."
+            ],
+            [
+              "KMT voters support consensus slogan but reject \"one country, two systems\"",
+              "80% back Cheng's formulation while fewer than 40% support the framework Beijing explicitly links to it."
+            ],
+            [
+              "Authors warn of misinterpretation risk in Taiwanese consensus support",
+              "Xi explicitly ties the 1992 Consensus to \"one country, two systems,\" a connection most Taiwanese supporters of the slogan reject."
             ]
           ]
         }
