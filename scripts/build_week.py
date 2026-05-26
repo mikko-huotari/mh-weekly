@@ -226,20 +226,18 @@ def _rewrite_bold_link_lead(match: "re.Match[str]") -> str:
 
 
 def _context_item_from_line(raw_line: str) -> dict:
+    # German-policy context bullets are thesis-led ("**lead-in**: prose with
+    # inline links"), NOT outlet-led — so they render as plain note bullets with
+    # no outlet eyebrow/badge. (Deriving an "outlet" from the first inline link
+    # produced bogus eyebrows like "VISIT CHINA" / "SURPASSED US LEVELS".)
     line = raw_line.strip()[2:].strip()  # drop leading '- '
-    link = INLINE_LINK_RE.search(line)
-    if not link:
-        return {"outlet": "", "date": "", "url": "", "note": line}
-    text_part = link.group("text")
-    url = link.group("url")
-    outlet = text_part.split("|")[-1].strip() if "|" in text_part else text_part.split("—")[-1].strip() or text_part
     note = line.strip(" -—")
     note = re.sub(
         r"\*\*([^*]+?)\*\*\s+\(\[([^\]]+)\]\((https?://[^)\s]+)\)((?:[^()]|\([^)]*\))*)\)",
         _rewrite_bold_link_lead,
         note, count=1,
     )
-    return {"outlet": outlet[:40], "date": "", "url": url, "note": note}
+    return {"outlet": "", "date": "", "url": "", "note": note}
 
 
 def parse_context_section(text: str) -> dict | None:

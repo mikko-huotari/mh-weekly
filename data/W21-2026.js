@@ -34,13 +34,8 @@ window.W21_2026 = {
         ]
       },
       {
-        "label": "Tension in the text",
-        "intro": "The 2026 declaration affirms \"respect for sovereignty and territorial integrity of all states\" while restating the \"root causes\" framing on Ukraine. The 2025 *International Law* declaration (co-signed with Russia) condemns \"unilateral military interventions not based on…self-defense or SC resolutions\".",
-        "items": []
-      },
-      {
-        "label": "Key sources (past 2 weeks)",
-        "intro": "**Primary readouts**",
+        "label": "Key sources",
+        "intro": "",
         "items": [
           {
             "note": "[Kremlin – Russia-China talks](http://en.kremlin.ru/events/president/news/79782) (2026-05-20)"
@@ -107,13 +102,8 @@ window.W21_2026 = {
           ]
         },
         {
-          "label": "Tension in the text",
-          "intro": "The 2026 declaration affirms \"respect for sovereignty and territorial integrity of all states\" while restating the \"root causes\" framing on Ukraine. The 2025 *International Law* declaration (co-signed with Russia) condemns \"unilateral military interventions not based on…self-defense or SC resolutions\".",
-          "items": []
-        },
-        {
-          "label": "Key sources (past 2 weeks)",
-          "intro": "**Primary readouts**",
+          "label": "Key sources",
+          "intro": "",
           "items": [
             {
               "note": "[Kremlin – Russia-China talks](http://en.kremlin.ru/events/president/news/79782) (2026-05-20)"
@@ -198,51 +188,51 @@ window.W21_2026 = {
           "label": "1. Germany (Deutschland)",
           "items": [
             {
-              "outlet": "visit China",
+              "outlet": "",
               "date": "",
-              "url": "https://www.fmprc.gov.cn",
+              "url": "",
               "note": "**Federal Economic Minister Katharina Reiche visits China amid shifting German trade stance**: Reiche will [visit China](https://www.fmprc.gov.cn) from May 26 to 29, as sluggish domestic growth and job losses from the \"second China shock\" prompt [some German voices](https://www.politico.eu/article/eu-germany-trade-china-industry/) to expect Berlin to support, rather than block, more assertive EU trade defense measures."
             },
             {
-              "outlet": "surpassed US levels",
+              "outlet": "",
               "date": "",
-              "url": "https://www.scmp.com/economy/china-economy/article/3354505/its-firms-look-overseas-china-overtakes-us-become-top-foreign-investor-germany",
+              "url": "",
               "note": "**China overtakes the United States as Germany's top foreign investor**: Propelled by firms expanding manufacturing footprints abroad to circumvent trade barriers, Chinese direct investment in Germany [surpassed US levels](https://www.scmp.com/economy/china-economy/article/3354505/its-firms-look-overseas-china-overtakes-us-become-top-foreign-investor-germany) as corporate interest shifts toward localized European operations."
             },
             {
-              "outlet": "Volkswagen CEO",
+              "outlet": "",
               "date": "",
-              "url": "https://www.reuters.com/world/china/volkswagen-not-talks-with-chinese-manufacturers-ceo-says-2026-05-20/",
+              "url": "",
               "note": "**Volkswagen denies partnership talks with Chinese manufacturers**: Seeking to calm rising worker anxiety over structural overcapacity in domestic plants, the [Volkswagen CEO](https://www.reuters.com/world/china/volkswagen-not-talks-with-chinese-manufacturers-ceo-says-2026-05-20/) ruled out near-term production sharing or manufacturing agreements with Chinese EV firms in Germany."
             },
             {
-              "outlet": "cultivated contacts with German universi",
+              "outlet": "",
               "date": "",
-              "url": "https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-20-05-2026.html",
+              "url": "",
               "note": "**Federal prosecutors arrest married German couple for espionage**: The suspects allegedly [cultivated contacts with German university scientists](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-20-05-2026.html) to covertly transfer dual-use high-tech research to a Chinese intelligence agency, leading to their arrest by [federal prosecutors](https://www.reuters.com/world/china/germany-arrests-married-couple-suspicion-spying-china-2026-05-20/)."
             },
             {
-              "outlet": "cooperated to pressure student organizer",
+              "outlet": "",
               "date": "",
-              "url": "https://taz.de/Diskussion-an-der-TU-Berlin/!6180523/",
+              "url": "",
               "note": "**Chinese embassy pressures TU Berlin over Uyghur event**: The Chinese embassy and a Chinese academic association [cooperated to pressure student organizers](https://taz.de/Diskussion-an-der-TU-Berlin/!6180523/) ahead of an information session on Xinjiang, fueling wider concern over Chinese [extra-territorial academic influence](https://www.tagesspiegel.de/wissen/wegen-veranstaltung-uber-die-unterdruckung-der-uiguren-chinas-botschaft-setzt-tu-berlin-unter-druck-15626267.html) in Germany."
             },
             {
-              "outlet": "Bonn Deputy Mayor Ursula Sautter",
+              "outlet": "",
               "date": "",
-              "url": "https://global.chinadaily.com.cn/a/202605/16/WS6a07a5f0a310d6866eb48ed5.html",
+              "url": "",
               "note": "**Bonn seeks to expand cooperation with Chengdu into robotics**: During a bilateral municipal exchange, [Bonn Deputy Mayor Ursula Sautter](https://global.chinadaily.com.cn/a/202605/16/WS6a07a5f0a310d6866eb48ed5.html) proposed broadening ties with Chengdu beyond cultural exchange to include collaborative robotics research."
             },
             {
-              "outlet": "Germany's slow response to Chinese econo",
+              "outlet": "",
               "date": "",
-              "url": "https://www.cer.eu/publications/archive/policy-brief/2026/china-shock-20-cost-germanys-complacency",
+              "url": "",
               "note": "**Centre for European Reform warns against German complacency on industrial competition**: A new policy brief argues that [Germany's slow response to Chinese economic pressure](https://www.cer.eu/publications/archive/policy-brief/2026/china-shock-20-cost-germanys-complacency) risks compounding the damage of the \"second China shock\" on domestic manufacturing."
             },
             {
-              "outlet": "stepping up trade defenses",
+              "outlet": "",
               "date": "",
-              "url": "https://www.dbresearch.com/PROD/IE-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000628484&rwnode=REPORT",
+              "url": "",
               "note": "**Deutsche Bank outlines case for stronger European trade defenses**: A research paper analyzes the necessity of [stepping up trade defenses](https://www.dbresearch.com/PROD/IE-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000628484&rwnode=REPORT) to shield European markets from Chinese industrial overcapacity while minimizing retaliatory fallout."
             }
           ]
@@ -251,93 +241,93 @@ window.W21_2026 = {
           "label": "2. European Union & Wider Europe (Europäische Union & Nachbarschaft)",
           "items": [
             {
-              "outlet": "debated more aggressive trade defenses",
+              "outlet": "",
               "date": "",
-              "url": "https://www.politico.eu/article/eu-germany-trade-china-industry/",
+              "url": "",
               "note": "**Commission President Ursula von der Leyen convenes discussions on assertive trade tools**: Ahead of presenting options to EU leaders, the College of Commissioners [debated more aggressive trade defenses](https://www.politico.eu/article/eu-germany-trade-china-industry/) to counter subsidised competition, amid shifting political consent from Member States."
             },
             {
-              "outlet": "second Chips Act",
+              "outlet": "",
               "date": "",
-              "url": "https://www.euronews.com/my-europe/2026/05/21/european-carmakers-face-eu-pressure-to-diversify-chip-suppliers",
+              "url": "",
               "note": "**European Commission pressures automakers to diversify chip supply chains**: Responding to the Nexperia crisis, EU policymakers are drafting a [second Chips Act](https://www.euronews.com/my-europe/2026/05/21/european-carmakers-face-eu-pressure-to-diversify-chip-suppliers) to enforce stricter raw-material and component diversification thresholds."
             },
             {
-              "outlet": "shortlisted key raw materials",
+              "outlet": "",
               "date": "",
-              "url": "https://www.reuters.com/world/china/eu-shortlists-tungsten-rare-earths-first-stockpile-curb-china-reliance-2026-05-20/",
+              "url": "",
               "note": "**European Union moves to establish stockpiles of tungsten and rare earths**: To reduce strategic dependence on Chinese supply chains, the EU has [shortlisted key raw materials](https://www.reuters.com/world/china/eu-shortlists-tungsten-rare-earths-first-stockpile-curb-china-reliance-2026-05-20/) for its first-ever centralized physical stockpile program."
             },
             {
-              "outlet": "suggested a carve-out",
+              "outlet": "",
               "date": "",
-              "url": "https://www.reuters.com/world/china/european-commission-proposes-russia-sanctions-reprieve-dealings-with-chinese-2026-05-22/",
+              "url": "",
               "note": "**Commission proposes temporary sanctions reprieve for a Chinese chipmaker**: The EU executive [suggested a carve-out](https://www.reuters.com/world/china/european-commission-proposes-russia-sanctions-reprieve-dealings-with-chinese-2026-05-22/) for blacklisted Yangjie Technology to prevent immediate disruption to European automotive manufacturers who rely on its components."
             },
             {
-              "outlet": "enhance coordination across member state",
+              "outlet": "",
               "date": "",
-              "url": "https://www.europarl.europa.eu/news/en/press-room/20260513IPR43304/protecting-eu-strategic-sectors-from-risky-foreign-investments",
+              "url": "",
               "note": "**European Parliament adopts tighter foreign investment screening framework**: The newly approved rules aim to [enhance coordination across member states](https://www.europarl.europa.eu/news/en/press-room/20260513IPR43304/protecting-eu-strategic-sectors-from-risky-foreign-investments) and [standardise security reviews](https://www.reuters.com/business/aerospace-defense/european-parliament-approves-new-eu-foreign-investment-rules-2026-05-19/) to defend critical industrial sectors from hostile acquisitions."
             },
             {
-              "outlet": "slashed import quotas by 47 percent",
+              "outlet": "",
               "date": "",
-              "url": "https://www.europarl.europa.eu/news/en/press-room/20260513IPR43305/steel-overcapacity-meps-approve-new-measures-to-protect-eu-steel-market",
+              "url": "",
               "note": "**MEPs vote to slash steel quotas and double tariffs**: In a decisive move to protect domestic mills, the Parliament [slashed import quotas by 47 percent](https://www.europarl.europa.eu/news/en/press-room/20260513IPR43305/steel-overcapacity-meps-approve-new-measures-to-protect-eu-steel-market) and [approved a 50 percent tariff limit](https://www.faz.net/aktuell/wirtschaft/europaeische-union-hohe-zoelle-sollen-stahlbranche-schuetzen-200846124.html) above that threshold."
             },
             {
-              "outlet": "choose \"chemotherapy\" over \"morphine\"",
+              "outlet": "",
               "date": "",
-              "url": "https://x.com/fbermingham/status/2056985411264680090",
+              "url": "",
               "note": "**High Representative Kaja Kallas likens Chinese industrial policy to a cancer**: Kallas argued that European leaders must [choose \"chemotherapy\" over \"morphine\"](https://x.com/fbermingham/status/2056985411264680090) by implementing painful structural trade countermeasures rather than temporary relief."
             },
             {
-              "outlet": "the US, China, and Russia prefer a fragm",
+              "outlet": "",
               "date": "",
-              "url": "https://www.politico.eu/article/us-china-and-russia-prefer-a-divided-europe-kallas-warns/",
+              "url": "",
               "note": "**Kallas warns of a \"divide-and-conquer\" strategy targeting the EU**: The foreign policy chief cautioned that [the US, China, and Russia prefer a fragmented Europe](https://www.politico.eu/article/us-china-and-russia-prefer-a-divided-europe-kallas-warns/) to dilute its collective economic and political power."
             },
             {
-              "outlet": "protect its infrastructure funds",
+              "outlet": "",
               "date": "",
-              "url": "https://www.eeas.europa.eu/eeas/foreign-affairs-council-development-press-remarks-high-representative-kallas-upon-arrival-0_en",
+              "url": "",
               "note": "**EEAS reviews Global Gateway funding rules to restrict Chinese competitors**: Commenting on development projects, Kallas signaled that the EU must [protect its infrastructure funds](https://www.eeas.europa.eu/eeas/foreign-affairs-council-development-press-remarks-high-representative-kallas-upon-arrival-0_en) from being won by subsidized non-EU competitors."
             },
             {
-              "outlet": "a European equivalent of Section 301",
+              "outlet": "",
               "date": "",
-              "url": "https://www.politico.eu/article/emmanuel-macron-eu-section-301-strategic-sectors/",
+              "url": "",
               "note": "**French President Emmanuel Macron calls for US-style trade powers**: Macron advocated for [a European equivalent of Section 301](https://www.politico.eu/article/emmanuel-macron-eu-section-301-strategic-sectors/) to allow unilateral investigations and retaliatory tariffs against unfair commercial practices in strategic sectors."
             },
             {
-              "outlet": "travel to China",
+              "outlet": "",
               "date": "",
-              "url": "https://www.europarl.europa.eu/news/en/press-room/20260522IPR43802/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm",
+              "url": "",
               "note": "**European Parliament delegation prepares first China visit since 2018**: Lawmakers will [travel to China](https://www.europarl.europa.eu/news/en/press-room/20260522IPR43802/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm) for the 43rd Inter-Parliamentary Meeting to resume direct dialogue with counterparts in Beijing."
             },
             {
-              "outlet": "losing economic sovereignty",
+              "outlet": "",
               "date": "",
-              "url": "https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/",
+              "url": "",
               "note": "**Finnish intelligence chief warns of irreversible European tech reliance**: Juha Martelius cautioned that Europe risks [losing economic sovereignty](https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/) to the United States and China due to deeply entrenched dependencies on foreign software and hardware."
             },
             {
-              "outlet": "renegotiate investment terms",
+              "outlet": "",
               "date": "",
-              "url": "https://www.scmp.com/economy/article/3354060/chinese-companies-hungary-scramble-adjust-post-orban-era",
+              "url": "",
               "note": "**Chinese investors in Hungary scramble to adapt to political shifts**: Firms are racing to [renegotiate investment terms](https://www.scmp.com/economy/article/3354060/chinese-companies-hungary-scramble-adjust-post-orban-era) and secure guarantees ahead of a potential transition to a post-Orbán administration."
             },
             {
-              "outlet": "reaffirming Belgrade's strategic partner",
+              "outlet": "",
               "date": "",
-              "url": "https://www.fmprc.gov.cn/eng/xw/wsrc/202605/t20260520_11914028.html",
+              "url": "",
               "note": "**Serbian President Aleksandar Vučić visits China to deepen bilateral ties**: Vučić led a delegation to Beijing from May 24 to 28, [reaffirming Belgrade's strategic partnership](https://www.fmprc.gov.cn/eng/xw/wsrc/202605/t20260520_11914028.html) with China."
             },
             {
-              "outlet": "negotiate agricultural exports and inves",
+              "outlet": "",
               "date": "",
-              "url": "https://www.fmprc.gov.cn/eng/xw/wsrc/202605/t20260519_11913249.html",
+              "url": "",
               "note": "**Moldovan Foreign Minister Mihai Popșoi visits Beijing to discuss trade cooperation**: Popșoi traveled to China from May 21 to 25 to [negotiate agricultural exports and investment agreements](https://www.fmprc.gov.cn/eng/xw/wsrc/202605/t20260519_11913249.html)."
             }
           ]
