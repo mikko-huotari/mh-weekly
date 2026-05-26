@@ -2047,8 +2047,12 @@ window.W21_2026 = {
           "url": "https://en.qstheory.cn/2026-05/21/c_1184827.htm",
           "bullets": [
             [
-              "Beijing-side read",
-              "Energy-rich northwest China is rapidly emerging as a cost-effective AI computing hub, driven by booming demand for computing power. *(EU Delegation Beijing pickup)*"
+              "Northwest China cities promoted as cost-competitive AI computing hubs",
+              "Hami in Xinjiang and Qingyang in Gansu are attracting cloud, telecom, and tech firms with industrial power prices roughly one-third of coastal rates and operating costs over 40% lower than eastern China."
+            ],
+            [
+              "Surplus renewable energy underpins the regional cost pitch",
+              "The report links northwest China's cheap electricity to abundant wind and solar capacity, positioning energy-rich interior provinces as viable alternatives to coastal data centre locations."
             ]
           ]
         }
@@ -2067,8 +2071,16 @@ window.W21_2026 = {
           "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_4366d16d0427417fa3312830d038e43d.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "China’s Ministry of Commerce said the EU’s use of the Foreign Subsidies Regulation (FSR) against Chinese entities constitutes improper extraterritorial jurisdiction, following a May 15 announcement by China’s Ministry of Justice."
+              "MOFCOM declared EU FSR probes constitute extraterritorial overreach",
+              "China's Ministry of Commerce said FSR investigations against Chinese entities, including a deepened Nuctech probe, improperly extend EU jurisdiction into China."
+            ],
+            [
+              "Chinese banks ordered to submit China-based data deemed unrelated to investigations",
+              "MOFCOM said the European Commission required extensive domestic financial information from Chinese banks, negatively affecting normal business operations in Europe."
+            ],
+            [
+              "China called on Brussels to correct FSR enforcement practices",
+              "The spokesperson's statement followed a May 15 Ministry of Justice announcement and urged the European Commission to halt what Beijing characterised as improper conduct."
             ]
           ]
         }
@@ -2081,62 +2093,38 @@ window.W21_2026 = {
       "label": "Quality CN journalism",
       "items": [
         {
-          "outlet": "Caixin Global",
-          "title": "China’s Core Workforce Unemployment Stays Near Record Highs",
+          "outlet": "21st Century Business Herald",
+          "title": "“Explosive” debate in the UK: rejoining the EU",
           "date": "2026-05-21",
-          "url": "https://www.caixinglobal.com/2026-05-21/chinas-core-workforce-unemployment-stays-near-record-highs-102446165.html",
+          "url": "https://www.21jingji.com/article/20260521/herald/3dd48d7a5cbed9fa178538a9904b3aa6.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "China’s Core Workforce Unemployment Stays Near Record Highs - Economist warns AI-driven investment may have limited job creation impact, calls for greater focus on household welfare *(EU Delegation Beijing pickup)*"
+              "UK ministers publicly back EU re-entry citing Brexit's economic costs",
+              "Trade Minister Chris Bryant and former Health Secretary Wes Streeting both advocated rejoining, the article reports."
+            ],
+            [
+              "Re-entry cost estimated at £5 billion above pre-Brexit annual contributions",
+              "Experts cited in the article warn any return requires full adherence to standard EU rules with no prior special privileges."
+            ],
+            [
+              "Critics warn the debate risks deepening domestic divisions",
+              "The Guardian noted growing public discussion, but opponents argued rejoining could further polarise the country."
             ]
           ]
         },
         {
-          "outlet": "Caixin Global",
-          "title": "How middlemen cash in on China’s drive to fund young entrepreneurs",
-          "date": "2026-05-21",
-          "url": "https://www.caixinglobal.com/2026-05-21/cx-daily-how-middlemen-cash-in-on-chinas-drive-to-fund-young-entrepreneurs-102445910.html",
+          "outlet": "cls.cn",
+          "title": "European Parliament adopts new foreign direct investment screening rules",
+          "date": "2026-05-20",
+          "url": "https://www.cls.cn/detail/2376030",
           "bullets": [
             [
-              "Beijing-side read",
-              "After returning to China to start a jewelry design business, Yu Dongdong sought information online about government subsidies for recent graduates. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "bjnews.com.cn",
-          "title": "Ministry of Justice to focus on regions with over 20% growth in fines and forfeitures",
-          "date": "2026-05-21",
-          "url": "https://www.bjnews.com.cn/detail/1779333128129927.html",
-          "bullets": [
+              "EU mandated member-state FDI review in sensitive sectors",
+              "New rules enacted on 20 May require all EU member states to screen foreign investments in defense, dual-use goods, and critical technologies."
+            ],
             [
-              "Beijing-side read",
-              "The Ministry of Justice launched a special campaign targeting irregular fines and profit-driven enforcement, correcting cases of inconsistent or excessive penalties. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "Yicai",
-          "title": "More Chinese payment platforms go global to boost profits",
-          "date": "2026-05-21",
-          "url": "https://www.yicaiglobal.com/news/more-chinese-payment-platforms-go-global-to-boost-profits",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "An increasing number of Chinese payment institutions are eying entering overseas markets as an important strategy for their development against the backdrop of continuous pressure on domestic payment… *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "Caixin Global",
-          "title": "Recruitment data suggests AI has yet to hurt hiring of coders in China",
-          "date": "2026-05-21",
-          "url": "https://www.caixinglobal.com/2026-05-21/recruitment-data-suggests-ai-has-yet-to-hurt-hiring-of-coders-in-china-102446125.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "Kanzhun Ltd., the operator of Chinese online recruitment service Boss Zhipin, said that active job postings for software engineers on its platform rose 10.9% year-on-year in the first four months of… *(EU Delegation Beijing pickup)*"
+              "Critical technology scope covers AI, quantum computing, and semiconductors",
+              "Aerospace, energy, transportation, and digital infrastructure also fall under the mandatory screening framework."
             ]
           ]
         },
@@ -2147,32 +2135,96 @@ window.W21_2026 = {
           "url": "https://www.caixin.com/2026-05-21/102446097.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "Stellantis and Dongfeng Group plan to establish a European joint venture with shareholding ratios of 51 percent and 49 percent respectively. *(EU Delegation Beijing pickup)*"
+              "Stellantis and Dongfeng to establish 51/49 European JV",
+              "The venture will manage sales of Dongfeng's Voyah brand in selected European markets and produce EVs at Stellantis' Rennes plant by 2028."
+            ],
+            [
+              "Voyah sales up 36% year-on-year in early 2026",
+              "The brand sold 49,000 vehicles in the first four months of 2026, according to Caixin."
+            ]
+          ]
+        },
+        {
+          "outlet": "The Paper",
+          "title": "How can EU-China relations “navigate beyond the inflection point”? Managing Director of the Asia-Pacific Department of the European External Action Service: Cooperation is inevitable",
+          "date": "2026-05-14",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33177739",
+          "bullets": [
+            [
+              "EEAS official calls EU-China cooperation inevitable",
+              "Erik Kurzweil, EEAS Asia-Pacific Managing Director, told a 2026 conference that cooperation is essential amid geopolitical tensions, economic uncertainty, and climate challenges."
+            ],
+            [
+              "European experts favour risk reduction over decoupling",
+              "Participants highlighted strategic autonomy and industrial resilience as Europe's preferred posture toward China, according to The Paper's conference report."
+            ],
+            [
+              "Audience poll records cooperative framing of bilateral trade",
+              "73% of conference attendees voted that EU-China trade relations are primarily cooperative in nature."
+            ]
+          ]
+        },
+        {
+          "outlet": "Caixin Global",
+          "title": "China fixed-asset investment falls as property slump deepens",
+          "date": "2026-05-18",
+          "url": "https://www.caixinglobal.com/2026-05-18/china-fixed-asset-investment-falls-as-property-slump-deepens-102445153.html",
+          "bullets": [
+            [
+              "Fixed-asset investment contracted 1.6% year-on-year in Jan-Apr",
+              "The outcome missed the Caixin economist consensus forecast of 1.7% growth, according to National Bureau of Statistics data released 18 May."
+            ],
+            [
+              "Property slump drove the contraction despite resilient infrastructure",
+              "Continued weakness in real estate offset government-backed infrastructure spending, Caixin reports."
+            ]
+          ]
+        },
+        {
+          "outlet": "nbd.com.cn",
+          "title": "MOFCOM: China is a key global supplier of AI infrastructure and remains confident foreign trade will maintain stable growth this year",
+          "date": "2026-05-15",
+          "url": "https://www.nbd.com.cn/articles/2026-05-14/4392967.html",
+          "bullets": [
+            [
+              "MOFCOM reports 14.9% year-on-year trade growth in January-April 2026",
+              "Mechanical and electrical product exports rose 19.5% while integrated circuit exports surged 78.3% over the same period, according to spokesperson He Yongqian [何咏前]."
+            ],
+            [
+              "China claims status as key global AI infrastructure supplier",
+              "He expressed confidence that foreign trade will maintain stable and steady growth throughout 2026, citing the integrated circuit and mechanical export surge as evidence."
             ]
           ]
         },
         {
           "outlet": "Yicai",
-          "title": "Yangtze River Delta to focus air pollution control on renewable energy supply through 2028",
-          "date": "2026-05-21",
-          "url": "https://www.yicaiglobal.com/news/yangtze-river-delta-to-focus-air-pollution-control-on-renewable-energy-supply-through-2028",
+          "title": "No past country year fully matches China's consumption dynamics under global coordinates",
+          "date": "2026-05-18",
+          "url": "https://www.yicaiglobal.com/opinion/columnist/opinion-no-past-country-year-fully-matches-chinas-consumption-dynamics-under-global-coordinates",
           "bullets": [
             [
-              "Beijing-side read",
-              "The Yangtze River Delta region, covering Shanghai and the provinces of Anhui, Jiangsu, and Zhejiang, has unveiled a three-year air pollution control plan focused on cleaner energy and transport. *(EU Delegation Beijing pickup)*"
+              "No historical country-year fully replicates China's 2024 consumption profile",
+              "A cross-country analysis covering 159 nations and 4,026 country-years (1990-2024) finds China sits outside familiar development trajectories across six dimensions including income, growth, and industrial openness."
+            ],
+            [
+              "China has exited the low-income catch-up phase without a clear consumption template",
+              "The article reports that consumption potential exists but will unfold across multiple pathways, with no single historical precedent to guide policy."
             ]
           ]
         },
         {
-          "outlet": "21st Century Business Herald",
-          "title": "“Explosive” debate in the UK: rejoining the EU",
-          "date": "2026-05-21",
-          "url": "https://www.21jingji.com/article/20260521/herald/3dd48d7a5cbed9fa178538a9904b3aa6.html",
+          "outlet": "nbd.com.cn",
+          "title": "Can China act as a “lender of last resort”? Former PBOC Deputy Governor Zhu Min: strengthening the renminbi is a necessity for the global financial system",
+          "date": "2026-05-19",
+          "url": "https://www.nbd.com.cn/articles/2026-05-19/4398319.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "Since May 17, the question of whether the UK could rejoin the EU has sparked intense debate. *(EU Delegation Beijing pickup)*"
+              "Zhu Min calls RMB internationalisation essential for global stability",
+              "The former PBOC Deputy Governor argued that strengthening the renminbi is a necessity for both China's economic development and global financial stability, according to nbd.com.cn."
+            ],
+            [
+              "China's bilateral swap network covers 32 central banks as of end-2025",
+              "Partner countries drew on renminbi liquidity during past crises to ease cross-border payment pressures, Zhu said."
             ]
           ]
         }
@@ -2191,8 +2243,16 @@ window.W21_2026 = {
           "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202605/t20260515_11910982.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "China urges early resolution of the Iran conflict, stressing dialogue over force, welcoming recent U.S.-Iran ceasefire efforts, and calling for reopening shipping lanes and stable global supply chains."
+              "China calls for dialogue over force on Iran",
+              "The MFA spokesperson welcomed recent U.S.-Iran ceasefire efforts and urged early resolution through a political settlement accommodating all parties."
+            ],
+            [
+              "Beijing links Iran stability to global supply chain resilience",
+              "The spokesperson called for reopening shipping lanes and maintaining stable supply chains alongside a comprehensive ceasefire and lasting Middle East peace."
+            ],
+            [
+              "Xi Jinping's four propositions cited as framework for China's role",
+              "The statement invoked Xi's four propositions and a China-Pakistan five-point initiative as guiding principles for China's continued constructive engagement on regional stability."
             ]
           ]
         }
@@ -2211,8 +2271,16 @@ window.W21_2026 = {
           "url": "https://www.guancha.cn/internation/2026_05_20_817647.shtml",
           "bullets": [
             [
-              "Beijing-side read",
-              "On May 19, the European Parliament approved raising steel import tariffs from 25% to 50%, effective July 1, limiting duty-free steel to 18.3 million tons annually. *(EU Delegation Beijing pickup)*"
+              "EU Parliament votes to double steel import tariffs to 50%",
+              "The measure, approved on May 19 and effective July 1, caps duty-free steel imports at 18.3 million tons annually, according to the article."
+            ],
+            [
+              "China identified as implicit target despite neutral EU framing",
+              "EU statements cite global overcapacity concerns, but the article reports that media and industry commentary openly frame China as the primary subject of the measure."
+            ],
+            [
+              "UK steel exports face collateral exposure",
+              "Critics noted that UK steel heavily depends on the EU market, making it vulnerable to tightened import conditions despite not being the policy's stated target."
             ]
           ]
         },
@@ -2223,8 +2291,16 @@ window.W21_2026 = {
           "url": "https://www.guancha.cn/internation/2026_05_19_817587_2.shtml",
           "bullets": [
             [
-              "Beijing-side read",
-              "According to a POLITICO EU‑reported compromise draft, EU officials may suspend their own tariff reductions if the US fails to lower steel and aluminum tariffs on Europe by the end of 2026. *(EU Delegation Beijing pickup)*"
+              "EU draft ties tariff cuts to US steel reciprocity",
+              "According to the article, a reported compromise draft would allow the EU to suspend its own reductions if the US fails to lower steel and aluminum tariffs by end-2026."
+            ],
+            [
+              "Internal EU opposition may sink the deal at June plenary",
+              "EU negotiators have built in pause mechanisms and sunset clauses, but the proposal risks rejection if seen as favoring member states over the bloc."
+            ],
+            [
+              "Post-July escalation risk shapes EU urgency",
+              "Officials are pushing to finalise terms before the temporary 10% US \"global tariffs\" expire, fearing a harder US stance after that deadline."
             ]
           ]
         },
@@ -2235,20 +2311,12 @@ window.W21_2026 = {
           "url": "https://www.guancha.cn/internation/2026_05_19_817602.shtml?s=zwyzxw",
           "bullets": [
             [
-              "Beijing-side read",
-              "Amid political instability, UK Prime Minister Keir Starmer has raised the possibility of rejoining the EU. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "guancha.cn",
-          "title": "Kaja Kallas urges EU unity, claims China, the U.S. and Russia all seek to divide the EU",
-          "date": "2026-05-18",
-          "url": "https://www.guancha.cn/internation/2026_05_18_817378.shtml?s=zwyzxw",
-          "bullets": [
+              "Guancha frames UK re-entry as categorically conditional",
+              "The article reports that former EU Commissioner Julian King warned rejoining would cost the UK tens of billions and eliminate the Thatcher-era budget rebate, raising annual contributions by at least £5 billion."
+            ],
             [
-              "Beijing-side read",
-              "EU High Representative for Foreign Affairs and Security Policy Kaja Kallas urged EU member states to remain united, warning against bilateral deals that could weaken the bloc. *(EU Delegation Beijing pickup)*"
+              "EU signals openness but explicitly rules out preferential terms",
+              "European Parliament President Metsola confirmed the door remains open while stating no special treatment - including exemptions from free movement or budget obligations - would be granted."
             ]
           ]
         },
@@ -2259,8 +2327,16 @@ window.W21_2026 = {
           "url": "https://www.aisixiang.com/data/176337.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "Fu Cong's Explanatory Statement After the Security Council Vote on the Draft Resolution on the Strait of Hormuz"
+              "China voted against the Gulf states' Hormuz draft resolution",
+              "Beijing said the text failed to identify US-Israel military actions as the root cause and risked legitimizing further use of force."
+            ],
+            [
+              "China and Russia jointly submitted a rival Security Council draft",
+              "The counter-resolution calls for a ceasefire, dialogue, and freedom of navigation without singling out Iran for condemnation."
+            ],
+            [
+              "China and Pakistan issued a joint five-point Gulf stability initiative",
+              "The initiative calls for a cessation of hostilities, peace talks, protection of civilians and waterways, and primacy of the UN Charter."
             ]
           ]
         },
@@ -2271,8 +2347,36 @@ window.W21_2026 = {
           "url": "https://www.aisixiang.com/data/176336.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "Shen Jian: Leading Nuclear Security Governance with the Vision of a Community of Shared Future for Mankind"
+              "China's disarmament ambassador proposed a multilateral no-first-use nuclear treaty",
+              "Writing for Aisixiang, Shen Jian also demanded abolition of NATO \"nuclear sharing\" arrangements and flagged AUKUS submarine cooperation as a proliferation risk at the NPT Review Conference."
+            ],
+            [
+              "China submitted a national implementation report to the NPT Review Conference",
+              "The document outlines Beijing's no-first-use policy, minimum deterrence posture, and non-proliferation export control commitments."
+            ],
+            [
+              "China advocates \"atoms for the benefit of the Global South\" at NPT talks",
+              "The article promotes expanded nuclear energy cooperation with developing countries as part of Beijing's contributions to the UN 2030 Sustainable Development Goals."
+            ]
+          ]
+        },
+        {
+          "outlet": "Aisixiang",
+          "title": "Tian Ye: How to Explain Great Power Competition with Increasing Returns Theory",
+          "date": "2026-05-23",
+          "url": "https://www.aisixiang.com/data/176334.html",
+          "bullets": [
+            [
+              "Tian Ye applies increasing returns economics to great power competition",
+              "The article argues that initial advantages in geopolitics, technology, and international institutions self-reinforce through coordination effects, learning effects, and adaptive expectations - making these the preferred arenas for great-power rivalry."
+            ],
+            [
+              "The framework treats competition as distinct from both conflict and cooperation",
+              "Unlike existing IR theory, which embeds competition within conflict or cooperation literature, Tian proposes a standalone \"international competition theory\" that can explain why security allies simultaneously compete in technology and institutional domains."
+            ],
+            [
+              "The Thucydides Trap is presented as contingent, not structural",
+              "Because increasing returns mechanisms do not automatically translate competitive advantage into armed conflict, the article argues rising-power transitions need not end in war."
             ]
           ]
         }
@@ -2285,122 +2389,34 @@ window.W21_2026 = {
       "label": "GER / EU in CN media",
       "items": [
         {
-          "outlet": "Xinhua",
-          "title": "Austria, Hungary agree to deepen cooperation within EU framework",
-          "date": "2026-05-22",
-          "url": "https://english.news.cn/20260522/ff11682e825a47e4837e063c414b8dc4/c.html",
+          "outlet": "People's Daily",
+          "title": "China says EU's probe into Chinese company constitutes unlawful extraterritorial jurisdiction",
+          "date": "2026-05-16",
+          "url": "https://en.people.cn/n3/2026/0516/c90000-20456966.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "Austria and Hungary agreed on Thursday to deepen cooperation within the EU framework during Hungarian Prime Minister Peter Magyar’s visit to Austria. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "China Daily",
-          "title": "China brewing up business for African coffee beans",
-          "date": "2026-05-22",
-          "url": "https://www.chinadaily.com.cn/a/202605/22/WS6a0fac7da310d6866eb4a0b7.html",
-          "bullets": [
+              "China's Ministry of Justice declares EU Nuctech probe unlawful",
+              "Citing its rules on countering foreign extraterritorial jurisdiction, the ministry designated the EU's anti-subsidy investigation into Nuctech a violation of international law."
+            ],
             [
-              "Beijing-side read",
-              "China’s zero-tariff policy for 53 African diplomatic partners took effect on May 1, boosting African coffee imports through Shanghai after the previous minimum 8 percent tariff on African coffee beans was removed. *(EU Delegation Beijing pickup)*"
+              "MoJ order prohibits any compliance with the EU probe",
+              "The statement said no organization or individual in China may comply with or assist the EU's investigation into the security screening company."
             ]
           ]
         },
         {
           "outlet": "Xinhua",
-          "title": "China willing to deepen cooperation with Moldova to benefit two peoples: Chinese FM",
-          "date": "2026-05-22",
-          "url": "https://english.news.cn/20260522/0b8556000094461d8693485c617c47c2/c.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "Chinese Foreign Minister Wang Yi met Moldovan Deputy Prime Minister and Minister of Foreign Affairs Mihai Popsoi in Beijing on Thursday, pledging to deepen mutually beneficial cooperation and strengthen bilateral ties. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "title": "China, Pakistan celebrate 75th anniversary of diplomatic ties, vow to deepen all-round cooperation",
-          "date": "2026-05-22",
-          "url": "https://english.news.cn/20260522/79cb1b5e90dc497e9dbb087189dddaf3/c.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "China and Pakistan pledged to deepen all-round cooperation and elevate bilateral ties during Chinese National People’s Congress vice chairman Cai Dafeng’s visit to Pakistan from May 20 to 22. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "title": "China-built solar project wins trust in Bosnia and Herzegovina",
-          "date": "2026-05-22",
-          "url": "https://english.news.cn/20260522/d96a55091c6a4be7a968406a6e2330dd/c.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "Bosnia and Herzegovina’s Bileca PV-plus-storage project, developed with Chinese contractor Dongfang Electric, has become a landmark renewable energy project in the Balkans. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "title": "Chinese, European scholars discuss human rights challenges, development in Paris",
-          "date": "2026-05-22",
-          "url": "https://english.news.cn/20260522/6dc57766331f4832a73f55cff79edce9/c.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "More than 150 officials and human rights scholars from China and European countries attended the 2026 China-Europe Seminar on Human Rights in Paris on Thursday. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "title": "Friendship among young people key support for future Russia-China ties: Russian spokesperson",
-          "date": "2026-05-22",
-          "url": "https://english.news.cn/20260522/16ce26b985d44a8088af3cf5237ef3ee/c.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "Russian Foreign Ministry spokesperson Maria Zakharova said Thursday that spiritual affinity, shared worldviews and common ideals among young people are vital for the future of Russia-China relations. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "China Daily",
-          "title": "Guideline calls for human-centric AI",
-          "date": "2026-05-22",
-          "url": "https://www.chinadaily.com.cn/a/202605/22/WS6a0fabe7a310d6866eb4a0af.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "China has released the “Ethics-Safety Guidelines for Artificial Intelligence Applications 1.0”, highlighting principles including human-centered development, AI for good and human leadership over AI systems. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "China Daily",
-          "title": "Long-standing Sino-Pakistani relationship valued",
-          "date": "2026-05-22",
-          "url": "https://www.chinadaily.com.cn/a/202605/22/WS6a0faf88a310d6866eb4a10d.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "As China and Pakistan marked the 75th anniversary of diplomatic ties on Thursday, political leaders, diplomats and analysts in Pakistan have highlighted the longstanding, multifaceted Sino-Pakistani… *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "huanqiu.com",
-          "title": "Australia’s overuse of “political correctness” ignores real risks",
+          "title": "China to resolutely counteract should EU impose discriminatory, restrictive measures: commerce ministry",
           "date": "2026-05-21",
-          "url": "https://hqtime.huanqiu.com/article/4ReCWTpqBE1",
+          "url": "https://english.news.cn/20260521/8f82ffa6ae764e91acc795ce9852c600/c.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "On May 20, reports highlighted that Australia forced six China-related shareholders of Northern Minerals to divest, marking the second such action in two years. *(EU Delegation Beijing pickup)*"
+              "MofCOM threatens countermeasures against EU's new trade instrument",
+              "China's commerce ministry said it will \"resolutely respond\" if the EU imposes discriminatory restrictions on Chinese companies or products under its overcapacity-related trade tool."
+            ],
+            [
+              "Spokesperson inverts \"overcapacity\" logic onto EU export sectors",
+              "He Yadong asked whether EU automobiles, pharmaceuticals, wine, and cosmetics should be subject to the same label, urging the EU to avoid double standards."
             ]
           ]
         },
@@ -2411,44 +2427,28 @@ window.W21_2026 = {
           "url": "https://www.chinadaily.com.cn/a/202605/21/WS6a0eef86a310d6866eb49fc0.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "China’s Ministry of Commerce said it firmly opposes the European Union’s reported plan to introduce a new trade tool targeting alleged Chinese “overcapacity”. *(EU Delegation Beijing pickup)*"
+              "MOFCOM rejects trade surplus as evidence of overcapacity",
+              "Ministry spokesperson He Yadong said surpluses do not automatically constitute overcapacity, opposing the EU's reported new trade instrument targeting Chinese exports."
+            ],
+            [
+              "Beijing threatens countermeasures if EU targets Chinese firms or products",
+              "China said it will respond \"resolutely\" while calling for differences to be resolved through consultation and dialogue."
             ]
           ]
         },
         {
-          "outlet": "China Daily",
-          "title": "Boeing plan eases aviation ties after years of strain",
-          "date": "2026-05-21",
-          "url": "https://www.chinadaily.com.cn/a/202605/21/WS6a0f1a6ba310d6866eb4a001.html",
+          "outlet": "china.com.cn",
+          "title": "EU protectionism undermines its own future development",
+          "date": "2026-05-20",
+          "url": "http://www.china.com.cn/opinion2020/2026-05/20/content_118503601.shtml",
           "bullets": [
             [
-              "Beijing-side read",
-              "China will purchase 200 Boeing aircraft based on air transport development needs and commercial principles, while the United States will ensure supplies of engines and spare parts for Chinese operators. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "China Daily",
-          "title": "Caofeidian Port enters new phase for ore carriers",
-          "date": "2026-05-21",
-          "url": "https://www.chinadaily.com.cn/a/202605/21/WS6a0e56dba310d6866eb49d62.html",
-          "bullets": [
+              "China's Ministry of Justice condemned EU's FSR as extraterritorial",
+              "Beijing declared the regulation's application to Chinese firms in AI, renewables, rail, and EVs a violation of WTO principles and improper jurisdictional overreach."
+            ],
             [
-              "Beijing-side read",
-              "The 400,000-metric-ton ore carrier Yuan Jian Hai recently docked fully loaded at Caofeidian Port Area of Tangshan Port in Hebei, carrying iron ore from Brazil. *(EU Delegation Beijing pickup)*"
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "title": "China allocates funds to support emergency restoration in quake-hit Guangxi",
-          "date": "2026-05-21",
-          "url": "https://english.news.cn/20260521/d148dca8a0cf471eb1c7518faf149fff/c.html",
-          "bullets": [
-            [
-              "Beijing-side read",
-              "China's National Development and Reform Commission has allocated 50 million yuan (about 7.32 million U.S. *(EU Delegation Beijing pickup)*"
+              "China warned the FSR damages EU legal certainty and market stability",
+              "The statement argued that targeting Chinese companies undermines long-term European economic interests alongside Chinese enterprises."
             ]
           ]
         },
@@ -2459,8 +2459,184 @@ window.W21_2026 = {
           "url": "https://english.news.cn/20260521/f09b4afcdb0b4eeaa821ee27dfc07cc3/c.html",
           "bullets": [
             [
-              "Beijing-side read",
-              "Chinese companies became the largest source of foreign investment projects in Germany in 2025, launching 228 projects, up 14.6 percent year-on-year, according to a report by Germany Trade & Invest released Thursday. *(EU Delegation Beijing pickup)*"
+              "China ranked first for German investment projects in 2025",
+              "Chinese firms launched 228 projects, up 14.6%, overtaking US firms which fell 10% to 206, according to Germany Trade & Invest."
+            ],
+            [
+              "Over one in five Chinese projects included production and R&D",
+              "The report noted deeper industrial integration across electronics, automation, energy, and digitalization, despite a 9.3% overall decline in foreign investment."
+            ]
+          ]
+        },
+        {
+          "outlet": "china.com.cn",
+          "title": "EU’s push for Cybersecurity Act seen as damaging both others and itself",
+          "date": "2026-05-19",
+          "url": "http://www.china.com.cn/opinion/2026-05/19/content_118496561.html",
+          "bullets": [
+            [
+              "China objects to EU \"high-risk supplier\" designation for Chinese firms",
+              "A china.com.cn commentary argues that excluding Chinese companies from EU critical infrastructure projects would raise costs for European industries and weaken supply chain competitiveness."
+            ],
+            [
+              "Beijing frames Cybersecurity Act revision as harming China-EU cooperation",
+              "The commentary claims the proposed rules would negatively affect bilateral cooperation in the digital economy, green transition, and technological innovation."
+            ]
+          ]
+        },
+        {
+          "outlet": "Global Times",
+          "title": "Targeting China? EU imposes tariffs of up to 50% on imported steel – experts: a classic case of trade protectionism",
+          "date": "2026-05-21",
+          "url": "https://hqtime.huanqiu.com/article/4ReD5JTuq7g",
+          "bullets": [
+            [
+              "Chinese academic labels EU steel tariffs trade protectionism",
+              "Professor Cui Hongjian told Global Times the measures violate WTO rules and harm the healthy development of the global steel industry."
+            ],
+            [
+              "Professor argues tariffs disrupt bilateral industrial chain cooperation",
+              "According to the article, artificially separating China-EU steel supply chains damages companies on both sides and is detrimental to EU economic growth."
+            ]
+          ]
+        },
+        {
+          "outlet": "China Daily",
+          "title": "EU avoids tariff threats as it reaches consensus on trade deal with US",
+          "date": "2026-05-21",
+          "url": "https://www.chinadaily.com.cn/a/202605/21/WS6a0e60b7a310d6866eb49e21.html",
+          "bullets": [
+            [
+              "EU lawmakers and member states reached internal consensus on the July 2025 EU-US trade deal",
+              "The agreement, signed by Trump and von der Leyen, sets a 15 percent tariff on most EU exports to the US and zero tariffs on US imports to the EU."
+            ],
+            [
+              "The deal averts threatened US tariffs due to take effect on 4 July",
+              "According to China Daily, the compromise was reached after five hours of negotiations between EU institutions."
+            ]
+          ]
+        },
+        {
+          "outlet": "huanqiu.com",
+          "title": "Europe’s aggressive EV push hits snags, Ford warning policy may backfire",
+          "date": "2026-05-21",
+          "url": "https://hqtime.huanqiu.com/article/4ReRAZe1tPR",
+          "bullets": [
+            [
+              "Ford Europe paused its 2030 fossil-fuel phase-out plan",
+              "The company cited low EV adoption rates and infrastructure gaps as reasons for suspending its electrification timeline, according to huanqiu.com."
+            ],
+            [
+              "EU EV market share rose only marginally in early 2026",
+              "Market share in major EU markets increased from 19.5% in 2025 to 20.6% in Q1 2026, the article reports."
+            ],
+            [
+              "Ford urges gradual, multi-powertrain transition over mandated timelines",
+              "The company warned that aggressive EU policy could slow overall emissions reductions by impeding vehicle turnover."
+            ]
+          ]
+        },
+        {
+          "outlet": "Global Times",
+          "title": "GT Voice: EU prescribes wrong medicine for ‘disease’ with trade barriers",
+          "date": "2026-05-19",
+          "url": "https://www.globaltimes.cn/page/202605/1361411.shtml",
+          "bullets": [
+            [
+              "Global Times frames EU trade barriers as self-defeating",
+              "The editorial argues that the Industrial Accelerator Act and Foreign Subsidies Regulation undermine EU competitiveness rather than protect it."
+            ],
+            [
+              "EU officials' security warnings cited, then rebutted",
+              "The piece acknowledges Finnish intelligence chief Juha Martelius and Kaja Kallas flagging overreliance on US software and Chinese hardware, but attributes EU vulnerability to protectionism rather than dependency."
+            ],
+            [
+              "GT prescribes R&D investment and maintained supply chain cooperation",
+              "The editorial advocates sustaining \"cooperative global industrial chain relationships\" as the alternative to EU defensive trade measures."
+            ]
+          ]
+        },
+        {
+          "outlet": "Global Times",
+          "title": "High-level exchanges between China, Spain further deepen co-op in multiple fields: FM",
+          "date": "2026-05-20",
+          "url": "https://www.globaltimes.cn/page/202605/1361522.shtml",
+          "bullets": [
+            [
+              "Spain's deputy PM visited China for trade summit, May 17-20",
+              "Yolanda Diaz attended the Global Trade and Investment Promotion Summit in Beijing and traveled to Shanghai, the Chinese Foreign Ministry confirmed."
+            ],
+            [
+              "Bilateral trade exceeded $55 billion in 2025, up 9.8% year on year",
+              "China is Spain's largest trading partner outside the EU; Spain ranks fifth among China's EU partners."
+            ]
+          ]
+        },
+        {
+          "outlet": "Xinhua",
+          "title": "China-France Working Group on addressing climate and environmental challenges holds Its first meeting in Beijing, China",
+          "date": "2026-05-21",
+          "url": "https://english.news.cn/20260521/a86fdb83a7cf445690dc6a6b571aa15a/c.html",
+          "bullets": [
+            [
+              "China and France launched a bilateral climate working group",
+              "The inaugural meeting, held in Beijing on 20 May, followed joint climate statements issued in December 2025 and March 2025, covering governance, COP31, biodiversity, and environmental finance."
+            ],
+            [
+              "Both sides reaffirmed multilateral climate commitments",
+              "Participants pledged support for the UNFCCC, Paris Agreement, and CBD, and agreed to hold the group's second meeting in Paris."
+            ]
+          ]
+        },
+        {
+          "outlet": "China News",
+          "title": "Creative thinking needed for the next decade of China-Europe human rights dialogue",
+          "date": "2026-05-21",
+          "url": "https://www.chinanews.com.cn/gn/2026/05-21/10626037.shtml",
+          "bullets": [
+            [
+              "China News frames human rights as solidarity tool, not leverage",
+              "The commentary argues that human rights dialogue should foster international solidarity rather than serve as justification for political confrontation or sanctions."
+            ],
+            [
+              "Article invokes shared values to deflect structural differences",
+              "Despite acknowledged divergences rooted in cultural and historical context, the piece asserts common ground on human dignity and opposition to abuses of power as a basis for renewed engagement."
+            ],
+            [
+              "Call to reduce \"politicization\" coincides with EU scrutiny of dialogue stagnation",
+              "The piece urges depoliticizing human rights discussions and addressing global governance inequalities, framing European conditionality as the obstacle to progress."
+            ]
+          ]
+        },
+        {
+          "outlet": "huanqiu.com",
+          "title": "European automakers press Brussels for further CO2 reprieve",
+          "date": "2026-05-15",
+          "url": "https://hqtime.huanqiu.com/article/4RZAldYAzZr",
+          "bullets": [
+            [
+              "European automakers renewed lobbying against EU CO2 rules",
+              "Representatives for Volkswagen, BMW, Mercedes-Benz, suppliers, and industry groups met EU officials to press for further relief from the bloc's carbon emissions regulations."
+            ],
+            [
+              "Industry warned the forthcoming Industrial Accelerator Act would compound sector pressure",
+              "Automakers cautioned that the proposed rules risk increasing costs and heightening supply chain uncertainty, according to the article."
+            ]
+          ]
+        },
+        {
+          "outlet": "China Daily",
+          "title": "Overcapacity of anxiety in Brussels 'threat' to EU",
+          "date": "2026-05-20",
+          "url": "https://www.chinadaily.com.cn/a/202605/20/WS6a0db6afa310d6866eb49c8d.html",
+          "bullets": [
+            [
+              "China Daily dismisses EU steel tariff hike as protectionism",
+              "A commentary argues raising steel import duties from 25 to 50 percent reflects \"excess anxiety\" rather than genuine overcapacity concerns."
+            ],
+            [
+              "Article urges China and EU to avoid framing trade friction as systemic confrontation",
+              "The piece contends both sides lose if economic competition is recast as a structural geopolitical rivalry."
             ]
           ]
         }
