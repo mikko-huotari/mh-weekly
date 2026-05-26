@@ -451,7 +451,10 @@
       return parts.join("") || empty("No MERICS research entries in this issue.");
     }
     if (tab === "intl") {
-      const sections = (w.numberedSections || []).map(renderNumbered).join("");
+      // NB: arrow wrapper — bare .map(renderNumbered) would pass the array index
+      // as anchorPrefix, producing ids like "0econ" instead of "intl-econ", so
+      // the sub-chip jump targets never resolve.
+      const sections = (w.numberedSections || []).map(s => renderNumbered(s)).join("");
       return sections || empty("No international-sources entries in this issue.");
     }
     if (tab === "cnsources") {

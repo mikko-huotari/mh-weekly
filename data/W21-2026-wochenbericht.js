@@ -29,7 +29,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-22",
-            "title": "URSULA VON DER LEYEN, CLAUDIA SHEINBAUM; Neue Nähe"
+            "title": "Neue Nähe"
           },
           "kind": "quote"
         },
@@ -40,7 +40,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-21",
-            "title": "HIGHTECH-AGENDA; Volle Kraft voraus"
+            "title": "Volle Kraft voraus"
           },
           "kind": "quote"
         },
@@ -51,7 +51,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-21",
-            "title": "EXPORTE; China-Schock alarmiert deutsche Politik"
+            "title": "China-Schock alarmiert deutsche Politik"
           },
           "kind": "quote"
         },
@@ -62,7 +62,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-21",
-            "title": "EXPORTE; China-Schock alarmiert deutsche Politik"
+            "title": "China-Schock alarmiert deutsche Politik"
           },
           "kind": "quote"
         },
@@ -73,7 +73,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Factiva",
             "outletDisplay": "factiva.com",
             "date": "2026-05-20",
-            "title": "WOLFGANG HATTMANNSDORFER; „Deutschland kann von unserer Industriestrategie lernen"
+            "title": "„Deutschland kann von unserer Industriestrategie lernen"
           },
           "kind": "quote"
         },
@@ -84,7 +84,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-20",
-            "title": "HOMO OECONOMICUS; Europas größtes Problem ist nicht China"
+            "title": "Europas größtes Problem ist nicht China"
           },
           "kind": "quote"
         },
@@ -106,7 +106,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-21",
-            "title": "EUROPÄISCHE UNION; Europas neue Bewährungsprobe"
+            "title": "Europas neue Bewährungsprobe"
           },
           "kind": "quote"
         },
@@ -139,7 +139,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-20",
-            "title": "XI JINPING, WLADIMIR PUTIN; Zweckbündnis gegen den Westen"
+            "title": "Zweckbündnis gegen den Westen"
           },
           "kind": "quote"
         },
@@ -161,7 +161,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-19",
-            "title": "DEFENSE CIRCLE; Panzer statt Autos"
+            "title": "Panzer statt Autos"
           },
           "kind": "quote"
         },
@@ -183,7 +183,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-21",
-            "title": "AKTIE IM BLICK; KI-Turbo treibt Infineon an die Dax-Spitze"
+            "title": "KI-Turbo treibt Infineon an die Dax-Spitze"
           },
           "kind": "quote"
         },
@@ -194,7 +194,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-20",
-            "title": "ALEXANDER GERST; \"Der Mond ist wie ein offenes Geschichtsbuch"
+            "title": "\"Der Mond ist wie ein offenes Geschichtsbuch"
           },
           "kind": "quote"
         },
@@ -227,7 +227,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-19",
-            "title": "PRO & CONTRA; Wird Deutschland zur Werkbank Chinas?"
+            "title": "Wird Deutschland zur Werkbank Chinas?"
           },
           "kind": "quote"
         },
@@ -238,7 +238,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-19",
-            "title": "PRO & CONTRA; Wird Deutschland zur Werkbank Chinas?"
+            "title": "Wird Deutschland zur Werkbank Chinas?"
           },
           "kind": "quote"
         },
@@ -260,7 +260,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-21",
-            "title": "WIRTSCHAFTSPOLITIK; Auch nach 50 Jahren: Über die Angebotsseite nach vorne"
+            "title": "Auch nach 50 Jahren: Über die Angebotsseite nach vorne"
           },
           "kind": "quote"
         }
@@ -345,7 +345,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-19",
-            "title": "AUTOBAUER; Tabubruch in Wolfsburg möglich"
+            "title": "Tabubruch in Wolfsburg möglich"
           },
           "kind": "fact"
         },
@@ -400,7 +400,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-05-21",
-            "title": "US-INDUSTRIEPOLITIK; Die Trump-Regierung wird Quanteninvestor"
+            "title": "Die Trump-Regierung wird Quanteninvestor"
           },
           "kind": "fact"
         },
@@ -411,7 +411,7 @@ window.W21_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-21",
-            "title": "CHINA-SPIONAGE; Spionagefall erschüttert Universitäten"
+            "title": "Spionagefall erschüttert Universitäten"
           },
           "kind": "fact"
         }
@@ -431,7 +431,7 @@ window.W21_2026_WOCHENBERICHT = {
               "outlet": "FAZ",
               "outletDisplay": "faz.net",
               "date": "2026-05-20",
-              "title": "PUTIN BEI XI JINPING; Die Parade der Bittsteller in Peking"
+              "title": "Die Parade der Bittsteller in Peking"
             },
             {
               "outlet": "DIE ZEIT",
@@ -443,7 +443,7 @@ window.W21_2026_WOCHENBERICHT = {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-05-20",
-              "title": "XI UND PUTIN; „Stabilität“ als Code für eine Welt ohne US-Führung"
+              "title": "„Stabilität“ als Code für eine Welt ohne US-Führung"
             }
           ],
           "kind": "theme"
@@ -481,19 +481,19 @@ window.W21_2026_WOCHENBERICHT = {
               "outlet": "FAZ",
               "outletDisplay": "faz.net",
               "date": "2026-05-21",
-              "title": "US-INDUSTRIEPOLITIK; Die Trump-Regierung wird Quanteninvestor"
+              "title": "Die Trump-Regierung wird Quanteninvestor"
             },
             {
               "outlet": "FAZ",
               "outletDisplay": "faz.net",
               "date": "2026-05-19",
-              "title": "KÜNSTLICHE INTELLIGENZ; Deutsche Spitzenchips für Europas digitale Souveränität"
+              "title": "Deutsche Spitzenchips für Europas digitale Souveränität"
             },
             {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-05-21",
-              "title": "HIGHTECH-AGENDA; Ambitionierter Traum"
+              "title": "Ambitionierter Traum"
             }
           ],
           "kind": "theme"
@@ -506,7 +506,7 @@ window.W21_2026_WOCHENBERICHT = {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-05-19",
-              "title": "PRO & CONTRA; Fatale Rollenteilung – China entwickelt, Deutschland schraubt"
+              "title": "Fatale Rollenteilung – China entwickelt, Deutschland schraubt"
             },
             {
               "outlet": "DIE ZEIT",
@@ -518,7 +518,7 @@ window.W21_2026_WOCHENBERICHT = {
               "outlet": "FAZ",
               "outletDisplay": "faz.net",
               "date": "2026-05-19",
-              "title": "AUTOMARKT IM WANDEL; Leapesgrüße aus Hangzhou"
+              "title": "Leapesgrüße aus Hangzhou"
             }
           ],
           "kind": "theme"
@@ -537,7 +537,7 @@ window.W21_2026_WOCHENBERICHT = {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-05-21",
-              "title": "CHINA-SPIONAGE; Spionagefall erschüttert Universitäten"
+              "title": "Spionagefall erschüttert Universitäten"
             }
           ],
           "kind": "theme"
