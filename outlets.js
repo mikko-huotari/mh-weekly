@@ -21,6 +21,7 @@ window.OUTLET_MAP = {
   // ---------------- China-focused ------------------
   "SCMP":            { mono: "SCMP", bg: "#A11626", fg: "#FFFFFF", size: 7 }, // favicon too small; keep mono
   "Caixin":          { iconUrl: "assets/icons/caixin.png",      mono: "Cx",   bg: "#9C1010", fg: "#FFFFFF" },
+  "Caixin Global":   { iconUrl: "assets/icons/caixin.png",      mono: "Cx",   bg: "#9C1010", fg: "#FFFFFF" },
   "Nikkei":          { iconUrl: "assets/icons/nikkei.png",      mono: "N",    bg: "#D4202C", fg: "#FFFFFF" },
   "ChinaTalk":       { iconUrl: "assets/icons/chinatalk.png",   mono: "CT",   bg: "#C41E1E", fg: "#FFFFFF" },
   "Wire China":      { iconUrl: "assets/icons/wirechina.png",   mono: "WC",   bg: "#971418", fg: "#FFFFFF" },
@@ -28,6 +29,12 @@ window.OUTLET_MAP = {
   "Straits Times":   { iconUrl: "assets/icons/straitstimes.png",mono: "ST",   bg: "#0B3D91", fg: "#FFFFFF" },
   "China Daily":     { iconUrl: "assets/icons/chinadaily.png",  mono: "CD",   bg: "#A91024", fg: "#FFFFFF" },
   "Eastisread":      { iconUrl: "assets/icons/eastisread.png",  mono: "EiR",  bg: "#1A1916", fg: "#FFFFFF", size: 7 },
+  "Qiushi":          { mono: "QS",  bg: "#C41E1E", fg: "#FFFFFF" },
+  "Guancha":         { mono: "GC",  bg: "#C41E1E", fg: "#FFFFFF" },
+  "Yicai":           { mono: "Yi",  bg: "#0F2D59", fg: "#FFFFFF" },
+  "Beijing News":    { mono: "BJ",  bg: "#1A1916", fg: "#FFFFFF" },
+  "The Diplomat":    { mono: "Dip", bg: "#0F2D59", fg: "#FFFFFF" },
+  "Diplomat":        { mono: "Dip", bg: "#0F2D59", fg: "#FFFFFF" },
 
   // ---------------- Magazines ----------------------
   "The Economist":   { iconUrl: "assets/icons/economist.png",       mono: "E",    bg: "#E3120B", fg: "#FFFFFF", font: "serif" },
@@ -44,9 +51,14 @@ window.OUTLET_MAP = {
   "Atlantic Council":{ iconUrl: "assets/icons/atlanticcouncil.png", mono: "AC",   bg: "#A11D33", fg: "#FFFFFF" },
   "CFR":             { iconUrl: "assets/icons/cfr.png",             mono: "CFR",  bg: "#0B2E5B", fg: "#FFFFFF", size: 7 },
   "Carnegie":        { mono: "Cg",  bg: "#1A1916", fg: "#FFFFFF" }, // favicon too small
+  "Carnegie Politika Podcast": { mono: "Cg", bg: "#1A1916", fg: "#FFFFFF" },
+  "Carnegie Politika":         { mono: "Cg", bg: "#1A1916", fg: "#FFFFFF" },
+  "ECFR":            { mono: "ECF", bg: "#002F6C", fg: "#FFFFFF" },
+  "EUISS":           { mono: "EUI", bg: "#0C2340", fg: "#FFFFFF" },
   "Lowy Institute":  { mono: "L",   bg: "#B11226", fg: "#FFFFFF" }, // favicon too small
   "Hudson":          { mono: "Hu",  bg: "#003A70", fg: "#FFFFFF" }, // favicon too small
   "Rhodium":         { iconUrl: "assets/icons/rhodium.png",         mono: "Rh",   bg: "#1A1916", fg: "#FFFFFF" },
+  "Rhodium Group × MERICS": { iconUrl: "assets/icons/rhodium.png", mono: "Rh", bg: "#1A1916", fg: "#FFFFFF" },
   "HRW":             { mono: "HRW", bg: "#F7941D", fg: "#FFFFFF", size: 7 },
   "Noah Barkin":     { mono: "NB",  bg: "#444444", fg: "#FFFFFF" },
   "Choosingvictory": { iconUrl: "assets/icons/choosingvictory.png", mono: "CV",   bg: "#1A1916", fg: "#FFFFFF" },
@@ -58,6 +70,8 @@ window.OUTLET_MAP = {
   "NDR":             { iconUrl: "assets/icons/ndr.png",             mono: "NDR",  bg: "#000B72", fg: "#FFFFFF", size: 7 },
   "Tagesschau":      { iconUrl: "assets/icons/tagesschau.png",      mono: "TS",   bg: "#001E50", fg: "#FFFFFF" },
   "tagesschau.de":   { iconUrl: "assets/icons/tagesschau.png",      mono: "TS",   bg: "#001E50", fg: "#FFFFFF" },
+  "ZDF heute":       { mono: "ZDF", bg: "#FF6600", fg: "#FFFFFF" },
+  "ZDF":             { mono: "ZDF", bg: "#FF6600", fg: "#FFFFFF" },
 
   // ---------------- Govt / EU ----------------------
   "Eurostat":        { mono: "ES",  bg: "#003399", fg: "#FFCC00" },
@@ -72,10 +86,18 @@ window.OUTLET_MAP = {
   "Anadolu":         { iconUrl: "assets/icons/anadolu.png",         mono: "AA",   bg: "#102D69", fg: "#FFFFFF" },
   "ICIJ":            { iconUrl: "assets/icons/icij.png",            mono: "ICIJ", bg: "#1A1916", fg: "#FFFFFF", size: 7 },
   "Euronews":        { iconUrl: "assets/icons/euronews.png",        mono: "EN",   bg: "#003791", fg: "#FFFFFF" },
+  "Generalbundesanwalt": { mono: "GBA", bg: "#000000", fg: "#FFFFFF" },
+  "European Parliament": { mono: "EP", bg: "#003399", fg: "#FFCC00" },
+  "European Commission": { mono: "EC", bg: "#003399", fg: "#FFCC00" },
+  "FMPRC":           { mono: "MFA", bg: "#003A70", fg: "#FFFFFF" },
+  "MFA":             { mono: "MFA", bg: "#003A70", fg: "#FFFFFF" },
+  "Gov.cn":          { mono: "Gov", bg: "#003A70", fg: "#FFFFFF" },
 
   // ---------------- German press -------------------
   "FAZ — op-ed":      { iconUrl: "assets/icons/faz.png",      mono: "FAZ", bg: "#000000", fg: "#FFFFFF", font: "serif", size: 7 },
   "NZZ — interview":  { iconUrl: "assets/icons/nzz.png",      mono: "NZZ", bg: "#000000", fg: "#FFFFFF", font: "serif", size: 7 },
+  "taz":              { mono: "taz", bg: "#C40000", fg: "#FFFFFF" },
+  "taz - die tageszeitung": { mono: "taz", bg: "#C40000", fg: "#FFFFFF" },
 
   // ---------------- German press (Wochenbericht) ---
   "FAZ":              { iconUrl: "assets/icons/faz.png",          mono: "F",   bg: "#000000", fg: "#FFFFFF", font: "serif" },
