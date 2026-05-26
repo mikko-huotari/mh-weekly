@@ -101,22 +101,47 @@ class _WochenberichtPayload(BaseModel):
 
 
 def gemini_call_structured(prompt: str) -> dict:
-    """Call Gemini with response_schema = _WochenberichtPayload; returns the
-    parsed dict. Dumps the raw response to data/.wochenbericht_debug.txt if
-    something still slips through."""
-    from google import genai
-    from google.genai import types
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        sys.exit("GEMINI_API_KEY not set in environment.")
-    client = genai.Client(api_key=api_key)
-    config = types.GenerateContentConfig(
-        response_mime_type="application/json",
-        response_schema=_WochenberichtPayload,
+    """Call Claude CLI (Max plan) returning structured JSON. Replaces Gemini
+    to avoid per-token billing + spend caps. JSON schema is communicated via
+    prompt suffix since `claude -p` lacks SDK-level schema enforcement."""
+    import subprocess, shutil
+    claude_bin = shutil.which("claude") or shutil.which("claude.cmd")
+    if not claude_bin:
+        import os as _os
+        for cand in [_os.path.expandvars(r'%APPDATA%\npm\claude.cmd'),
+                     _os.path.expandvars(r'%APPDATA%\npm\claude')]:
+            if _os.path.isfile(cand):
+                claude_bin = cand; break
+    if not claude_bin:
+        sys.exit("claude CLI not found")
+    schema_hint = (
+        "\n\nReturn ONLY a single JSON object, no prose, no fences. Top-level keys: "
+        "`label` (string), `caveat` (string), `quotes` (array of {lead, text, "
+        "source:{outlet,outletDisplay,date,title}, kind}), `events` (array of "
+        "{lead, text, source:{...}, kind}), `themes` (array of {lead, text, "
+        "source:{...}, kind})."
     )
-    resp = client.models.generate_content(model=GEMINI_MODEL, contents=prompt, config=config)
-    # Prefer SDK-parsed value when available (post-validation by Pydantic).
-    parsed = getattr(resp, "parsed", None)
+    try:
+        proc = subprocess.run(
+            [claude_bin, "-p"], input=prompt + schema_hint,
+            capture_output=True, text=True, timeout=600, encoding="utf-8"
+        )
+    except subprocess.TimeoutExpired:
+        sys.exit("claude CLI timeout (600s)")
+    if proc.returncode != 0:
+        sys.exit(f"claude CLI rc={proc.returncode}: {proc.stderr[:300]}")
+    raw = (proc.stdout or "").strip()
+    # Strip code fences if present
+    raw = re.sub(r"^```(?:json)?\s*", "", raw)
+    raw = re.sub(r"\s*```$", "", raw)
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError as e:
+        debug_path = Path("data/.wochenbericht_debug.txt")
+        debug_path.write_text(raw, encoding="utf-8")
+        sys.exit(f"claude JSON parse failed ({e}); raw saved to {debug_path}")
+    # Pydantic post-validation removed (no schema enforcement w/ CLI)
+    parsed = None
     if parsed is not None:
         try:
             return parsed.model_dump()
