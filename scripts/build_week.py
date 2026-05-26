@@ -618,6 +618,46 @@ def write_data_file(week_id: str, payload: dict, out: Path) -> None:
 # Main
 # ---------------------------------------------------------------------------
 
+# Map Chinese Sources slot headings -> (slug, short, label) for the web tabs.
+CN_SOURCES_SLOTS = {
+    "authoritative texts":                 ("cn-authoritative", "Authoritative", "Authoritative texts"),
+    "regulatory & policy primary sources": ("cn-regulatory", "Regulatory", "Regulatory & policy primary sources"),
+    "quality cn journalism":               ("cn-journalism", "CN journalism", "Quality CN journalism"),
+    "mfa & diplomatic readouts":           ("cn-mfa", "MFA", "MFA & diplomatic readouts"),
+    "cn think-tanks":                      ("cn-thinktanks", "Think-tanks", "CN think-tanks"),
+    "ger / eu in cn media":                ("cn-media", "GER/EU media", "GER / EU in CN media"),
+}
+
+
+def parse_chinese_sources_part(text: str) -> list[dict]:
+    """Parse `# IV. Chinese Sources` (numeral-agnostic) into one section per
+    `## <slot>` subsection — each renders as its own tab on the site."""
+    m = re.search(r"^#\s+[IVX]+\.\s+Chinese Sources\s*$", text, re.MULTILINE)
+    if not m:
+        return []
+    start = m.end()
+    nxt = re.search(r"^#\s+[IVX]+\.", text[start:], re.MULTILINE)
+    body = text[start:(start + nxt.start()) if nxt else len(text)]
+    sections: list[dict] = []
+    for sm in re.finditer(r"^##\s+(?P<label>.+?)\s*$", body, re.MULTILINE):
+        s2 = sm.end()
+        n2 = re.search(r"^##\s+", body[s2:], re.MULTILINE)
+        sub_body = body[s2:(s2 + n2.start()) if n2 else len(body)]
+        label = sm.group("label").strip()
+        slug, short, disp = CN_SOURCES_SLOTS.get(
+            label.lower(),
+            ("cn-" + re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-"), label[:14], label),
+        )
+        items = []
+        for block in split_article_blocks(sub_body):
+            entry = parse_article_block(block)
+            if entry:
+                items.append(entry)
+        if items:
+            sections.append({"number": "", "slug": slug, "short": short, "label": disp, "items": items})
+    return sections
+
+
 def main() -> None:
     if len(sys.argv) < 2:
         print(__doc__)
@@ -638,13 +678,12 @@ def main() -> None:
     top_charts = parse_top_charts_section(text, week_id)
 
     numbered = []
-    debates = parse_chinese_debates_section(text)
-    if debates and debates["items"]:
-        numbered.append(debates)
     for num in ["1", "2", "3", "3a", "3b", "4", "5"]:
         sec = parse_numbered_section(text, num)
         if sec and sec["items"]:
             numbered.append(sec)
+
+    chinese_sources = parse_chinese_sources_part(text)
 
     payload = {
         "id": week_id,
@@ -656,6 +695,7 @@ def main() -> None:
         "contextSections": [context] if context else [],
         "researchSections": [research] if research else [],
         "numberedSections": numbered,
+        "chineseSourcesSections": chinese_sources,
         "topCharts": top_charts,
     }
 
@@ -668,6 +708,8 @@ def main() -> None:
         "research_items": sum(len(g["items"]) for g in (research["groups"] if research else [])),
         "numbered_sections": len(numbered),
         "numbered_items": sum(len(s["items"]) for s in numbered),
+        "cn_sources_tabs": len(chinese_sources),
+        "cn_sources_items": sum(len(s["items"]) for s in chinese_sources),
     }
     print(f"\n[{week_id}] " + ", ".join(f"{k}={v}" for k, v in counts.items()))
 

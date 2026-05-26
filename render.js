@@ -50,11 +50,11 @@
     { id: "highlights", num: "I",   label: "Highlights",       short: "Highlights" },
     { id: "research",   num: "II",  label: "MERICS",           short: "MERICS" },
     { id: "intl",       num: "III", label: "International",    short: "Intl." },
-    { id: "lens",       num: "IV",  label: "German lens",      short: "GER Lens" },
+    { id: "cnsources",  num: "IV",  label: "Chinese Sources",  short: "CN Sources" },
+    { id: "lens",       num: "V",   label: "German lens",      short: "GER Lens" },
   ];
-  const SUB_ORDER = ["debates", "econ", "domestic", "tech", "trade", "foreign", "responses"];
+  const SUB_ORDER = ["econ", "domestic", "tech", "trade", "foreign", "responses"];
   const SUB_LABELS = {
-    debates:   "CN debates",
     econ:      "Econ",
     domestic:  "Politics",
     tech:      "Geoecon · Tech",
@@ -62,10 +62,20 @@
     foreign:   "Foreign",
     responses: "Responses",
   };
+  // Chinese Sources sub-chips (Part IV) — one per CN-Sources slot.
+  const CN_SUB_ORDER = ["cn-authoritative", "cn-regulatory", "cn-journalism", "cn-mfa", "cn-thinktanks", "cn-media"];
+  const CN_SUB_LABELS = {
+    "cn-authoritative": "Authoritative",
+    "cn-regulatory":    "Regulatory",
+    "cn-journalism":    "CN journalism",
+    "cn-mfa":           "MFA",
+    "cn-thinktanks":    "Think-tanks",
+    "cn-media":         "GER/EU media",
+  };
   // Wochenbericht sub-chips (German Lens tab)
   const LENS_SUB_ORDER = ["quotes", "facts", "themes"];
   const LENS_SUB_LABELS = { quotes: "Zitate", facts: "Fakten", themes: "Themen" };
-  const ALL_SUBS = [...SUB_ORDER, ...LENS_SUB_ORDER];
+  const ALL_SUBS = [...SUB_ORDER, ...CN_SUB_ORDER, ...LENS_SUB_ORDER];
 
   // -------- helpers ---------------------------------------------------------
   const $ = (sel) => document.querySelector(sel);
@@ -205,6 +215,8 @@
       });
     } else if (tab === "intl") {
       (week.numberedSections || []).forEach(sec => pushItems(sec.items));
+    } else if (tab === "cnsources") {
+      (week.chineseSourcesSections || []).forEach(sec => pushItems(sec.items));
     }
     const counts = new Map();
     out.forEach(e => (e.tags || []).forEach(t => {
@@ -302,11 +314,11 @@
         ${itemsHtml}
       </section>`;
   }
-  function renderNumbered(sec) {
+  function renderNumbered(sec, anchorPrefix = "intl-") {
     const items = filtered(sec.items);
     if (!items.length && activeFilters.size) return "";
     const numHtml = sec.number ? `<span class="num">${esc(sec.number)}.</span>` : "";
-    const anchorId = sec.slug ? `intl-${esc(sec.slug)}` : "";
+    const anchorId = sec.slug ? `${anchorPrefix}${esc(sec.slug)}` : "";
     return `
       <section class="section" ${anchorId ? `id="${anchorId}"` : ""}>
         <header class="section-h">
@@ -425,6 +437,10 @@
       const sections = (w.numberedSections || []).map(renderNumbered).join("");
       return sections || empty("No international-sources entries in this issue.");
     }
+    if (tab === "cnsources") {
+      const sections = (w.chineseSourcesSections || []).map(s => renderNumbered(s, "")).join("");
+      return sections || empty("No Chinese-sources entries in this issue.");
+    }
     if (tab === "lens") {
       if (!w.wochenbericht) return empty("No Wochenbericht for this issue.");
       const wb = w.wochenbericht;
@@ -477,6 +493,16 @@
           const numPrefix = sec.number ? `${sec.number}. ` : "";
           return `<button type="button" class="chip ${isActive ? 'is-active' : ''}" data-sub="${id}">${esc(numPrefix + label)}</button>`;
         }).join("");
+    } else if (tab === "cnsources") {
+      const bySlug = {};
+      (w.chineseSourcesSections || []).forEach(s => { bySlug[s.slug] = s; });
+      subs = CN_SUB_ORDER
+        .filter(id => bySlug[id])
+        .map(id => {
+          const isActive = sub === id;
+          const label = CN_SUB_LABELS[id] || id;
+          return `<button type="button" class="chip ${isActive ? 'is-active' : ''}" data-sub="${id}">${esc(label)}</button>`;
+        }).join("");
     } else if (tab === "lens") {
       const bySlug = {};
       ((w.wochenbericht && w.wochenbericht.sections) || []).forEach(s => { bySlug[s.slug] = s; });
@@ -490,7 +516,7 @@
           return `<button type="button" class="chip ${isActive ? 'is-active' : ''}" data-sub="${id}">${esc(numPrefix + label)}</button>`;
         }).join("");
     }
-    const showSubs = tab === "highlights" || tab === "research" || tab === "intl" || tab === "lens";
+    const showSubs = tab === "highlights" || tab === "research" || tab === "intl" || tab === "cnsources" || tab === "lens";
 
     // Filter bar: tag chips for the tags present in this tab's entries.
     // The Wochenbericht ("lens") is excluded — its entries are untagged.
@@ -581,15 +607,16 @@
   let scrollSpyDispose = null;
   function setupScrollSpy(tab, weekId) {
     if (scrollSpyDispose) { scrollSpyDispose(); scrollSpyDispose = null; }
-    if (tab !== "highlights" && tab !== "research" && tab !== "intl" && tab !== "lens") return;
+    if (tab !== "highlights" && tab !== "research" && tab !== "intl" && tab !== "cnsources" && tab !== "lens") return;
     const prefix = tab === "highlights" ? "hl-" :
                    tab === "research"   ? "mr-" :
-                   tab === "intl"       ? "intl-" : "lens-";
+                   tab === "intl"       ? "intl-" :
+                   tab === "cnsources"  ? "cn-" : "lens-";
     const sections = [...document.querySelectorAll(`[id^="${prefix}"]`)];
     if (!sections.length) return;
 
     const anchorToSlug = (id) => {
-      if (id.startsWith("hl-") || id.startsWith("mr-")) return id;
+      if (id.startsWith("hl-") || id.startsWith("mr-") || id.startsWith("cn-")) return id;
       if (id.startsWith("intl-")) return id.slice(5);
       if (id.startsWith("lens-")) return id.slice(5);
       return id;
@@ -662,6 +689,8 @@
     }
     const intlSubs = new Set((week.numberedSections || []).map(s => s.slug));
     if (intlSubs.has(slug)) return slug;
+    const cnSubs = new Set((week.chineseSourcesSections || []).map(s => s.slug));
+    if (cnSubs.has(slug)) return slug;
     const lensSubs = new Set(((week.wochenbericht && week.wochenbericht.sections) || []).map(s => s.slug));
     if (lensSubs.has(slug)) return slug;
     return "highlights";
@@ -671,6 +700,7 @@
     if (slug.startsWith("hl-"))                       return { tab: "highlights", sub: slug };
     if (slug.startsWith("mr-"))                       return { tab: "research",   sub: slug };
     if (SUB_ORDER.includes(slug))                     return { tab: "intl", sub: slug };
+    if (CN_SUB_ORDER.includes(slug))                  return { tab: "cnsources", sub: slug };
     if (LENS_SUB_ORDER.includes(slug))                return { tab: "lens", sub: slug };
     return { tab: "highlights", sub: null };
   }
@@ -703,6 +733,10 @@
         if (t === "intl") {
           const subs = (week.numberedSections || []).map(s => s.slug);
           const first = SUB_ORDER.find(s => subs.includes(s)) || "econ";
+          writeHash(week.id, first);
+        } else if (t === "cnsources") {
+          const subs = (week.chineseSourcesSections || []).map(s => s.slug);
+          const first = CN_SUB_ORDER.find(s => subs.includes(s)) || "cn-authoritative";
           writeHash(week.id, first);
         } else if (t === "lens") {
           const subs = ((week.wochenbericht && week.wochenbericht.sections) || []).map(s => s.slug);
@@ -777,6 +811,11 @@
         anchorId = `intl-${sub}`;
         const intlSubs = (week.numberedSections || []).map(s => s.slug);
         const first = SUB_ORDER.find(s => intlSubs.includes(s));
+        isFirstSub = first === sub;
+      } else if (tab === "cnsources" && sub) {
+        anchorId = sub;
+        const cnSubs = (week.chineseSourcesSections || []).map(s => s.slug);
+        const first = CN_SUB_ORDER.find(s => cnSubs.includes(s));
         isFirstSub = first === sub;
       } else if (tab === "lens" && sub) {
         anchorId = `lens-${sub}`;
