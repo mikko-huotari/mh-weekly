@@ -17,6 +17,7 @@ window.OUTLET_MAP = {
   "AP":              { iconUrl: "assets/icons/ap.png",          mono: "AP",   bg: "#FA0000", fg: "#FFFFFF" },
   "Bloomberg":       { iconUrl: "assets/icons/bloomberg.png",   mono: "B",    bg: "#000000", fg: "#FA7E1E" },
   "The Guardian":    { iconUrl: "assets/icons/guardian.png",    mono: "G",    bg: "#052962", fg: "#FFFFFF" },
+  "Guardian":        { iconUrl: "assets/icons/guardian.png",    mono: "G",    bg: "#052962", fg: "#FFFFFF" },
 
   // ---------------- China-focused ------------------
   "SCMP":            { mono: "SCMP", bg: "#A11626", fg: "#FFFFFF", size: 7 }, // favicon too small; keep mono
@@ -35,6 +36,12 @@ window.OUTLET_MAP = {
   "Beijing News":    { mono: "BJ",  bg: "#1A1916", fg: "#FFFFFF" },
   "The Diplomat":    { mono: "Dip", bg: "#0F2D59", fg: "#FFFFFF" },
   "Diplomat":        { mono: "Dip", bg: "#0F2D59", fg: "#FFFFFF" },
+  "Xinhua":          { mono: "XH",  bg: "#003399", fg: "#FFFFFF" },
+  "huanqiu.com":     { mono: "GT",  bg: "#C41E1E", fg: "#FFFFFF" },
+  "Aisixiang":       { mono: "Ais", bg: "#003366", fg: "#FFFFFF" },
+  "21st Century Business Herald": { mono: "21", bg: "#E20000", fg: "#FFFFFF" },
+  "ce.cn":           { mono: "CE",  bg: "#005580", fg: "#FFFFFF" },
+  "Recodechinaai":   { mono: "Rai", bg: "#1A1916", fg: "#FFFFFF" },
 
   // ---------------- Magazines ----------------------
   "The Economist":   { iconUrl: "assets/icons/economist.png",       mono: "E",    bg: "#E3120B", fg: "#FFFFFF", font: "serif" },
@@ -50,6 +57,7 @@ window.OUTLET_MAP = {
   "Brookings":       { iconUrl: "assets/icons/brookings.png",       mono: "Bk",   bg: "#003A70", fg: "#FFFFFF" },
   "Atlantic Council":{ iconUrl: "assets/icons/atlanticcouncil.png", mono: "AC",   bg: "#A11D33", fg: "#FFFFFF" },
   "CFR":             { iconUrl: "assets/icons/cfr.png",             mono: "CFR",  bg: "#0B2E5B", fg: "#FFFFFF", size: 7 },
+  "PIIE":            { mono: "PIIE", bg: "#0B2E5B", fg: "#FFFFFF", size: 7 },
   "Carnegie":        { mono: "Cg",  bg: "#1A1916", fg: "#FFFFFF" }, // favicon too small
   "Carnegie Politika Podcast": { mono: "Cg", bg: "#1A1916", fg: "#FFFFFF" },
   "Carnegie Politika":         { mono: "Cg", bg: "#1A1916", fg: "#FFFFFF" },
@@ -92,6 +100,7 @@ window.OUTLET_MAP = {
   "FMPRC":           { mono: "MFA", bg: "#003A70", fg: "#FFFFFF" },
   "MFA":             { mono: "MFA", bg: "#003A70", fg: "#FFFFFF" },
   "Gov.cn":          { mono: "Gov", bg: "#003A70", fg: "#FFFFFF" },
+  "Euobserver":      { mono: "EUo", bg: "#0C2340", fg: "#FFFFFF" },
 
   // ---------------- German press -------------------
   "FAZ — op-ed":      { iconUrl: "assets/icons/faz.png",      mono: "FAZ", bg: "#000000", fg: "#FFFFFF", font: "serif", size: 7 },
@@ -134,6 +143,8 @@ window.OUTLET_MAP = {
   "Global News Morning Toronto":     { mono: "GN", bg: "#0033A0", fg: "#FFFFFF", size: 8 },
   "Global News":                     { mono: "GN", bg: "#0033A0", fg: "#FFFFFF", size: 8 },
   "Newsweek":                        { mono: "NW", bg: "#E20000", fg: "#FFFFFF", size: 8 },
+  "Australian":                      { mono: "Aus", bg: "#002F6C", fg: "#FFFFFF" },
+  "Github":                          { mono: "Git", bg: "#1A1916", fg: "#FFFFFF" },
 
   // ---------------- MERICS staff headshots ---------
   "Jacob Gunter":      { iconUrl: "assets/people/gunter.jpg",     shape: "round", mono: "JG", bg: "#1A1916", fg: "#FFFFFF" },

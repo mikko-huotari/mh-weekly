@@ -931,7 +931,10 @@
   }
   .section:first-child { margin-top: 16px; }
   .section-h {
-    display: flex; align-items: baseline; gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 10px;
     margin: 0 0 6px;
     padding-bottom: 10px;
     border-bottom: 1px solid var(--rule-soft);
@@ -943,6 +946,7 @@
     color: var(--merics-red);
     letter-spacing: -0.005em;
     line-height: 1;
+    flex: 0 0 auto;
   }
   .section-h .label {
     font-family: var(--sans);
@@ -953,6 +957,8 @@
     color: var(--ink);
     margin: 0;
     text-wrap: balance;
+    flex: 1 1 0%;
+    min-width: 0;
   }
   .section-note {
     font-family: var(--serif);
@@ -1306,7 +1312,7 @@
         });
       }
       try {
-        var bootV = '20260526e';
+        var bootV = '20260527a';
         var m = await fetch('data/manifest.json?v=' + bootV, { cache: 'no-cache' })
           .then(function (r) {
             if (!r.ok) throw new Error('manifest HTTP ' + r.status);
