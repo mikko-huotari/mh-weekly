@@ -70,7 +70,7 @@
     "cn-journalism":    "CN journalism",
     "cn-mfa":           "Positions",
     "cn-thinktanks":    "Thinking",
-    "cn-media":         "GER/EU media",
+    "cn-media":         "EU/GER media",
   };
   // Wochenbericht sub-chips (German Lens tab)
   const LENS_SUB_ORDER = ["quotes", "facts", "themes"];
