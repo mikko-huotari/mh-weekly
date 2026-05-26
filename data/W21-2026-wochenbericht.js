@@ -624,3 +624,7 @@ window.W21_2026_WOCHENBERICHT = {
     }
   ]
 };
+
+// Late-attach if the main week file has already executed; otherwise
+// the main file's tail picks this up when it runs.
+if (window.W21_2026) window.W21_2026.wochenbericht = window.W21_2026_WOCHENBERICHT;
