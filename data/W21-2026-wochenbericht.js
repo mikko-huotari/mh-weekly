@@ -428,28 +428,16 @@ window.W21_2026_WOCHENBERICHT = {
           "text": "Der Staatsbesuch Putins in Peking unmittelbar nach der Visite Trumps dominiert die Berichterstattung. Deutsche Medien analysieren die Verschiebung des Machtgefüges: Russland ist in fast jeder Hinsicht (Energie, Drohnen-Komponenten, Währung) von China abhängig geworden. Die Allianz wird als „Zweckbündnis gegen den Westen“ gewertet, in dem Peking die Bedingungen diktiert und Russland als Rohstofflieferant und geostrategischer Puffer fungiert, während Xi Jinping sich als „Hüter der Stabilität“ gegenüber Washington inszeniert.",
           "sources": [
             {
-              "outlet": "„PUTIN BEI XI JINPING",
-              "outletDisplay": "„PUTIN BEI XI JINPING",
-              "date": "",
-              "title": ""
+              "outlet": "FAZ",
+              "outletDisplay": "faz.net",
+              "date": "2026-05-20",
+              "title": "PUTIN BEI XI JINPING; Die Parade der Bittsteller in Peking"
             },
             {
-              "outlet": "Die Parade der Bittsteller in Peking“",
-              "outletDisplay": "Die Parade der Bittsteller in Peking“",
-              "date": "faz.net",
-              "title": ""
-            },
-            {
-              "outlet": "„Wladimir Putin in China",
-              "outletDisplay": "„Wladimir Putin in China",
-              "date": "",
-              "title": ""
-            },
-            {
-              "outlet": "Das Machtverhältnis hat sich längst gedreht“",
-              "outletDisplay": "Das Machtverhältnis hat sich längst gedreht“",
-              "date": "zeit.de",
-              "title": ""
+              "outlet": "DIE ZEIT",
+              "outletDisplay": "zeit.de",
+              "date": "2026-05-20",
+              "title": "Wladimir Putin in China; Das Machtverhältnis hat sich längst gedreht"
             },
             {
               "outlet": "„XI UND PUTIN",
@@ -483,16 +471,10 @@ window.W21_2026_WOCHENBERICHT = {
               "title": "Erst kamen die Staatsmillionen, jetzt der Stellenabbau"
             },
             {
-              "outlet": "„Batteriehersteller",
-              "outletDisplay": "„Batteriehersteller",
-              "date": "",
-              "title": ""
-            },
-            {
-              "outlet": "Varta schließt Werk in Nördlingen“",
-              "outletDisplay": "Varta schließt Werk in Nördlingen“",
-              "date": "wiwo.de",
-              "title": ""
+              "outlet": "WirtschaftsWoche",
+              "outletDisplay": "wiwo.de",
+              "date": "2026-05-19",
+              "title": "Batteriehersteller; Varta schließt Werk in Nördlingen"
             }
           ],
           "kind": "theme"
@@ -502,40 +484,22 @@ window.W21_2026_WOCHENBERICHT = {
           "text": "Nach dem KI-Boom rückt Quantencomputing als neues strategisches Schlachtfeld in den Fokus. Die US-Regierung unter Trump reagiert auf Pekings massive Fortschritte mit einem Zwei-Milliarden-Dollar-Paket für IBM und Start-ups. In Deutschland wird alarmiert debattiert, dass Europa in diesem „Trillion-Dollar-Arms-Race“ zwischen den USA und China erneut als „Zuschauer“ zurückzubleiben droht, während die Bundesregierung erst mühsam erste Roadmaps für Schlüsseltechnologien erstellt.",
           "sources": [
             {
-              "outlet": "„US-INDUSTRIEPOLITIK",
-              "outletDisplay": "„US-INDUSTRIEPOLITIK",
-              "date": "",
-              "title": ""
+              "outlet": "FAZ",
+              "outletDisplay": "faz.net",
+              "date": "2026-05-21",
+              "title": "US-INDUSTRIEPOLITIK; Die Trump-Regierung wird Quanteninvestor"
             },
             {
-              "outlet": "Die Trump-Regierung wird Quanteninvestor“",
-              "outletDisplay": "Die Trump-Regierung wird Quanteninvestor“",
-              "date": "faz.net",
-              "title": ""
+              "outlet": "FAZ",
+              "outletDisplay": "faz.net",
+              "date": "2026-05-19",
+              "title": "KÜNSTLICHE INTELLIGENZ; Deutsche Spitzenchips für Europas digitale Souveränität"
             },
             {
-              "outlet": "„KÜNSTLICHE INTELLIGENZ",
-              "outletDisplay": "„KÜNSTLICHE INTELLIGENZ",
-              "date": "",
-              "title": ""
-            },
-            {
-              "outlet": "Deutsche Spitzenchips für Europas digitale Souveränität“",
-              "outletDisplay": "Deutsche Spitzenchips für Europas digitale Souveränität“",
-              "date": "faz.net",
-              "title": ""
-            },
-            {
-              "outlet": "„HIGHTECH-AGENDA",
-              "outletDisplay": "„HIGHTECH-AGENDA",
-              "date": "",
-              "title": ""
-            },
-            {
-              "outlet": "Ambitionierter Traum“",
-              "outletDisplay": "Ambitionierter Traum“",
-              "date": "Handelsblatt",
-              "title": ""
+              "outlet": "Handelsblatt",
+              "outletDisplay": "handelsblatt.com",
+              "date": "2026-05-21",
+              "title": "HIGHTECH-AGENDA; Ambitionierter Traum"
             }
           ],
           "kind": "theme"
@@ -545,40 +509,22 @@ window.W21_2026_WOCHENBERICHT = {
           "text": "Ein kontroverses Thema ist der Einstieg chinesischer Hersteller in deutsche Fabriken (z. B. VW-Pläne oder Opel/Stellantis). Die Diskussion dreht sich um eine fatale Rollenteilung: China entwickelt die Software und die Plattformen, während Deutschland nur noch die „Blechhüllen“ zusammenschweißt. Kritiker warnen vor einem massiven Wissenstransfer in die falsche Richtung und fordern eine Rückbesinnung auf „Engineering made in Germany“, um nicht zum reinen Fertigungsstandort für chinesische Innovationen herabzusinken.",
           "sources": [
             {
-              "outlet": "„PRO & CONTRA",
-              "outletDisplay": "„PRO & CONTRA",
-              "date": "",
-              "title": ""
+              "outlet": "Handelsblatt",
+              "outletDisplay": "handelsblatt.com",
+              "date": "2026-05-19",
+              "title": "PRO & CONTRA; Fatale Rollenteilung – China entwickelt, Deutschland schraubt"
             },
             {
-              "outlet": "Fatale Rollenteilung – China entwickelt",
-              "outletDisplay": "Fatale Rollenteilung – China entwickelt",
-              "date": "Deutschland schraubt“",
-              "title": ""
+              "outlet": "DIE ZEIT",
+              "outletDisplay": "zeit.de",
+              "date": "2026-05-18",
+              "title": "Produktion in Deutschland; Übernimmt China jetzt deutsche Autofabriken?"
             },
             {
-              "outlet": "„Produktion in Deutschland",
-              "outletDisplay": "„Produktion in Deutschland",
-              "date": "",
-              "title": ""
-            },
-            {
-              "outlet": "Übernimmt China jetzt deutsche Autofabriken?“",
-              "outletDisplay": "Übernimmt China jetzt deutsche Autofabriken?“",
-              "date": "zeit.de",
-              "title": ""
-            },
-            {
-              "outlet": "„AUTOMARKT IM WANDEL",
-              "outletDisplay": "„AUTOMARKT IM WANDEL",
-              "date": "",
-              "title": ""
-            },
-            {
-              "outlet": "Leapesgrüße aus Hangzhou“",
-              "outletDisplay": "Leapesgrüße aus Hangzhou“",
-              "date": "Frankfurter Allgemeine Zeitung",
-              "title": ""
+              "outlet": "FAZ",
+              "outletDisplay": "faz.net",
+              "date": "2026-05-19",
+              "title": "AUTOMARKT IM WANDEL; Leapesgrüße aus Hangzhou"
             }
           ],
           "kind": "theme"
@@ -594,28 +540,16 @@ window.W21_2026_WOCHENBERICHT = {
               "title": "Uiguren-Unterstützer unter Druck"
             },
             {
-              "outlet": "„CHINA-SPIONAGE",
-              "outletDisplay": "„CHINA-SPIONAGE",
-              "date": "",
-              "title": ""
+              "outlet": "Handelsblatt",
+              "outletDisplay": "handelsblatt.com",
+              "date": "2026-05-21",
+              "title": "CHINA-SPIONAGE; Spionagefall erschüttert Universitäten"
             },
             {
-              "outlet": "Spionagefall erschüttert Universitäten“",
-              "outletDisplay": "Spionagefall erschüttert Universitäten“",
-              "date": "Handelsblatt",
-              "title": ""
-            },
-            {
-              "outlet": "„China-Spionage",
-              "outletDisplay": "„China-Spionage",
-              "date": "",
-              "title": ""
-            },
-            {
-              "outlet": "Spionagefall erschüttert deutsche Forschungseinrichtungen“",
-              "outletDisplay": "Spionagefall erschüttert deutsche Forschungseinrichtungen“",
-              "date": "handelsblatt.com",
-              "title": ""
+              "outlet": "Handelsblatt",
+              "outletDisplay": "handelsblatt.com",
+              "date": "2026-05-20",
+              "title": "China-Spionage; Spionagefall erschüttert deutsche Forschungseinrichtungen"
             }
           ],
           "kind": "theme"
