@@ -143,8 +143,8 @@ window.W21_2026 = {
       ]
     },
     {
-      "title": "Spotlight 2: Reiche in Beijing – the real test for Germany's China strategy",
-      "intro": "Economy Minister Katherina Reiche travels to Beijing accompanied by more than two dozen business representatives – expected not only to raise critical issues but to act as a trailblazer for new business opportunities. The business community expects, MH notes, \"that policymakers will pave the way in China – or, at the very least, not stand in the way.\" MH frames the trip as the live test of Germany's China strategy: reconciling competing domestic interests without fracturing European unity or resorting to unilateral shortcuts.",
+      "title": "Spotlight 2: Reiche in Beijing – the real test for Germany's China strategy (interview with SZ, forthc.)",
+      "intro": "Federal Economy Minister Katherina Reiche travels to China on 26–29 May for her first visit, leading a delegation of corporate executives that includes the CEOs of BASF, Thyssenkrupp and Siemens Energy, with stops in Beijing and the southern manufacturing hub of Guangzhou. She has cast the trip around Germany's role as a reliable trading partner while pressing on the competitive distortions of Chinese overcapacity and dumping, and on Beijing's export controls over rare earths and other critical inputs as geopolitical leverage. The timing is pointed: days earlier Spain, France and Italy pushed for tougher EU trade defences, and Berlin is resisting a harder common European line.",
       "items": [],
       "subsections": [
         {
