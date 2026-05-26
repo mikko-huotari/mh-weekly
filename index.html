@@ -1241,11 +1241,42 @@
     * { transition: none !important; animation: none !important; }
   }
 
-  /* Print: clean issue paper */
+  /* Print scaffold hidden on screen until printing. */
+  #print-root { display: none; }
+
+  /* Print: only the assembled selection; browser paginates natively. */
   @media print {
-    .topbar, footer.foot, .pdf-link { display: none !important; }
-    body { background: white; }
-    main, .issue-header { max-width: none; padding: 0; }
+    body > *:not(#print-root) { display: none !important; }
+    #print-root { display: block !important; }
+    body { background: #fff; color: #111; }
+    @page { size: A4; margin: 16mm 15mm; }
+
+    /* Cover */
+    .print-cover { display: flex; flex-direction: column; justify-content: center; min-height: 235mm; break-after: page; }
+    .print-cover .pc-rule { width: 44mm; height: 4px; background: var(--merics-red); margin-bottom: 8mm; }
+    .print-doctitle { font: 600 11pt/1 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--merics-red); }
+    .print-cover .pc-title { font: 700 30pt/1.1 var(--sans); margin: 6mm 0 4mm; color: #111; }
+    .print-cover .pc-range { font: 13pt/1.3 var(--serif); color: #444; }
+    .print-cover .pc-toc { margin-top: 8mm; font: 10.5pt/1.7 var(--sans); color: #555; }
+    .print-cover .pc-toc .pc-toc-num { color: var(--merics-red); font-weight: 600; display: inline-block; width: 9mm; }
+    .print-cover .pc-by { margin-top: 14mm; font: 9.5pt/1.5 var(--sans); color: #888; }
+
+    /* Part heading */
+    .print-part { break-before: page; }
+    .print-part-h { font: 700 19pt/1.12 var(--sans); margin: 0 0 6mm; padding-bottom: 3mm; border-bottom: 2px solid var(--merics-red); color: #111; }
+    .print-part-h .pp-num { color: var(--merics-red); }
+
+    /* Keep logical blocks whole across page breaks */
+    .section, .entry, .entry-note, .wb-item, .wb-theme, .spotlight-sub, .research-group, .top-chart { break-inside: avoid; }
+    .section-h, .spotlight-sub-h, .wb-theme-title, .print-part-h { break-after: avoid; }
+
+    /* Paper tidy-ups for the reused entry markup */
+    #print-root .section { margin: 0 0 6mm; }
+    #print-root .entry { margin: 0 0 4.5mm; }
+    #print-root .entry-title-link .arrow { display: none; }
+    #print-root .entry-tags, #print-root .filter-bar, #print-root .empty-state { display: none !important; }
+    #print-root a { color: #111; text-decoration: none; }
+    #print-root img { max-width: 100%; height: auto; }
   }
 </style>
 
@@ -1304,6 +1335,10 @@
   <button id="backToTop" class="back-to-top" type="button" aria-label="Back to top">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 15 12 9 18 15"/></svg>
   </button>
+
+  <!-- Print scaffold: hidden on screen; populated on demand and revealed only
+       by @media print so the browser paginates the chosen parts natively. -->
+  <div id="print-root" aria-hidden="true"></div>
 
   <footer class="foot">
     <div class="foot-meta" id="footerMeta"><!-- injected --></div>

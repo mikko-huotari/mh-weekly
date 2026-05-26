@@ -915,28 +915,19 @@
     saved.forEach(x => activeFilters.add(x));
     return html;
   }
-  function openPrintWindow(w, selected) {
+  // Render the selected parts into the (screen-hidden) #print-root, then let
+  // the browser's own print engine paginate it via the @media print rules in
+  // index.html. Page numbers come from the browser's native print header/footer.
+  function runPrint(w, selected) {
     if (!selected.size) return;
-    const body = buildPrintBody(w, selected);
-    // Carry the live stylesheets so entries look identical; <base> resolves
-    // fonts, chart images and the vendored Paged.js relative to the site root.
-    const links  = [...document.querySelectorAll('link[rel="stylesheet"]')].map(l => l.outerHTML).join("\n");
-    const styles = [...document.querySelectorAll('style')].map(s => `<style>${s.textContent}</style>`).join("\n");
-    const base   = location.origin + location.pathname.replace(/[^/]*$/, "");
-    const S = "scr" + "ipt";
-    const html =
-      `<!doctype html><html lang="en"><head><meta charset="utf-8">` +
-      `<base href="${base}">` +
-      `<title>MH@MERICS · Week ${esc(w.week)} · ${esc(w.year)}</title>` +
-      links + styles +
-      `<link rel="stylesheet" href="assets/print.css">` +
-      `<${S}>window.PagedConfig={auto:true,after:function(){setTimeout(function(){try{window.focus();window.print();}catch(e){}},150);}};</${S}>` +
-      `<${S} src="assets/vendor/paged.polyfill.js"></${S}>` +
-      `</head><body class="print-doc"><div id="print-root">${body}</div></body></html>`;
-    const url = URL.createObjectURL(new Blob([html], { type: "text/html" }));
-    const win = window.open(url, "MH-print-" + w.id);
-    if (!win) { URL.revokeObjectURL(url); alert("Allow pop-ups for this site to generate the PDF."); return; }
-    setTimeout(() => URL.revokeObjectURL(url), 60000);
+    const root = document.getElementById("print-root");
+    if (!root) return;
+    // Parse the assembled HTML into nodes (no innerHTML / document.write).
+    const parsed = new DOMParser().parseFromString(buildPrintBody(w, selected), "text/html");
+    root.replaceChildren(...document.importNode(parsed.body, true).childNodes);
+    const cleanup = () => { root.replaceChildren(); window.removeEventListener("afterprint", cleanup); };
+    window.addEventListener("afterprint", cleanup);
+    window.print();
   }
   function setupPrint() {
     const btn  = document.getElementById("printBtn");
@@ -974,7 +965,7 @@
       const selected = new Set([...parts.querySelectorAll(".pm-part:checked")].map(cb => cb.value));
       if (!selected.size) return;
       close();
-      openPrintWindow(currentWeek(), selected);
+      runPrint(currentWeek(), selected);
     });
     document.addEventListener("click", (e) => {
       if (!menu.hidden && !menu.contains(e.target) && e.target !== btn && !btn.contains(e.target)) close();
