@@ -79,6 +79,117 @@ window.W21_2026 = {
       }
     ]
   },
+  "spotlights": [
+    {
+      "title": "Spotlight 1: Putin-Xi summit in Beijing",
+      "intro": "Putin visited Beijing 19-20 May 2026, five days after Trump's state visit (14-15 May). His 25th visit to China. Bilateral talks were held at Zhongnanhai. ~40 cooperation documents were signed (Sputnik / Ushakov: 42). Outputs include the main bilateral declaration (\"Further Strengthening Comprehensive Strategic Coordination and Deepening Good-Neighborly Friendship\") and a separate *Joint Declaration on a Multipolar World*. The Russian delegation included Lavrov, Ushakov, and energy-sector principals. The 2001 Treaty of Good-Neighborliness was extended at its 25-year anniversary. A joint press conference was held (MFA readout published). Side event: Russia-China Expo in Harbin.",
+      "items": [],
+      "subsections": [
+        {
+          "label": "Five key findings",
+          "intro": "",
+          "items": [
+            {
+              "note": "**New formulations in the 2026 joint texts.** The 2026 statements introduce key linguistic upgrades, notably prohibiting \"hybrid wars / proxy wars\" in the *Multipolar World* declaration and formally elevating \"elimination of the root causes\" (消除乌克兰危机根源) of the Ukraine crisis to the main leaders' bilateral statement (previously confined to 2025 companion readouts). Meanwhile, \"polycentricity\" (rendered as *полицентричность* in Russian to match Moscow's doctrine but translated as *多极化* in Chinese) remains the parallel cornerstone of their shared order-building vocabulary."
+            },
+            {
+              "note": "**Power of Siberia 2 again not signed.** Price, financing, and timeline remain open. Reuters, Bloomberg, BBC, WaPo and SCMP all report this as the headline non-deliverable."
+            },
+            {
+              "note": "**Taiwan formula reverted in the text and absent from the press conference.** The 2026 declaration uses \"China's territory\" (中国领土). The 2024 and 2025 declarations used \"inalienable part of the PRC\" (中华人民共和国). The Taiwan question was absent from the joint press conference."
+            },
+            {
+              "note": "**Strategic Stability statement not repeated; AUKUS opposition remains.** The standalone, highly confrontational *Joint Statement on Global Strategic Stability* signed in May 2025 was not repeated or renewed this year. However, opposition to the AUKUS alliance was **not** removed; the 2026 Chinese text explicitly names and condemns the \"AUKUS alliance\" (奥库斯联盟) for driving the \"Asia-Pacific version of NATO\" and undermining ASEAN-centric regional architectures."
+            },
+            {
+              "note": "**2001 Treaty extended; \"no limits\" remains gone.** The 2026 statement title invokes the 2001 Treaty of Good-Neighborliness (睦邻友好) and the Treaty was extended at the summit. \"No limits, no forbidden areas\" (2022) has not been used in any joint declaration since."
+            }
+          ]
+        },
+        {
+          "label": "Tension in the text",
+          "intro": "The 2026 declaration affirms \"respect for sovereignty and territorial integrity of all states\" while restating the \"root causes\" framing on Ukraine. The 2025 *International Law* declaration (co-signed with Russia) condemns \"unilateral military interventions not based on…self-defense or SC resolutions\".",
+          "items": []
+        },
+        {
+          "label": "Key sources (past 2 weeks)",
+          "intro": "**Primary readouts**",
+          "items": [
+            {
+              "note": "[Kremlin – Russia-China talks](http://en.kremlin.ru/events/president/news/79782) (2026-05-20)"
+            },
+            {
+              "note": "[MFA – Joint press conference readout](https://www.fmprc.gov.cn/zyxw/202605/t20260520_11914356.shtml) (2026-05-20)"
+            },
+            {
+              "note": "[FT Opinion – Gabuev: Beijing's unlikely bet on Russia may yet pay off](https://www.ft.com/content/efcb5fec-3a84-41b0-a52d-2861799928a2) (2026-05-22)"
+            },
+            {
+              "note": "[Carnegie Politika podcast – Gabuev hosts, Yanmei Xie (MERICS) guest: After Putin's Visit to China, What Next?](https://carnegieendowment.org/russia-eurasia/podcasts/carnegie-politika-podcast/china-russia-visit-conclusion) (2026-05-24)"
+            },
+            {
+              "note": "[Foreign Policy – No Limits, No Good Options](https://foreignpolicy.com/2026/05/22/russia-china-meeting-xi-putin-gas-oil-asymmetry/) (2026-05-22)"
+            },
+            {
+              "note": "[The Economist – How China quietly helps Russia in Ukraine](https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine) (2026-05-20)"
+            },
+            {
+              "note": "[Chatham House – Strategic duo endures, limits are clear](https://www.chathamhouse.org/2026/05/china-and-russias-strategic-duo-endures-its-limits-are-clear) (2026-05-21)"
+            },
+            {
+              "note": "[FT – Xi 'law of the jungle' at Putin summit](https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece) (2026-05-20)"
+            },
+            {
+              "note": "[Reuters – Russians covertly trained by China](https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/) (2026-05-19)"
+            },
+            {
+              "note": "[WaPo – Putin fails to secure PS-2 approval](https://www.washingtonpost.com/world/2026/05/20/putin-fails-secure-xi-approval-power-siberia-2-pipeline/) (2026-05-20)"
+            },
+            {
+              "note": "[NYT – As a weakened Putin follows Trump to Beijing, Iran war offers an opening](https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html) (2026-05-19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spotlight 2: Reiche in Beijing – the real test for Germany's China strategy",
+      "intro": "Economy Minister Katherina Reiche travels to Beijing accompanied by more than two dozen business representatives – expected not only to raise critical issues but to act as a trailblazer for new business opportunities. The business community expects, MH notes, \"that policymakers will pave the way in China – or, at the very least, not stand in the way.\" MH frames the trip as the live test of Germany's China strategy: reconciling competing domestic interests without fracturing European unity or resorting to unilateral shortcuts.",
+      "items": [],
+      "subsections": [
+        {
+          "label": "Key arguments (MH)",
+          "intro": "",
+          "items": [
+            {
+              "note": "**The decisive test is internal cohesion, not Beijing.** \"In the realm of trade and foreign economic policy, Germany is – and remains – divided. That is where the real test for Germany's China strategy lies.\" A compromise between competing interests, assuming one is even possible, must not hinder a unified European stance or lead Germany to seek unilateral shortcuts."
+            },
+            {
+              "note": "**Overcapacity is structural.** Ruinous price competition, \"driven by an artificially undervalued yuan, falling producer prices, and a flood of exports,\" means China now produces more than its domestic market can absorb and pushes low-cost goods onto global markets. On Germany's potential countermeasures: \"These are all factors where, so to speak, we could work five times as hard, and the problem still wouldn't be solved.\""
+            },
+            {
+              "note": "**End the \"principle of hope.\"** \"As the world's third-largest economy with such a substantial industrial base, Germany can no longer afford to rely on the 'principle of hope' for much longer. We must not allow ourselves to become prisoners of our own foreign economic policy of the past 20 years.\" Conditions have changed dramatically; companies now adjust to the reality that \"Europe's collective weight must now be thrown into the balance.\" No one should enter into this naively, thinking better R&D cooperation within China will make the whole problem solve itself."
+            },
+            {
+              "note": "**Dependencies are asymmetric and badly timed.** Both sides need each other, but with differing degrees of urgency. Were rare earths, certain microchips, or other key goods cut off, \"massive pressure would build up here within a matter of weeks,\" while European countermeasures \"are not designed to exert pressure within such a short timeframe.\" Where Europe is indispensable, the political tools to mobilize that influence are lacking: \"We are walking into a boxing match with our hands tied.\""
+            },
+            {
+              "note": "**Beijing assumes it can outlast Europe.** Having already weathered trade and technology wars with the United States, China believes it can likewise endure conflict with Europe. China has \"dramatically reduced\" its dependencies on the West beyond export markets, while Europe \"has continued to build up its own dependencies.\""
+            }
+          ]
+        },
+        {
+          "label": "Source",
+          "intro": "",
+          "items": [
+            {
+              "note": "**SZ interview** with MH, conducted 26 May 2026 – *erscheint diese Woche* (link to follow)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "contextSections": [
     {
       "label": "German China policy in context",
@@ -2176,7 +2287,7 @@ window.W21_2026 = {
           "outlet": "State Council 国务院",
           "title": "Advancing the unified national market · 全国统一大市场",
           "date": "2026-05-21",
-          "url": "https://www.gov.cn/yaowen/",
+          "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069868.htm",
           "bullets": [
             [
               "\"Market exit\" (退出, tuìchū) elevated to a core pillar",
@@ -2192,7 +2303,7 @@ window.W21_2026 = {
           "outlet": "TC260 全国网络安全标准化技术委员会",
           "title": "AI Application Ethics and Safety Guidelines 1.0 · 人工智能应用伦理安全指引",
           "date": "2026-05-19",
-          "url": "https://www.tc260.org.cn/",
+          "url": "https://www.tc260.org.cn/portal/article/2/6aee9380ac44434d994eb6990bd92997",
           "bullets": [
             [
               "Non-binding ethics and safety requirements for AI developers, providers and users",
@@ -2207,11 +2318,11 @@ window.W21_2026 = {
         {
           "outlet": "MIIT 工信部",
           "title": "Revised Steel Industry Capacity-Swap Implementing Measures · 钢铁行业产能置换实施办法",
-          "date": "2026-05-20",
-          "url": "https://www.miit.gov.cn/",
+          "date": "2026-05-18",
+          "url": "http://commerce.shandong.gov.cn/art/2026/5/20/art_21706_10367188.html",
           "bullets": [
             [
-              "Cross-firm capacity transfers curbed and oversight tightened",
+              "Cross-enterprise transfers to be phased out; plans capped at 24-month validity; oversight tightened",
               "part of the 2025-26 steel stable-growth plan, pushing consolidation and green transition amid overcapacity and EU tariff pressure."
             ]
           ]
@@ -2417,6 +2528,22 @@ window.W21_2026 = {
             [
               "Both sides reaffirmed multilateral climate commitments",
               "Participants pledged support for the UNFCCC, Paris Agreement, and CBD, and agreed to hold the group's second meeting in Paris."
+            ]
+          ]
+        },
+        {
+          "outlet": "MOFCOM 商务部",
+          "title": "On the EU's reported new trade tool targeting China's 'overcapacity'",
+          "date": "2026-05-21",
+          "url": "https://x.com/MOFCOM_China/status/2059195160366662085",
+          "bullets": [
+            [
+              "China opposes the EU developing a new instrument against its \"overcapacity\"",
+              "at the 21 May press conference MOFCOM argued a trade surplus should not be automatically equated with overcapacity and framed the move as protectionism."
+            ],
+            [
+              "Beijing signalled it would resolutely counteract discriminatory, restrictive measures",
+              "while calling for differences to be resolved through dialogue rather than unilateral trade tools."
             ]
           ]
         }

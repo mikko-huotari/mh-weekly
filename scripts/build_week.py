@@ -437,19 +437,8 @@ def _split_spotlight_subsection(body: str) -> tuple[list[str], list[dict]]:
     return intro_parts, items
 
 
-def parse_spotlight_section(text: str) -> dict:
-    """Parse `## Spotlight: <subtitle>` into title + intro + top-level bullets
-    + subsections[]. Each H3 inside the Spotlight becomes a subsection with
-    its own intro paragraphs and bullet items."""
-    m = re.search(r"^##\s+(Spotlight[^\n]*)$", text, re.MULTILINE)
-    if not m:
-        return {"title": "Spotlight", "intro": "", "items": [], "subsections": []}
-    title = m.group(1).strip()
-    start = m.end()
-    nxt = re.search(r"^(##\s|#\s)", text[start:], re.MULTILINE)
-    end = start + nxt.start() if nxt else len(text)
-    body = text[start:end]
-
+def _parse_one_spotlight(title: str, body: str) -> dict:
+    """Parse a single (already-sliced) Spotlight body into its dict."""
     # Split off the trailing `Sources:` block (sits inside the Spotlight section
     # but is a flat link list, not part of any H3 sub-section).
     sources_items: list[dict] = []
@@ -490,6 +479,29 @@ def parse_spotlight_section(text: str) -> dict:
         "items": items,
         "subsections": subsections,
     }
+
+
+def parse_spotlight_sections(text: str) -> list[dict]:
+    """Parse every `## Spotlight ...` heading into its own spotlight dict.
+    Each spotlight's body runs to the next `##`/`#` heading (including the next
+    Spotlight), so multiple spotlights stay separate."""
+    heads = list(re.finditer(r"^##\s+(Spotlight[^\n]*)$", text, re.MULTILINE))
+    out: list[dict] = []
+    for m in heads:
+        title = m.group(1).strip()
+        start = m.end()
+        nxt = re.search(r"^(##\s|#\s)", text[start:], re.MULTILINE)
+        end = start + nxt.start() if nxt else len(text)
+        out.append(_parse_one_spotlight(title, text[start:end]))
+    return out
+
+
+def parse_spotlight_section(text: str) -> dict:
+    """First Spotlight only (back-compat). Prefer parse_spotlight_sections()."""
+    sections = parse_spotlight_sections(text)
+    if not sections:
+        return {"title": "Spotlight", "intro": "", "items": [], "subsections": []}
+    return sections[0]
 
 
 # ---------------------------------------------------------------------------
@@ -672,7 +684,9 @@ def main() -> None:
     text = export_path.read_text(encoding="utf-8")
 
     # ---- Sections
-    spotlight = parse_spotlight_section(text)
+    spotlights = parse_spotlight_sections(text)
+    spotlight = spotlights[0] if spotlights else {
+        "title": "Spotlight", "intro": "", "items": [], "subsections": []}
     context = parse_context_section(text)
     research = parse_research_section(text)
     top_charts = parse_top_charts_section(text, week_id)
@@ -692,6 +706,7 @@ def main() -> None:
         "dateRange": week_date_range(year, week_no),
         "pdf": f"pdfs/{week_id}.pdf",
         "spotlight": spotlight,
+        "spotlights": spotlights,
         "contextSections": [context] if context else [],
         "researchSections": [research] if research else [],
         "numberedSections": numbered,

@@ -123,11 +123,22 @@
   // (e.g. "German China policy in context"), not its inner sub-groups.
   function highlightsChips(w) {
     const chips = [];
-    if (w.spotlight) chips.push({ sub: "hl-spotlight", label: "Spotlight" });
+    const spots = spotlightsOf(w);
+    spots.forEach((s, i) => {
+      chips.push({
+        sub: i === 0 ? "hl-spotlight" : `hl-spotlight-${i + 1}`,
+        label: spots.length > 1 ? `Spotlight ${i + 1}` : "Spotlight",
+      });
+    });
     (w.contextSections || []).forEach(sec => {
       chips.push({ sub: "hl-" + slugify(sec.label), label: sec.label });
     });
     return chips;
+  }
+  // All spotlights for a week — new builds carry `spotlights[]`; older data
+  // files only have a single `spotlight`, so fall back to wrapping it.
+  function spotlightsOf(w) {
+    return w.spotlights || (w.spotlight ? [w.spotlight] : []);
   }
 
   // Render the row of clickable tag chips beneath an entry. Only tags in the
@@ -203,7 +214,7 @@
     const out = [];
     function pushItems(items) { (items || []).forEach(it => out.push(it)); }
     if (tab === "highlights") {
-      if (week.spotlight) pushItems(week.spotlight.items);
+      spotlightsOf(week).forEach(s => pushItems(s.items));
       (week.contextSections || []).forEach(sec => {
         pushItems(sec.items);
         (sec.groups || []).forEach(g => pushItems(g.items));
@@ -245,7 +256,7 @@
     }
     return list.map(renderEntry).join("");
   }
-  function renderSpotlight(s) {
+  function renderSpotlight(s, idx = 0) {
     if (!s) return "";
     const items = filtered(s.items);
     const subs = (s.subsections || []).map(sub => {
@@ -260,7 +271,7 @@
     }).join("");
     if (!items.length && !subs.trim() && activeFilters.size) return "";
     return `
-      <section class="section" id="hl-spotlight">
+      <section class="section" id="${idx === 0 ? "hl-spotlight" : `hl-spotlight-${idx + 1}`}">
         <header class="section-h">
           <h2 class="label">${esc(s.title || "Spotlight")}</h2>
         </header>
@@ -424,7 +435,7 @@
   function viewForTab(w, tab, sub) {
     if (tab === "highlights") {
       const parts = [];
-      if (w.spotlight) parts.push(renderSpotlight(w.spotlight));
+      spotlightsOf(w).forEach((s, i) => parts.push(renderSpotlight(s, i)));
       (w.contextSections || []).forEach(s => parts.push(renderContext(s)));
       return parts.join("") || empty("Nothing in the highlights this week.");
     }
