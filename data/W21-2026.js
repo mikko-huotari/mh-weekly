@@ -2041,18 +2041,94 @@ window.W21_2026 = {
       "label": "Authoritative texts",
       "items": [
         {
-          "outlet": "qstheory.cn",
-          "title": "Riding AI boom, NW China emerges as key computing hub",
-          "date": "2026-05-21",
-          "url": "https://en.qstheory.cn/2026-05/21/c_1184827.htm",
+          "outlet": "Qiushi 求是",
+          "title": "Make the real economy stronger, better, bigger · 做强做优做大实体经济",
+          "date": "2026-05-15",
+          "url": "https://www.qstheory.cn/20260515/b875d723c32f4df8876d45f7b178aa33/c.html",
           "bullets": [
             [
-              "Northwest China cities promoted as cost-competitive AI computing hubs",
-              "Hami in Xinjiang and Qingyang in Gansu are attracting cloud, telecom, and tech firms with industrial power prices roughly one-third of coastal rates and operating costs over 40% lower than eastern China."
+              "The lead article anchors the whole issue on the real economy",
+              "a 摘编 (zhāibiān, excerpt-compilation) of Xi's remarks from 2016 to 2025 frames the real economy as the \"foundation of national standing\" (立身之本) and warns against 脱实向虚 (tuō shí xiàng xū, the drift from real to virtual); manufacturing must not be hollowed out."
             ],
             [
-              "Surplus renewable energy underpins the regional cost pitch",
-              "The report links northwest China's cheap electricity to abundant wind and solar capacity, positioning energy-rich interior provinces as viable alternatives to coastal data centre locations."
+              "Technology must fuse with industry, not \"digitalise for its own sake\"",
+              "AI, big data and IoT are to deepen \"new quality productive forces\" across advanced manufacturing, biotech and new energy, with finance disciplined to serve the real economy as its \"blood\"."
+            ],
+            [
+              "Self-reliance framing",
+              "build secure, independent supply chains and core-technology capability against external pressure."
+            ]
+          ]
+        },
+        {
+          "outlet": "Qiushi 求是",
+          "title": "Accurately grasping AI's development frontier and competitive landscape · 准确把握人工智能发展前沿与竞争格局",
+          "date": "2026-05-15",
+          "url": "https://www.qstheory.cn/20260515/a9132f0ae2814f3c88eb44300722d4f8/c.html",
+          "bullets": [
+            [
+              "AI iteration has compressed from months to weeks",
+              "China leads on application scenarios and engineering efficiency (citing DeepSeek) but trails on original theory and complex reasoning."
+            ],
+            [
+              "The integrated chip-software stack is the binding constraint",
+              "fragmentation between Chinese chipmakers and software frameworks contrasts with NVIDIA's GPU-CUDA-PyTorch ecosystem; competitiveness needs \"algorithm, framework, chip, system\" coordination."
+            ],
+            [
+              "\"The global technology pathway is not yet fixed\"",
+              "a narrowing strategic window, with the US setting standards through dominance and the EU through compliance frameworks."
+            ]
+          ]
+        },
+        {
+          "outlet": "Qiushi 求是",
+          "title": "Factor-market allocation reform: real problems and effective pathways · 我国要素市场化配置改革的现实问题与有效路径",
+          "date": "2026-05-15",
+          "url": "https://www.qstheory.cn/20260515/eec73afef6fb4041801bbe61a7bf535c/c.html",
+          "bullets": [
+            [
+              "Six factors in scope (land, labour, capital, technology, data, environment), now extending to computing power and spectrum",
+              "land marketisation stays shallow, with only 11.74% of rural homestead land flowing freely, and the urban-rural dual structure (城乡二元结构) blocks balanced factor flow."
+            ],
+            [
+              "Reforms still run in isolation (\"各改各的\", each reforming on its own)",
+              "the study urges differentiated, factor-specific strategies plus demand-side cultivation, reducing direct administrative allocation."
+            ]
+          ]
+        },
+        {
+          "outlet": "Qiushi 求是",
+          "title": "Put youth employment in a more prominent position · 把青年就业摆在更加突出位置",
+          "date": "2026-05-15",
+          "url": "https://www.qstheory.cn/20260515/dedf9a6ee48c46ffbd1ab4b42cd25a77/c.html",
+          "bullets": [
+            [
+              "AI is eliminating entry-level roles that youth traditionally fill",
+              "graduates often lack higher-order innovation and complex-problem-solving skills, while expectations skew toward prestige and \"slow employment\"."
+            ],
+            [
+              "Proposed fixes",
+              "reshape career guidance toward realistic long-term paths, embed AI literacy across education (including vocational schools and poorer regions), and strip out credentialism, age and gender hiring biases with better job-matching."
+            ]
+          ]
+        },
+        {
+          "outlet": "Qiushi 求是",
+          "title": "Full table of contents, Issue 10/2026",
+          "date": "2026-05-15",
+          "url": "https://www.qstheory.cn/20260515/d6673e307b8d460593dc24bf874a327c/c.html",
+          "bullets": [
+            [
+              "Real-economy cluster",
+              "consolidating the real-economy foundation (Qiushi editorial); manufacturing as the base (Li Lecheng); an advanced-manufacturing-led modern industrial system (Liu Ruiming); finance serving the real economy (Mo Wangui); a high-quality industrial workforce (Wang Dongming)."
+            ],
+            [
+              "Theory and governance",
+              "step up basic research and build China's autonomous philosophy and social-science knowledge system (both Qiushi commentators); rule-of-law oversight theory (Lei Lei); \"holding both ends, using the mean\" thinking (Wang Jie, Cultural China); the performance-view vs public-opinion outlook (Qin Lu); against bureaucratic formalism (Wen Hua); correcting the performance-view distortion behind data fraud (Party-journal selection)."
+            ],
+            [
+              "Data and feature",
+              "NBS first-quarter indicators for large-scale cultural-industry firms; a cover profile of young teams at Shanghai's \"Model Speed Space\" (模速空间) large-model startup community."
             ]
           ]
         }
