@@ -239,7 +239,7 @@ window.W21_2026 = {
       "label": "MERICS",
       "groups": [
         {
-          "label": "MERICS research and (media) insights",
+          "label": "Publications",
           "items": [
             {
               "outlet": "Rhodium Group × MERICS",
@@ -312,7 +312,7 @@ window.W21_2026 = {
           ]
         },
         {
-          "label": "MERICS publications + media insights detail",
+          "label": "Selected insights for media by colleagues",
           "items": [
             {
               "outlet": "ZDF heute",
@@ -2141,22 +2141,94 @@ window.W21_2026 = {
       "label": "Regulatory & policy primary sources",
       "items": [
         {
-          "outlet": "gov.cn",
-          "title": "MOFCOM spokesperson comments on the ruling that certain EU Foreign Subsidies Regulation investigation practices constitute improper extraterritorial jurisdiction",
-          "date": "2026-05-16",
-          "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_4366d16d0427417fa3312830d038e43d.html",
+          "outlet": "State Council 国务院",
+          "title": "Mineral Resources Law Implementing Regulations · 矿产资源法实施条例",
+          "date": "2026-05-20",
+          "url": "https://www.gov.cn/zhengce/content/202605/content_7069679.htm",
           "bullets": [
             [
-              "MOFCOM declared EU FSR probes constitute extraterritorial overreach",
-              "China's Ministry of Commerce said FSR investigations against Chinese entities, including a deepened Nuctech probe, improperly extend EU jurisdiction into China."
+              "Supply-chain security is hardwired into mineral governance",
+              "the regulations (8 chapters, 79 articles; effective 15 June) embed monitoring and risk management across the strategic-mineral value chain, from exploration to extraction."
             ],
             [
-              "Chinese banks ordered to submit China-based data deemed unrelated to investigations",
-              "MOFCOM said the European Commission required extensive domestic financial information from Chinese banks, negatively affecting normal business operations in Europe."
+              "Signed by Li Qiang on 15 May alongside the rulemaking-procedure revision",
+              "part of a push to secure critical-mineral resources amid export-control tensions."
+            ]
+          ]
+        },
+        {
+          "outlet": "State Council 国务院",
+          "title": "Revised Regulations on the Procedure for Formulating Administrative Regulations · 行政法规制定程序条例",
+          "date": "2026-05-19",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202605/content_7069474.htm",
+          "bullets": [
+            [
+              "A faster rulemaking pipeline (effective 1 July)",
+              "urgent, narrow-scope, non-controversial regulations get a fast track, and the annual legislative plan is to prioritise key, emerging and foreign-related fields."
             ],
             [
-              "China called on Brussels to correct FSR enforcement practices",
-              "The spokesperson's statement followed a May 15 Ministry of Justice announcement and urged the European Commission to halt what Beijing characterised as improper conduct."
+              "Reaffirms Party leadership over legislation",
+              "drafting departments must implement central decisions and front-load impact assessment."
+            ]
+          ]
+        },
+        {
+          "outlet": "State Council 国务院",
+          "title": "Advancing the unified national market · 全国统一大市场",
+          "date": "2026-05-21",
+          "url": "https://www.gov.cn/yaowen/",
+          "bullets": [
+            [
+              "\"Market exit\" (退出, tuìchū) elevated to a core pillar",
+              "the readout puts exit mechanisms on equal footing with market entry, fair competition, social credit and property rights, taking aim at \"zombie\" capacity."
+            ],
+            [
+              "A PBOC Law revision draft was reviewed at the same meeting",
+              "alongside a 15th Five-Year plan for the modern emergency-management system."
+            ]
+          ]
+        },
+        {
+          "outlet": "TC260 全国网络安全标准化技术委员会",
+          "title": "AI Application Ethics and Safety Guidelines 1.0 · 人工智能应用伦理安全指引",
+          "date": "2026-05-19",
+          "url": "https://www.tc260.org.cn/",
+          "bullets": [
+            [
+              "Non-binding ethics and safety requirements for AI developers, providers and users",
+              "covering risk controls and responsibility allocation across the AI lifecycle."
+            ],
+            [
+              "The finalised version moderated earlier language on AI's employment impact",
+              "relative to the April consultation draft."
+            ]
+          ]
+        },
+        {
+          "outlet": "MIIT 工信部",
+          "title": "Revised Steel Industry Capacity-Swap Implementing Measures · 钢铁行业产能置换实施办法",
+          "date": "2026-05-20",
+          "url": "https://www.miit.gov.cn/",
+          "bullets": [
+            [
+              "Cross-firm capacity transfers curbed and oversight tightened",
+              "part of the 2025-26 steel stable-growth plan, pushing consolidation and green transition amid overcapacity and EU tariff pressure."
+            ]
+          ]
+        },
+        {
+          "outlet": "NMPA 国家药监局",
+          "title": "Measures for the Implementation of Drug Trial Data Protection · 药品试验数据保护实施办法",
+          "date": "2026-05-15",
+          "url": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypqtggtg/20260515145324185.html",
+          "bullets": [
+            [
+              "China's first data-exclusivity regime for innovative drugs (effective on release)",
+              "applicants may seek trial-data protection at registration, including for eligible \"China-first\" overseas launches."
+            ],
+            [
+              "Aimed at incentivising innovation and first-in-China launches",
+              "moving closer to international data-protection practice."
             ]
           ]
         }
@@ -2168,42 +2240,6 @@ window.W21_2026 = {
       "short": "CN journalism",
       "label": "Quality CN journalism",
       "items": [
-        {
-          "outlet": "21st Century Business Herald",
-          "title": "“Explosive” debate in the UK: rejoining the EU",
-          "date": "2026-05-21",
-          "url": "https://www.21jingji.com/article/20260521/herald/3dd48d7a5cbed9fa178538a9904b3aa6.html",
-          "bullets": [
-            [
-              "UK ministers publicly back EU re-entry citing Brexit's economic costs",
-              "Trade Minister Chris Bryant and former Health Secretary Wes Streeting both advocated rejoining, the article reports."
-            ],
-            [
-              "Re-entry cost estimated at £5 billion above pre-Brexit annual contributions",
-              "Experts cited in the article warn any return requires full adherence to standard EU rules with no prior special privileges."
-            ],
-            [
-              "Critics warn the debate risks deepening domestic divisions",
-              "The Guardian noted growing public discussion, but opponents argued rejoining could further polarise the country."
-            ]
-          ]
-        },
-        {
-          "outlet": "cls.cn",
-          "title": "European Parliament adopts new foreign direct investment screening rules",
-          "date": "2026-05-20",
-          "url": "https://www.cls.cn/detail/2376030",
-          "bullets": [
-            [
-              "EU mandated member-state FDI review in sensitive sectors",
-              "New rules enacted on 20 May require all EU member states to screen foreign investments in defense, dual-use goods, and critical technologies."
-            ],
-            [
-              "Critical technology scope covers AI, quantum computing, and semiconductors",
-              "Aerospace, energy, transportation, and digital infrastructure also fall under the mandatory screening framework."
-            ]
-          ]
-        },
         {
           "outlet": "Caixin",
           "title": "Stellantis plans joint venture with Dongfeng Group to produce EVs in France by 2028",
@@ -2257,22 +2293,6 @@ window.W21_2026 = {
           ]
         },
         {
-          "outlet": "nbd.com.cn",
-          "title": "MOFCOM: China is a key global supplier of AI infrastructure and remains confident foreign trade will maintain stable growth this year",
-          "date": "2026-05-15",
-          "url": "https://www.nbd.com.cn/articles/2026-05-14/4392967.html",
-          "bullets": [
-            [
-              "MOFCOM reports 14.9% year-on-year trade growth in January-April 2026",
-              "Mechanical and electrical product exports rose 19.5% while integrated circuit exports surged 78.3% over the same period, according to spokesperson He Yongqian [何咏前]."
-            ],
-            [
-              "China claims status as key global AI infrastructure supplier",
-              "He expressed confidence that foreign trade will maintain stable and steady growth throughout 2026, citing the integrated circuit and mechanical export surge as evidence."
-            ]
-          ]
-        },
-        {
           "outlet": "Yicai",
           "title": "No past country year fully matches China's consumption dynamics under global coordinates",
           "date": "2026-05-18",
@@ -2309,8 +2329,8 @@ window.W21_2026 = {
     {
       "number": "",
       "slug": "cn-mfa",
-      "short": "MFA",
-      "label": "MFA & diplomatic readouts",
+      "short": "Positions",
+      "label": "Government positions & readouts",
       "items": [
         {
           "outlet": "MFA",
@@ -2331,68 +2351,100 @@ window.W21_2026 = {
               "The statement invoked Xi's four propositions and a China-Pakistan five-point initiative as guiding principles for China's continued constructive engagement on regional stability."
             ]
           ]
+        },
+        {
+          "outlet": "gov.cn",
+          "title": "MOFCOM spokesperson comments on the ruling that certain EU Foreign Subsidies Regulation investigation practices constitute improper extraterritorial jurisdiction",
+          "date": "2026-05-16",
+          "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_4366d16d0427417fa3312830d038e43d.html",
+          "bullets": [
+            [
+              "MOFCOM declared EU FSR probes constitute extraterritorial overreach",
+              "China's Ministry of Commerce said FSR investigations against Chinese entities, including a deepened Nuctech probe, improperly extend EU jurisdiction into China."
+            ],
+            [
+              "Chinese banks ordered to submit China-based data deemed unrelated to investigations",
+              "MOFCOM said the European Commission required extensive domestic financial information from Chinese banks, negatively affecting normal business operations in Europe."
+            ],
+            [
+              "China called on Brussels to correct FSR enforcement practices",
+              "The spokesperson's statement followed a May 15 Ministry of Justice announcement and urged the European Commission to halt what Beijing characterised as improper conduct."
+            ]
+          ]
+        },
+        {
+          "outlet": "nbd.com.cn",
+          "title": "MOFCOM: China is a key global supplier of AI infrastructure and remains confident foreign trade will maintain stable growth this year",
+          "date": "2026-05-15",
+          "url": "https://www.nbd.com.cn/articles/2026-05-14/4392967.html",
+          "bullets": [
+            [
+              "MOFCOM reports 14.9% year-on-year trade growth in January-April 2026",
+              "Mechanical and electrical product exports rose 19.5% while integrated circuit exports surged 78.3% over the same period, according to spokesperson He Yongqian [何咏前]."
+            ],
+            [
+              "China claims status as key global AI infrastructure supplier",
+              "He expressed confidence that foreign trade will maintain stable and steady growth throughout 2026, citing the integrated circuit and mechanical export surge as evidence."
+            ]
+          ]
+        },
+        {
+          "outlet": "Global Times",
+          "title": "High-level exchanges between China, Spain further deepen co-op in multiple fields: FM",
+          "date": "2026-05-20",
+          "url": "https://www.globaltimes.cn/page/202605/1361522.shtml",
+          "bullets": [
+            [
+              "Spain's deputy PM visited China for trade summit, May 17-20",
+              "Yolanda Diaz attended the Global Trade and Investment Promotion Summit in Beijing and traveled to Shanghai, the Chinese Foreign Ministry confirmed."
+            ],
+            [
+              "Bilateral trade exceeded $55 billion in 2025, up 9.8% year on year",
+              "China is Spain's largest trading partner outside the EU; Spain ranks fifth among China's EU partners."
+            ]
+          ]
+        },
+        {
+          "outlet": "Xinhua",
+          "title": "China-France Working Group on addressing climate and environmental challenges holds Its first meeting in Beijing, China",
+          "date": "2026-05-21",
+          "url": "https://english.news.cn/20260521/a86fdb83a7cf445690dc6a6b571aa15a/c.html",
+          "bullets": [
+            [
+              "China and France launched a bilateral climate working group",
+              "The inaugural meeting, held in Beijing on 20 May, followed joint climate statements issued in December 2025 and March 2025, covering governance, COP31, biodiversity, and environmental finance."
+            ],
+            [
+              "Both sides reaffirmed multilateral climate commitments",
+              "Participants pledged support for the UNFCCC, Paris Agreement, and CBD, and agreed to hold the group's second meeting in Paris."
+            ]
+          ]
         }
       ]
     },
     {
       "number": "",
       "slug": "cn-thinktanks",
-      "short": "Think-tanks",
-      "label": "CN think-tanks",
+      "short": "Thinking",
+      "label": "Chinese thinking",
       "items": [
         {
-          "outlet": "guancha.cn",
-          "title": "UK complaints fall flat! EU acts: 50% steel tariff, targeting China",
-          "date": "2026-05-20",
-          "url": "https://www.guancha.cn/internation/2026_05_20_817647.shtml",
+          "outlet": "Aisixiang 爱思想",
+          "title": "The simultaneous trend towards stability in US-China-Russia relations is no accident",
+          "date": "2026-05-22",
+          "url": "https://www.aisixiang.com/data/176312.html",
           "bullets": [
             [
-              "EU Parliament votes to double steel import tariffs to 50%",
-              "The measure, approved on May 19 and effective July 1, caps duty-free steel imports at 18.3 million tons annually, according to the article."
+              "Washington adopted Beijing's own terminology for the bilateral framework",
+              "during Trump's 13-15 May China visit the US used China's proposed \"Constructive Strategic Stability Relationship\" label in official statements, a reversal of the historical pattern where the US set definitional terms."
             ],
             [
-              "China identified as implicit target despite neutral EU framing",
-              "EU statements cite global overcapacity concerns, but the article reports that media and industry commentary openly frame China as the primary subject of the measure."
+              "Putin's Beijing visit followed Trump's within days, framed as deliberate sequencing",
+              "the author argues the back-to-back summits reflect China's active orchestration of major-power diplomacy."
             ],
             [
-              "UK steel exports face collateral exposure",
-              "Critics noted that UK steel heavily depends on the EU market, making it vulnerable to tightened import conditions despite not being the policy's stated target."
-            ]
-          ]
-        },
-        {
-          "outlet": "guancha.cn",
-          "title": "EU seeks swift deal with US, “Like an unfortunate marriage, sometimes you just have to try to make it work”",
-          "date": "2026-05-19",
-          "url": "https://www.guancha.cn/internation/2026_05_19_817587_2.shtml",
-          "bullets": [
-            [
-              "EU draft ties tariff cuts to US steel reciprocity",
-              "According to the article, a reported compromise draft would allow the EU to suspend its own reductions if the US fails to lower steel and aluminum tariffs by end-2026."
-            ],
-            [
-              "Internal EU opposition may sink the deal at June plenary",
-              "EU negotiators have built in pause mechanisms and sunset clauses, but the proposal risks rejection if seen as favoring member states over the bloc."
-            ],
-            [
-              "Post-July escalation risk shapes EU urgency",
-              "Officials are pushing to finalise terms before the temporary 10% US \"global tariffs\" expire, fearing a harder US stance after that deadline."
-            ]
-          ]
-        },
-        {
-          "outlet": "guancha.cn",
-          "title": "Returning to the EU? “UK must pay billions, don’t expect special treatment”",
-          "date": "2026-05-19",
-          "url": "https://www.guancha.cn/internation/2026_05_19_817602.shtml?s=zwyzxw",
-          "bullets": [
-            [
-              "Guancha frames UK re-entry as categorically conditional",
-              "The article reports that former EU Commissioner Julian King warned rejoining would cost the UK tens of billions and eliminate the Thatcher-era budget rebate, raising annual contributions by at least £5 billion."
-            ],
-            [
-              "EU signals openness but explicitly rules out preferential terms",
-              "European Parliament President Metsola confirmed the door remains open while stating no special treatment - including exemptions from free movement or budget obligations - would be granted."
+              "US-Russia tactical easing is real but structurally capped",
+              "restored security dialogue and limited Russian energy-sanctions relief in March-April 2026, with no agreement on Ukraine's territorial status or NATO expansion."
             ]
           ]
         },
@@ -2464,38 +2516,6 @@ window.W21_2026 = {
       "short": "GER/EU media",
       "label": "GER / EU in CN media",
       "items": [
-        {
-          "outlet": "People's Daily",
-          "title": "China says EU's probe into Chinese company constitutes unlawful extraterritorial jurisdiction",
-          "date": "2026-05-16",
-          "url": "https://en.people.cn/n3/2026/0516/c90000-20456966.html",
-          "bullets": [
-            [
-              "China's Ministry of Justice declares EU Nuctech probe unlawful",
-              "Citing its rules on countering foreign extraterritorial jurisdiction, the ministry designated the EU's anti-subsidy investigation into Nuctech a violation of international law."
-            ],
-            [
-              "MoJ order prohibits any compliance with the EU probe",
-              "The statement said no organization or individual in China may comply with or assist the EU's investigation into the security screening company."
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "title": "China to resolutely counteract should EU impose discriminatory, restrictive measures: commerce ministry",
-          "date": "2026-05-21",
-          "url": "https://english.news.cn/20260521/8f82ffa6ae764e91acc795ce9852c600/c.html",
-          "bullets": [
-            [
-              "MofCOM threatens countermeasures against EU's new trade instrument",
-              "China's commerce ministry said it will \"resolutely respond\" if the EU imposes discriminatory restrictions on Chinese companies or products under its overcapacity-related trade tool."
-            ],
-            [
-              "Spokesperson inverts \"overcapacity\" logic onto EU export sectors",
-              "He Yadong asked whether EU automobiles, pharmaceuticals, wine, and cosmetics should be subject to the same label, urging the EU to avoid double standards."
-            ]
-          ]
-        },
         {
           "outlet": "China Daily",
           "title": "Beijing warns EU over plans to target Chinese products",
@@ -2629,38 +2649,6 @@ window.W21_2026 = {
             [
               "GT prescribes R&D investment and maintained supply chain cooperation",
               "The editorial advocates sustaining \"cooperative global industrial chain relationships\" as the alternative to EU defensive trade measures."
-            ]
-          ]
-        },
-        {
-          "outlet": "Global Times",
-          "title": "High-level exchanges between China, Spain further deepen co-op in multiple fields: FM",
-          "date": "2026-05-20",
-          "url": "https://www.globaltimes.cn/page/202605/1361522.shtml",
-          "bullets": [
-            [
-              "Spain's deputy PM visited China for trade summit, May 17-20",
-              "Yolanda Diaz attended the Global Trade and Investment Promotion Summit in Beijing and traveled to Shanghai, the Chinese Foreign Ministry confirmed."
-            ],
-            [
-              "Bilateral trade exceeded $55 billion in 2025, up 9.8% year on year",
-              "China is Spain's largest trading partner outside the EU; Spain ranks fifth among China's EU partners."
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "title": "China-France Working Group on addressing climate and environmental challenges holds Its first meeting in Beijing, China",
-          "date": "2026-05-21",
-          "url": "https://english.news.cn/20260521/a86fdb83a7cf445690dc6a6b571aa15a/c.html",
-          "bullets": [
-            [
-              "China and France launched a bilateral climate working group",
-              "The inaugural meeting, held in Beijing on 20 May, followed joint climate statements issued in December 2025 and March 2025, covering governance, COP31, biodiversity, and environmental finance."
-            ],
-            [
-              "Both sides reaffirmed multilateral climate commitments",
-              "Participants pledged support for the UNFCCC, Paris Agreement, and CBD, and agreed to hold the group's second meeting in Paris."
             ]
           ]
         },

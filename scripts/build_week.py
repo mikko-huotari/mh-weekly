@@ -623,8 +623,8 @@ CN_SOURCES_SLOTS = {
     "authoritative texts":                 ("cn-authoritative", "Authoritative", "Authoritative texts"),
     "regulatory & policy primary sources": ("cn-regulatory", "Regulatory", "Regulatory & policy primary sources"),
     "quality cn journalism":               ("cn-journalism", "CN journalism", "Quality CN journalism"),
-    "mfa & diplomatic readouts":           ("cn-mfa", "MFA", "MFA & diplomatic readouts"),
-    "cn think-tanks":                      ("cn-thinktanks", "Think-tanks", "CN think-tanks"),
+    "government positions & readouts":     ("cn-mfa", "Positions", "Government positions & readouts"),
+    "chinese thinking":                    ("cn-thinktanks", "Thinking", "Chinese thinking"),
     "ger / eu in cn media":                ("cn-media", "GER/EU media", "GER / EU in CN media"),
 }
 

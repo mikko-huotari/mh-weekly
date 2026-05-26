@@ -68,8 +68,8 @@
     "cn-authoritative": "Authoritative",
     "cn-regulatory":    "Regulatory",
     "cn-journalism":    "CN journalism",
-    "cn-mfa":           "MFA",
-    "cn-thinktanks":    "Think-tanks",
+    "cn-mfa":           "Positions",
+    "cn-thinktanks":    "Thinking",
     "cn-media":         "GER/EU media",
   };
   // Wochenbericht sub-chips (German Lens tab)
