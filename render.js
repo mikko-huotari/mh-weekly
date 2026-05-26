@@ -125,9 +125,15 @@
     const chips = [];
     const spots = spotlightsOf(w);
     spots.forEach((s, i) => {
+      // Show a short topic in the chip, e.g. "Spotlight 1: Putin-Xi summit".
+      let topic = (s.title || "").replace(/^\s*Spotlight\s*\d*\s*:?\s*/i, "").split(/\s+[–—-]\s+/)[0].trim();
+      let acc = "";
+      for (const w of topic.split(/\s+/)) { if ((acc + " " + w).trim().length > 18) break; acc = (acc + " " + w).trim(); }
+      acc = acc.replace(/\s+(in|the|of|at|on|and)$/i, "");
+      const n = spots.length > 1 ? `Spotlight ${i + 1}` : "Spotlight";
       chips.push({
         sub: i === 0 ? "hl-spotlight" : `hl-spotlight-${i + 1}`,
-        label: spots.length > 1 ? `Spotlight ${i + 1}` : "Spotlight",
+        label: acc ? `${n}: ${acc}` : n,
       });
     });
     (w.contextSections || []).forEach(sec => {

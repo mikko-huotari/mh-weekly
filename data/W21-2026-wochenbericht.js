@@ -440,16 +440,10 @@ window.W21_2026_WOCHENBERICHT = {
               "title": "Wladimir Putin in China; Das Machtverhältnis hat sich längst gedreht"
             },
             {
-              "outlet": "„XI UND PUTIN",
-              "outletDisplay": "„XI UND PUTIN",
-              "date": "",
-              "title": ""
-            },
-            {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-05-20",
-              "title": "Stabilität“ als Code für eine Welt ohne US-Führung"
+              "title": "XI UND PUTIN; „Stabilität“ als Code für eine Welt ohne US-Führung"
             }
           ],
           "kind": "theme"
@@ -544,12 +538,6 @@ window.W21_2026_WOCHENBERICHT = {
               "outletDisplay": "handelsblatt.com",
               "date": "2026-05-21",
               "title": "CHINA-SPIONAGE; Spionagefall erschüttert Universitäten"
-            },
-            {
-              "outlet": "Handelsblatt",
-              "outletDisplay": "handelsblatt.com",
-              "date": "2026-05-20",
-              "title": "China-Spionage; Spionagefall erschüttert deutsche Forschungseinrichtungen"
             }
           ],
           "kind": "theme"

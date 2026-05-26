@@ -144,7 +144,7 @@ window.W21_2026 = {
     },
     {
       "title": "Spotlight 2: Reiche in Beijing – the real test for Germany's China strategy (interview with SZ, forthc.)",
-      "intro": "Federal Economy Minister Katherina Reiche travels to China on 26–29 May for her first visit, leading a delegation of corporate executives that includes the CEOs of BASF, Thyssenkrupp and Siemens Energy, with stops in Beijing and the southern manufacturing hub of Guangzhou. She has cast the trip around Germany's role as a reliable trading partner while pressing on the competitive distortions of Chinese overcapacity and dumping, and on Beijing's export controls over rare earths and other critical inputs as geopolitical leverage. The timing is pointed: days earlier Spain, France and Italy pushed for tougher EU trade defences, and Berlin is resisting a harder common European line.",
+      "intro": "Federal Economy Minister Katherina Reiche travels to China on 26–29 May for her first visit, leading a delegation of corporate executives that includes the CEOs of BASF, Thyssenkrupp and Siemens Energy, with stops in Beijing and the southern manufacturing hub of Guangzhou. She has cast the trip around Germany's role as a reliable trading partner while pressing on the competitive distortions of Chinese overcapacity and dumping, and on Beijing's export controls over rare earths and other critical inputs as geopolitical leverage. The timing is pointed: days earlier Spain, France and Italy pushed for tougher EU trade defences, and it remains to be seen whether and how Berlin will align with a harder common European line.",
       "items": [],
       "subsections": [
         {
@@ -165,15 +165,6 @@ window.W21_2026 = {
             },
             {
               "note": "**Beijing assumes it can outlast Europe.** Having already weathered trade and technology wars with the United States, China believes it can likewise endure conflict with Europe. China has \"dramatically reduced\" its dependencies on the West beyond export markets, while Europe \"has continued to build up its own dependencies.\""
-            }
-          ]
-        },
-        {
-          "label": "Source",
-          "intro": "",
-          "items": [
-            {
-              "note": "**SZ interview** with MH, conducted 26 May 2026 – *erscheint diese Woche* (link to follow)"
             }
           ]
         }
@@ -238,7 +229,7 @@ window.W21_2026 = {
           ]
         },
         {
-          "label": "2. European Union & Wider Europe (Europäische Union & Nachbarschaft)",
+          "label": "2. European Union & Wider Europe",
           "items": [
             {
               "outlet": "",
@@ -628,22 +619,6 @@ window.W21_2026 = {
             [
               "Founder's core technical predictions arrived five years ahead of market readiness",
               "Huang identified humanoid form and sub-1,000 yuan joints in 2020; both arguments drew investment and applause only after 2024, when competitors had working prototypes."
-            ],
-            [
-              "MARA cut its breeding sow target by 1.5 million to 37.5 million head",
-              "China's agriculture ministry revised its pig production capacity management plan downward in its latest update, Trivium Markets reports."
-            ],
-            [
-              "The revision marks a repeated cycle of pig farming capacity intervention",
-              "The article notes Beijing is targeting hog overcapacity \"again,\" indicating prior reduction rounds have not resolved the structural imbalance."
-            ],
-            [
-              "MIIT revised iron and steel capacity replacement rules on 18 May",
-              "The updated measures govern how firms must offset new capacity additions, according to Trivium Markets."
-            ],
-            [
-              "Capacity replacement framework dates to 2014 overcapacity response",
-              "Beijing originally introduced the rules to constrain net capacity expansion in the steel sector."
             ]
           ]
         },
@@ -664,7 +639,15 @@ window.W21_2026 = {
             [
               "Main driver is negative age stereotypes, not productivity decline",
               "The study finds employers view post-35 workers as less healthy, less proactive, and slower to adopt technology, prior to assessing individual performance."
-            ],
+            ]
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "title": "China removes hukou hurdle for migrant workers in social insurance shake-up",
+          "date": "2026-05-22",
+          "url": "https://www.scmp.com/news/article/3354575/china-removes-hukou-hurdle-migrant-workers-social-insurance-shake",
+          "bullets": [
             [
               "State Council decouples social insurance enrolment from hukou registration",
               "Workers may now access social insurance in the city where they are employed regardless of official hometown registration, under measures announced Friday."
@@ -674,24 +657,28 @@ window.W21_2026 = {
               "The announcement also targets portability of social insurance relationships across provinces, addressing a longstanding barrier for China's 357 million migrant workers."
             ],
             [
+              "Policy framed as part of China's unified national market agenda",
+              "Workers may now enrol in social insurance where employed, ending a hukou-based exclusion that blocked access to pensions and medical coverage."
+            ]
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Will China's residency changes to social insurance unlock economic growth?",
+          "date": "2026-05-22",
+          "url": "https://www.scmp.com/news/china/politics/article/3354618/will-chinas-residency-changes-social-insurance-unlock-economic-growth",
+          "bullets": [
+            [
               "Cabinet guidelines link hukou exclusions to suppressed consumer demand",
               "The State Council directive frames migrants' lack of access to urban schools and health care as a structural driver of precautionary saving rather than spending."
             ],
             [
               "No new funds committed; cities to absorb costs via fiscal incentive redesign",
-              "Beijing proposed reweighting central transfers and land quotas toward population inflows rather than allocating fresh money - a formula that leaves cash-strapped local governments to bridge a gap a former central bank adviser estimated at 10 trillion yuan."
-            ],
-            [
-              "Policy framed as part of China's unified national market agenda",
-              "Workers may now enrol in social insurance where employed, ending a hukou-based exclusion that blocked access to pensions and medical coverage."
+              "Beijing proposed reweighting central transfers and land quotas toward population inflows rather than allocating fresh money, leaving cash-strapped local governments to bridge a gap a former central bank adviser estimated at 10 trillion yuan."
             ],
             [
               "Analysts cite urbanisation and property market gains as downstream effects",
               "Peng Peng of the Guangdong Society of Reform expects the reform to stimulate real estate activity and release consumer spending."
-            ],
-            [
-              "State Council guidelines explicitly tied to the 15th Five-Year Plan",
-              "EIU analyst Ying Zhang said the document \"very much reflects the spirit\" of China's newly released five-year economic and social blueprint."
             ],
             [
               "Mega-city uptake identified as the key test",
@@ -2096,14 +2083,6 @@ window.W21_2026 = {
             [
               "China's military-civil fusion contrasts with the unresolved US public-private AI governance split",
               "The article argues the CCP's command over tech firms gives Beijing a structural advantage, while the 2025-26 Anthropic-Pentagon dispute exposed an unresolved question of who governs American AI."
-            ],
-            [
-              "EU set CRM production targets without policies to fund them",
-              "The Chaillot Paper argues Europe has designated strategic projects but failed to adopt financially viable frameworks to compete with China's state-sponsored supply chains."
-            ],
-            [
-              "Paper proposes \"allied industrial bloc\" over trading-partner reliance",
-              "Rather than treating China as a trade partner, the author calls for restructuring critical raw material sourcing around allied supply networks to reduce leverage exposure."
             ]
           ]
         }
