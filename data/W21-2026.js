@@ -1404,6 +1404,42 @@ window.W21_2026 = {
         },
         {
           "outlet": "FT",
+          "title": "The US and China crave hegemony without responsibility",
+          "date": "2026-05-19",
+          "url": "https://www.ft.com/content/5d79f7a3-8b54-4c15-a3a4-40881147f66f",
+          "bullets": [
+            [
+              "China has not filled the global leadership vacuum",
+              "The author argues Beijing calls for stability during crises but avoids the costs, with its foreign aid budget a fraction of historical US levels."
+            ],
+            [
+              "52 of 70 major economies launched trade defence measures targeting China last year",
+              "The article cites MERICS data to show Beijing's economic policies face broad global blowback, constraining its claim to represent an alternative order."
+            ]
+          ]
+        },
+        {
+          "outlet": "Wire China",
+          "title": "The supplicant and the sovereign",
+          "date": "2026-05-21",
+          "url": "https://www.thewirechina.com/2026/05/21/the-supplicant-and-the-sovereign",
+          "bullets": [
+            [
+              "China's Power of Siberia II leverage has strengthened",
+              "Trump's return gave Xi a US LNG price anchor, the authors argue, reducing Beijing's incentive to accept Russian gas on Moscow's terms."
+            ],
+            [
+              "Arctic access identified as Russia's likely concession",
+              "China already finances Northern Sea Route infrastructure, the authors note, making full Arctic power status a question of speed and terms rather than principle."
+            ],
+            [
+              "European security may become a function of Chinese calculations",
+              "Beijing's hold over Russian energy finances gives it indirect influence over the pressure Moscow chooses to apply to European neighbours, the authors warn."
+            ]
+          ]
+        },
+        {
+          "outlet": "FT",
           "title": "China’s Xi Jinping warns of ‘law of the jungle’ at summit with Vladimir Putin",
           "date": "2026-05-20",
           "url": "https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece",
@@ -1475,62 +1511,6 @@ window.W21_2026 = {
           ]
         },
         {
-          "outlet": "Diplomat",
-          "title": "What actually caused the latest submarine cut near Taiwan?",
-          "date": "2026-05-21",
-          "url": "https://thediplomat.com/2026/05/what-actually-caused-the-latest-submarine-cut-near-taiwan",
-          "bullets": [
-            [
-              "Salvage vessel's unusual route passed near Matsu cable infrastructure",
-              "Taiwanese media attributed the April cut to the Hai Hong Gong 66 dredger, contradicting international reports citing weather-shifted wreckage."
-            ],
-            [
-              "Wrecked vessel had previously joined PLA civilian-military fusion drills",
-              "The Min Lian Yu 63896, whose salvage prompted the cut, had participated in Maritime Militia exercises simulating quarantine maneuvers."
-            ],
-            [
-              "Taiwan's cable surveillance relies on AIS rather than real-time satellite tracking",
-              "Budget shortfalls leave only 96 vessels blacklisted against militia drills involving potentially thousands of civilian ships."
-            ]
-          ]
-        },
-        {
-          "outlet": "SCMP",
-          "title": "Could China limit Japanese airlines’ access to its airspace as ties sour?",
-          "date": "2026-05-18",
-          "url": "https://www.scmp.com/economy/china-economy/article/3353718/could-china-limit-japanese-airlines-access-its-airspace-ties-sour",
-          "bullets": [
-            [
-              "Aviation professionals flag Chinese airspace as a potential retaliatory lever",
-              "Restricting Japanese overflights would disrupt Japan-Europe routes more severely than current flight cancellations, pilots warned SCMP."
-            ],
-            [
-              "Tensions follow Takaichi's November remarks on Taiwan defense",
-              "Beijing has already cancelled flights and issued travel advisories; full airspace closure is seen as unlikely as it would also disrupt Chinese carriers."
-            ]
-          ]
-        },
-        {
-          "outlet": "Lowy Institute",
-          "title": "China’s influence in Africa is no longer just economic",
-          "date": "2026-05-22",
-          "url": "https://www.lowyinstitute.org/the-interpreter/china-s-influence-africa-no-longer-just-economic",
-          "bullets": [
-            [
-              "China excluded Eswatini from its zero-tariff Africa expansion",
-              "Beijing extended duty-free access to every African country bar Taiwan's last diplomatic partner, tying market access to One China compliance."
-            ],
-            [
-              "Chinese pressure allegedly caused postponement of Zambia's RightsCon conference",
-              "Beijing reportedly objected to Taiwanese civil society participants, the article reports, pushing Chinese leverage into civic and political space inside an African state."
-            ],
-            [
-              "Author argues China's Africa influence now extends beyond economics",
-              "Beijing shapes diplomatic behaviour, civic access, and political incentives - not just infrastructure and trade - according to the article."
-            ]
-          ]
-        },
-        {
           "outlet": "WSJ",
           "title": "The hidden Chinese influence in AI",
           "date": "2026-05-19",
@@ -1571,38 +1551,58 @@ window.W21_2026 = {
           ]
         },
         {
-          "outlet": "FT",
-          "title": "The US and China crave hegemony without responsibility",
-          "date": "2026-05-19",
-          "url": "https://www.ft.com/content/5d79f7a3-8b54-4c15-a3a4-40881147f66f",
+          "outlet": "Lowy Institute",
+          "title": "China’s influence in Africa is no longer just economic",
+          "date": "2026-05-22",
+          "url": "https://www.lowyinstitute.org/the-interpreter/china-s-influence-africa-no-longer-just-economic",
           "bullets": [
             [
-              "China has not filled the global leadership vacuum",
-              "The author argues Beijing calls for stability during crises but avoids the costs, with its foreign aid budget a fraction of historical US levels."
+              "China excluded Eswatini from its zero-tariff Africa expansion",
+              "Beijing extended duty-free access to every African country bar Taiwan's last diplomatic partner, tying market access to One China compliance."
             ],
             [
-              "52 of 70 major economies launched trade defence measures targeting China last year",
-              "The article cites MERICS data to show Beijing's economic policies face broad global blowback, constraining its claim to represent an alternative order."
+              "Chinese pressure allegedly caused postponement of Zambia's RightsCon conference",
+              "Beijing reportedly objected to Taiwanese civil society participants, the article reports, pushing Chinese leverage into civic and political space inside an African state."
+            ],
+            [
+              "Author argues China's Africa influence now extends beyond economics",
+              "Beijing shapes diplomatic behaviour, civic access, and political incentives - not just infrastructure and trade - according to the article."
             ]
           ]
         },
         {
-          "outlet": "Wire China",
-          "title": "The supplicant and the sovereign",
+          "outlet": "Diplomat",
+          "title": "What actually caused the latest submarine cut near Taiwan?",
           "date": "2026-05-21",
-          "url": "https://www.thewirechina.com/2026/05/21/the-supplicant-and-the-sovereign",
+          "url": "https://thediplomat.com/2026/05/what-actually-caused-the-latest-submarine-cut-near-taiwan",
           "bullets": [
             [
-              "China's Power of Siberia II leverage has strengthened",
-              "Trump's return gave Xi a US LNG price anchor, the authors argue, reducing Beijing's incentive to accept Russian gas on Moscow's terms."
+              "Salvage vessel's unusual route passed near Matsu cable infrastructure",
+              "Taiwanese media attributed the April cut to the Hai Hong Gong 66 dredger, contradicting international reports citing weather-shifted wreckage."
             ],
             [
-              "Arctic access identified as Russia's likely concession",
-              "China already finances Northern Sea Route infrastructure, the authors note, making full Arctic power status a question of speed and terms rather than principle."
+              "Wrecked vessel had previously joined PLA civilian-military fusion drills",
+              "The Min Lian Yu 63896, whose salvage prompted the cut, had participated in Maritime Militia exercises simulating quarantine maneuvers."
             ],
             [
-              "European security may become a function of Chinese calculations",
-              "Beijing's hold over Russian energy finances gives it indirect influence over the pressure Moscow chooses to apply to European neighbours, the authors warn."
+              "Taiwan's cable surveillance relies on AIS rather than real-time satellite tracking",
+              "Budget shortfalls leave only 96 vessels blacklisted against militia drills involving potentially thousands of civilian ships."
+            ]
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Could China limit Japanese airlines’ access to its airspace as ties sour?",
+          "date": "2026-05-18",
+          "url": "https://www.scmp.com/economy/china-economy/article/3353718/could-china-limit-japanese-airlines-access-its-airspace-ties-sour",
+          "bullets": [
+            [
+              "Aviation professionals flag Chinese airspace as a potential retaliatory lever",
+              "Restricting Japanese overflights would disrupt Japan-Europe routes more severely than current flight cancellations, pilots warned SCMP."
+            ],
+            [
+              "Tensions follow Takaichi's November remarks on Taiwan defense",
+              "Beijing has already cancelled flights and issued travel advisories; full airspace closure is seen as unlikely as it would also disrupt Chinese carriers."
             ]
           ]
         },
@@ -1703,6 +1703,74 @@ window.W21_2026 = {
           ]
         },
         {
+          "outlet": "FT",
+          "title": "Defence groups clamour to delay US ban on Chinese rare earth magnets",
+          "date": "2026-05-18",
+          "url": "https://www.ft.com/content/4d6651e1-17ff-4a72-b30b-065322cd58d0",
+          "bullets": [
+            [
+              "US defence firms seek delay on Chinese magnet ban",
+              "Companies are lobbying Congress to extend the January 2027 deadline barring Pentagon contracts from using Chinese-sourced rare earth magnets."
+            ],
+            [
+              "CSIS warns 2027 deadline may outpace supply chain build-out",
+              "The think tank found that significantly more non-Chinese magnet capacity must come online within eight months for compliance to be feasible."
+            ]
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Australia orders Chinese investors to sell rare earth stakes",
+          "date": "2026-05-18",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-17/australia-orders-chinese-investors-to-sell-stakes-in-mining-firm",
+          "bullets": [
+            [
+              "Australia ordered six China-linked entities in Northern Minerals to divest",
+              "Five are registered in China or Hong Kong; all six together hold 27% of the A$229 million rare earths firm."
+            ],
+            [
+              "The order is Canberra's second Northern Minerals divestment in two years",
+              "Australia sued a Chinese company for breaching a 2024 order and won the case last year."
+            ]
+          ]
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "US to Mull Action If China Overcapacity Found, Trade Envoy Says - Bloomberg",
+          "date": "2026-05-18",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-17/us-to-mull-action-if-china-overcapacity-found-trade-envoy-says",
+          "bullets": [
+            [
+              "If overcapacity probes confirm concerns, Trump will receive action options",
+              "USTR Greer told CBS investigations could justify tariffs, service fees, or quotas on Chinese goods."
+            ],
+            [
+              "Supreme Court tariff ruling pushed the US toward conventional trade probes",
+              "After the court struck down Trump's global tariffs in February, the administration shifted to country-specific investigations authorising targeted measures."
+            ]
+          ]
+        },
+        {
+          "outlet": "CFR",
+          "title": "China and the U.S. Agreed to ‘Strategic Stability’ in Beijing. They Don’t Define It the Same Way.",
+          "date": "2026-05-18",
+          "url": "https://www.cfr.org/articles/china-and-the-u-s-agreed-to-strategic-stability-in-beijing-they-dont-define-it-the-same-way",
+          "bullets": [
+            [
+              "Readouts diverged on the meaning of \"strategic stability\"",
+              "Washington used the phrase to signal economic risk reduction; Beijing tied it to core interests, the three joint communiqués, and recognition of China's development path, the author argues."
+            ],
+            [
+              "Taiwan absent from US fact sheet but central to China's readout",
+              "Xi reportedly called Taiwan the \"most important issue\" in bilateral relations; its omission from the White House document illustrates the gap in what each side considers stability to require."
+            ],
+            [
+              "New bilateral boards exclude contested technology and security issues by design",
+              "The author argues the mechanisms are built for commercial disputes only, keeping semiconductors, AI, export controls, and Taiwan outside the room."
+            ]
+          ]
+        },
+        {
           "outlet": "NYT",
           "title": "Trump’s Taiwan Gambit is Already a Gift to China - The New York Times",
           "date": "2026-05-18",
@@ -1719,6 +1787,22 @@ window.W21_2026 = {
             [
               "Analysts warn a prolonged hold would erode US deterrence credibility",
               "A Foundation for Defense of Democracies analyst said a delay shaped by Beijing's objections would raise \"much more serious concerns about the reliability of U.S. deterrence.\""
+            ]
+          ]
+        },
+        {
+          "outlet": "FT",
+          "title": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping",
+          "date": "2026-05-17",
+          "url": "https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea",
+          "bullets": [
+            [
+              "Xi formulated \"constructive strategic stability\" across four operational pillars",
+              "Co-operation as the mainstay, competition within limits, manageable differences, and predictable peace - framed as strategic guidance for three years and beyond, per China's MFA readout."
+            ],
+            [
+              "Trump asserted Xi offered Iran mediation; Chinese state media omitted the claim",
+              "The US president said Xi called for reopening the Strait of Hormuz and volunteered to help broker a conflict resolution, an exchange Beijing's official coverage did not report."
             ]
           ]
         },
@@ -1755,34 +1839,66 @@ window.W21_2026 = {
           ]
         },
         {
-          "outlet": "FT",
-          "title": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping",
-          "date": "2026-05-17",
-          "url": "https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea",
+          "outlet": "SCMP",
+          "title": "Will US defence strategy architect Colby pave the way for Hegseth’s China visit?",
+          "date": "2026-05-21",
+          "url": "https://www.scmp.com/news/china/military/article/3354283/will-us-defence-strategy-architect-colby-pave-way-hegseths-china-visit",
           "bullets": [
             [
-              "Xi formulated \"constructive strategic stability\" across four operational pillars",
-              "Co-operation as the mainstay, competition within limits, manageable differences, and predictable peace - framed as strategic guidance for three years and beyond, per China's MFA readout."
+              "Pentagon to send Elbridge Colby to Beijing to prepare Hegseth visit",
+              "The undersecretary for policy is expected within weeks to finalise arrangements, following last week's Trump-Xi summit, according to sources."
             ],
             [
-              "Trump asserted Xi offered Iran mediation; Chinese state media omitted the claim",
-              "The US president said Xi called for reopening the Strait of Hormuz and volunteered to help broker a conflict resolution, an exchange Beijing's official coverage did not report."
+              "Hegseth's Beijing visit ended eight-year US defence chief absence from China",
+              "He was also the first American defence secretary to accompany a sitting president on a China state visit since 1970s normalisation, SCMP reports."
             ]
           ]
         },
         {
-          "outlet": "Bloomberg",
-          "title": "US to Mull Action If China Overcapacity Found, Trade Envoy Says - Bloomberg",
-          "date": "2026-05-18",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-17/us-to-mull-action-if-china-overcapacity-found-trade-envoy-says",
+          "outlet": "NYT",
+          "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump -- NYT",
+          "date": "2026-05-21",
+          "url": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
           "bullets": [
             [
-              "If overcapacity probes confirm concerns, Trump will receive action options",
-              "USTR Greer told CBS investigations could justify tariffs, service fees, or quotas on Chinese goods."
+              "Beijing resolved Rubio's sanction ban by distinguishing senator from cabinet roles",
+              "China told the New York Times the 2020 sanctions targeted his senatorial rhetoric, not his current position, clearing his entry to the Beijing summit."
             ],
             [
-              "Supreme Court tariff ruling pushed the US toward conventional trade probes",
-              "After the court struck down Trump's global tariffs in February, the administration shifted to country-specific investigations authorising targeted measures."
+              "Rubio reframed his China stance from \"near-peer adversary\" to cooperation-seeking diplomat",
+              "As secretary of state, he replaced human rights emphasis with strategic stability language, while the State Department has continued imposing China-related sanctions in practice."
+            ]
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "title": "‘We really do not trust each other’: former US envoy foresees wary new phase in China ties",
+          "date": "2026-05-22",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3354418/we-really-do-not-trust-each-other-former-us-envoy-foresees-wary-new-phase-china-ties",
+          "bullets": [
+            [
+              "Baucus frames summit as mutual crisis prevention, not trust-building",
+              "The former US ambassador said both sides want to stabilise the relationship but acknowledged \"we really do not trust each other.\""
+            ],
+            [
+              "New \"constructive strategic stability\" language signals a holding pattern",
+              "According to Baucus, the shared diplomatic framing points to conflict-avoidance, not the start of a durable reset."
+            ]
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "title": "US casts Cuba as China-linked security threat while still pushing for talks",
+          "date": "2026-05-22",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3354434/us-casts-cuba-china-linked-security-threat-while-still-pushing-talks",
+          "bullets": [
+            [
+              "Rubio cited Chinese and Russian intelligence and weapons presence in Cuba",
+              "The Secretary of State framed the island as a proximate national security threat near Florida, according to SCMP."
+            ],
+            [
+              "Beijing condemned US criminal charges against Raul Castro",
+              "China's foreign ministry urged Washington to stop \"brandishing the sanctions stick\" and reaffirmed support for Cuban sovereignty and non-interference."
             ]
           ]
         },
@@ -1823,138 +1939,6 @@ window.W21_2026 = {
           ]
         },
         {
-          "outlet": "NYT",
-          "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump -- NYT",
-          "date": "2026-05-21",
-          "url": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
-          "bullets": [
-            [
-              "Beijing resolved Rubio's sanction ban by distinguishing senator from cabinet roles",
-              "China told the New York Times the 2020 sanctions targeted his senatorial rhetoric, not his current position, clearing his entry to the Beijing summit."
-            ],
-            [
-              "Rubio reframed his China stance from \"near-peer adversary\" to cooperation-seeking diplomat",
-              "As secretary of state, he replaced human rights emphasis with strategic stability language, while the State Department has continued imposing China-related sanctions in practice."
-            ]
-          ]
-        },
-        {
-          "outlet": "SCMP",
-          "title": "Will US defence strategy architect Colby pave the way for Hegseth’s China visit?",
-          "date": "2026-05-21",
-          "url": "https://www.scmp.com/news/china/military/article/3354283/will-us-defence-strategy-architect-colby-pave-way-hegseths-china-visit",
-          "bullets": [
-            [
-              "Pentagon to send Elbridge Colby to Beijing to prepare Hegseth visit",
-              "The undersecretary for policy is expected within weeks to finalise arrangements, following last week's Trump-Xi summit, according to sources."
-            ],
-            [
-              "Hegseth's Beijing visit ended eight-year US defence chief absence from China",
-              "He was also the first American defence secretary to accompany a sitting president on a China state visit since 1970s normalisation, SCMP reports."
-            ]
-          ]
-        },
-        {
-          "outlet": "SCMP",
-          "title": "US casts Cuba as China-linked security threat while still pushing for talks",
-          "date": "2026-05-22",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3354434/us-casts-cuba-china-linked-security-threat-while-still-pushing-talks",
-          "bullets": [
-            [
-              "Rubio cited Chinese and Russian intelligence and weapons presence in Cuba",
-              "The Secretary of State framed the island as a proximate national security threat near Florida, according to SCMP."
-            ],
-            [
-              "Beijing condemned US criminal charges against Raul Castro",
-              "China's foreign ministry urged Washington to stop \"brandishing the sanctions stick\" and reaffirmed support for Cuban sovereignty and non-interference."
-            ]
-          ]
-        },
-        {
-          "outlet": "SCMP",
-          "title": "‘We really do not trust each other’: former US envoy foresees wary new phase in China ties",
-          "date": "2026-05-22",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3354418/we-really-do-not-trust-each-other-former-us-envoy-foresees-wary-new-phase-china-ties",
-          "bullets": [
-            [
-              "Baucus frames summit as mutual crisis prevention, not trust-building",
-              "The former US ambassador said both sides want to stabilise the relationship but acknowledged \"we really do not trust each other.\""
-            ],
-            [
-              "New \"constructive strategic stability\" language signals a holding pattern",
-              "According to Baucus, the shared diplomatic framing points to conflict-avoidance, not the start of a durable reset."
-            ]
-          ]
-        },
-        {
-          "outlet": "Wire China",
-          "title": "TP-Link's American Dream",
-          "date": "2026-05-17",
-          "url": "https://www.thewirechina.com/2026/05/17/tp-links-american-dream",
-          "bullets": [
-            [
-              "FCC banned all foreign-made consumer routers in March",
-              "The country-agnostic rule effectively targets TP-Link, which holds over 60% of the US consumer router market, according to the article."
-            ],
-            [
-              "Commerce shelved an internal TP-Link ban recommendation",
-              "An undersecretary sat on an office-level determination recommending a product ban, citing concerns about disrupting the US-China trade truce."
-            ],
-            [
-              "Researchers argue domestic manufacturing does not address core router security risks",
-              "Cybersecurity experts quoted say outdated firmware and default passwords make US-made routers equally exploitable as Chinese-made devices."
-            ]
-          ]
-        },
-        {
-          "outlet": "SCMP",
-          "title": "Australia orders Chinese investors to sell rare earth stakes",
-          "date": "2026-05-18",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-17/australia-orders-chinese-investors-to-sell-stakes-in-mining-firm",
-          "bullets": [
-            [
-              "Australia ordered six China-linked entities in Northern Minerals to divest",
-              "Five are registered in China or Hong Kong; all six together hold 27% of the A$229 million rare earths firm."
-            ],
-            [
-              "The order is Canberra's second Northern Minerals divestment in two years",
-              "Australia sued a Chinese company for breaching a 2024 order and won the case last year."
-            ]
-          ]
-        },
-        {
-          "outlet": "FT",
-          "title": "Defence groups clamour to delay US ban on Chinese rare earth magnets",
-          "date": "2026-05-18",
-          "url": "https://www.ft.com/content/4d6651e1-17ff-4a72-b30b-065322cd58d0",
-          "bullets": [
-            [
-              "US defence firms seek delay on Chinese magnet ban",
-              "Companies are lobbying Congress to extend the January 2027 deadline barring Pentagon contracts from using Chinese-sourced rare earth magnets."
-            ],
-            [
-              "CSIS warns 2027 deadline may outpace supply chain build-out",
-              "The think tank found that significantly more non-Chinese magnet capacity must come online within eight months for compliance to be feasible."
-            ]
-          ]
-        },
-        {
-          "outlet": "SCMP",
-          "title": "Japan plans island drone deployment to monitor Chinese naval activity",
-          "date": "2026-05-20",
-          "url": "https://www.scmp.com/week-asia/politics/article/3354156/japan-plans-island-drone-deployment-monitor-chinese-naval-activity",
-          "bullets": [
-            [
-              "SeaGuardian drones to fill a Pacific surveillance gap",
-              "Japan will station US-built drones on Iwo Jima, Chichijima, and Minamitorishima, covering an area government sources described as a real-time intelligence blind spot."
-            ],
-            [
-              "Chinese warships now operating beyond Japan's first island chain",
-              "Japanese defence assessments and an ICG analyst cited expanded PLA Navy activity east of Okinawa as the primary driver of the deployment decision."
-            ]
-          ]
-        },
-        {
           "outlet": "Lowy Institute",
           "title": "Japan’s quiet test of China diplomacy",
           "date": "2026-05-20",
@@ -1971,6 +1955,22 @@ window.W21_2026 = {
             [
               "Multiple Japanese delegations are queued for China through June",
               "Nishimura visited Beijing on 2 May, METI Minister Akazawa is headed to Suzhou, and a trade association delegation plans senior-official meetings."
+            ]
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Japan plans island drone deployment to monitor Chinese naval activity",
+          "date": "2026-05-20",
+          "url": "https://www.scmp.com/week-asia/politics/article/3354156/japan-plans-island-drone-deployment-monitor-chinese-naval-activity",
+          "bullets": [
+            [
+              "SeaGuardian drones to fill a Pacific surveillance gap",
+              "Japan will station US-built drones on Iwo Jima, Chichijima, and Minamitorishima, covering an area government sources described as a real-time intelligence blind spot."
+            ],
+            [
+              "Chinese warships now operating beyond Japan's first island chain",
+              "Japanese defence assessments and an ICG analyst cited expanded PLA Navy activity east of Okinawa as the primary driver of the deployment decision."
             ]
           ]
         },
@@ -2027,22 +2027,42 @@ window.W21_2026 = {
           ]
         },
         {
-          "outlet": "CFR",
-          "title": "China and the U.S. Agreed to ‘Strategic Stability’ in Beijing. They Don’t Define It the Same Way.",
-          "date": "2026-05-18",
-          "url": "https://www.cfr.org/articles/china-and-the-u-s-agreed-to-strategic-stability-in-beijing-they-dont-define-it-the-same-way",
+          "outlet": "Brookings",
+          "title": "Will Taiwanese accept Xi Jinping’s version of ‘One China’?",
+          "date": "2026-05-19",
+          "url": "https://www.brookings.edu/articles/will-taiwanese-accept-xi-jinpings-version-of-one-china",
           "bullets": [
             [
-              "Readouts diverged on the meaning of \"strategic stability\"",
-              "Washington used the phrase to signal economic risk reduction; Beijing tied it to core interests, the three joint communiqués, and recognition of China's development path, the author argues."
+              "Survey finds 47% of Taiwanese unclear on the 1992 Consensus",
+              "Despite that ambiguity, 41% overall support Cheng Li-wun's slogan \"1992 Consensus, oppose Taiwanese independence,\" the authors find."
             ],
             [
-              "Taiwan absent from US fact sheet but central to China's readout",
-              "Xi reportedly called Taiwan the \"most important issue\" in bilateral relations; its omission from the White House document illustrates the gap in what each side considers stability to require."
+              "KMT voters support consensus slogan but reject \"one country, two systems\"",
+              "80% back Cheng's formulation while fewer than 40% support the framework Beijing explicitly links to it."
             ],
             [
-              "New bilateral boards exclude contested technology and security issues by design",
-              "The author argues the mechanisms are built for commercial disputes only, keeping semiconductors, AI, export controls, and Taiwan outside the room."
+              "Authors warn of misinterpretation risk in Taiwanese consensus support",
+              "Xi explicitly ties the 1992 Consensus to \"one country, two systems,\" a connection most Taiwanese supporters of the slogan reject."
+            ]
+          ]
+        },
+        {
+          "outlet": "Wire China",
+          "title": "TP-Link's American Dream",
+          "date": "2026-05-17",
+          "url": "https://www.thewirechina.com/2026/05/17/tp-links-american-dream",
+          "bullets": [
+            [
+              "FCC banned all foreign-made consumer routers in March",
+              "The country-agnostic rule effectively targets TP-Link, which holds over 60% of the US consumer router market, according to the article."
+            ],
+            [
+              "Commerce shelved an internal TP-Link ban recommendation",
+              "An undersecretary sat on an office-level determination recommending a product ban, citing concerns about disrupting the US-China trade truce."
+            ],
+            [
+              "Researchers argue domestic manufacturing does not address core router security risks",
+              "Cybersecurity experts quoted say outdated firmware and default passwords make US-made routers equally exploitable as Chinese-made devices."
             ]
           ]
         },
@@ -2063,26 +2083,6 @@ window.W21_2026 = {
             [
               "China's military-civil fusion contrasts with the unresolved US public-private AI governance split",
               "The article argues the CCP's command over tech firms gives Beijing a structural advantage, while the 2025-26 Anthropic-Pentagon dispute exposed an unresolved question of who governs American AI."
-            ]
-          ]
-        },
-        {
-          "outlet": "Brookings",
-          "title": "Will Taiwanese accept Xi Jinping’s version of ‘One China’?",
-          "date": "2026-05-19",
-          "url": "https://www.brookings.edu/articles/will-taiwanese-accept-xi-jinpings-version-of-one-china",
-          "bullets": [
-            [
-              "Survey finds 47% of Taiwanese unclear on the 1992 Consensus",
-              "Despite that ambiguity, 41% overall support Cheng Li-wun's slogan \"1992 Consensus, oppose Taiwanese independence,\" the authors find."
-            ],
-            [
-              "KMT voters support consensus slogan but reject \"one country, two systems\"",
-              "80% back Cheng's formulation while fewer than 40% support the framework Beijing explicitly links to it."
-            ],
-            [
-              "Authors warn of misinterpretation risk in Taiwanese consensus support",
-              "Xi explicitly ties the 1992 Consensus to \"one country, two systems,\" a connection most Taiwanese supporters of the slogan reject."
             ]
           ]
         }
