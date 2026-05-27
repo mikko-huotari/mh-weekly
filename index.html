@@ -252,6 +252,29 @@
   .pdf-link:hover { background: var(--ink); color: var(--paper); }
   @media (max-width: 420px) { .pdf-link .full { display: none; } }
   @media (min-width: 421px) { .pdf-link .short { display: none; } }
+
+  /* Print / PDF popover */
+  .print-wrap { position: relative; }
+  .print-menu {
+    position: absolute; top: calc(100% + 8px); right: 0; z-index: 60;
+    width: 280px; background: var(--paper); border: 1px solid var(--rule);
+    border-radius: 10px; padding: 14px 14px 12px;
+    box-shadow: 0 12px 32px rgba(0,0,0,.16); font-family: var(--sans);
+  }
+  .print-menu[hidden] { display: none; }
+  .pm-head { font-weight: 600; font-size: 13px; letter-spacing: .02em; color: var(--ink); }
+  .pm-sub { margin: 2px 0 10px; font-size: 11px; color: var(--slate); }
+  .pm-row { display: flex; align-items: center; gap: 8px; padding: 5px 4px; font-size: 13px; color: var(--ink); cursor: pointer; border-radius: 6px; }
+  .pm-row:hover { background: var(--rule-soft); }
+  .pm-row input { accent-color: var(--merics-red); width: 15px; height: 15px; flex: none; }
+  .pm-all { font-weight: 600; border-bottom: 1px solid var(--rule-soft); margin-bottom: 4px; padding-bottom: 8px; }
+  .pm-parts { display: flex; flex-direction: column; }
+  .pm-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 12px; }
+  .pm-actions button { font-family: var(--sans); font-size: 12px; padding: 7px 12px; border-radius: 7px; cursor: pointer; border: 1px solid var(--rule); background: transparent; color: var(--ink); }
+  .pm-cancel:hover { background: var(--rule-soft); }
+  .pm-print { background: var(--merics-red); border-color: var(--merics-red); color: #fff; font-weight: 600; }
+  .pm-print:hover { filter: brightness(.94); }
+  @media (max-width: 480px) { .print-menu { position: fixed; top: 56px; right: 8px; left: 8px; width: auto; } }
   .icon-btn {
     cursor: pointer;
     padding: 6px;
@@ -1017,6 +1040,13 @@
   .spotlight-bullets > li:last-child { margin-bottom: 0; }
   .spotlight-bullets > li::marker { color: var(--graphite); }
 
+  /* German China policy items render as a bulleted list. Uses a ::before disc
+     (not list-style) so no descendant ul reset can suppress the marker. */
+  .context-list { list-style: none; padding: 0; margin: 12px 0 0; }
+  .context-list > li { position: relative; padding-left: 22px; margin-bottom: 10px; line-height: 1.5; }
+  .context-list > li:last-child { margin-bottom: 0; }
+  .context-list > li::before { content: "\2022"; position: absolute; left: 4px; top: 0; color: var(--merics-red); font-weight: 700; }
+
   /* ------------------------------------------------------------------ */
   /* Article entries                                                     */
   /* ------------------------------------------------------------------ */
@@ -1218,11 +1248,42 @@
     * { transition: none !important; animation: none !important; }
   }
 
-  /* Print: clean issue paper */
+  /* Print scaffold hidden on screen until printing. */
+  #print-root { display: none; }
+
+  /* Print: only the assembled selection; browser paginates natively. */
   @media print {
-    .topbar, footer.foot, .pdf-link { display: none !important; }
-    body { background: white; }
-    main, .issue-header { max-width: none; padding: 0; }
+    body > *:not(#print-root) { display: none !important; }
+    #print-root { display: block !important; }
+    body { background: #fff; color: #111; }
+    @page { size: A4; margin: 16mm 15mm; }
+
+    /* Cover */
+    .print-cover { display: flex; flex-direction: column; justify-content: center; min-height: 235mm; break-after: page; }
+    .print-cover .pc-rule { width: 44mm; height: 4px; background: var(--merics-red); margin-bottom: 8mm; }
+    .print-doctitle { font: 600 11pt/1 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--merics-red); }
+    .print-cover .pc-title { font: 700 30pt/1.1 var(--sans); margin: 6mm 0 4mm; color: #111; }
+    .print-cover .pc-range { font: 13pt/1.3 var(--serif); color: #444; }
+    .print-cover .pc-toc { margin-top: 8mm; font: 10.5pt/1.7 var(--sans); color: #555; }
+    .print-cover .pc-toc .pc-toc-num { color: var(--merics-red); font-weight: 600; display: inline-block; width: 9mm; }
+    .print-cover .pc-by { margin-top: 14mm; font: 9.5pt/1.5 var(--sans); color: #888; }
+
+    /* Part heading */
+    .print-part { break-before: page; }
+    .print-part-h { font: 700 19pt/1.12 var(--sans); margin: 0 0 6mm; padding-bottom: 3mm; border-bottom: 2px solid var(--merics-red); color: #111; }
+    .print-part-h .pp-num { color: var(--merics-red); }
+
+    /* Keep logical blocks whole across page breaks */
+    .section, .entry, .entry-note, .wb-item, .wb-theme, .spotlight-sub, .research-group, .top-chart { break-inside: avoid; }
+    .section-h, .spotlight-sub-h, .wb-theme-title, .print-part-h { break-after: avoid; }
+
+    /* Paper tidy-ups for the reused entry markup */
+    #print-root .section { margin: 0 0 6mm; }
+    #print-root .entry { margin: 0 0 4.5mm; }
+    #print-root .entry-title-link .arrow { display: none; }
+    #print-root .entry-tags, #print-root .filter-bar, #print-root .empty-state { display: none !important; }
+    #print-root a { color: #111; text-decoration: none; }
+    #print-root img { max-width: 100%; height: auto; }
   }
 </style>
 
@@ -1250,10 +1311,22 @@
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
           <span class="sr-only">Search</span>
         </button>
-        <a id="pdfLink" class="pdf-link" href="#" target="_blank" rel="noopener" aria-label="Download issue as PDF">
-          <span class="full">Download PDF &darr;</span>
-          <span class="short">PDF &darr;</span>
-        </a>
+        <div class="print-wrap">
+          <button id="printBtn" class="pdf-link" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="printMenu" aria-label="Print or save as PDF">
+            <span class="full">Print / PDF &darr;</span>
+            <span class="short">PDF &darr;</span>
+          </button>
+          <div id="printMenu" class="print-menu" hidden role="dialog" aria-label="Print or save as PDF">
+            <div class="pm-head">Print / Save as PDF</div>
+            <p class="pm-sub">Select the parts to include.</p>
+            <label class="pm-row pm-all"><input type="checkbox" id="pmAll" checked> <span>Select all</span></label>
+            <div class="pm-parts" id="pmParts"><!-- parts injected per week --></div>
+            <div class="pm-actions">
+              <button type="button" class="pm-cancel" id="pmCancel">Cancel</button>
+              <button type="button" class="pm-print" id="pmPrint">Print &rarr;</button>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </header>
@@ -1269,6 +1342,10 @@
   <button id="backToTop" class="back-to-top" type="button" aria-label="Back to top">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 15 12 9 18 15"/></svg>
   </button>
+
+  <!-- Print scaffold: hidden on screen; populated on demand and revealed only
+       by @media print so the browser paginates the chosen parts natively. -->
+  <div id="print-root" aria-hidden="true"></div>
 
   <footer class="foot">
     <div class="foot-meta" id="footerMeta"><!-- injected --></div>

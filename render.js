@@ -291,10 +291,17 @@
       const items = filtered(g.items);
       if (!items.length) return "";
       const label = (g.label || "").trim();
+      // German China policy items are one-line notes — render as a bulleted
+      // list. Any richer entries (with title) still fall back to renderEntry.
+      const notes = items.filter(it => it.note);
+      const rich  = items.filter(it => !it.note);
+      const list = notes.length
+        ? `<ul class="context-list">${notes.map(it => `<li>${inlineMd(it.note)}</li>`).join("")}</ul>`
+        : "";
       return `
       <div class="group">
         ${label ? `<h3 class="group-label">${esc(label)}</h3>` : ""}
-        ${items.map(renderEntry).join("")}
+        ${list}${rich.map(renderEntry).join("")}
       </div>`;
     }).join("");
     if (!groups.trim() && activeFilters.size) return "";
@@ -596,8 +603,6 @@
   // -------- masthead --------------------------------------------------------
   function setMasthead(w) {
     $("#weekTitle").innerHTML = `Week <em>${w.week}</em> &middot; ${w.year}<span class="chev">&#9662;</span>`;
-    $("#pdfLink").href = w.pdf || "#";
-    $("#pdfLink").setAttribute("download", `MH-MERICS-${w.id}.pdf`);
     const footer = $("#footerMeta");
     if (footer) {
       footer.innerHTML =
@@ -877,11 +882,118 @@
     render();
   }
 
+  // ======================================================================
+  // Print / PDF
+  // Builds a clean, paginated document for the selected parts in a dedicated
+  // window and hands it to the browser's print dialog (→ Save as PDF). Page
+  // breaks, page numbers and running headers come from Paged.js, loaded only
+  // inside that window so the archive itself stays lightweight.
+  // ======================================================================
+  function currentWeek() {
+    return WEEKS.find(w => w.id === parseHash().weekId) || WEEKS[0];
+  }
+  function tabHasContent(w, id) {
+    if (id === "highlights") return spotlightsOf(w).length > 0 || (w.contextSections || []).length > 0;
+    if (id === "research")   return (w.researchSections || []).length > 0 || (w.topCharts || []).length > 0;
+    if (id === "intl")       return (w.numberedSections || []).length > 0;
+    if (id === "cnsources")  return (w.chineseSourcesSections || []).length > 0;
+    if (id === "lens")       return !!w.wochenbericht;
+    return false;
+  }
+  function printableParts(w) {
+    return TABS.filter(t => tabHasContent(w, t.id))
+               .map(t => ({ id: t.id, num: t.num, label: t.label }));
+  }
+  // Render every selected part in full and unfiltered into one HTML string.
+  function buildPrintBody(w, selected) {
+    const saved = new Set(activeFilters);
+    activeFilters.clear();
+    const chosen = printableParts(w).filter(p => selected.has(p.id));
+    const toc = chosen.map(p =>
+      `<div><span class="pc-toc-num">${esc(p.num)}.</span>${esc(p.label)}</div>`).join("");
+    let html =
+      `<div class="print-cover">
+         <div class="pc-rule"></div>
+         <div class="print-doctitle">MH@MERICS &middot; Week ${esc(w.week)} &middot; ${esc(w.year)}</div>
+         <div class="pc-title">Weekly Update</div>
+         <div class="pc-range">${esc(w.dateRange)}</div>
+         <div class="pc-toc">${toc}</div>
+         <div class="pc-by">Mikko Huotari &middot; Mercator Institute for China Studies, Berlin</div>
+       </div>`;
+    for (const p of chosen) {
+      html +=
+        `<section class="print-part">
+           <h1 class="print-part-h"><span class="pp-num">${esc(p.num)}.</span> ${esc(p.label)}</h1>
+           ${viewForTab(w, p.id)}
+         </section>`;
+    }
+    activeFilters.clear();
+    saved.forEach(x => activeFilters.add(x));
+    return html;
+  }
+  // Render the selected parts into the (screen-hidden) #print-root, then let
+  // the browser's own print engine paginate it via the @media print rules in
+  // index.html. Page numbers come from the browser's native print header/footer.
+  function runPrint(w, selected) {
+    if (!selected.size) return;
+    const root = document.getElementById("print-root");
+    if (!root) return;
+    // Parse the assembled HTML into nodes (no innerHTML / document.write).
+    const parsed = new DOMParser().parseFromString(buildPrintBody(w, selected), "text/html");
+    root.replaceChildren(...document.importNode(parsed.body, true).childNodes);
+    const cleanup = () => { root.replaceChildren(); window.removeEventListener("afterprint", cleanup); };
+    window.addEventListener("afterprint", cleanup);
+    window.print();
+  }
+  function setupPrint() {
+    const btn  = document.getElementById("printBtn");
+    const menu = document.getElementById("printMenu");
+    if (!btn || !menu) return;
+    const parts = document.getElementById("pmParts");
+    const all   = document.getElementById("pmAll");
+    const close = () => { menu.hidden = true; btn.setAttribute("aria-expanded", "false"); };
+    const open  = () => {
+      parts.replaceChildren();
+      printableParts(currentWeek()).forEach(p => {
+        const row  = document.createElement("label"); row.className = "pm-row";
+        const cb   = document.createElement("input");
+        cb.type = "checkbox"; cb.className = "pm-part"; cb.value = p.id; cb.checked = true;
+        const span = document.createElement("span");
+        const num  = document.createElement("b"); num.textContent = p.num + ".";
+        span.append(num, " " + p.label);
+        row.append(cb, span);
+        parts.appendChild(row);
+      });
+      all.checked = true;
+      menu.hidden = false;
+      btn.setAttribute("aria-expanded", "true");
+    };
+    btn.addEventListener("click", (e) => { e.stopPropagation(); menu.hidden ? open() : close(); });
+    all.addEventListener("change", () => {
+      parts.querySelectorAll(".pm-part").forEach(cb => { cb.checked = all.checked; });
+    });
+    parts.addEventListener("change", () => {
+      const boxes = [...parts.querySelectorAll(".pm-part")];
+      all.checked = boxes.length > 0 && boxes.every(cb => cb.checked);
+    });
+    document.getElementById("pmCancel").addEventListener("click", close);
+    document.getElementById("pmPrint").addEventListener("click", () => {
+      const selected = new Set([...parts.querySelectorAll(".pm-part:checked")].map(cb => cb.value));
+      if (!selected.size) return;
+      close();
+      runPrint(currentWeek(), selected);
+    });
+    document.addEventListener("click", (e) => {
+      if (!menu.hidden && !menu.contains(e.target) && e.target !== btn && !btn.contains(e.target)) close();
+    });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !menu.hidden) close(); });
+  }
+
   window.addEventListener("hashchange", render);
   // The manifest bootstrap loads this file AFTER DOMContentLoaded fires, so a
   // plain addEventListener would never run init. Guard with readyState.
   // (This bug took the site down once — see revert b05d918.)
-  function _init() { populateSelect(); render(); }
+  function _init() { populateSelect(); setupPrint(); render(); }
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", _init);
   } else {
