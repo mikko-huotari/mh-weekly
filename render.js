@@ -934,13 +934,24 @@
   // Render the selected parts into the (screen-hidden) #print-root, then let
   // the browser's own print engine paginate it via the @media print rules in
   // index.html. Page numbers come from the browser's native print header/footer.
-  function runPrint(w, selected) {
+  async function runPrint(w, selected) {
     if (!selected.size) return;
     const root = document.getElementById("print-root");
     if (!root) return;
-    // Parse the assembled HTML into nodes (no innerHTML / document.write).
+    // Parse the assembled HTML into nodes via DOMParser (not innerHTML).
     const parsed = new DOMParser().parseFromString(buildPrintBody(w, selected), "text/html");
     root.replaceChildren(...document.importNode(parsed.body, true).childNodes);
+    // Wait for chart images to finish loading before printing — otherwise the
+    // print engine snapshots them blank (they were inserted this same tick).
+    const imgs = Array.from(root.querySelectorAll("img"));
+    const loaded = Promise.all(imgs.map(img =>
+      (img.complete && img.naturalWidth) ? Promise.resolve()
+        : new Promise(res => {
+            img.addEventListener("load", res, { once: true });
+            img.addEventListener("error", res, { once: true });
+          })));
+    // Safety cap so a hung/slow asset can never block printing indefinitely.
+    await Promise.race([loaded, new Promise(res => setTimeout(res, 4000))]);
     const cleanup = () => { root.replaceChildren(); window.removeEventListener("afterprint", cleanup); };
     window.addEventListener("afterprint", cleanup);
     window.print();
