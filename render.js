@@ -285,10 +285,17 @@
       const items = filtered(g.items);
       if (!items.length) return "";
       const label = (g.label || "").trim();
+      // German China policy items are one-line notes — render as a bulleted
+      // list. Any richer entries (with title) still fall back to renderEntry.
+      const notes = items.filter(it => it.note);
+      const rich  = items.filter(it => !it.note);
+      const list = notes.length
+        ? `<ul class="context-list">${notes.map(it => `<li>${inlineMd(it.note)}</li>`).join("")}</ul>`
+        : "";
       return `
       <div class="group">
         ${label ? `<h3 class="group-label">${esc(label)}</h3>` : ""}
-        ${items.map(renderEntry).join("")}
+        ${list}${rich.map(renderEntry).join("")}
       </div>`;
     }).join("");
     if (!groups.trim() && activeFilters.size) return "";
@@ -445,7 +452,10 @@
       return parts.join("") || empty("No MERICS research entries in this issue.");
     }
     if (tab === "intl") {
-      const sections = (w.numberedSections || []).map(renderNumbered).join("");
+      // NB: arrow wrapper — bare .map(renderNumbered) would pass the array index
+      // as anchorPrefix, producing ids like "0econ" instead of "intl-econ", so
+      // the sub-chip jump targets never resolve.
+      const sections = (w.numberedSections || []).map(s => renderNumbered(s)).join("");
       return sections || empty("No international-sources entries in this issue.");
     }
     if (tab === "cnsources") {

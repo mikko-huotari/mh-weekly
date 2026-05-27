@@ -1040,6 +1040,13 @@
   .spotlight-bullets > li:last-child { margin-bottom: 0; }
   .spotlight-bullets > li::marker { color: var(--graphite); }
 
+  /* German China policy items render as a bulleted list. Uses a ::before disc
+     (not list-style) so no descendant ul reset can suppress the marker. */
+  .context-list { list-style: none; padding: 0; margin: 12px 0 0; }
+  .context-list > li { position: relative; padding-left: 22px; margin-bottom: 10px; line-height: 1.5; }
+  .context-list > li:last-child { margin-bottom: 0; }
+  .context-list > li::before { content: "\2022"; position: absolute; left: 4px; top: 0; color: var(--merics-red); font-weight: 700; }
+
   /* ------------------------------------------------------------------ */
   /* Article entries                                                     */
   /* ------------------------------------------------------------------ */
