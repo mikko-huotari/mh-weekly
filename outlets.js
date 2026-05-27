@@ -179,7 +179,7 @@ window.outletBadge = function (name) {
   if (m && m.iconUrl) {
     const cls = "outlet-badge has-img" + (m.shape === "round" ? " is-round" : "");
     return `<span class="${cls}" aria-label="${escape(name)}">`
-      + `<img src="${escape(m.iconUrl)}" alt="" loading="lazy" />`
+      + `<img src="${escape(m.iconUrl)}" alt="" loading="eager" />`
       + `</span>`;
   }
 

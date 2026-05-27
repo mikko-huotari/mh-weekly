@@ -1269,7 +1269,7 @@
     .print-cover .pc-by { margin-top: 14mm; font: 9.5pt/1.5 var(--sans); color: #888; }
 
     /* Part heading */
-    .print-part { break-before: auto; }
+    .print-part { break-before: page; }
     .print-part-h { font: 700 19pt/1.12 var(--sans); margin: 0 0 6mm; padding-bottom: 3mm; border-bottom: 2px solid var(--merics-red); color: #111; }
     .print-part-h .pp-num { color: var(--merics-red); }
 
@@ -1286,7 +1286,7 @@
     #print-root img { max-width: 100%; height: auto; }
 
     /* ---- Density (Safe single-column) + outlet badges that print ---- */
-    #print-root { font-size: 10.5pt; line-height: 1.32; }
+    #print-root { font-size: 10.5pt; line-height: 1.32; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     #print-root .outlet-badge,
     #print-root .outlet-badge img,
     #print-root .pc-rule { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
