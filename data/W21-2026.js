@@ -386,15 +386,44 @@ window.W21_2026 = {
                 [
                   "",
                   "**Beijing undermines the EU foreign-subsidy investigation by banning data sharing** (Altynay Junusova): Blocking Chinese firms from sharing data with EU investigators turns claims to extraterritorial jurisdiction into a trade problem; the open question is whether Brussels will restrict market access for non-cooperating firms."
-                ],
+                ]
+              ]
+            },
+            {
+              "outlet": "MERICS podcast",
+              "title": "China in 26: diplomatic strength, economic weakness, investment increase",
+              "date": "",
+              "url": "https://merics.org/en/podcast/china-26-diplomatic-strength-economic-weakness-investment-increase",
+              "bullets": [
                 [
                   "",
-                  "**China in 26 podcast** with Claudia Wessling, Bernhard Bartsch and Mikko Huotari on the Xi–Trump and Xi–Putin meetings, China's April economic data, the mood among German firms in China, and Chinese investment in Europe reaching its highest level since 2018 ([Link](https://merics.org/en/podcast/china-26-diplomatic-strength-economic-weakness-investment-increase))."
-                ],
+                  "Claudia Wessling, Bernhard Bartsch and Mikko Huotari on the Xi–Trump and Xi–Putin meetings, China's April economic data, the mood among German firms in China, and Chinese investment in Europe reaching its highest level since 2018."
+                ]
+              ]
+            },
+            {
+              "outlet": "Soapbox Trade × MERICS",
+              "title": "Issue 248 – China's surplus eases but still runs at trillion-dollar scale",
+              "date": "",
+              "url": "https://soapboxtrade.substack.com/p/chinas-surplus-eases-but-still-runs",
+              "bullets": [
                 [
                   "",
-                  "**Soapbox Issue 248** (Soapbox Trade × MERICS) on China's January–April trade data: the surplus eases but still runs at trillion-dollar scale, import growth does not look consumer-led, energy lifts prices but not demand, and the surplus with Africa jumps nearly 50% ([Link](https://soapboxtrade.substack.com/p/chinas-surplus-eases-but-still-runs))."
-                ],
+                  "On China's January–April trade data: the surplus eases but still runs at trillion-dollar scale, import growth does not look consumer-led, energy lifts prices but not demand, and the surplus with Africa jumps nearly 50%."
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Briefings & roundtables",
+          "items": [
+            {
+              "outlet": "UK Parliament",
+              "title": "",
+              "date": "",
+              "url": "https://committees.parliament.uk/event/26988",
+              "bullets": [
                 [
                   "",
                   "The [UK Parliament](https://committees.parliament.uk/event/26988) invited Grzegorz Stec for a hearing on the risks of economic engagement with China – competition, economic coercion, supply-chain risks and investment security."
