@@ -9,27 +9,27 @@ window.W21_2026 = {
   "pdf": "pdfs/W21-2026.pdf",
   "spotlight": {
     "title": "Spotlight 1: Putin-Xi summit in Beijing",
-    "intro": "Putin visited Beijing 19-20 May 2026, five days after Trump's state visit (14-15 May). His 25th visit to China. Bilateral talks were held at Zhongnanhai. ~40 cooperation documents were signed (Sputnik / Ushakov: 42). Outputs include the main bilateral declaration (\"Further Strengthening Comprehensive Strategic Coordination and Deepening Good-Neighborly Friendship\") and a separate *Joint Declaration on a Multipolar World*. The Russian delegation included Lavrov, Ushakov, and energy-sector principals. The 2001 Treaty of Good-Neighborliness was extended at its 25-year anniversary. A joint press conference was held (MFA readout published). Side event: Russia-China Expo in Harbin.",
+    "intro": "Putin visited Beijing 19-20 May 2026, days after Trump's visit (14-15 May), in what Russian officials called his 25th trip to China. ~40 cooperation documents were signed (Sputnik / Ushakov: 42). Outputs include the main bilateral declaration (\"Further Strengthening Comprehensive Strategic Coordination and Deepening Good-Neighborly Friendship\") and a separate *Joint Declaration on a Multipolar World*. The Russian delegation included Lavrov and Ushakov. The 2001 Treaty of Good-Neighborliness was extended at its 25-year anniversary; Power of Siberia 2 was not finalized. Side event: Russia-China Expo in Harbin.",
     "items": [],
     "subsections": [
       {
-        "label": "Five key findings",
+        "label": "Five observations from the texts",
         "intro": "",
         "items": [
           {
-            "note": "**New formulations in the 2026 joint texts.** The 2026 statements introduce key linguistic upgrades, notably prohibiting \"hybrid wars / proxy wars\" in the *Multipolar World* declaration and formally elevating \"elimination of the root causes\" (消除乌克兰危机根源) of the Ukraine crisis to the main leaders' bilateral statement (previously confined to 2025 companion readouts). Meanwhile, \"polycentricity\" (rendered as *полицентричность* in Russian to match Moscow's doctrine but translated as *多极化* in Chinese) remains the parallel cornerstone of their shared order-building vocabulary."
+            "note": "**New formulations in the 2026 joint texts.** The *Multipolar World* declaration adds language against \"hybrid wars\" and \"proxy wars,\" and the main bilateral statement carries \"elimination of the root causes\" (消除乌克兰危机根源, xiāochú Wūkèlán wēijī gēnyuán) of the Ukraine crisis – consistent with reporting that Beijing endorsed Moscow's framing more explicitly than in 2025. Both texts keep \"polycentricity\" as the shared order-building term, rendered to each side's doctrine (*полицентричность* / 多极化, duōjíhuà). The root-causes elevation turns on the exact treaty wording and is worth confirming against the 2025 statement."
           },
           {
-            "note": "**Power of Siberia 2 again not signed.** Price, financing and timeline remain open, and the summit produced no construction start despite years of Russian pushing. Beijing keeps the project in reserve rather than committing: with slowing gas-demand growth, ample Central Asian and LNG supply, and a US price anchor, it has little reason to take Russian gas on Moscow's terms – the clearest marker of the partnership's asymmetry."
+            "note": "**Power of Siberia 2 again not signed.** Price, financing and timeline remain open, and the summit produced no construction start despite years of Russian pushing. With slowing gas-demand growth, ample Central Asian and LNG supply, and access to alternative supplies and benchmark pricing, Beijing has little reason to take Russian gas on Moscow's terms – the clearest marker of the partnership's asymmetry."
           },
           {
-            "note": "**Taiwan formula reverted in the text and absent from the press conference.** The 2026 declaration uses \"China's territory\" (中国领土). The 2024 and 2025 declarations used \"inalienable part of the PRC\" (中华人民共和国). The Taiwan question was absent from the joint press conference."
+            "note": "**Taiwan formula appears softened in the text.** The 2026 declaration reportedly refers to Taiwan as \"China's territory\" (中国领土, Zhōngguó lǐngtǔ); the 2024 and 2025 declarations used \"an inalienable part of the PRC\" (中华人民共和国不可分割的一部分) – a downgrade in specificity, pending a side-by-side check of the Chinese texts. Taiwan did not feature in the post-summit remarks."
           },
           {
-            "note": "**Strategic Stability statement not repeated; AUKUS opposition remains.** The standalone, highly confrontational *Joint Statement on Global Strategic Stability* signed in May 2025 was not repeated or renewed this year. However, opposition to the AUKUS alliance was **not** removed; the 2026 Chinese text explicitly names and condemns the \"AUKUS alliance\" (奥库斯联盟) for driving the \"Asia-Pacific version of NATO\" and undermining ASEAN-centric regional architectures."
+            "note": "**No renewed Strategic Stability statement; AUKUS opposition retained.** The standalone *Joint Statement on Global Strategic Stability* (May 2025) appears not to have been repeated in 2026. Opposition to AUKUS was kept: the Chinese text names and criticizes the \"AUKUS alliance\" (奥库斯联盟, Àokùsī liánméng) for driving an \"Asia-Pacific version of NATO\" and undermining ASEAN-centric regional architectures."
           },
           {
-            "note": "**2001 Treaty extended; \"no limits\" remains gone.** The 2026 statement title invokes the 2001 Treaty of Good-Neighborliness (睦邻友好) and the Treaty was extended at the summit. \"No limits, no forbidden areas\" (2022) has not been used in any joint declaration since."
+            "note": "**2001 Treaty extended; \"no limits\" still absent.** The 2026 statement title invokes the 2001 Treaty of Good-Neighborliness (睦邻友好, mùlín yǒuhǎo), extended at the summit. The 2022 \"no limits, no forbidden areas\" formula has not appeared in any joint declaration since."
           }
         ]
       },
@@ -77,27 +77,27 @@ window.W21_2026 = {
   "spotlights": [
     {
       "title": "Spotlight 1: Putin-Xi summit in Beijing",
-      "intro": "Putin visited Beijing 19-20 May 2026, five days after Trump's state visit (14-15 May). His 25th visit to China. Bilateral talks were held at Zhongnanhai. ~40 cooperation documents were signed (Sputnik / Ushakov: 42). Outputs include the main bilateral declaration (\"Further Strengthening Comprehensive Strategic Coordination and Deepening Good-Neighborly Friendship\") and a separate *Joint Declaration on a Multipolar World*. The Russian delegation included Lavrov, Ushakov, and energy-sector principals. The 2001 Treaty of Good-Neighborliness was extended at its 25-year anniversary. A joint press conference was held (MFA readout published). Side event: Russia-China Expo in Harbin.",
+      "intro": "Putin visited Beijing 19-20 May 2026, days after Trump's visit (14-15 May), in what Russian officials called his 25th trip to China. ~40 cooperation documents were signed (Sputnik / Ushakov: 42). Outputs include the main bilateral declaration (\"Further Strengthening Comprehensive Strategic Coordination and Deepening Good-Neighborly Friendship\") and a separate *Joint Declaration on a Multipolar World*. The Russian delegation included Lavrov and Ushakov. The 2001 Treaty of Good-Neighborliness was extended at its 25-year anniversary; Power of Siberia 2 was not finalized. Side event: Russia-China Expo in Harbin.",
       "items": [],
       "subsections": [
         {
-          "label": "Five key findings",
+          "label": "Five observations from the texts",
           "intro": "",
           "items": [
             {
-              "note": "**New formulations in the 2026 joint texts.** The 2026 statements introduce key linguistic upgrades, notably prohibiting \"hybrid wars / proxy wars\" in the *Multipolar World* declaration and formally elevating \"elimination of the root causes\" (消除乌克兰危机根源) of the Ukraine crisis to the main leaders' bilateral statement (previously confined to 2025 companion readouts). Meanwhile, \"polycentricity\" (rendered as *полицентричность* in Russian to match Moscow's doctrine but translated as *多极化* in Chinese) remains the parallel cornerstone of their shared order-building vocabulary."
+              "note": "**New formulations in the 2026 joint texts.** The *Multipolar World* declaration adds language against \"hybrid wars\" and \"proxy wars,\" and the main bilateral statement carries \"elimination of the root causes\" (消除乌克兰危机根源, xiāochú Wūkèlán wēijī gēnyuán) of the Ukraine crisis – consistent with reporting that Beijing endorsed Moscow's framing more explicitly than in 2025. Both texts keep \"polycentricity\" as the shared order-building term, rendered to each side's doctrine (*полицентричность* / 多极化, duōjíhuà). The root-causes elevation turns on the exact treaty wording and is worth confirming against the 2025 statement."
             },
             {
-              "note": "**Power of Siberia 2 again not signed.** Price, financing and timeline remain open, and the summit produced no construction start despite years of Russian pushing. Beijing keeps the project in reserve rather than committing: with slowing gas-demand growth, ample Central Asian and LNG supply, and a US price anchor, it has little reason to take Russian gas on Moscow's terms – the clearest marker of the partnership's asymmetry."
+              "note": "**Power of Siberia 2 again not signed.** Price, financing and timeline remain open, and the summit produced no construction start despite years of Russian pushing. With slowing gas-demand growth, ample Central Asian and LNG supply, and access to alternative supplies and benchmark pricing, Beijing has little reason to take Russian gas on Moscow's terms – the clearest marker of the partnership's asymmetry."
             },
             {
-              "note": "**Taiwan formula reverted in the text and absent from the press conference.** The 2026 declaration uses \"China's territory\" (中国领土). The 2024 and 2025 declarations used \"inalienable part of the PRC\" (中华人民共和国). The Taiwan question was absent from the joint press conference."
+              "note": "**Taiwan formula appears softened in the text.** The 2026 declaration reportedly refers to Taiwan as \"China's territory\" (中国领土, Zhōngguó lǐngtǔ); the 2024 and 2025 declarations used \"an inalienable part of the PRC\" (中华人民共和国不可分割的一部分) – a downgrade in specificity, pending a side-by-side check of the Chinese texts. Taiwan did not feature in the post-summit remarks."
             },
             {
-              "note": "**Strategic Stability statement not repeated; AUKUS opposition remains.** The standalone, highly confrontational *Joint Statement on Global Strategic Stability* signed in May 2025 was not repeated or renewed this year. However, opposition to the AUKUS alliance was **not** removed; the 2026 Chinese text explicitly names and condemns the \"AUKUS alliance\" (奥库斯联盟) for driving the \"Asia-Pacific version of NATO\" and undermining ASEAN-centric regional architectures."
+              "note": "**No renewed Strategic Stability statement; AUKUS opposition retained.** The standalone *Joint Statement on Global Strategic Stability* (May 2025) appears not to have been repeated in 2026. Opposition to AUKUS was kept: the Chinese text names and criticizes the \"AUKUS alliance\" (奥库斯联盟, Àokùsī liánméng) for driving an \"Asia-Pacific version of NATO\" and undermining ASEAN-centric regional architectures."
             },
             {
-              "note": "**2001 Treaty extended; \"no limits\" remains gone.** The 2026 statement title invokes the 2001 Treaty of Good-Neighborliness (睦邻友好) and the Treaty was extended at the summit. \"No limits, no forbidden areas\" (2022) has not been used in any joint declaration since."
+              "note": "**2001 Treaty extended; \"no limits\" still absent.** The 2026 statement title invokes the 2001 Treaty of Good-Neighborliness (睦邻友好, mùlín yǒuhǎo), extended at the summit. The 2022 \"no limits, no forbidden areas\" formula has not appeared in any joint declaration since."
             }
           ]
         },
