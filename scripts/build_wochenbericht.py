@@ -27,7 +27,7 @@ DEFAULT_VAULT = Path(
 )
 VAULT_SUBDIR = "2 ROKU/ROUTINE - Update MH@MERICS"
 
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-2.5-flash"
 
 # Headers that signal the start of each Part III section.
 SECTION_HINTS = [
@@ -117,9 +117,9 @@ def gemini_call_structured(prompt: str) -> dict:
     schema_hint = (
         "\n\nReturn ONLY a single JSON object, no prose, no fences. Top-level keys: "
         "`label` (string), `caveat` (string), `quotes` (array of {lead, text, "
-        "source:{outlet,outletDisplay,date,title}, kind}), `events` (array of "
-        "{lead, text, source:{...}, kind}), `themes` (array of {lead, text, "
-        "source:{...}, kind})."
+        "source:{outlet,outletDisplay,date,title}, kind}), `facts` (array of "
+        "{lead, text, source:{...}, kind}), `themes` (array of {title, text, "
+        "sources:[{outlet,outletDisplay,date,title}], kind})."
     )
     try:
         proc = subprocess.run(
