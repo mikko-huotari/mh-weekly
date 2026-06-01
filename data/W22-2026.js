@@ -771,52 +771,85 @@ window.W22_2026 = {
             [
               "Shanxi blast killed at least 82, prompting Xi intervention",
               "Preliminary investigations found \"serious violations\" at the Liushenyu mine, with central authorities pledging an \"uncompromising\" investigation."
-            ],
-            [
-              "Bloomberg",
-              "\"JD.com founder vows to protect Chinese jobs from AI and robots\" ([Link](https://www.bloomberg.com/news/articles/2026-05-28/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots)) — 2026-05-28"
-            ],
-            [
-              "Economist",
-              "\"A coalmine explosion lays bare China’s two-speed economy\" ([Link](https://www.economist.com/china/2026/05/28/a-coalmine-explosion-lays-bare-chinas-two-speed-economy)) — 2026-05-28"
-            ],
-            [
-              "Bloomberg",
-              "\"China Scrutinizes Firms, Funds After AI-Fueled Stock Moves - Bloomberg\" ([Link](https://www.bloomberg.com/news/articles/2026-05-22/china-scrutinizes-companies-funds-after-ai-fueled-stock-moves)) — 2026-05-25"
-            ],
-            [
-              "FT",
-              "\"China-maxxing’ helps spur an inbound tourism boom\" ([Link](https://www.ft.com/content/1b2b88ea-f929-4174-9d6e-30f19e695b07)) — 2026-05-28"
-            ],
-            [
-              "CREA",
-              "\"China energy and emissions trends april 2026 snapsho\" ([Link](https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot))"
-            ],
-            [
-              "Com",
-              "\"Maiden flight of domestic 600-kilogram-thrust-class turbofan engine\" ([Link](http://sc.people.com.cn/BIG5/n2/2026/0527/c345167-41592107.html)) — 2026-05-27"
-            ],
-            [
-              "Nikkei",
-              "\"China amasses 30-day coal supply ahead of El Nino power crunch\" ([Link](https://asia.nikkei.com/business/energy/china-amasses-30-day-coal-supply-ahead-of-el-nino-power-crunch)) — 2026-05-27"
-            ],
-            [
-              "Nikkei",
-              "\"China to promote drones and flying cars via new safety department\" ([Link](https://asia.nikkei.com/business/china-tech/china-to-promote-drones-and-flying-cars-via-new-safety-department)) — 2026-05-26"
-            ],
-            [
-              "NYT",
-              "\"Xi Jinping quit smoking. China still cannot\" ([Link](https://www.nytimes.com/2026/05/27/business/china-smoking-economy.html)) — 2026-05-27"
-            ],
-            [
-              "Nikkei",
-              "\"AI demand strains supplies of lasers, fiber and other optical tech\" ([Link](https://asia.nikkei.com/location/east-asia/china)) — 2026-05-27"
-            ],
-            [
-              "Bloomberg",
-              "\"China burns more fossil fuels for power as coal production slips\" ([Link](https://www.bloomberg.com/news/articles/2026-05-18/china-burns-more-fossil-fuels-for-power-as-coal-production-slips)) — 2026-05-18"
             ]
           ]
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "JD.com founder vows to protect Chinese jobs from AI and robots",
+          "date": "2026-05-28",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-28/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots",
+          "bullets": []
+        },
+        {
+          "outlet": "Economist",
+          "title": "A coalmine explosion lays bare China’s two-speed economy",
+          "date": "2026-05-28",
+          "url": "https://www.economist.com/china/2026/05/28/a-coalmine-explosion-lays-bare-chinas-two-speed-economy",
+          "bullets": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "China Scrutinizes Firms, Funds After AI-Fueled Stock Moves - Bloomberg",
+          "date": "2026-05-25",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-22/china-scrutinizes-companies-funds-after-ai-fueled-stock-moves",
+          "bullets": []
+        },
+        {
+          "outlet": "FT",
+          "title": "China-maxxing’ helps spur an inbound tourism boom",
+          "date": "2026-05-28",
+          "url": "https://www.ft.com/content/1b2b88ea-f929-4174-9d6e-30f19e695b07",
+          "bullets": []
+        },
+        {
+          "outlet": "CREA",
+          "title": "China energy and emissions trends april 2026 snapsho",
+          "date": "",
+          "url": "https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot",
+          "bullets": []
+        },
+        {
+          "outlet": "Com",
+          "title": "Maiden flight of domestic 600-kilogram-thrust-class turbofan engine",
+          "date": "2026-05-27",
+          "url": "http://sc.people.com.cn/BIG5/n2/2026/0527/c345167-41592107.html",
+          "bullets": []
+        },
+        {
+          "outlet": "Nikkei",
+          "title": "China amasses 30-day coal supply ahead of El Nino power crunch",
+          "date": "2026-05-27",
+          "url": "https://asia.nikkei.com/business/energy/china-amasses-30-day-coal-supply-ahead-of-el-nino-power-crunch",
+          "bullets": []
+        },
+        {
+          "outlet": "Nikkei",
+          "title": "China to promote drones and flying cars via new safety department",
+          "date": "2026-05-26",
+          "url": "https://asia.nikkei.com/business/china-tech/china-to-promote-drones-and-flying-cars-via-new-safety-department",
+          "bullets": []
+        },
+        {
+          "outlet": "NYT",
+          "title": "Xi Jinping quit smoking. China still cannot",
+          "date": "2026-05-27",
+          "url": "https://www.nytimes.com/2026/05/27/business/china-smoking-economy.html",
+          "bullets": []
+        },
+        {
+          "outlet": "Nikkei",
+          "title": "AI demand strains supplies of lasers, fiber and other optical tech",
+          "date": "2026-05-27",
+          "url": "https://asia.nikkei.com/location/east-asia/china",
+          "bullets": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "China burns more fossil fuels for power as coal production slips",
+          "date": "2026-05-18",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-18/china-burns-more-fossil-fuels-for-power-as-coal-production-slips",
+          "bullets": []
         }
       ]
     },
@@ -1043,136 +1076,50 @@ window.W22_2026 = {
             [
               "Shigatse police arrested 97 Tibetans under cybersecurity law in 2025",
               "Authorities charged livestreamers and video uploaders with \"online fraud\" for broadcasting content in the Tibetan language, according to the report."
-            ],
-            [
-              "DW",
-              "\"Numbers of Tibetan exiles plummet as China tightens grip\" ([Link](https://www.dw.com/en/numbers-of-tibetan-exiles-plummet-as-china-tightens-grip/a-77229131))"
-            ],
-            [
-              "SCMP",
-              "\"Are systemic safety failures to blame for China’s deadly mine blast?\" ([Link](https://www.scmp.com/news/china/politics/article/3354784/are-systemic-safety-failures-blame-chinas-deadly-mine-blast)) — 2026-05-25"
-            ],
-            [
-              "BBC",
-              "\"Anger grows after China's deadliest coal mining disaster in years\" ([Link](https://www.bbc.com/news/articles/c893543gn20o)) — 2026-05-25"
-            ],
-            [
-              "NYT",
-              "\"A Dissident Escapes China by Rubber Boat and Lands in South Korea - The New York Times\" ([Link](https://www.nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html)) — 2026-05-26"
-            ],
-            [
-              "WSJ",
-              "\"Chinese Dissident Braves 30-Hour Rubber Boat Journey to South Korea\" ([Link](https://www.wsj.com/world/asia/chinese-dissident-braves-30-hour-rubber-boat-journey-to-south-korea-05f73bcb)) — 2026-05-28"
-            ],
-            [
-              "Straits Times",
-              "\"South Korea detains Chinese man found at sea after report on fleeing dissident\" ([Link](https://www.straitstimes.com/asia/east-asia/south-korea-detains-chinese-man-found-at-sea-after-report-on-fleeing-dissident)) — 2026-05-27"
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "number": "3",
-      "slug": "geoecon",
-      "short": "Geoecon",
-      "label": "Geoeconomics: trade, tech, finance, investment",
-      "items": [
-        {
-          "outlet": "Caixin Global",
-          "title": "Economists urge export tax rebate cuts as trade surplus hits record",
-          "date": "2026-05-29",
-          "url": "https://www.caixinglobal.com/2026-05-29/economists-urge-export-tax-rebate-cuts-as-trade-surplus-hits-record-102448715.html",
-          "bullets": [
-            [
-              "Chinese researchers and policy advisers are",
-              "Chinese researchers and policy advisers are calling for targeted cuts to export tax rebates after the country’s trade surplus reached a record $1.2 trillion in 2025, arguing the fiscal savings could be redirected to households and rural inc"
             ]
           ]
         },
         {
-          "outlet": "Jiemian",
-          "title": "China Commerce Ministry calls EU steel tariff plan protectionism",
-          "date": "2026-05-28",
-          "url": "https://www.jiemian.com/article/14499002.html",
-          "bullets": [
-            [
-              "China’s Ministry of Commerce criticized the",
-              "China’s Ministry of Commerce criticized the EU’s planned new steel tariff policy as trade protectionism, saying it would not protect the competitiveness of the steel industry and would seriously affect China-EU steel trade and global supply"
-            ]
-          ]
+          "outlet": "DW",
+          "title": "Numbers of Tibetan exiles plummet as China tightens grip",
+          "date": "",
+          "url": "https://www.dw.com/en/numbers-of-tibetan-exiles-plummet-as-china-tightens-grip/a-77229131",
+          "bullets": []
         },
         {
-          "outlet": "21st Century Business Herald",
-          "title": "China’s Vice Minister of Commerce and Deputy International Trade Representative Ling Ji meets German SME delegation",
-          "date": "2026-05-27",
-          "url": "https://www.21jingji.com/article/20260527/herald/82882b5653a45089e95431c037584062.html",
-          "bullets": [
-            [
-              "China’s Vice Minister of Commerce and",
-              "China’s Vice Minister of Commerce and Deputy International Trade Representative Ling Ji said during a meeting with a German SME delegation that China-Germany economic and trade ties have remained stable, with increasingly integrated industr"
-            ]
-          ]
-        },
-        {
-          "outlet": "Yicai",
-          "title": "EU Council extends sanctions on Russian-linked individuals and entity",
-          "date": "2026-05-27",
-          "url": "https://www.yicai.com/news/103202190.html",
-          "bullets": [
-            [
-              "On May 26, the Council of",
-              "On May 26, the Council of the European Union decided to extend restrictive measures against Russian-linked individuals and entities for another year, until May 28, 2027. The sanctions currently apply to 72 individuals and one entity. Those"
-            ]
-          ]
-        },
-        {
-          "outlet": "21st Century Business Herald",
-          "title": "Russian Official: Prospects for Russia-EU dialogue depend on whether the EU respects Russia’s interests",
-          "date": "2026-05-26",
-          "url": "https://www.21jingji.com/article/20260526/herald/6bda461dcbafb6bafcb5d177e99ea6f1.html",
-          "bullets": [
-            [
-              "Russia has stated that its future",
-              "Russia has stated that its future interactions with the European Union depend on whether EU leaders reconsider their anti-Russian policies and respect the interests asserted by Moscow. Russian officials noted that Moscow remains open to dia"
-            ]
-          ]
-        },
-        {
-          "outlet": "Yicai",
-          "title": "EU plans to fine Google hundreds of millions of euros in antitrust probe",
-          "date": "2026-05-26",
-          "url": "https://www.yicai.com/brief/103200248.html",
-          "bullets": [
-            [
-              "The European Commission is reportedly preparing",
-              "The European Commission is reportedly preparing to impose a fine worth hundreds of millions of euros on Google as part of an antitrust investigation, according to sources familiar with the matter. The probe, formally launched in March 2025,"
-            ]
-          ]
-        },
-        {
-          "outlet": "Caixin Global",
-          "title": "APEC ministers agree on digital trade, ai and supply chains in China talks",
+          "outlet": "SCMP",
+          "title": "Are systemic safety failures to blame for China’s deadly mine blast?",
           "date": "2026-05-25",
-          "url": "https://www.caixinglobal.com/2026-05-25/apec-ministers-agree-on-digital-trade-ai-and-supply-chains-in-china-talks-102447383.html",
-          "bullets": [
-            [
-              "APEC trade ministers have agreed on",
-              "APEC trade ministers have agreed on a range of issues in the eastern Chinese city of Suzhou, including digital trade, AI cooperation, supply-chain resilience and a new services roadmap aimed at reducing barriers to services trade and suppor"
-            ]
-          ]
+          "url": "https://www.scmp.com/news/china/politics/article/3354784/are-systemic-safety-failures-blame-chinas-deadly-mine-blast",
+          "bullets": []
         },
         {
-          "outlet": "Yicai",
-          "title": "EU shows deep divisions over whether to hold direct dialogue with Russia",
+          "outlet": "BBC",
+          "title": "Anger grows after China's deadliest coal mining disaster in years",
+          "date": "2026-05-25",
+          "url": "https://www.bbc.com/news/articles/c893543gn20o",
+          "bullets": []
+        },
+        {
+          "outlet": "NYT",
+          "title": "A Dissident Escapes China by Rubber Boat and Lands in South Korea - The New York Times",
+          "date": "2026-05-26",
+          "url": "https://www.nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html",
+          "bullets": []
+        },
+        {
+          "outlet": "WSJ",
+          "title": "Chinese Dissident Braves 30-Hour Rubber Boat Journey to South Korea",
           "date": "2026-05-28",
-          "url": "https://www.yicai.com/brief/103204246.html",
-          "bullets": [
-            [
-              "A two-day informal meeting of EU",
-              "A two-day informal meeting of EU foreign ministers began in Cyprus on May 27, with discussions focused on whether to appoint a special envoy for direct dialogue with Russia. Current signals suggest sharp divisions among member states over t"
-            ]
-          ]
+          "url": "https://www.wsj.com/world/asia/chinese-dissident-braves-30-hour-rubber-boat-journey-to-south-korea-05f73bcb",
+          "bullets": []
+        },
+        {
+          "outlet": "Straits Times",
+          "title": "South Korea detains Chinese man found at sea after report on fleeing dissident",
+          "date": "2026-05-27",
+          "url": "https://www.straitstimes.com/asia/east-asia/south-korea-detains-chinese-man-found-at-sea-after-report-on-fleeing-dissident",
+          "bullets": []
         }
       ]
     },
@@ -1399,52 +1346,85 @@ window.W22_2026 = {
             [
               "China adds AI chips to state procurement certification list",
               "Two official evaluation bodies added a new \"AI training and inference chips\" category to the Xinchuang domestic procurement catalogue, covering AI processors for the first time."
-            ],
-            [
-              "Nikkei",
-              "\"Tencent bets on AI agents, smaller models in race with Alibaba,\" ([Link](https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-bets-on-ai-agents-smaller-models-in-race-with-alibaba-bytedance)) — 2026-05-28"
-            ],
-            [
-              "FT",
-              "\"ByteDance offers AI team special stock to fend off poaching\" ([Link](https://www.ft.com/content/557561df-4b72-48e8-89cb-239829de694a)) — 2026-05-26"
-            ],
-            [
-              "Bloomberg",
-              "\"Xiaomi Profit Drops More Than Expected in Memory Chip Crunch - Bloomberg\" ([Link](https://www.bloomberg.com/news/articles/2026-05-26/xiaomi-profit-drops-more-than-expected-in-global-memory-crunch)) — 2026-05-26"
-            ],
-            [
-              "SCMP",
-              "\"Chip prodigy Da Bo returns to China after his role in TSMC’s 3nm plant in Japan\" ([Link](https://www.scmp.com/news/china/science/article/3354758/chip-prodigy-da-bo-returns-china-after-his-role-tsmcs-3nm-plant-japan)) — 2026-05-25"
-            ],
-            [
-              "Reuters",
-              "\"Chinese wireless firm quectel sues us over military designation 2026 05 11\" ([Link](https://www.reuters.com/world/chinese-wireless-firm-quectel-sues-us-over-military-designation-2026-05-11)) — 2026-05-11"
-            ],
-            [
-              "SCMP",
-              "\"Opinion: China’s next big leap: becoming a frontier science civilisation\" ([Link](https://www.scmp.com/opinion/china-opinion/article/3354799/chinas-next-big-leap-becoming-frontier-science-civilisation)) — 2026-05-28"
-            ],
-            [
-              "SCMP",
-              "\"AI is massively increasing China’s new weapon development speed\" ([Link](https://www.scmp.com/news/china/science/article/3354989/ai-massively-increasing-chinas-new-weapon-development-speed-scientists)) — 2026-05-27"
-            ],
-            [
-              "ChinaTalk",
-              "\"China's Robotics Dream Began in 1972\" ([Link](https://www.chinatalk.media/p/chinas-father-of-robotics)) — 2026-05-27"
-            ],
-            [
-              "WSJ",
-              "\"Xiaomi’s Profit Buckles as Memory Prices Soar\" ([Link](https://www.wsj.com/business/earnings/xiaomis-profit-buckles-as-memory-prices-soar-ae12db4a)) — 2026-05-27"
-            ],
-            [
-              "WSJ",
-              "\"What readers found when they asked their chatbots about China\" ([Link](https://www.wsj.com/world/china/what-readers-found-when-they-asked-their-chatbots-about-china-229e4203)) — 2026-05-26"
-            ],
-            [
-              "Nikkei",
-              "\"Nvidia spending up to $150bn a year on Taiwan AI suppliers: Jensen Huang\" ([Link](https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-spending-up-to-150bn-a-year-on-taiwan-ai-suppliers-jensen-huang)) — 2026-05-27"
             ]
           ]
+        },
+        {
+          "outlet": "Nikkei",
+          "title": "Tencent bets on AI agents, smaller models in race with Alibaba,",
+          "date": "2026-05-28",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-bets-on-ai-agents-smaller-models-in-race-with-alibaba-bytedance",
+          "bullets": []
+        },
+        {
+          "outlet": "FT",
+          "title": "ByteDance offers AI team special stock to fend off poaching",
+          "date": "2026-05-26",
+          "url": "https://www.ft.com/content/557561df-4b72-48e8-89cb-239829de694a",
+          "bullets": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "Xiaomi Profit Drops More Than Expected in Memory Chip Crunch - Bloomberg",
+          "date": "2026-05-26",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-26/xiaomi-profit-drops-more-than-expected-in-global-memory-crunch",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Chip prodigy Da Bo returns to China after his role in TSMC’s 3nm plant in Japan",
+          "date": "2026-05-25",
+          "url": "https://www.scmp.com/news/china/science/article/3354758/chip-prodigy-da-bo-returns-china-after-his-role-tsmcs-3nm-plant-japan",
+          "bullets": []
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Chinese wireless firm quectel sues us over military designation 2026 05 11",
+          "date": "2026-05-11",
+          "url": "https://www.reuters.com/world/chinese-wireless-firm-quectel-sues-us-over-military-designation-2026-05-11",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Opinion: China’s next big leap: becoming a frontier science civilisation",
+          "date": "2026-05-28",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3354799/chinas-next-big-leap-becoming-frontier-science-civilisation",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "AI is massively increasing China’s new weapon development speed",
+          "date": "2026-05-27",
+          "url": "https://www.scmp.com/news/china/science/article/3354989/ai-massively-increasing-chinas-new-weapon-development-speed-scientists",
+          "bullets": []
+        },
+        {
+          "outlet": "ChinaTalk",
+          "title": "China's Robotics Dream Began in 1972",
+          "date": "2026-05-27",
+          "url": "https://www.chinatalk.media/p/chinas-father-of-robotics",
+          "bullets": []
+        },
+        {
+          "outlet": "WSJ",
+          "title": "Xiaomi’s Profit Buckles as Memory Prices Soar",
+          "date": "2026-05-27",
+          "url": "https://www.wsj.com/business/earnings/xiaomis-profit-buckles-as-memory-prices-soar-ae12db4a",
+          "bullets": []
+        },
+        {
+          "outlet": "WSJ",
+          "title": "What readers found when they asked their chatbots about China",
+          "date": "2026-05-26",
+          "url": "https://www.wsj.com/world/china/what-readers-found-when-they-asked-their-chatbots-about-china-229e4203",
+          "bullets": []
+        },
+        {
+          "outlet": "Nikkei",
+          "title": "Nvidia spending up to $150bn a year on Taiwan AI suppliers: Jensen Huang",
+          "date": "2026-05-27",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-spending-up-to-150bn-a-year-on-taiwan-ai-suppliers-jensen-huang",
+          "bullets": []
         }
       ]
     },
@@ -1675,68 +1655,113 @@ window.W22_2026 = {
             [
               "China removes all remaining tariffs on African LDC exports",
               "Beijing announced at FOCAC that 100% of tariff lines from least-developed African nations would be duty-free, effective immediately."
-            ],
-            [
-              "Bloomberg",
-              "\"China targets offshore billions in biggest crackdown in decades\" ([Link](https://www.bloomberg.com/news/articles/2026-05-28/china-targets-billions-in-offshore-stock-trading-in-biggest-crackdown-in-decades)) — 2026-05-28"
-            ],
-            [
-              "SCMP",
-              "\"How Southeast Asia’s ambitious green transition strategy is a windfall for China\" ([Link](https://www.scmp.com/economy/china-economy/article/3355042/how-southeast-asias-ambitious-green-transition-strategy-windfall-china)) — 2026-05-28"
-            ],
-            [
-              "FT",
-              "\"Hong Kong overtakes Switzerland as hub for global offshore wealth\" ([Link](https://www.ft.com/content/c030138f-275e-4950-be5e-62abe240057c)) — 2026-05-27"
-            ],
-            [
-              "Reuters",
-              "\"Hong Kong overtakes Switzerland as world's top cross-border wealth hub on China ties, report shows\" ([Link](https://www.reuters.com/business/finance/hong-kong-overtakes-switzerland-worlds-top-cross-border-wealth-hub-china-ties-2026-05-27)) — 2026-05-27"
-            ],
-            [
-              "Bloomberg",
-              "\"Why China Is Tightening Controls on Overseas Stock Trading - Bloomberg\" ([Link](https://www.bloomberg.com/news/articles/2026-05-26/why-china-is-tightening-controls-on-overseas-stock-trading)) — 2026-05-26"
-            ],
-            [
-              "FT",
-              "\"China Inc goes shopping for western consumer brands\" ([Link](https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640))"
-            ],
-            [
-              "Reuters",
-              "\"Japan slips to third-largest creditor behind China despite record net external assets\" ([Link](https://www.reuters.com/world/asia-pacific/japan-slips-third-largest-creditor-behind-china-despite-record-net-external-2026-05-25)) — 2026-05-26"
-            ],
-            [
-              "Bloomberg",
-              "\"Russia starts offering yuan bonds after Putin’s visit to Beijing\" ([Link](https://www.bloomberg.com/news/articles/2026-05-28/russia-starts-offering-yuan-bonds-after-putin-s-visit-to-beijing)) — 2026-05-28"
-            ],
-            [
-              "Bloomberg",
-              "\"Made-in-China EVs Enter Canada Under Deal Carney Struck With Xi\" ([Link](https://www.bloomberg.com/news/articles/2026-05-28/chinese-evs-enter-canada-under-quota-deal-carney-struck-with-xi)) — 2026-05-29"
-            ],
-            [
-              "WSJ",
-              "\"China Crude Imports Hit Lowest Level Since 2016, Freeing Up Asia Supply - WSJ\" ([Link](https://www.wsj.com/business/energy-oil/chinas-crude-import-slowdown-eases-asia-supply-strain-from-gulf-shock-89e0e274)) — 2026-05-26"
-            ],
-            [
-              "Reuters",
-              "\"Boeing CEO says 200-jet China deal an 'initial tranche' with more to come\" ([Link](https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-200-jet-china-deal-an-initial-tranche-with-more-come-2026-05-28)) — 2026-05-28"
-            ],
-            [
-              "Reuters",
-              "\"China works on AI token futures market, sources say, in race with U.S.\" ([Link](https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28)) — 2026-05-28"
-            ],
-            [
-              "Reuters",
-              "\"Tencent links PayPal to WeChat Pay network, enabling US users to spend across China\" ([Link](https://www.reuters.com/world/asia-pacific/tencent-links-paypal-wechat-pay-network-enabling-us-users-spend-across-china-2026-05-27)) — 2026-05-27"
-            ],
-            [
-              "WSJ",
-              "\"Temu Owner PDD Posts Profit Miss Amid Fierce Competition in China\" ([Link](https://www.wsj.com/business/earnings/temu-owner-pdd-posts-profit-miss-amid-fierce-competition-in-china-a8cf3b0a)) — 2026-05-27"
-            ],
-            [
-              "Reuters",
-              "\"China pharma industry not impacted by Beijing scrutiny of sensitive tech deals, JW chief says\" ([Link](https://www.reuters.com/legal/transactional/china-pharma-industry-not-impacted-by-beijing-scrutiny-sensitive-tech-deals-jw-2026-05-26)) — 2026-05-27"
             ]
           ]
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "China targets offshore billions in biggest crackdown in decades",
+          "date": "2026-05-28",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-28/china-targets-billions-in-offshore-stock-trading-in-biggest-crackdown-in-decades",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "How Southeast Asia’s ambitious green transition strategy is a windfall for China",
+          "date": "2026-05-28",
+          "url": "https://www.scmp.com/economy/china-economy/article/3355042/how-southeast-asias-ambitious-green-transition-strategy-windfall-china",
+          "bullets": []
+        },
+        {
+          "outlet": "FT",
+          "title": "Hong Kong overtakes Switzerland as hub for global offshore wealth",
+          "date": "2026-05-27",
+          "url": "https://www.ft.com/content/c030138f-275e-4950-be5e-62abe240057c",
+          "bullets": []
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Hong Kong overtakes Switzerland as world's top cross-border wealth hub on China ties, report shows",
+          "date": "2026-05-27",
+          "url": "https://www.reuters.com/business/finance/hong-kong-overtakes-switzerland-worlds-top-cross-border-wealth-hub-china-ties-2026-05-27",
+          "bullets": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "Why China Is Tightening Controls on Overseas Stock Trading - Bloomberg",
+          "date": "2026-05-26",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-26/why-china-is-tightening-controls-on-overseas-stock-trading",
+          "bullets": []
+        },
+        {
+          "outlet": "FT",
+          "title": "China Inc goes shopping for western consumer brands",
+          "date": "",
+          "url": "https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640",
+          "bullets": []
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Japan slips to third-largest creditor behind China despite record net external assets",
+          "date": "2026-05-26",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-slips-third-largest-creditor-behind-china-despite-record-net-external-2026-05-25",
+          "bullets": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "Russia starts offering yuan bonds after Putin’s visit to Beijing",
+          "date": "2026-05-28",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-28/russia-starts-offering-yuan-bonds-after-putin-s-visit-to-beijing",
+          "bullets": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "Made-in-China EVs Enter Canada Under Deal Carney Struck With Xi",
+          "date": "2026-05-29",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-28/chinese-evs-enter-canada-under-quota-deal-carney-struck-with-xi",
+          "bullets": []
+        },
+        {
+          "outlet": "WSJ",
+          "title": "China Crude Imports Hit Lowest Level Since 2016, Freeing Up Asia Supply - WSJ",
+          "date": "2026-05-26",
+          "url": "https://www.wsj.com/business/energy-oil/chinas-crude-import-slowdown-eases-asia-supply-strain-from-gulf-shock-89e0e274",
+          "bullets": []
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Boeing CEO says 200-jet China deal an 'initial tranche' with more to come",
+          "date": "2026-05-28",
+          "url": "https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-200-jet-china-deal-an-initial-tranche-with-more-come-2026-05-28",
+          "bullets": []
+        },
+        {
+          "outlet": "Reuters",
+          "title": "China works on AI token futures market, sources say, in race with U.S.",
+          "date": "2026-05-28",
+          "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28",
+          "bullets": []
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Tencent links PayPal to WeChat Pay network, enabling US users to spend across China",
+          "date": "2026-05-27",
+          "url": "https://www.reuters.com/world/asia-pacific/tencent-links-paypal-wechat-pay-network-enabling-us-users-spend-across-china-2026-05-27",
+          "bullets": []
+        },
+        {
+          "outlet": "WSJ",
+          "title": "Temu Owner PDD Posts Profit Miss Amid Fierce Competition in China",
+          "date": "2026-05-27",
+          "url": "https://www.wsj.com/business/earnings/temu-owner-pdd-posts-profit-miss-amid-fierce-competition-in-china-a8cf3b0a",
+          "bullets": []
+        },
+        {
+          "outlet": "Reuters",
+          "title": "China pharma industry not impacted by Beijing scrutiny of sensitive tech deals, JW chief says",
+          "date": "2026-05-27",
+          "url": "https://www.reuters.com/legal/transactional/china-pharma-industry-not-impacted-by-beijing-scrutiny-sensitive-tech-deals-jw-2026-05-26",
+          "bullets": []
         }
       ]
     },
@@ -1963,68 +1988,113 @@ window.W22_2026 = {
             [
               "China embedded police in Solomon Islands to promote Fengqiao surveillance",
               "Beijing officers proposed the Mao-era neighborhood monitoring system to a Pacific village, including fingerprint and palm print collection, according to the NYT report."
-            ],
-            [
-              "Reuters",
-              "\"China is building launch pads near its nuclear missile silos\" ([Link](https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx)) — 2026-05-29"
-            ],
-            [
-              "Hudson",
-              "\"The War Above the War: How Chinese Satellites Support Iran | MENA Defense Intelligence Digest Special Report\" ([Link](https://www.hudson.org/national-security-defense/war-above-war-how-chinese-satellites-support-iran-mena-defense-can-kasapoglu)) — 2026-05-29"
-            ],
-            [
-              "Foreign Affairs",
-              "\"China was ready age anarchy\" ([Link](https://www.foreignaffairs.com/china/china-was-ready-age-anarchy))"
-            ],
-            [
-              "Hudson",
-              "\"Trump–Xi Summit: Strategic Developments, Outcomes, and Implications\" ([Link](https://www.hudson.org/foreign-policy/trump-xi-summit-strategic-developments-outcomes-implications-miles-yu-colin-tessier-kay)) — 2026-05-19"
-            ],
-            [
-              "SCMP",
-              "\"Why the era of the 3 joint US-China communiques may be ‘completely’ over\" ([Link](https://www.scmp.com/news/china/diplomacy/article/3354789/why-era-3-joint-us-china-communiques-may-be-completely-over)) — 2026-05-25"
-            ],
-            [
-              "SCMP",
-              "\"How Beijing pushed Trump to ‘arrest’ the trend on Taiwan arms sales\" ([Link](https://www.scmp.com/news/china/article/3355293/art-deal-how-beijing-pushed-trump-arrest-trend-taiwan-arms-sales)) — 2026-05-29"
-            ],
-            [
-              "NYT",
-              "\"Trump's Pursuit of a Partnership with China Raises Concerns in India\" ([Link](https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html))"
-            ],
-            [
-              "WSJ",
-              "\"Exclusive | U.S. Warns of Growing Russian and Chinese Spying in Cuba - WSJ\" ([Link](https://www.wsj.com/politics/national-security/u-s-warns-of-growing-russian-and-chinese-spying-in-cuba-a99059dd)) — 2026-05-26"
-            ],
-            [
-              "Chosun",
-              "\"China, Russia operate intelligence bases in Cuba near US coast\" ([Link](https://www.chosun.com/english/world-en/2026/05/25/HSEPMDXCGZHV5EOED67CNBPQGU)) — 2026-05-25"
-            ],
-            [
-              "Diplomat",
-              "\"China’s navy is shifting pressure beyond the Taiwan Strait\" ([Link](https://thediplomat.com/2026/05/chinas-navy-is-shifting-pressure-beyond-the-taiwan-strait)) — 2026-05-28"
-            ],
-            [
-              "Bloomberg",
-              "\"China Minister Again Skips Defense Forum Attended by Hegseth\" ([Link](https://www.bloomberg.com/news/articles/2026-05-28/china-minister-again-skips-defense-forum-attended-by-hegseth)) — 2026-05-28"
-            ],
-            [
-              "SCMP",
-              "\"China lifts peacekeeping budget share amid warnings bodies like UN may be sidelined\" ([Link](https://www.scmp.com/news/china/military/article/3354743/china-lifts-peacekeeping-budget-share-amid-warnings-bodies-un-may-be-sidelined)) — 2026-05-26"
-            ],
-            [
-              "SCMP",
-              "\"‘New form of war’: an insider view of China’s AI strategy in electronic warfare\" ([Link](https://www.scmp.com/news/china/science/article/3353491/new-form-war-insider-view-chinas-ai-strategy-electronic-warfare)) — 2026-05-26"
-            ],
-            [
-              "SCMP",
-              "\"Why Hainan holds the key to survival for China’s aircraft carriers\" ([Link](https://www.scmp.com/news/china/diplomacy/article/3354674/breaking-chain-why-hainan-holds-key-survival-chinas-aircraft-carriers)) — 2026-05-24"
-            ],
-            [
-              "SCMP",
-              "\"Panama encourages dialogue and bridge-building at UN as canal tensions with China simmer\" ([Link](https://www.scmp.com/news/china/diplomacy/article/3354958/panama-encourages-dialogue-and-bridge-building-un-canal-tensions-china-simmer)) — 2026-05-27"
             ]
           ]
+        },
+        {
+          "outlet": "Reuters",
+          "title": "China is building launch pads near its nuclear missile silos",
+          "date": "2026-05-29",
+          "url": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx",
+          "bullets": []
+        },
+        {
+          "outlet": "Hudson",
+          "title": "The War Above the War: How Chinese Satellites Support Iran | MENA Defense Intelligence Digest Special Report",
+          "date": "2026-05-29",
+          "url": "https://www.hudson.org/national-security-defense/war-above-war-how-chinese-satellites-support-iran-mena-defense-can-kasapoglu",
+          "bullets": []
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "China was ready age anarchy",
+          "date": "",
+          "url": "https://www.foreignaffairs.com/china/china-was-ready-age-anarchy",
+          "bullets": []
+        },
+        {
+          "outlet": "Hudson",
+          "title": "Trump–Xi Summit: Strategic Developments, Outcomes, and Implications",
+          "date": "2026-05-19",
+          "url": "https://www.hudson.org/foreign-policy/trump-xi-summit-strategic-developments-outcomes-implications-miles-yu-colin-tessier-kay",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Why the era of the 3 joint US-China communiques may be ‘completely’ over",
+          "date": "2026-05-25",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3354789/why-era-3-joint-us-china-communiques-may-be-completely-over",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "How Beijing pushed Trump to ‘arrest’ the trend on Taiwan arms sales",
+          "date": "2026-05-29",
+          "url": "https://www.scmp.com/news/china/article/3355293/art-deal-how-beijing-pushed-trump-arrest-trend-taiwan-arms-sales",
+          "bullets": []
+        },
+        {
+          "outlet": "NYT",
+          "title": "Trump's Pursuit of a Partnership with China Raises Concerns in India",
+          "date": "",
+          "url": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
+          "bullets": []
+        },
+        {
+          "outlet": "WSJ",
+          "title": "Exclusive | U.S. Warns of Growing Russian and Chinese Spying in Cuba - WSJ",
+          "date": "2026-05-26",
+          "url": "https://www.wsj.com/politics/national-security/u-s-warns-of-growing-russian-and-chinese-spying-in-cuba-a99059dd",
+          "bullets": []
+        },
+        {
+          "outlet": "Chosun",
+          "title": "China, Russia operate intelligence bases in Cuba near US coast",
+          "date": "2026-05-25",
+          "url": "https://www.chosun.com/english/world-en/2026/05/25/HSEPMDXCGZHV5EOED67CNBPQGU",
+          "bullets": []
+        },
+        {
+          "outlet": "Diplomat",
+          "title": "China’s navy is shifting pressure beyond the Taiwan Strait",
+          "date": "2026-05-28",
+          "url": "https://thediplomat.com/2026/05/chinas-navy-is-shifting-pressure-beyond-the-taiwan-strait",
+          "bullets": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "China Minister Again Skips Defense Forum Attended by Hegseth",
+          "date": "2026-05-28",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-28/china-minister-again-skips-defense-forum-attended-by-hegseth",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "China lifts peacekeeping budget share amid warnings bodies like UN may be sidelined",
+          "date": "2026-05-26",
+          "url": "https://www.scmp.com/news/china/military/article/3354743/china-lifts-peacekeeping-budget-share-amid-warnings-bodies-un-may-be-sidelined",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "‘New form of war’: an insider view of China’s AI strategy in electronic warfare",
+          "date": "2026-05-26",
+          "url": "https://www.scmp.com/news/china/science/article/3353491/new-form-war-insider-view-chinas-ai-strategy-electronic-warfare",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Why Hainan holds the key to survival for China’s aircraft carriers",
+          "date": "2026-05-24",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3354674/breaking-chain-why-hainan-holds-key-survival-chinas-aircraft-carriers",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "Panama encourages dialogue and bridge-building at UN as canal tensions with China simmer",
+          "date": "2026-05-27",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3354958/panama-encourages-dialogue-and-bridge-building-un-canal-tensions-china-simmer",
+          "bullets": []
         }
       ]
     },
@@ -2247,68 +2317,113 @@ window.W22_2026 = {
             [
               "Japan fired anti-ship missiles from Philippine soil for the first time since WWII",
               "Around 1,400 Japanese troops participated in Exercise Balikatan 2026 under a reciprocal access agreement ratified in September 2025."
-            ],
-            [
-              "FT",
-              "\"EU fines China’s Temu €200mn for failing to prevent sale of illegal goods\" ([Link](https://www.ft.com/content/5beb72de-4c60-4f43-89c6-f36f5d7d5e05)) — 2026-05-28"
-            ],
-            [
-              "Foreign Affairs",
-              "\"China’s AI Heist\" ([Link](https://www.foreignaffairs.com/china/chinas-ai-heist)) — 2026-05-29"
-            ],
-            [
-              "Lowy Institute",
-              "\"Critical minerals: The West is learning the wrong lesson from China\" ([Link](https://www.lowyinstitute.org/the-interpreter/critical-minerals-west-learning-wrong-lesson-china)) — 2026-05-29"
-            ],
-            [
-              "Bloomberg",
-              "\"Marco Rubio Unveils Indo-Pacific Monitor Plan as Hormuz Crisis Deepens - Bloomberg\" ([Link](https://www.bloomberg.com/news/articles/2026-05-26/quad-diplomats-meet-in-india-to-revive-group-after-trump-tension)) — 2026-05-26"
-            ],
-            [
-              "Substack",
-              "\"Dirty Laundry: The Commerce Department hung theirs out this morning\" ([Link](https://chinaarticles.substack.com/p/dirty-laundry)) — 2026-05-31"
-            ],
-            [
-              "Militarytimes",
-              "\"Former university of michigan researcher accused of hiding chinese military drone ties\" ([Link](https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties))"
-            ],
-            [
-              "Taipei Times",
-              "\"Ryan Hass On Taiwan: Hard questions await Cheng Li-wun\" ([Link](https://www.taipeitimes.com/News/editorials/archives/2026/05/25/2003857901)) — 2026-05-25"
-            ],
-            [
-              "State",
-              "\"Secretary of State Marco Rubio and Indian External Affairs Minister Subrahmanyam Jaishankar at the Signing of a Critical Minerals Framework\" ([Link](https://www.state.gov/releases/office-of-the-spokesperson/2026/05/secretary-of-state-marco-rubio-and-indian-external-affairs-minister-subrahmanyam-jaishankar-at-the-signing-of-a-critical-minerals-framework)) — 2026-05-26"
-            ],
-            [
-              "Hudson",
-              "\"Silk Seven or the OTS? Central Asia May Not Have to Choose\" ([Link](https://www.hudson.org/security-alliances/silk-seven-or-ots-central-asia-may-not-have-choose-ken-moriyasu)) — 2026-05-28"
-            ],
-            [
-              "Taipei Times",
-              "\"Uncrewed US craft transits the Taiwan Strait\" ([Link](https://www.taipeitimes.com/News/front/archives/2026/05/29/2003858167))"
-            ],
-            [
-              "Jamestown",
-              "\"Taiwan Weighs HIMARS for PRC Counterstrikes\" ([Link](https://jamestown.org/taiwan-weighs-himars-for-prc-counterstrikes)) — 2026-05-29"
-            ],
-            [
-              "Jamestown",
-              "\"Taiwan’s Special Defense Budget Bill Passes with Drastic Cuts\" ([Link](https://jamestown.org/taiwans-special-defense-budget-bill-passes-with-drastic-cuts)) — 2026-05-29"
-            ],
-            [
-              "CFR",
-              "\"Trump Shouldn’t Give China a Veto on Taiwan Arms Sales\" ([Link](https://www.cfr.org/articles/trump-shouldnt-give-china-a-veto-on-taiwan-arms-sales)) — 2026-05-28"
-            ],
-            [
-              "SCMP",
-              "\"‘We’ll be a museum’: EU heavyweights back industrial accelerator as China shock fears grow\" ([Link](https://www.scmp.com/news/china/diplomacy/article/3355208/well-be-museum-eu-heavyweights-back-industrial-accelerator-china-shock-fears-grow)) — 2026-05-28"
-            ],
-            [
-              "Reuters",
-              "\"Japan philippines discuss information sharing pact ease arms exports 2026 05 28\" ([Link](https://www.reuters.com/world/china/japan-philippines-discuss-information-sharing-pact-ease-arms-exports-2026-05-28)) — 2026-05-28"
             ]
           ]
+        },
+        {
+          "outlet": "FT",
+          "title": "EU fines China’s Temu €200mn for failing to prevent sale of illegal goods",
+          "date": "2026-05-28",
+          "url": "https://www.ft.com/content/5beb72de-4c60-4f43-89c6-f36f5d7d5e05",
+          "bullets": []
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "title": "China’s AI Heist",
+          "date": "2026-05-29",
+          "url": "https://www.foreignaffairs.com/china/chinas-ai-heist",
+          "bullets": []
+        },
+        {
+          "outlet": "Lowy Institute",
+          "title": "Critical minerals: The West is learning the wrong lesson from China",
+          "date": "2026-05-29",
+          "url": "https://www.lowyinstitute.org/the-interpreter/critical-minerals-west-learning-wrong-lesson-china",
+          "bullets": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "Marco Rubio Unveils Indo-Pacific Monitor Plan as Hormuz Crisis Deepens - Bloomberg",
+          "date": "2026-05-26",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-26/quad-diplomats-meet-in-india-to-revive-group-after-trump-tension",
+          "bullets": []
+        },
+        {
+          "outlet": "Substack",
+          "title": "Dirty Laundry: The Commerce Department hung theirs out this morning",
+          "date": "2026-05-31",
+          "url": "https://chinaarticles.substack.com/p/dirty-laundry",
+          "bullets": []
+        },
+        {
+          "outlet": "Militarytimes",
+          "title": "Former university of michigan researcher accused of hiding chinese military drone ties",
+          "date": "",
+          "url": "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties",
+          "bullets": []
+        },
+        {
+          "outlet": "Taipei Times",
+          "title": "Ryan Hass On Taiwan: Hard questions await Cheng Li-wun",
+          "date": "2026-05-25",
+          "url": "https://www.taipeitimes.com/News/editorials/archives/2026/05/25/2003857901",
+          "bullets": []
+        },
+        {
+          "outlet": "State",
+          "title": "Secretary of State Marco Rubio and Indian External Affairs Minister Subrahmanyam Jaishankar at the Signing of a Critical Minerals Framework",
+          "date": "2026-05-26",
+          "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/secretary-of-state-marco-rubio-and-indian-external-affairs-minister-subrahmanyam-jaishankar-at-the-signing-of-a-critical-minerals-framework",
+          "bullets": []
+        },
+        {
+          "outlet": "Hudson",
+          "title": "Silk Seven or the OTS? Central Asia May Not Have to Choose",
+          "date": "2026-05-28",
+          "url": "https://www.hudson.org/security-alliances/silk-seven-or-ots-central-asia-may-not-have-choose-ken-moriyasu",
+          "bullets": []
+        },
+        {
+          "outlet": "Taipei Times",
+          "title": "Uncrewed US craft transits the Taiwan Strait",
+          "date": "",
+          "url": "https://www.taipeitimes.com/News/front/archives/2026/05/29/2003858167",
+          "bullets": []
+        },
+        {
+          "outlet": "Jamestown",
+          "title": "Taiwan Weighs HIMARS for PRC Counterstrikes",
+          "date": "2026-05-29",
+          "url": "https://jamestown.org/taiwan-weighs-himars-for-prc-counterstrikes",
+          "bullets": []
+        },
+        {
+          "outlet": "Jamestown",
+          "title": "Taiwan’s Special Defense Budget Bill Passes with Drastic Cuts",
+          "date": "2026-05-29",
+          "url": "https://jamestown.org/taiwans-special-defense-budget-bill-passes-with-drastic-cuts",
+          "bullets": []
+        },
+        {
+          "outlet": "CFR",
+          "title": "Trump Shouldn’t Give China a Veto on Taiwan Arms Sales",
+          "date": "2026-05-28",
+          "url": "https://www.cfr.org/articles/trump-shouldnt-give-china-a-veto-on-taiwan-arms-sales",
+          "bullets": []
+        },
+        {
+          "outlet": "SCMP",
+          "title": "‘We’ll be a museum’: EU heavyweights back industrial accelerator as China shock fears grow",
+          "date": "2026-05-28",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3355208/well-be-museum-eu-heavyweights-back-industrial-accelerator-china-shock-fears-grow",
+          "bullets": []
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Japan philippines discuss information sharing pact ease arms exports 2026 05 28",
+          "date": "2026-05-28",
+          "url": "https://www.reuters.com/world/china/japan-philippines-discuss-information-sharing-pact-ease-arms-exports-2026-05-28",
+          "bullets": []
         }
       ]
     }
@@ -2316,9 +2431,9 @@ window.W22_2026 = {
   "chineseSourcesSections": [
     {
       "number": "",
-      "slug": "cn-2-regulatory-policy-primary-sources",
-      "short": "2. Regulatory ",
-      "label": "2. Regulatory / policy primary sources",
+      "slug": "cn-regulatory-policy-primary-sources",
+      "short": "Regulatory / p",
+      "label": "Regulatory / policy primary sources",
       "items": [
         {
           "outlet": "mfa.gov.cn",
@@ -2360,9 +2475,9 @@ window.W22_2026 = {
     },
     {
       "number": "",
-      "slug": "cn-3-quality-cn-journalism",
-      "short": "3. Quality CN ",
-      "label": "3. Quality CN journalism",
+      "slug": "cn-journalism",
+      "short": "CN journalism",
+      "label": "Quality CN journalism",
       "items": [
         {
           "outlet": "Caixin Global",
@@ -2464,9 +2579,9 @@ window.W22_2026 = {
     },
     {
       "number": "",
-      "slug": "cn-5-chinese-thinking",
-      "short": "5. Chinese thi",
-      "label": "5. Chinese thinking",
+      "slug": "cn-thinktanks",
+      "short": "Thinking",
+      "label": "Chinese thinking",
       "items": [
         {
           "outlet": "guancha.cn",
@@ -2543,9 +2658,9 @@ window.W22_2026 = {
     },
     {
       "number": "",
-      "slug": "cn-6-eu-ger-in-cn-media",
-      "short": "6. EU / GER in",
-      "label": "6. EU / GER in CN media",
+      "slug": "cn-media",
+      "short": "EU/GER in CN media",
+      "label": "EU / GER in CN media",
       "items": [
         {
           "outlet": "China Daily",
