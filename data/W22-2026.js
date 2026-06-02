@@ -2667,8 +2667,8 @@ window.W22_2026 = {
     },
     {
       "number": "",
-      "slug": "cn-cn-coverage-of-eu-ger",
-      "short": "CN coverage of",
+      "slug": "cn-media",
+      "short": "CN ↔ EU/GER",
       "label": "CN coverage of EU/GER",
       "items": [
         {
