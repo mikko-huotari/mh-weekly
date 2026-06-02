@@ -819,7 +819,7 @@ window.W22_2026 = {
         {
           "outlet": "Diplomat",
           "author": "",
-          "title": "How chinas population stopped noticing their country had been sealed",
+          "title": "How China's population stopped noticing their country had been sealed",
           "date": "",
           "url": "https://thediplomat.com/2026/05/how-chinas-population-stopped-noticing-their-country-had-been-sealed",
           "bullets": [
@@ -1116,7 +1116,7 @@ window.W22_2026 = {
         {
           "outlet": "Reuters",
           "author": "",
-          "title": "Chinese wireless firm quectel sues us over military designation 2026 05 11",
+          "title": "Chinese wireless firm Quectel sues US over military designation",
           "date": "2026-05-11",
           "url": "https://www.reuters.com/world/chinese-wireless-firm-quectel-sues-us-over-military-designation-2026-05-11",
           "bullets": []
@@ -1625,7 +1625,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "Germany arrests married couple suspected of chinese espionage",
+          "title": "Germany arrests married couple suspected of Chinese espionage",
           "date": "",
           "url": "https://www.bloomberg.com/news/articles/2026-05-20/germany-arrests-married-couple-suspected-of-chinese-espionage",
           "bullets": [
@@ -1692,7 +1692,7 @@ window.W22_2026 = {
         {
           "outlet": "Economist",
           "author": "",
-          "title": "How china quietly helps russia in ukraine",
+          "title": "How China quietly helps Russia in Ukraine",
           "date": "",
           "url": "https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine",
           "bullets": [
@@ -2079,7 +2079,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "Pentagon aims to break china rare earths grip with critical minerals plan",
+          "title": "Pentagon aims to break China's rare-earths grip with critical-minerals plan",
           "date": "",
           "url": "https://www.bloomberg.com/news/articles/2026-05-14/pentagon-aims-to-break-china-rare-earths-grip-with-critical-minerals-plan",
           "bullets": [
@@ -2176,7 +2176,7 @@ window.W22_2026 = {
         {
           "outlet": "CNBC",
           "author": "",
-          "title": "Uk spy chief gchq russia china us cyber attack security",
+          "title": "UK spy chief: GCHQ on Russia, China, US cyber-attack security",
           "date": "",
           "url": "https://www.cnbc.com/2026/05/27/uk-spy-chief-gchq-russia-china-us-cyber-attack-security.html",
           "bullets": [
@@ -2205,7 +2205,7 @@ window.W22_2026 = {
         {
           "outlet": "Militarytimes",
           "author": "",
-          "title": "Former university of michigan researcher accused of hiding chinese military drone ties",
+          "title": "Former University of Michigan researcher accused of hiding Chinese military drone ties",
           "date": "",
           "url": "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties",
           "bullets": []
