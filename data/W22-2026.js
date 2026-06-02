@@ -2232,6 +2232,46 @@ window.W22_2026 = {
       "label": "Regulatory & policy primary sources",
       "items": [
         {
+          "outlet": "CSRC + 7 agencies",
+          "title": "Implementation Plan for the Comprehensive Rectification of Illegal Cross-Border Securities, Futures and Fund Business Activities 综合整治非法跨境证券期货基金经营活动实施方案",
+          "date": "2026-05-22",
+          "url": "https://www.csrc.gov.cn/csrc/c100028/c7634326/content.shtml",
+          "bullets": [
+            [
+              "Two-year campaign to shut down offshore brokers",
+              "The document sets a two-year concentrated rectification period to fully shut down illegal cross-border operations by overseas securities, futures and fund institutions and to investigate institutions in serious violation."
+            ],
+            [
+              "Targets the full domestic enabling chain",
+              "The plan says rectification covers domestic affiliates and intermediaries that help overseas institutions solicit investors and open accounts, plus websites, apps and self-media publishing account-opening tutorials and marketing."
+            ],
+            [
+              "Goal is phased wind-down of existing accounts",
+              "It states the aim of \"resolutely shutting down illegal activities and prudently winding down existing positions,\" gradually reducing the scale of illegal domestic investor accounts and assets in phases."
+            ]
+          ]
+        },
+        {
+          "outlet": "State Council 国务院",
+          "title": "Implementing Opinions on Rolling Out the Provision of Basic Public Services by Place of Permanent Residence 关于按常住地提供基本公共服务的实施意见 (Guo Fa [2026] No. 11)",
+          "date": "2026-05-22",
+          "url": "no-url",
+          "bullets": [
+            [
+              "Delinks basic public services from hukou",
+              "The document says it will progressively eliminate the linkage between basic public services and household registration so unregistered permanent residents enjoy services on an equal footing with the registered population."
+            ],
+            [
+              "Mandates education guarantees for migrant children",
+              "The document says receiving-city governments must expand public-school places, purchase places where capacity falls short, equalise \"nine-year through\" promotion, and let eligible migrant children sit higher-school entrance exams in their place of permanent residence."
+            ],
+            [
+              "Expands public rental housing coverage",
+              "The document says more cities are to bring stably employed unregistered permanent residents into public rental housing protection, setting eligibility by length of employment and residence and degree of housing difficulty."
+            ]
+          ]
+        },
+        {
           "outlet": "Sinocism (Bill Bishop)",
           "title": "State Council Regulations on Outbound Investment (国务院关于对外投资的规定) - State Council Order No. 837",
           "date": "2026-06-01",
@@ -2415,6 +2455,42 @@ window.W22_2026 = {
       "short": "Positions",
       "label": "Government positions & readouts",
       "items": [
+        {
+          "outlet": "PRC + Serbia",
+          "title": "Joint Statement on Jointly Promoting the New Era China-Serbia Iron-Clad Friendship 中塞两国关于共同推进新时代中塞铁杆友谊的联合声明",
+          "date": "2026-05-25",
+          "url": "no-url",
+          "bullets": [
+            [
+              "Serbia endorses all four Chinese global initiatives",
+              "The statement says Serbia commends and supports the Global Development, Security, Civilization and Governance Initiatives proposed by Xi Jinping, issued during Vučić's May 24-28 state visit to China."
+            ],
+            [
+              "Belgrade joins the Global Development Initiative friends group",
+              "The document says Serbia decided to join the \"Group of Friends of the Global Development Initiative\" and that both sides will implement a related memorandum of understanding and the UN 2030 Agenda."
+            ],
+            [
+              "Both sides pledge to oppose hegemonism and power politics",
+              "The statement says China and Serbia will strengthen coordination in the UN and other multilateral mechanisms, practice true multilateralism, and uphold the WTO-centered multilateral trading system."
+            ]
+          ]
+        },
+        {
+          "outlet": "PRC + Pakistan",
+          "title": "Joint Statement of the People's Republic of China and the Islamic Republic of Pakistan 中华人民共和国和巴基斯坦伊斯兰共和国联合声明",
+          "date": "2026-05-25",
+          "url": "no-url",
+          "bullets": [
+            [
+              "All-weather partnership reaffirmed on 75th anniversary",
+              "The statement says both sides will accelerate building a closer China-Pakistan community with a shared future in the new era and implement the 2025-2029 Action Plan, deepening political mutual trust, practical cooperation, and defense and security cooperation."
+            ],
+            [
+              "Pakistan endorses Xi's global initiatives",
+              "The document says Pakistan highly values and supports the vision of a community with a shared future for mankind and all four of Xi Jinping's global initiatives on development, security, civilization, and governance."
+            ]
+          ]
+        },
         {
           "outlet": "mfa.gov.cn",
           "title": "Wang Yi meets Portuguese foreign minister Rangel",
