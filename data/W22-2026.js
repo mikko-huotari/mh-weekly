@@ -377,7 +377,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "China s 3 trillion of hidden bad debt prolongs economic pain",
+          "title": "China's $3 trillion of hidden bad debt prolongs economic pain",
           "date": "",
           "url": "https://www.bloomberg.com/news/articles/2026-05-12/china-s-3-trillion-of-hidden-bad-debt-prolongs-economic-pain",
           "bullets": [
@@ -3061,7 +3061,7 @@ window.W22_2026 = {
     {
       "src": "assets/charts/W22-2026-chart-1.png",
       "alt": "China crude oil suppliers, by share, 2024",
-      "caption": "**Chart 1 – China's crude oil suppliers: Russia 22 %, Iran 17 %** ([Soapbox Trade × MERICS]; GACC, in % share)"
+      "caption": "**Chart 1 – China's crude oil suppliers: Russia 23 %, Iran 17 %** ([Soapbox Trade × MERICS]; GACC, in % share)"
     },
     {
       "src": "assets/charts/W22-2026-chart-2.png",
