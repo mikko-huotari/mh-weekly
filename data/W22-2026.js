@@ -32,67 +32,25 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Wirtschaftsministerin Reiche in China | Bundesregierung](https://www.bundesregierung.de/breg-de/aktuelles/wirtschaftsministerin-in-china-2432586) — Kernbotschaft: \"Wettbewerb muss so gestaltet sein, dass er zu beiderseitigem Nutzen ist\"; gemeinsames Ziel \"diese Beziehung stabil, verlässlich und zukunftsfähig weiterzuentwickeln\"; faire Wettbewerbsbedingungen."
+              "note": "**Wirtschaftsministerin Reiche reist zum Antrittsbesuch nach China und betont Wettbewerb \"zu beiderseitigem Nutzen\"**: Reiche besuchte China vom 27. bis 29. Mai und rahmte die Reise als Werben für [konstruktiven Dialog, Transparenz und langfristige Kooperation](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-ministerin-reiche-reist-nach-china.html), mit dem Ziel, die Beziehung \"[stabil, verlässlich und zukunftsfähig](https://www.bundesregierung.de/breg-de/aktuelles/wirtschaftsministerin-in-china-2432586)\" weiterzuentwickeln und faire Wettbewerbsbedingungen herzustellen."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Konstruktiver Dialog, Transparenz und langfristige Kooperation – Ministerin Reiche reist nach China | BMWE](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-ministerin-reiche-reist-nach-china.html)"
+              "note": "**Reiche fordert von Handelsminister Wang Wentao besseren Zugang zu Seltenen Erden – China kontert mit Protektionismus-Vorwurf**: Gegenüber Wang verlangte Reiche [verlässlichen Zugang zu kritischen Mineralien](https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-fordert-bei-china-besuch-besseren-zugang-zu-seltenen-erden-100.html), ohne die \"moderne Technologien nicht denkbar\" seien, während Wang die jüngsten EU-Stahl-Handelsschutzmaßnahmen als \"stark protektionistisch\" zurückwies; Reiche [bekräftigte](https://www.reuters.com/world/asia-pacific/modern-economic-relationship-requires-cooperation-competition-german-minister-2026-05-27), dass die Wirtschaftsbeziehung zugleich Kooperation und Wettbewerb erfordere."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Katherina Reiche trifft He Lifeng | BMWE](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-chinesischen-vize-ministerpraesidenten-he-lifeng.html)"
+              "note": "**Reiche trifft Vize-Premier He Lifeng sowie Huang Kunming und Meng Fanli**: Am Rande des Programms führte Reiche Gespräche mit [Vize-Ministerpräsident He Lifeng](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-chinesischen-vize-ministerpraesidenten-he-lifeng.html) sowie mit [Huang Kunming und Meng Fanli](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-reiche-trifft-huang-kunming-sowie-meng-fanli.html); die chinesische Seite stellte die Treffen mit [He Lifeng](https://de.china-embassy.gov.cn/det/zgyw_/202605/t20260528_11919907.htm) und [Wang Wentao](https://de.china-embassy.gov.cn/det/zgyw_/202605/t20260528_11919903.htm) als Bekenntnis zu stabilen Wirtschaftsbeziehungen dar."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Ministerin Reiche trifft Huang Kunming sowie Meng Fanli | BMWE](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-reiche-trifft-huang-kunming-sowie-meng-fanli.html)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[He Lifeng trifft deutsche Bundesministerin für Wirtschaft und Energie | Chinesische Botschaft](https://de.china-embassy.gov.cn/det/zgyw_/202605/t20260528_11919907.htm)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Chinesischer Handelsminister Wang Wentao trifft deutsche Bundesministerin | Chinesische Botschaft](https://de.china-embassy.gov.cn/det/zgyw_/202605/t20260528_11919903.htm)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[DLF: Reiche fordert bei China-Besuch besseren Zugang zu Seltenen Erden](https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-fordert-bei-china-besuch-besseren-zugang-zu-seltenen-erden-100.html) — Forderung gegenüber Wang Wentao: dt. Unternehmen brauchen Mineralien/SE, \"moderne Technologien ohne sie nicht denkbar\"; warb für \"fairen Umgang\" und \"vertrauensvollen, offenen Austausch\"; chines. Investitionen in Deutschland \"willkommen, aber dauerhaft + mit Innovationen verbunden\". Wang konterte: jüngste EU-Handelsschutzmaßnahmen (Stahl) hätten \"stark protektionistische Färbung\"."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Reuters: In China, German minister says economic relationship requires cooperation, competition](https://www.reuters.com/world/asia-pacific/modern-economic-relationship-requires-cooperation-competition-german-minister-2026-05-27)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[SZ (Bauchmüller/Sahay): Viel Bewunderung für ein Tempo, das Deutschland unter Druck setzt](https://www.sueddeutsche.de/politik/katherina-reiche-peking-china-wirtschaft-technologie-konkurrenz-li.3489174) — analytischer Reise-Bericht: Tempo-Bewunderung als Diagnose der eigenen Verwundbarkeit."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Stern: Reiche in China — Freundliche Worte, harte Interessen](https://www.stern.de/capital/reiche-in-china--freundliche-worte--harte-interessen-37454048.html) — verkneift sich Kritik beim Antrittsbesuch, schmeichelt den Gastgebern."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[BGA: BGA zur China-Reise von Ministerin Reiche](https://bga.de/presse/pressemitteilung/bga-zur-china-reise-von-ministerin-reiche)"
+              "note": "**Deutsche Kommentatoren werten den Besuch als zurückhaltend und diagnostizieren eigene Verwundbarkeit**: Die [SZ](https://www.sueddeutsche.de/politik/katherina-reiche-peking-china-wirtschaft-technologie-konkurrenz-li.3489174) deutete Reiches Bewunderung für Chinas Innovationstempo als Befund deutscher Verwundbarkeit, der [Stern](https://www.stern.de/capital/reiche-in-china--freundliche-worte--harte-interessen-37454048.html) attestierte ihr beim Antrittsbesuch betont freundliche Töne und Kritikverzicht, während der [BGA](https://bga.de/presse/pressemitteilung/bga-zur-china-reise-von-ministerin-reiche) die Reise aus Sicht des Außenhandels kommentierte."
             }
           ]
         },
@@ -103,19 +61,7 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "Bundestag delegation (5 MPs) to Taiwan, led by Till Steffen (Greens); meeting with president Lai Ching-te"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Taiwan: China kritisiert Reise von Bundestagsdelegation nach Taiwan | DIE ZEIT](https://www.zeit.de/politik/deutschland/2026-05/china-kritik-besuch-taiwan-abgeordnete-bundestag-gxe)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Chinese FM urges German figures to stop sending wrong messages to 'Taiwan independence' forces | Global Times](https://www.globaltimes.cn/page/202605/1361872.shtml)"
+              "note": "**Bundestag delegation visits Taiwan, drawing Chinese rebuke**: A five-member Bundestag delegation led by Till Steffen (Greens) [travelled to Taiwan](https://www.zeit.de/politik/deutschland/2026-05/china-kritik-besuch-taiwan-abgeordnete-bundestag-gxe) and met President Lai Ching-te, prompting Beijing to [criticise the trip](https://www.globaltimes.cn/page/202605/1361872.shtml) as sending the \"wrong message\" to \"Taiwan independence\" forces, with the Chinese foreign ministry urging German officials to refrain from official exchanges with Taipei."
             }
           ]
         },
@@ -126,43 +72,25 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "IAA: [Binnenmarkt vertiefen, Wertschöpfung aufbauen, Resilienz stärken | BMWE](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-binnenmarkt-vertiefen-wertschoepfung-resilienz.html)"
+              "note": "**German Economy Ministry frames single-market deepening and resilience as the answer to industrial pressure**: At the IAA, the BMWE [laid out a programme](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-binnenmarkt-vertiefen-wertschoepfung-resilienz.html) of deepening the EU single market, rebuilding domestic value creation and strengthening supply-chain resilience, an implicit response to mounting Chinese competitive pressure on German manufacturing."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "FNF report: [China-Strategie: Deutschlands Importabhängigkeit von China steigt](https://www.freiheit.org/de/taiwan/studie-deutschlands-importabhaengigkeit-von-china-steigt)"
+              "note": "**Economic advisory bodies quantify deepening German dependence and structural strain from China**: The Sachverständigenrat's [Frühjahrsgutachten 2026](https://www.sachverstaendigenrat-wirtschaft.de/fruehjahrsgutachten-2026.html) names intensifying Chinese competition, persistent market and supplier dependencies, and a more geopolitically uncertain export environment as a major structural pressure on German industry, while an [FNF study](https://www.freiheit.org/de/taiwan/studie-deutschlands-importabhaengigkeit-von-china-steigt) documents rising German import reliance on China despite the de-risking agenda."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "German Council of Economic Experts (Sachverständigenrat): [Frühjahrsgutachten 2026](https://www.sachverstaendigenrat-wirtschaft.de/fruehjahrsgutachten-2026.html) — China is not the sole cause of Germany's industrial problems but a major structural pressure factor; intensifying Chinese competition, persistent market+supplier dependencies, more geopolitically uncertain export environment."
+              "note": "**Anglophone commentary warns of a \"second China shock\" hitting German industry with Berlin passive**: [Euronews](https://www.euronews.com/business/2026/05/28/china-shock-20-beijing-targets-german-industry-as-berlin-looks-on) and the [Guardian](https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation) argue that Beijing is now competing directly in German core sectors and that Berlin is responding too slowly to the risk of deindustrialisation."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Bloomberg: Legislation Targeting Chinese-Owned Carmakers Puts Mercedes-Benz at Risk in US](https://www.bloomberg.com/news/articles/2026-05-29/mercedes-benz-risks-us-ban-under-bill-restricting-chinese-cars)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Bloomberg: Germany, Spain Push Back on European Plan to Ban Huawei Gear](https://www.bloomberg.com/news/articles/2026-05-27/germany-spain-push-back-on-europe-s-plans-to-ban-huawei-gear)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Euronews: China shock 2.0 — Beijing targets German industry as Berlin looks on](https://www.euronews.com/business/2026/05/28/china-shock-20-beijing-targets-german-industry-as-berlin-looks-on)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Guardian: Germany urged to stop admiring Beijing as China deindustrialisation looms](https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation)"
+              "note": "**Berlin resists EU restrictions on Chinese telecoms and faces US exposure on autos**: Germany and Spain [pushed back](https://www.bloomberg.com/news/articles/2026-05-27/germany-spain-push-back-on-europe-s-plans-to-ban-huawei-gear) on Commission plans to ban Huawei gear, while US [legislation targeting Chinese-owned carmakers](https://www.bloomberg.com/news/articles/2026-05-29/mercedes-benz-risks-us-ban-under-bill-restricting-chinese-cars) could put Mercedes-Benz at risk in the American market, underscoring how German firms are caught between Chinese competition and allied restrictions."
             }
           ]
         },
@@ -173,151 +101,37 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Read-out of the College orientation debate on EU-China relations](https://ec.europa.eu/commission/presscorner/detail/en/read_26_1201) — \"The Commission's overarching approach remains de-risking, not decoupling. … the current state of the trade and investment relationship is not sustainable. As economic and security interests become ever more intertwined, both dimensions will require a more robust and coherent response.\""
+              "note": "**Commission orientation debate hardens EU-China trade posture while holding to de-risking**: Following the College orientation debate, the Commission [reaffirmed de-risking over decoupling](https://ec.europa.eu/commission/presscorner/detail/en/read_26_1201) but judged the current trade and investment relationship \"not sustainable,\" [vowing tougher action](https://www.reuters.com/world/china/european-commission-debates-policy-shift-protect-industry-china-2026-05-29/) and signalling, [per an official cited by the FT](https://www.reuters.com/world/china/eu-broaden-import-quotas-tariffs-against-china-official-tells-ft-2026-05-28/), that it will broaden import quotas and tariffs; [Brussels framed this as the opening of a tougher phase](https://www.scmp.com/news/china/diplomacy/article/3355380/brussels-fires-starting-gun-tougher-china-trade-policy-beijing-vows-retaliation) and Beijing pledged retaliation."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Reuters: European Commission vows tougher action on trade with China](https://www.reuters.com/world/china/european-commission-debates-policy-shift-protect-industry-china-2026-05-29/)"
+              "note": "**Beijing pairs negotiation with the threat of countermeasures**: China [opened talks with the EU](https://www.reuters.com/world/china/china-is-negotiating-with-eu-over-its-steel-trade-measures-chinese-commerce-2026-05-28/) over Brussels' steel trade measures while [warning it could launch its own trade probes](https://www.wsj.com/world/europe/china-threatens-to-launch-trade-probes-against-the-european-union-cdf0c62f) against the bloc, combining engagement with deterrence as the EU [lines up emergency import safeguards](https://euobserver.com/218160/eu-china-trade-war-edges-closer-as-brussels-lines-up-emergency-import-safeguards)."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[SCMP: Brussels fires starting gun on tougher China trade policy, as Beijing vows retaliation](https://www.scmp.com/news/china/diplomacy/article/3355380/brussels-fires-starting-gun-tougher-china-trade-policy-beijing-vows-retaliation)"
+              "note": "**Member states and industry push the Commission toward harder defences amid persistent divisions**: [EU countries are pressing for a trade crackdown](https://www.ft.com/content/3c70d1b8-5c64-4398-b034-fdab4a0c8abe) and the EV dispute [draws Europe closer to open conflict](https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html), yet [Germany continues to warn of the cost to its exporters](https://www.bloomberg.com/news/newsletters/2026-05-27/eu-divided-on-china-stand-as-germany-warns-of-impact-on-exports); sectoral demands are sharpening, with [Sandoz seeking a probe into alleged Chinese generics dumping](https://www.ft.com/content/9c830f87-01aa-4315-8920-78c517c2bf6a) and [a leading wind-turbine maker labelling non-Western rivals a security threat](https://www.ft.com/content/dd5c42b9-ff1f-4532-aee5-bdf838aece4d)."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Reuters: EU to broaden import quotas and tariffs against China, official tells FT](https://www.reuters.com/world/china/eu-broaden-import-quotas-tariffs-against-china-official-tells-ft-2026-05-28/)"
+              "note": "**Regulatory tools target Chinese platforms beyond classic trade defence**: The Commission [fined Temu €200 million](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1178) for failing to assess systemic risks of illegal products under the Digital Services Act ([over $230 million](https://www.wsj.com/tech/temu-fined-more-than-230-million-in-eu-over-product-risks-e641be96)) and [opened an in-depth foreign-subsidies investigation](https://ec.europa.eu/commission/presscorner/detail/es/ip_26_1164) into JD.com's acquisition of Ceconomy (MediaMarkt-Saturn)."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Reuters: China is negotiating with EU over its steel trade measures](https://www.reuters.com/world/china/china-is-negotiating-with-eu-over-its-steel-trade-measures-chinese-commerce-2026-05-28/)"
+              "note": "**Business sentiment on the ground diverges from the policy escalation**: The [EU Chamber's 2026 survey records rebounding confidence](https://www.china-briefing.com/news/eu-chamber-china-2026-business-confidence-survey/) among European firms in China, [echoed by Nikkei](https://asia.nikkei.com/business/business-trends/business-confidence-in-china-rebounds-eu-chamber-of-commerce-survey), with companies [feeling less gloomy as Beijing offers stability](https://www.scmp.com/economy/china-economy/article/3354911/eu-firms-china-starting-feel-less-gloomy-beijing-offers-stability-report)."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Commission fines Temu €200 million for breaching the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1178) — DSA failure to identify, analyse, and assess systemic risks of illegal products on platform."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[WSJ: Temu Fined More Than $230 Million in EU Over Product Risks](https://www.wsj.com/tech/temu-fined-more-than-230-million-in-eu-over-product-risks-e641be96)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Commission opens in-depth foreign subsidies investigation: JD.com / Ceconomy (MediaMarkt-Saturn M&A)](https://ec.europa.eu/commission/presscorner/detail/es/ip_26_1164)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "European Parliament China Delegation — [MEPs to visit China for the 43rd IPM | EEAS](https://www.eeas.europa.eu/delegations/china/meps-visit-china-43rd-inter-parliamentary-meeting-ipm_en)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[WSJ: China Threatens to Launch Trade Probes Against the European Union](https://www.wsj.com/world/europe/china-threatens-to-launch-trade-probes-against-the-european-union-cdf0c62f)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[EUobserver: EU-China trade war edges closer as Brussels lines up emergency import safeguards](https://euobserver.com/218160/eu-china-trade-war-edges-closer-as-brussels-lines-up-emergency-import-safeguards)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[NYT: Europe Is Edging Closer to a Trade War With China. Here's Why.](https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[FT: EU countries press for trade crackdown on China](https://www.ft.com/content/3c70d1b8-5c64-4398-b034-fdab4a0c8abe)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[FT: How Europe learnt to love subsidies](https://www.ft.com/content/b3e968c3-9089-417b-9757-95020eb0f469)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[FT: Top European wind turbine maker calls 'non-western' rivals a security threat](https://www.ft.com/content/dd5c42b9-ff1f-4532-aee5-bdf838aece4d)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[FT: Generics drugmaker Sandoz calls for EU to probe alleged China dumping](https://www.ft.com/content/9c830f87-01aa-4315-8920-78c517c2bf6a)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Bloomberg: Battle lines are drawn on China amid EU divisions](https://www.bloomberg.com/news/newsletters/2026-05-27/eu-divided-on-china-stand-as-germany-warns-of-impact-on-exports)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Bloomberg: Dubious Chinese Carbon Offsets Expose Problems With Europe's Carbon Market](https://www.bloomberg.com/graphics/2026-europe-china-dubious-carbon-credits)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Carnegie: Can Europe Compete with the United States and China?](https://carnegieendowment.org/europe/posts/2026/05/can-europe-compete-with-the-united-states-and-china)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Carnegie: Europe Should Not Let Nuclear Nonproliferation Die](https://carnegieendowment.org/europe/strategic-europe/2026/05/europe-should-not-let-nuclear-nonproliferation-die)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Moderndiplomacy: Distant water cannot quench a nearby fire — Why Europe's China strategy arrives too late and aims too low](https://moderndiplomacy.eu/2026/05/27/distant-water-cannot-quench-a-nearby-fire-why-europes-china-strategy-arrives-too-late-and-aims-too-low)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[EUISS: Shared threats, shared resilience — Integrating enlargement partners in EU digital and cyber security](https://www.iss.europa.eu/publications/briefs/shared-threats-shared-resilience-integrating-enlargement-partners-eu-digital)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[China-Briefing: EU Chamber China 2026 Survey — European Business Confidence Grows](https://www.china-briefing.com/news/eu-chamber-china-2026-business-confidence-survey/)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Nikkei: Business confidence in China rebounds — EU Chamber of Commerce survey](https://asia.nikkei.com/business/business-trends/business-confidence-in-china-rebounds-eu-chamber-of-commerce-survey)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[SCMP: EU firms in China starting to feel less gloomy as Beijing offers stability](https://www.scmp.com/economy/china-economy/article/3354911/eu-firms-china-starting-feel-less-gloomy-beijing-offers-stability-report)"
+              "note": "**Strategic commentary questions whether Europe's response is timely or sufficient**: Analysts debate [Europe's capacity to compete with the US and China](https://carnegieendowment.org/europe/posts/2026/05/can-europe-compete-with-the-united-states-and-china) and [its embrace of subsidies](https://www.ft.com/content/b3e968c3-9089-417b-9757-95020eb0f469), with one critique arguing the bloc's [China strategy arrives too late and aims too low](https://moderndiplomacy.eu/2026/05/27/distant-water-cannot-quench-a-nearby-fire-why-europes-china-strategy-arrives-too-late-and-aims-too-low), even as [MEPs prepare to visit China for the 43rd Inter-Parliamentary Meeting](https://www.eeas.europa.eu/delegations/china/meps-visit-china-43rd-inter-parliamentary-meeting-ipm_en)."
             }
           ]
         },
@@ -328,103 +142,37 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Politico: Spain distances itself from call for EU to get tougher on China](https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses/)"
+              "note": "**Five member states, now including Germany, press for tougher EU trade defences while Spain breaks ranks**: Berlin [signalled support](https://www.politico.eu/article/germany-gives-ok-for-tougher-trade-action-china/) for harder action as [five EU countries called for stronger trade weapons](https://www.politico.eu/article/eu-china-economy-germany-tougher-trade-weapons) against Chinese overcapacity, even as Spain [withdrew its backing](https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses/) amid a parallel [US envoy warning](https://www.reuters.com/business/aerospace-defense/us-envoy-warns-spain-be-very-careful-deepening-ties-with-china-2026-05-27/) to be \"very careful\" deepening ties with Beijing."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Reuters: US envoy warns Spain to be 'very careful' in deepening ties with China](https://www.reuters.com/business/aerospace-defense/us-envoy-warns-spain-be-very-careful-deepening-ties-with-china-2026-05-27/)"
+              "note": "**Beijing deploys targeted economic pressure as capitals go public on retaliation risk**: China [stalled Airbus deliveries](https://www.bloomberg.com/news/articles/2026-05-27/china-stalls-airbus-deliveries-to-pressure-europe-on-comac-jets) to push Europe toward Comac jets and [warned of a response](https://www.reuters.com/world/china/china-says-eu-cherry-picking-justify-trade-curbs-warns-response-2026-05-28) accusing the EU of selective trade data, prompting [major EU capitals to speak out](https://www.ft.com/content/43399ea0-986d-4623-bf15-d2c8c991ee84) on coercion, with a French minister warning China [\"won't win anything\"](https://www.euronews.com/my-europe/2026/05/23/china-wont-win-anything-if-it-destroys-europes-industry-french-minister-tells-euronews) by destroying European industry."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Politico: Berlin gives the OK for tougher trade action on China](https://www.politico.eu/article/germany-gives-ok-for-tougher-trade-action-china/)"
+              "note": "**Investment-screening scrutiny tightens around Chinese-linked stakes**: Italy [opened a \"golden power\" probe](https://www.reuters.com/business/finance/italy-probing-whether-china-led-investors-ferretti-breached-golden-power-rules-2026-05-27) into China-led investors in shipbuilder Ferretti, as an [FT investigation](https://www.ft.com/content/d4b90b1e-e93a-4f19-9948-ebf92a58a255) tied UK and European passports to restricted Chinese investors operating across the bloc."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Politico: Five EU countries call for tougher trade weapons to tackle China](https://www.politico.eu/article/eu-china-economy-germany-tougher-trade-weapons)"
+              "note": "**China courts the EU periphery as accession-track and aspirant states keep ties warm**: Beijing said it was [willing to work with the Czech government](https://www.reuters.com/world/china/china-willing-work-with-czech-government-improve-ties-2026-05-27) to repair relations, while Serbia's Vučić [defended Belgrade's Chinese ties](https://www.euronews.com/my-europe/2026/05/25/vucic-defends-serbias-chinese-ties-on-controversial-visit-to-beijing) on a contested Beijing visit."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Reuters: Italy probing whether China-led investors in Ferretti breached 'golden power' rules](https://www.reuters.com/business/finance/italy-probing-whether-china-led-investors-ferretti-breached-golden-power-rules-2026-05-27)"
+              "note": "**A South China Sea encounter pulls a European navy into maritime friction with Beijing**: China [accused the Dutch frigate HNLMS De Ruyter](https://www.politico.eu/article/china-netherlands-warship-hnlms-de-ruyter-provocative-acts-south-china-sea) of \"provocative acts\" and [drove it from waters near the Paracel Islands](https://www.zeit.de/politik/ausland/2026-05/chinesische-marine-niederlaendische-fregatte-de-ruyter-paracel-inseln), underscoring exposure as European states project naval presence in the region."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[Reuters: China willing to work with Czech government to improve ties](https://www.reuters.com/world/china/china-willing-work-with-czech-government-improve-ties-2026-05-27)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Reuters: China stalls Airbus deliveries to push Europe on Comac jets](https://www.bloomberg.com/news/articles/2026-05-27/china-stalls-airbus-deliveries-to-pressure-europe-on-comac-jets)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Euronews: Vučić defends Serbia's Chinese ties on controversial visit to Beijing](https://www.euronews.com/my-europe/2026/05/25/vucic-defends-serbias-chinese-ties-on-controversial-visit-to-beijing)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Euronews: China 'won't win anything' if it 'destroys' Europe's industry, French minister tells Euronews](https://www.euronews.com/my-europe/2026/05/23/china-wont-win-anything-if-it-destroys-europes-industry-french-minister-tells-euronews)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[DIE ZEIT: Paracel-Inseln — China vertreibt niederländische Fregatte aus Südchinesischem Meer](https://www.zeit.de/politik/ausland/2026-05/chinesische-marine-niederlaendische-fregatte-de-ruyter-paracel-inseln)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Politico: China accuses Dutch warship of 'provocative acts' in South China Sea](https://www.politico.eu/article/china-netherlands-warship-hnlms-de-ruyter-provocative-acts-south-china-sea)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Reuters: China says EU using trade data selectively to justify import curbs, warns of response](https://www.reuters.com/world/china/china-says-eu-cherry-picking-justify-trade-curbs-warns-response-2026-05-28)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[FT: Why major EU capitals are speaking out on Chinese trade retaliation](https://www.ft.com/content/43399ea0-986d-4623-bf15-d2c8c991ee84)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Nikkei: How do European rightwing populists see China? 4 things to know](https://asia.nikkei.com/politics/international-relations/how-do-european-rightwing-populists-see-china-4-things-to-know)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Euronews: Viral posts distort Kaja Kallas' remarks on China and Russia](https://www.euronews.com/my-europe/2026/05/26/viral-posts-distort-kaja-kallas-remarks-on-china-and-russia)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[FT: UK and European passports linked to restricted Chinese investors](https://www.ft.com/content/d4b90b1e-e93a-4f19-9948-ebf92a58a255)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Reuters: Pentagon chief sounds 'alarm' over China's buildup, urges allies to boost defence spend](https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/)"
+              "note": "**Information distortion and security signalling shape the European China debate**: [Viral posts misrepresented Kaja Kallas' remarks](https://www.euronews.com/my-europe/2026/05/26/viral-posts-distort-kaja-kallas-remarks-on-china-and-russia) on China and Russia, [Nikkei mapped European rightwing populists' divergent China views](https://asia.nikkei.com/politics/international-relations/how-do-european-rightwing-populists-see-china-4-things-to-know), and the [Pentagon chief urged allies to raise defence spending](https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/) over China's military build-up."
             }
           ]
         }
