@@ -415,7 +415,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "China’s Urban Reforms Have a Long Way to Go - Bloomberg",
+          "title": "China’s Urban Reforms Have a Long Way to Go",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/opinion/articles/2026-05-26/china-s-urban-reforms-have-a-long-way-to-go",
           "bullets": [
@@ -475,7 +475,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "China Lets Policy Loan Rate Fall to Record Low to Boost Economy - Bloomberg",
+          "title": "China Lets Policy Loan Rate Fall to Record Low to Boost Economy",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-lets-policy-loan-rate-fall-to-record-low-to-boost-economy",
           "bullets": [
@@ -556,7 +556,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "China Scrutinizes Firms, Funds After AI-Fueled Stock Moves - Bloomberg",
+          "title": "China Scrutinizes Firms, Funds After AI-Fueled Stock Moves",
           "date": "2026-05-25",
           "url": "https://www.bloomberg.com/news/articles/2026-05-22/china-scrutinizes-companies-funds-after-ai-fueled-stock-moves",
           "bullets": []
@@ -572,13 +572,13 @@ window.W22_2026 = {
         {
           "outlet": "CREA",
           "author": "",
-          "title": "China energy and emissions trends april 2026 snapsho",
+          "title": "China energy and emissions trends April 2026 snapshot",
           "date": "",
           "url": "https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot",
           "bullets": []
         },
         {
-          "outlet": "Com",
+          "outlet": "Xinhua",
           "author": "",
           "title": "Maiden flight of domestic 600-kilogram-thrust-class turbofan engine",
           "date": "2026-05-27",
@@ -927,7 +927,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "Huawei Touts Chip Breakthrough to Shorten Gap With TSMC - Bloomberg",
+          "title": "Huawei Touts Chip Breakthrough to Shorten Gap With TSMC",
           "date": "2026-05-25",
           "url": "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc",
           "bullets": [
@@ -1136,7 +1136,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "Qualcomm Reaches AI Chip Supply Deal With ByteDance for Data Centers - Bloomberg",
+          "title": "Qualcomm Reaches AI Chip Supply Deal With ByteDance for Data Centers",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance",
           "bullets": [
@@ -1178,7 +1178,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "Xiaomi Profit Drops More Than Expected in Memory Chip Crunch - Bloomberg",
+          "title": "Xiaomi Profit Drops More Than Expected in Memory Chip Crunch",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/xiaomi-profit-drops-more-than-expected-in-global-memory-crunch",
           "bullets": []
@@ -1529,7 +1529,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "Why China Is Tightening Controls on Overseas Stock Trading - Bloomberg",
+          "title": "Why China Is Tightening Controls on Overseas Stock Trading",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/why-china-is-tightening-controls-on-overseas-stock-trading",
           "bullets": []
@@ -1569,7 +1569,7 @@ window.W22_2026 = {
         {
           "outlet": "WSJ",
           "author": "",
-          "title": "China Crude Imports Hit Lowest Level Since 2016, Freeing Up Asia Supply - WSJ",
+          "title": "China Crude Imports Hit Lowest Level Since 2016, Freeing Up Asia Supply",
           "date": "2026-05-26",
           "url": "https://www.wsj.com/business/energy-oil/chinas-crude-import-slowdown-eases-asia-supply-strain-from-gulf-shock-89e0e274",
           "bullets": []
@@ -1916,7 +1916,7 @@ window.W22_2026 = {
         {
           "outlet": "WSJ",
           "author": "",
-          "title": "Exclusive | U.S. Warns of Growing Russian and Chinese Spying in Cuba - WSJ",
+          "title": "Exclusive | U.S. Warns of Growing Russian and Chinese Spying in Cuba",
           "date": "2026-05-26",
           "url": "https://www.wsj.com/politics/national-security/u-s-warns-of-growing-russian-and-chinese-spying-in-cuba-a99059dd",
           "bullets": []
@@ -2126,9 +2126,9 @@ window.W22_2026 = {
           ]
         },
         {
-          "outlet": "Org",
+          "outlet": "WSJ",
           "author": "",
-          "title": "Not just commercial litigation china is trying to keep darwin por",
+          "title": "Not just commercial litigation, China is trying to keep Darwin por",
           "date": "",
           "url": "https://www.aspistrategist.org.au/not-just-commercial-litigation-china-is-trying-to-keep-darwin-port",
           "bullets": [
@@ -2243,7 +2243,7 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "Marco Rubio Unveils Indo-Pacific Monitor Plan as Hormuz Crisis Deepens - Bloomberg",
+          "title": "Marco Rubio Unveils Indo-Pacific Monitor Plan as Hormuz Crisis Deepens",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/quad-diplomats-meet-in-india-to-revive-group-after-trump-tension",
           "bullets": []
@@ -2339,724 +2339,7 @@ window.W22_2026 = {
       ]
     }
   ],
-  "chineseSourcesSections": [
-    {
-      "number": "",
-      "slug": "cn-authoritative",
-      "short": "Authoritative",
-      "label": "Authoritative texts",
-      "items": [
-        {
-          "outlet": "Qiushi 求是",
-          "author": "Xi Jinping · 习近平",
-          "title": "Forward-looking layout and development of future industries · 前瞻布局和发展未来产业",
-          "date": "2026-05-31",
-          "url": "https://www.qstheory.cn/20260601/c8ba0a40b56a4ec5b3e84a1aac3e2a5f/c.html",
-          "bullets": [
-            [
-              "Names six priority frontier sectors for the 15th Five-Year Plan",
-              "Xi designates quantum technology, biomanufacturing, hydrogen and fusion energy, brain-computer interfaces, embodied intelligence, and 6th-generation mobile communications as the main directions for cultivating future industries and new growth points."
-            ],
-            [
-              "Claims China's future industries have entered the global first tier",
-              "the article holds that Party leadership has driven competitiveness into the world's top echelon, with \"parallel-running\" and even \"leading\" positions in growing numbers of fields, while acknowledging that shortcomings and weak links remain numerous."
-            ],
-            [
-              "Casts enterprises and central SOEs as the principal force, under unified Party leadership",
-              "Xi states firms are the main body of innovation and central state-owned enterprises should be the \"main army,\" while insisting on a \"whole nation\" approach, the new-type whole-of-nation system, and balancing development with security against risks of technology loss of control, ethical breaches, and data misuse."
-            ]
-          ]
-        },
-        {
-          "outlet": "Qiushi 求是",
-          "author": "Yin Hejun · 阴和俊",
-          "title": "Leading future-industry development with high-level S&T self-reliance and self-strengthening · 以高水平科技自立自强引领未来产业发展",
-          "date": "2026-06-01",
-          "url": "https://www.aisixiang.com/data/176784.html",
-          "bullets": [
-            [
-              "New tech revolution mandates urgency",
-              "The article holds that the AI-led wave of scientific and industrial change is accelerating, citing Xi's January 2026 Politburo study session, and frames future-industry leadership as the decisive arena of great-power competition where the first to convert \"0-to-1\" breakthroughs into \"1-to-N\" industrialisation seizes dominance."
-            ],
-            [
-              "Five structural advantages enumerated",
-              "Yin asserts China possesses the new whole-nation system, a maturing innovation system (525 firms in the global industrial-R&D top 2000), the world's most complete industrial base (all 41 UN industrial categories), a super-large market (1.4bn people, 400m middle-income), and 220m-strong talent pool as unique bases for future industries."
-            ],
-            [
-              "Self-reliance gaps acknowledged",
-              "The text states original-innovation capacity remains relatively weak, certain core technologies are controlled by others, and top-tier talent is insufficient, calling for coordinated R&D attacks during the 15th Five-Year Plan toward the 2035 goal of building a science-and-technology power."
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "number": "",
-      "slug": "cn-regulatory",
-      "short": "Regulatory",
-      "label": "Regulatory & policy primary sources",
-      "items": [
-        {
-          "outlet": "NEA 国家能源局",
-          "author": "",
-          "title": "\"AI+\" Energy High-Value Scenarios (51 cases) — first batch typical application scenarios · 人工智能+ 能源高价值场景",
-          "date": "2026-05-30",
-          "url": "no-url",
-          "bullets": [
-            [
-              "Releases 51 scenarios across eight typical categories",
-              "The document states the NEA released its first batch of 51 \"AI+\" energy high-value scenarios at a national on-site promotion meeting in Guangzhou, focused on the eight typical application categories set out in the NDRC-NEA Implementation Opinions."
-            ],
-            [
-              "Targets grid, new energy and renewables",
-              "The document states AI is applied to grid planning review and dispatch operation, to incubate virtual power plants and vehicle-grid interaction, and to support renewable power forecasting and market-based operation via multi-source data fusion."
-            ],
-            [
-              "Issues a 2026 development report and policy framing",
-              "The document states the meeting also released the \"China 'AI+' Energy Development Report 2026,\" with Director Wang Hongzhi stating the NEA will accelerate bidirectional empowerment of AI and energy to advance new-quality productive forces in the sector."
-            ]
-          ]
-        },
-        {
-          "outlet": "NDRC 国家发改委",
-          "author": "",
-          "title": "Advancing Major Project Construction and Accelerating Implementation of \"AI Plus\" · 推进重大项目建设、加快人工智能+ 实施",
-          "date": "2026-05-29",
-          "url": "no-url",
-          "bullets": [
-            [
-              "\"Six Networks\" anchor 15th Five-Year infrastructure push",
-              "The document states that the new-type power grid and underground pipeline network will each draw roughly 5 trillion yuan in investment over the 15th Five-Year Plan period, building or renovating some 770,000 kilometers of pipelines."
-            ],
-            [
-              "Dynamic project pipeline mechanism set out",
-              "The document states the NDRC will issue plans with year-by-year task breakdowns, operate an \"implementing, preparing, reserving, planning one batch\" rotation, and coordinate government funds and new-type policy financial instruments to support private investment."
-            ]
-          ]
-        },
-        {
-          "outlet": "State Council 国务院",
-          "author": "",
-          "title": "Implementation Opinions on Promoting the Provision of Basic Public Services at Place of Habitual Residence · 关于推行常住地提供基本公共服务的实施意见",
-          "date": "2026-05-22",
-          "url": "no-url",
-          "bullets": [
-            [
-              "Mandates equal medical-insurance access in megacities",
-              "The document states that megacities, super-large cities, and all other city types must safeguard the right of non-locally-registered children and others to enroll in basic medical insurance at their place of habitual residence on the basis of a residence permit."
-            ],
-            [
-              "Requires identical fiscal subsidies for permit-based enrollees",
-              "The document states that localities must provide fiscal subsidies to residence-permit-based enrollees at the same standard as for registered residents, with reimbursement ratios, deductibles, and covered drugs and treatments fully consistent with those for local residents."
-            ]
-          ]
-        },
-        {
-          "outlet": "CSRC + 7 agencies",
-          "author": "",
-          "title": "Implementation Plan for the Comprehensive Rectification of Illegal Cross-Border Securities, Futures and Fund Business Activities · 综合整治非法跨境证券期货基金经营活动实施方案",
-          "date": "2026-05-22",
-          "url": "https://www.csrc.gov.cn/csrc/c100028/c7634326/content.shtml",
-          "bullets": [
-            [
-              "Two-year campaign to shut down offshore brokers",
-              "The document sets a two-year concentrated rectification period to fully shut down illegal cross-border operations by overseas securities, futures and fund institutions and to investigate institutions in serious violation."
-            ],
-            [
-              "Targets the full domestic enabling chain",
-              "The plan says rectification covers domestic affiliates and intermediaries that help overseas institutions solicit investors and open accounts, plus websites, apps and self-media publishing account-opening tutorials and marketing."
-            ],
-            [
-              "Goal is phased wind-down of existing accounts",
-              "It states the aim of \"resolutely shutting down illegal activities and prudently winding down existing positions,\" gradually reducing the scale of illegal domestic investor accounts and assets in phases."
-            ]
-          ]
-        },
-        {
-          "outlet": "State Council 国务院",
-          "author": "",
-          "title": "Implementing Opinions on Rolling Out the Provision of Basic Public Services by Place of Permanent Residence · 关于按常住地提供基本公共服务的实施意见 (Guo Fa [2026] No. 11)",
-          "date": "2026-05-22",
-          "url": "no-url",
-          "bullets": [
-            [
-              "Delinks basic public services from hukou",
-              "The document says it will progressively eliminate the linkage between basic public services and household registration so unregistered permanent residents enjoy services on an equal footing with the registered population."
-            ],
-            [
-              "Mandates education guarantees for migrant children",
-              "The document says receiving-city governments must expand public-school places, purchase places where capacity falls short, equalise \"nine-year through\" promotion, and let eligible migrant children sit higher-school entrance exams in their place of permanent residence."
-            ],
-            [
-              "Expands public rental housing coverage",
-              "The document says more cities are to bring stably employed unregistered permanent residents into public rental housing protection, setting eligibility by length of employment and residence and degree of housing difficulty."
-            ]
-          ]
-        },
-        {
-          "outlet": "State Council 国务院",
-          "author": "",
-          "title": "Regulations on Outbound Investment · 国务院关于对外投资的规定 (State Council Order No. 837)",
-          "date": "2026-05-05",
-          "url": "https://www.gov.cn/zhengce/content/202606/content_7070755.htm",
-          "bullets": [
-            [
-              "Codifies dispersed rules into a 34-article State Council regulation",
-              "The text, signed by Li Qiang on May 5 and effective July 1, replaces a departmental-rules model the Q&A says no longer fits geopolitical risk and competition."
-            ],
-            [
-              "Article 13 closes export-control workarounds",
-              "It bars transferring restricted goods, technology, services, or data abroad via dispatched personnel, cross-border technical guidance, or overseas training, targeting circumvention routes used by firms like Manus."
-            ],
-            [
-              "Articles 24-25 codify discretionary countermeasures",
-              "The joint Q&A from Justice, NDRC, and MOFCOM frames potential responses to \"discriminatory\" foreign measures as \"protective, defensive\" while empowering Beijing to act under the Anti-Foreign Sanctions Law."
-            ]
-          ]
-        },
-        {
-          "outlet": "gov.cn",
-          "author": "",
-          "title": "China moves to provide basic public services based on residence",
-          "date": "2026-05-25",
-          "url": "https://english.www.gov.cn/policies/latestreleases/202605/22/content_WS6a104f0cc6d00ca5f9a0b2d2.html",
-          "bullets": [
-            [
-              "State Council decouples basic services from household registration location",
-              "China issued guidelines extending public services to residents based on where they live rather than their hukou registration, according to gov.cn."
-            ],
-            [
-              "Reform framed as part of \"people-centered\" new urbanization policy",
-              "The guidelines are positioned as supporting the government's urbanization strategy, the State Council announcement states."
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "number": "",
-      "slug": "cn-journalism",
-      "short": "CN journalism",
-      "label": "Quality CN journalism",
-      "items": [
-        {
-          "outlet": "Caixin Global",
-          "author": "",
-          "title": "EU business confidence in China remains low despite modest improvement, survey shows",
-          "date": "2026-05-27",
-          "url": "https://www.caixinglobal.com/2026-05-27/eu-business-confidence-in-china-remains-low-despite-modest-improvement-survey-shows-102447674.html",
-          "bullets": [
-            [
-              "EU business confidence in China edged up from record lows",
-              "The EU Chamber of Commerce survey found modest improvement in profitability and growth expectations, but reported that overall operating conditions continue to deteriorate."
-            ],
-            [
-              "Regulatory uncertainty and market access remain central complaints",
-              "Surveyed firms cited slower economic growth, fierce competition, and restricted market access as persistent obstacles to a meaningful recovery."
-            ]
-          ]
-        },
-        {
-          "outlet": "Jiemian",
-          "author": "",
-          "title": "How is China’s aluminium industry responding to the looming “carbon tariff” pressure?",
-          "date": "2026-05-25",
-          "url": "https://www.jiemian.com/article/14473498.html",
-          "bullets": [
-            [
-              "EU CBAM turns carbon emissions into a direct export cost",
-              "Chinese aluminium producers face EU-assigned default emissions values that raise the price of access to the European market, according to Jiemian."
-            ],
-            [
-              "Producers are responding with green power, carbon verification, and recycled aluminium",
-              "These measures aim to reduce verified carbon intensity and preserve export competitiveness as the tariff regime takes effect in 2026."
-            ]
-          ]
-        },
-        {
-          "outlet": "Jiemian",
-          "author": "",
-          "title": "China Commerce Ministry calls EU steel tariff plan protectionism",
-          "date": "2026-05-28",
-          "url": "https://www.jiemian.com/article/14499002.html",
-          "bullets": [
-            [
-              "MOFCOM labels EU steel tariff plan trade protectionism",
-              "Spokesperson He Yadong said the measures would damage China-EU steel trade and global supply chains, and threatened countermeasures if Chinese companies face discriminatory treatment."
-            ],
-            [
-              "EU Parliament reportedly raised foreign steel import tariffs to 50%",
-              "The new rules also cut tariff-free import quotas by 47%, according to Jiemian."
-            ]
-          ]
-        },
-        {
-          "outlet": "Caixin Global",
-          "author": "",
-          "title": "Economists urge export tax rebate cuts as trade surplus hits record",
-          "date": "2026-05-29",
-          "url": "https://www.caixinglobal.com/2026-05-29/economists-urge-export-tax-rebate-cuts-as-trade-surplus-hits-record-102448715.html",
-          "bullets": [
-            [
-              "Chinese economists call for targeted export tax rebate cuts",
-              "Policy advisers argue fiscal savings from rebate reductions should be redirected to household and rural income support, Caixin Global reports."
-            ],
-            [
-              "China's trade surplus reached a record $1.2 trillion in 2025",
-              "The figure has sharpened debate over whether broad-based export tax relief remains justified as manufacturing competitiveness strengthens and trade tensions intensify."
-            ]
-          ]
-        },
-        {
-          "outlet": "Caixin",
-          "author": "",
-          "title": "Hong Kong banks tighten checks on mainland clients, with some Chinese banks suspending new investment accounts",
-          "date": "2026-05-27",
-          "url": "https://finance.caixin.com/m/2026-05-27/102447909.html",
-          "bullets": [
-            [
-              "HKMA circular requires Hong Kong banks to apply additional controls when opening investment accounts for mainland clients",
-              "The new rules align bank procedures with those already imposed on licensed brokers, according to Caixin."
-            ],
-            [
-              "Mainland customers must submit written declarations confirming all investment funds originate from lawful sources outside the Chinese mainland",
-              "The declaration covers both investment activity funding and settlement flows."
-            ],
-            [
-              "At least two Chinese banks began restricting mainland clients ahead of any formal rollout",
-              "Bank of China (Hong Kong) discouraged new investment account openings on May 26, while a second Chinese joint-stock bank suspended them outright."
-            ]
-          ]
-        },
-        {
-          "outlet": "Caixin Global",
-          "author": "",
-          "title": "APEC ministers agree on digital trade, ai and supply chains in China talks",
-          "date": "2026-05-25",
-          "url": "https://www.caixinglobal.com/2026-05-25/apec-ministers-agree-on-digital-trade-ai-and-supply-chains-in-china-talks-102447383.html",
-          "bullets": [
-            [
-              "APEC trade ministers reached consensus on digital trade and AI in Suzhou",
-              "The meeting also agreed a services roadmap to reduce barriers to services trade and support jobs, Caixin reports."
-            ],
-            [
-              "Talks convened against a backdrop of rising trade restrictions",
-              "Ministers gathered amid geopolitical tensions weighing on global and regional growth, according to Caixin."
-            ]
-          ]
-        },
-        {
-          "outlet": "21st Century Business Herald",
-          "author": "",
-          "title": "China’s Vice Minister of Commerce and Deputy International Trade Representative Ling Ji meets German SME delegation",
-          "date": "2026-05-27",
-          "url": "https://www.21jingji.com/article/20260527/herald/82882b5653a45089e95431c037584062.html",
-          "bullets": [
-            [
-              "Ling Ji cited stable ties and deepening supply chain integration",
-              "Speaking to a German SME delegation, the Vice Minister said bilateral industrial and supply chains are increasingly intertwined."
-            ],
-            [
-              "Both sides expressed support for expanded German SME investment in China",
-              "Ling Ji invited German firms to share development opportunities; the German delegation pledged to encourage more SMEs to invest and cooperate."
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "number": "",
-      "slug": "cn-mfa",
-      "short": "Positions",
-      "label": "Government positions & readouts",
-      "items": [
-        {
-          "outlet": "PRC + Serbia",
-          "author": "",
-          "title": "Joint Statement on Jointly Promoting the New Era China-Serbia Iron-Clad Friendship · 中塞两国关于共同推进新时代中塞铁杆友谊的联合声明",
-          "date": "2026-05-25",
-          "url": "no-url",
-          "bullets": [
-            [
-              "Serbia endorses all four Chinese global initiatives",
-              "The statement says Serbia commends and supports the Global Development, Security, Civilization and Governance Initiatives proposed by Xi Jinping, issued during Vučić's May 24-28 state visit to China."
-            ],
-            [
-              "Belgrade joins the Global Development Initiative friends group",
-              "The document says Serbia decided to join the \"Group of Friends of the Global Development Initiative\" and that both sides will implement a related memorandum of understanding and the UN 2030 Agenda."
-            ],
-            [
-              "Both sides pledge to oppose hegemonism and power politics",
-              "The statement says China and Serbia will strengthen coordination in the UN and other multilateral mechanisms, practice true multilateralism, and uphold the WTO-centered multilateral trading system."
-            ]
-          ]
-        },
-        {
-          "outlet": "PRC + Pakistan",
-          "author": "",
-          "title": "Joint Statement of the People's Republic of China and the Islamic Republic of Pakistan · 中华人民共和国和巴基斯坦伊斯兰共和国联合声明",
-          "date": "2026-05-25",
-          "url": "no-url",
-          "bullets": [
-            [
-              "All-weather partnership reaffirmed on 75th anniversary",
-              "The statement says both sides will accelerate building a closer China-Pakistan community with a shared future in the new era and implement the 2025-2029 Action Plan, deepening political mutual trust, practical cooperation, and defense and security cooperation."
-            ],
-            [
-              "Pakistan endorses Xi's global initiatives",
-              "The document says Pakistan highly values and supports the vision of a community with a shared future for mankind and all four of Xi Jinping's global initiatives on development, security, civilization, and governance."
-            ]
-          ]
-        },
-        {
-          "outlet": "mfa.gov.cn",
-          "author": "",
-          "title": "Wang Yi meets Portuguese foreign minister Rangel",
-          "date": "2026-05-28",
-          "url": "https://www.mfa.gov.cn/web/wjbz_673089/xghd_673097/202605/t20260528_11919512.shtml",
-          "bullets": [
-            [
-              "Wang Yi frames Portugal as a channel for China-EU relations",
-              "He called on Lisbon to help promote bilateral ties and cited new energy and AI as priority cooperation areas."
-            ],
-            [
-              "Portuguese FM reaffirmed the one-China policy and opposition to protectionism",
-              "Rangel expressed willingness to support stable EU-China relations and endorsed free trade principles."
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua News",
-          "author": "",
-          "title": "Li Hongzhong leads NPC delegation on visit to Albania",
-          "date": "2026-05-25",
-          "url": "http://www.npc.gov.cn/npc/c2/kgfb/202605/t20260525_454992.html",
-          "bullets": [
-            [
-              "Li Hongzhong visits Albania to strengthen bilateral legislative ties",
-              "China's NPC delegation met senior Albanian officials during a three-day trip aimed at deepening political trust and practical cooperation."
-            ],
-            [
-              "China invoked Albania's 1971 UN vote to frame the partnership",
-              "Officials highlighted Albania's historical role in restoring China's UN seat as a foundation for expanding bilateral relations."
-            ]
-          ]
-        },
-        {
-          "outlet": "MFA spokesperson Mao Ning",
-          "author": "",
-          "title": "Regular Press Conference, 26 May 2026",
-          "date": "2026-05-26",
-          "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202605/t20260526_11919210.html",
-          "bullets": [
-            [
-              "Daily press briefing covered EU trade defense + Iran war + Taiwan delegation",
-              "Mao Ning addressed questions on EU Commission de-risking debate, US-Iran talks, the Bundestag visit to Taiwan, and bilateral readouts from Wang Yi's meetings."
-            ],
-            [
-              "Standard MFA framing on EU policy",
-              "Beijing maintained its position that protectionism harms both sides and reaffirmed support for stable EU-China dialogue."
-            ]
-          ]
-        },
-        {
-          "outlet": "MFA spokesperson Mao Ning",
-          "author": "",
-          "title": "Regular Press Conference, 25 May 2026",
-          "date": "2026-05-25",
-          "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202605/t20260525_11918710.html",
-          "bullets": [
-            [
-              "Sharp rebuke of Bundestag delegation visit to Taiwan",
-              "Mao Ning criticised the German MPs' Taipei visit as sending \"wrong signals\" to \"Taiwan independence\" forces, urging Berlin to abide by the one-China principle."
-            ],
-            [
-              "Routine items on trade, regional security, and bilateral meetings",
-              "Covered briefings on EU-China economic talks, ASEAN engagement, and clarifications on China-Japan and China-Philippines maritime issues."
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "number": "",
-      "slug": "cn-thinktanks",
-      "short": "Thinking",
-      "label": "Chinese thinking",
-      "items": [
-        {
-          "outlet": "Aisixiang 爱思想",
-          "author": "Jia Kang · 贾康",
-          "title": "Risk constraints on China's economic growth and breakthrough paths · 影响我国经济增长的风险制约与化解突破路径",
-          "date": "2026-05-27",
-          "url": "https://www.aisixiang.com/data/176530.html",
-          "bullets": [
-            [
-              "Five structural drag dimensions on high-quality growth",
-              "The author argues that as China shifts from extensive to high-quality intensive growth, structural contradictions and risk points across institutional innovation, technological innovation, industrial upgrading, macro governance, and micro management are sapping growth momentum."
-            ],
-            [
-              "Entrenched interests as the deep-water reform bottleneck",
-              "The article maintains that reform has exhausted the space for \"Pareto improvements,\" and breaking through \"the barriers of entrenched interests\" via top-down/bottom-up reform coordination, fault-tolerance mechanisms, and shared-interest arrangements is now the decisive test for liberating productive forces."
-            ],
-            [
-              "Three disconnects in digital-real economy innovation",
-              "The author argues technological innovation suffers from gaps between R&D investment and industrial application (central SOE conversion rates below 15%), malfunctioning innovation consortia, and standards outpacing application, proposing \"call-to-arms 2.0\" mechanisms and a data-factor market to build an innovation ecosystem."
-            ]
-          ]
-        },
-        {
-          "outlet": "Aisixiang 爱思想",
-          "author": "Huang Yibing · 黄一兵",
-          "title": "Benefiting the people is the greatest political achievement · 为民造福是最大政绩",
-          "date": "2026-05-26",
-          "url": "https://www.aisixiang.com/data/176465.html",
-          "bullets": [
-            [
-              "Correct view of achievement rooted in serving the public",
-              "The author argues that \"benefiting the people is the greatest political achievement\" embodies the principle of building the party for the public and governing for the people, and that the deeper question behind any view of achievement is for whom one works and what name or profit is sought."
-            ],
-            [
-              "Materialist conception of history places the people as creators",
-              "The article maintains that the people are the creators of history and the decisive force in social change, so cadres must consult and rely on the masses rather than produce vanity \"image projects\" or unrealistic \"achievement projects\" detached from popular interests."
-            ],
-            [
-              "Practical aim of improving people's lives",
-              "The author states that the people's aspiration for a better life is the party's goal, which must be realized step by step through solid achievements that let the public see change and gain tangible benefits."
-            ]
-          ]
-        },
-        {
-          "outlet": "Aisixiang 爱思想",
-          "author": "Zuo Xiying · 左希迎",
-          "title": "The Trump administration and the formation of US predatory hegemony · 特朗普政府与美国掠夺性霸权的形成",
-          "date": "2026-05-27",
-          "url": "https://www.aisixiang.com/data/176536.html",
-          "bullets": [
-            [
-              "Predatory turn rooted in oligarchic government",
-              "The author argues that in his second term Trump declines to act as a \"benevolent hegemon\" providing public goods and instead converts US hegemony into a predatory model, a shift the article roots in the social fact that the US government has become an oligarchy."
-            ],
-            [
-              "Predatory toolkit targets allies and trade partners",
-              "The article maintains that this hegemony operates by forcing allies to share international burdens, imposing tariffs on trade partners, abusing \"long-arm jurisdiction\" to seize quality assets, and profiting from war, in order to feed US dominance by extracting global strategic resources."
-            ],
-            [
-              "Recommends cautious Chinese response",
-              "The author contends the transformation will dissolve American exceptionalism and may spark new international crises and sharpened geopolitical confrontation, and that China should treat the shift with strategic and tactical caution."
-            ]
-          ]
-        },
-        {
-          "outlet": "Aisixiang 爱思想",
-          "author": "Qi Weiping · 齐卫平",
-          "title": "Reading the Party-Centre 15th-FYP proposal through the lens of comprehensive Party leadership · 从党中央关于制定\"十五五\"规划的建议看党的全面领导",
-          "date": "2026-05-29",
-          "url": "https://www.aisixiang.com/data/176635.html",
-          "bullets": [
-            [
-              "Five-year planning framed as core governance experience",
-              "The author argues that drafting and implementing successive five-year plans is a key Party governance experience and a political advantage of socialism with Chinese characteristics, tracing the practice from the 1953-1957 First Five-Year Plan to the current 15th-FYP proposal."
-            ],
-            [
-              "Comprehensive Party leadership cast as indispensable",
-              "The article maintains that upholding the Party's comprehensive leadership is the fundamental guarantee for formulating and implementing the 15th-FYP, citing the Fourth Plenum of the 20th Central Committee and Xi Jinping's accompanying explanatory note."
-            ],
-            [
-              "Plan-drafting process presented as expression of Party leadership",
-              "The author contends that the three new-era five-year plans embodied Party leadership through soliciting public opinion, setting guiding principles, focusing on priority issues, applying the Party's theoretical innovations, and maintaining a systems approach."
-            ]
-          ]
-        },
-        {
-          "outlet": "Aisixiang 爱思想",
-          "author": "Jiang Changyun · 姜长云",
-          "title": "Deepening industrial convergence to empower the modern industrial system · 深化产业融合赋能现代化产业体系建设",
-          "date": "2026-05-28",
-          "url": "https://www.aisixiang.com/data/176591.html",
-          "bullets": [
-            [
-              "Industrial convergence framed as core path",
-              "The author argues that industrial convergence has become a new trend in building a modern industrial system and a new route for developing \"new quality productive forces,\" citing the 15th Five-Year Plan's call to deepen integration of manufacturing, services, and agriculture."
-            ],
-            [
-              "New technological revolution drives融合 [convergence]",
-              "The article maintains that the current wave of AI, big data, and Internet-of-Things technologies is shortening the cycle from scientific to technological to industrial revolution and tightening the two-way interaction between technological and industrial innovation."
-            ],
-            [
-              "Policy measures proposed",
-              "The author recommends a services-sector quality-and-capacity drive, industrial policy that prioritizes innovation ecosystems and industrial-chain modernization, and more inclusive regulation that encourages new industrial-convergence scenarios."
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "number": "",
-      "slug": "cn-media",
-      "short": "CN ↔ EU/GER",
-      "label": "CN coverage of EU/GER",
-      "items": [
-        {
-          "outlet": "huanqiu.com",
-          "author": "",
-          "title": "Brussels needs a new narrative on China-EU relations",
-          "date": "2026-05-28",
-          "url": "https://hqtime.huanqiu.com/article/4Rjxg6Vv4bk",
-          "bullets": [
-            [
-              "Brussels' China approach stuck in crisis management, commentary argues",
-              "The article says the EU's focus on dependency reduction has been too narrow, with both sides having \"forgotten how to speak to one another.\""
-            ],
-            [
-              "Commentary urges Europe to reset diplomatic language and tone toward China",
-              "The article stresses that symbolic communication, positive narratives, and diplomatic rituals carry weight in China's foreign relations and calls for a shift in Europe's approach."
-            ]
-          ]
-        },
-        {
-          "outlet": "Global Times",
-          "author": "",
-          "title": "Brussels should listen to rational voices: Global Times editorial",
-          "date": "2026-05-28",
-          "url": "https://www.globaltimes.cn/page/202605/1362214.shtml",
-          "bullets": [
-            [
-              "Germany and Spain oppose EU telecom vendor curbs",
-              "The editorial, citing Bloomberg, frames their resistance as evidence of growing European pragmatism toward Chinese suppliers."
-            ],
-            [
-              "Phasing out Chinese equipment projected to cost the EU over $400 billion",
-              "The commentary argues exclusion would raise costs and weaken competitiveness between 2026 and 2030."
-            ],
-            [
-              "68% of European firms maintaining or expanding China operations",
-              "The editorial cites the survey figure to argue that economic cooperation with China remains the preferred course for European business."
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "author": "",
-          "title": "China negotiating with EU on new steel tariffs: commerce ministry",
-          "date": "2026-05-28",
-          "url": "https://english.news.cn/20260528/150f5e94b7284bf89c32a7afa3894d67/c.html",
-          "bullets": [
-            [
-              "China confirms WTO-framework talks with EU over steel tariffs set for July 1",
-              "The Ministry of Commerce said negotiations are under way to address the EU's planned new steel levies before they take effect."
-            ],
-            [
-              "Beijing labels the EU measures trade protectionism",
-              "Spokesperson He Yadong said the tariffs would disrupt China-EU steel trade and destabilise global supply chains, according to Xinhua."
-            ]
-          ]
-        },
-        {
-          "outlet": "Global Times",
-          "author": "",
-          "title": "China urges EU to honor commitment to free trade, warns of response after Brussels’ addressing ‘imbalanced trade’ rhetoric",
-          "date": "2026-05-28",
-          "url": "https://www.globaltimes.cn/page/202605/1362200.shtml",
-          "bullets": [
-            [
-              "China's Foreign Ministry called EU trade restrictions protectionist",
-              "Spokesperson Mao Ning urged the EU to view bilateral trade relations objectively and said \"de-risking\" measures harm European consumers and competitiveness."
-            ],
-            [
-              "China is contesting planned EU steel import restrictions via WTO negotiations",
-              "Beijing warned it would take \"necessary measures\" to protect its interests if Brussels proceeds with expanded quotas and tariffs on Chinese goods."
-            ]
-          ]
-        },
-        {
-          "outlet": "china.com.cn",
-          "author": "",
-          "title": "EU’s provocation of economic and trade frictions with China is a costly strategic misjudgment",
-          "date": "2026-05-28",
-          "url": "http://www.china.com.cn/opinion/2026-05/28/content_118514722.html",
-          "bullets": [
-            [
-              "china.com.cn attributes EU 2026 trade barriers to industrial anxiety",
-              "The commentary names the Cybersecurity Act revision, Industrial Accelerator Act, and steel protection plan as examples of discriminatory escalation driven by \"de-risking\" agenda and value-based bias toward China."
-            ],
-            [
-              "Author contends EU measures will deepen Europe's strategic predicament",
-              "The piece argues that trade barriers will not restore European competitiveness but will damage mutually beneficial China-EU ties and worsen the EU's position amid strained relations with Russia and the US."
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "author": "",
-          "title": "EU should put trade ties with China in perspective: Chinese FM spokesperson",
-          "date": "2026-05-28",
-          "url": "https://english.news.cn/20260528/1c263168dff1449da9bea3ed97614469/c.html",
-          "bullets": [
-            [
-              "Chinese MFA urges EU to uphold free-trade principles over new trade tools",
-              "Spokesperson Mao Ning said at a daily briefing that the EU should \"honor its commitment to free trade\" in response to EU industry chief plans to expand measures addressing trade imbalances with China."
-            ],
-            [
-              "Beijing characterizes bilateral trade as mutually beneficial and non-coercive",
-              "Mao stated that \"international trade is a two-way street\" and \"there's no forced trade,\" describing China-EU trade relations as \"win-win in nature.\""
-            ]
-          ]
-        },
-        {
-          "outlet": "China Daily",
-          "author": "",
-          "title": "Takeaway from Sino-German economic relations for Brussels",
-          "date": "2026-05-28",
-          "url": "https://www.chinadaily.com.cn/a/202605/28/WS6a183c5fa310d6866eb4b466.html",
-          "bullets": [
-            [
-              "China Daily uses Reiche's Beijing visit to argue the EU should follow Germany's dialogue-first approach",
-              "The article frames both Merz's and Reiche's trips to China as evidence that Berlin prefers engagement over confrontation, and calls on Brussels to do the same."
-            ],
-            [
-              "The piece explicitly frames EU overcapacity measures as \"strategic anxieties\" overriding economic self-interest",
-              "China Daily argues Europe can trade successfully with China without political alignment, and implies the overcapacity debate is a threat to European prosperity."
-            ]
-          ]
-        },
-        {
-          "outlet": "Global Times",
-          "author": "",
-          "title": "The EU should neither engage in nor afford a ‘trade war with China’: Global Times editorial",
-          "date": "2026-05-26",
-          "url": "https://www.globaltimes.cn/page/202605/1361926.shtml",
-          "bullets": [
-            [
-              "Five EU states jointly proposed higher tariffs on Chinese goods",
-              "Spain, France, Italy, the Netherlands, and Lithuania circulated a paper calling for \"assertive trade defense\" ahead of a European Commission meeting, the editorial reports."
-            ],
-            [
-              "Global Times editorial rejects EU trade-defense proposals as self-defeating",
-              "The piece argues Europe \"should neither engage in nor afford\" a trade war with China, framing assertive measures - including Macron's Section 301 - style tariffs - as economically harmful to the EU itself."
-            ]
-          ]
-        },
-        {
-          "outlet": "China Daily",
-          "author": "",
-          "title": "Protectionism undermines China-EU cooperation",
-          "date": "2026-05-25",
-          "url": "https://www.chinadaily.com.cn/a/202605/25/WS6a13a618a310d6866eb4a781.html",
-          "bullets": [
-            [
-              "China Daily links EU green trade frictions to competitiveness and energy security pressures",
-              "The commentary argues that continued restrictions on Chinese green products and companies would raise the EU's own green transition costs."
-            ],
-            [
-              "Article frames China-EU green cooperation as serving mutual and global climate interests",
-              "Dialogue and pragmatic cooperation are presented as the appropriate mechanism for managing bilateral differences."
-            ]
-          ]
-        }
-      ]
-    }
-  ],
+  "chineseSourcesSections": [],
   "topCharts": [
     {
       "src": "assets/charts/W22-2026-chart-1.png",
