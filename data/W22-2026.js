@@ -2232,6 +2232,58 @@ window.W22_2026 = {
       "label": "Regulatory & policy primary sources",
       "items": [
         {
+          "outlet": "NEA 国家能源局",
+          "title": "\"AI+\" Energy High-Value Scenarios (51 cases) — first batch typical application scenarios 人工智能+ 能源高价值场景",
+          "date": "2026-05-30",
+          "url": "no-url",
+          "bullets": [
+            [
+              "Releases 51 scenarios across eight typical categories",
+              "The document states the NEA released its first batch of 51 \"AI+\" energy high-value scenarios at a national on-site promotion meeting in Guangzhou, focused on the eight typical application categories set out in the NDRC-NEA Implementation Opinions."
+            ],
+            [
+              "Targets grid, new energy and renewables",
+              "The document states AI is applied to grid planning review and dispatch operation, to incubate virtual power plants and vehicle-grid interaction, and to support renewable power forecasting and market-based operation via multi-source data fusion."
+            ],
+            [
+              "Issues a 2026 development report and policy framing",
+              "The document states the meeting also released the \"China 'AI+' Energy Development Report 2026,\" with Director Wang Hongzhi stating the NEA will accelerate bidirectional empowerment of AI and energy to advance new-quality productive forces in the sector."
+            ]
+          ]
+        },
+        {
+          "outlet": "NDRC 国家发改委",
+          "title": "Advancing Major Project Construction and Accelerating Implementation of \"AI Plus\" 推进重大项目建设、加快人工智能+ 实施",
+          "date": "2026-05-29",
+          "url": "no-url",
+          "bullets": [
+            [
+              "\"Six Networks\" anchor 15th Five-Year infrastructure push",
+              "The document states that the new-type power grid and underground pipeline network will each draw roughly 5 trillion yuan in investment over the 15th Five-Year Plan period, building or renovating some 770,000 kilometers of pipelines."
+            ],
+            [
+              "Dynamic project pipeline mechanism set out",
+              "The document states the NDRC will issue plans with year-by-year task breakdowns, operate an \"implementing, preparing, reserving, planning one batch\" rotation, and coordinate government funds and new-type policy financial instruments to support private investment."
+            ]
+          ]
+        },
+        {
+          "outlet": "State Council 国务院",
+          "title": "Implementation Opinions on Promoting the Provision of Basic Public Services at Place of Habitual Residence 关于推行常住地提供基本公共服务的实施意见",
+          "date": "2026-05-22",
+          "url": "no-url",
+          "bullets": [
+            [
+              "Mandates equal medical-insurance access in megacities",
+              "The document states that megacities, super-large cities, and all other city types must safeguard the right of non-locally-registered children and others to enroll in basic medical insurance at their place of habitual residence on the basis of a residence permit."
+            ],
+            [
+              "Requires identical fiscal subsidies for permit-based enrollees",
+              "The document states that localities must provide fiscal subsidies to residence-permit-based enrollees at the same standard as for registered residents, with reimbursement ratios, deductibles, and covered drugs and treatments fully consistent with those for local residents."
+            ]
+          ]
+        },
+        {
           "outlet": "CSRC + 7 agencies",
           "title": "Implementation Plan for the Comprehensive Rectification of Illegal Cross-Border Securities, Futures and Fund Business Activities 综合整治非法跨境证券期货基金经营活动实施方案",
           "date": "2026-05-22",
