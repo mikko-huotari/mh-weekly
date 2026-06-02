@@ -657,8 +657,8 @@ window.W22_2026 = {
         {
           "outlet": "WSJ",
           "author": "",
-          "title": "China is throwing christians in jail but this pastor refuses to back down fd4c88dd",
-          "date": "",
+          "title": "China is throwing Christians in jail, but this pastor refuses to back down",
+          "date": "2026-05-27",
           "url": "https://www.wsj.com/world/china/china-is-throwing-christians-in-jail-but-this-pastor-refuses-to-back-down-fd4c88dd",
           "bullets": [
             [
