@@ -171,6 +171,7 @@
         <div class="entry-meta">
           ${badge}
           <span class="entry-outlet">${esc(e.outlet || "")}</span>
+          ${e.author ? `<span class="entry-sep">&middot;</span><span class="entry-author">${esc(e.author)}</span>` : ""}
           ${date ? `<span class="entry-sep">&middot;</span><span class="entry-date">${esc(date)}</span>` : ""}
         </div>`;
 
