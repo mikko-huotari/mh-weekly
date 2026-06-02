@@ -2232,38 +2232,6 @@ window.W22_2026 = {
           ]
         },
         {
-          "outlet": "mfa.gov.cn",
-          "title": "Wang Yi meets Portuguese foreign minister Rangel",
-          "date": "2026-05-28",
-          "url": "https://www.mfa.gov.cn/web/wjbz_673089/xghd_673097/202605/t20260528_11919512.shtml",
-          "bullets": [
-            [
-              "Wang Yi frames Portugal as a channel for China-EU relations",
-              "He called on Lisbon to help promote bilateral ties and cited new energy and AI as priority cooperation areas."
-            ],
-            [
-              "Portuguese FM reaffirmed the one-China policy and opposition to protectionism",
-              "Rangel expressed willingness to support stable EU-China relations and endorsed free trade principles."
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua News",
-          "title": "Li Hongzhong leads NPC delegation on visit to Albania",
-          "date": "2026-05-25",
-          "url": "http://www.npc.gov.cn/npc/c2/kgfb/202605/t20260525_454992.html",
-          "bullets": [
-            [
-              "Li Hongzhong visits Albania to strengthen bilateral legislative ties",
-              "China's NPC delegation met senior Albanian officials during a three-day trip aimed at deepening political trust and practical cooperation."
-            ],
-            [
-              "China invoked Albania's 1971 UN vote to frame the partnership",
-              "Officials highlighted Albania's historical role in restoring China's UN seat as a foundation for expanding bilateral relations."
-            ]
-          ]
-        },
-        {
           "outlet": "gov.cn",
           "title": "China moves to provide basic public services based on residence",
           "date": "2026-05-25",
@@ -2416,6 +2384,78 @@ window.W22_2026 = {
             [
               "Both sides expressed support for expanded German SME investment in China",
               "Ling Ji invited German firms to share development opportunities; the German delegation pledged to encourage more SMEs to invest and cooperate."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "number": "",
+      "slug": "cn-mfa",
+      "short": "Positions",
+      "label": "Government positions & readouts",
+      "items": [
+        {
+          "outlet": "mfa.gov.cn",
+          "title": "Wang Yi meets Portuguese foreign minister Rangel",
+          "date": "2026-05-28",
+          "url": "https://www.mfa.gov.cn/web/wjbz_673089/xghd_673097/202605/t20260528_11919512.shtml",
+          "bullets": [
+            [
+              "Wang Yi frames Portugal as a channel for China-EU relations",
+              "He called on Lisbon to help promote bilateral ties and cited new energy and AI as priority cooperation areas."
+            ],
+            [
+              "Portuguese FM reaffirmed the one-China policy and opposition to protectionism",
+              "Rangel expressed willingness to support stable EU-China relations and endorsed free trade principles."
+            ]
+          ]
+        },
+        {
+          "outlet": "Xinhua News",
+          "title": "Li Hongzhong leads NPC delegation on visit to Albania",
+          "date": "2026-05-25",
+          "url": "http://www.npc.gov.cn/npc/c2/kgfb/202605/t20260525_454992.html",
+          "bullets": [
+            [
+              "Li Hongzhong visits Albania to strengthen bilateral legislative ties",
+              "China's NPC delegation met senior Albanian officials during a three-day trip aimed at deepening political trust and practical cooperation."
+            ],
+            [
+              "China invoked Albania's 1971 UN vote to frame the partnership",
+              "Officials highlighted Albania's historical role in restoring China's UN seat as a foundation for expanding bilateral relations."
+            ]
+          ]
+        },
+        {
+          "outlet": "MFA spokesperson Mao Ning",
+          "title": "Regular Press Conference, 26 May 2026",
+          "date": "2026-05-26",
+          "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202605/t20260526_11919210.html",
+          "bullets": [
+            [
+              "Daily press briefing covered EU trade defense + Iran war + Taiwan delegation",
+              "Mao Ning addressed questions on EU Commission de-risking debate, US-Iran talks, the Bundestag visit to Taiwan, and bilateral readouts from Wang Yi's meetings."
+            ],
+            [
+              "Standard MFA framing on EU policy",
+              "Beijing maintained its position that protectionism harms both sides and reaffirmed support for stable EU-China dialogue."
+            ]
+          ]
+        },
+        {
+          "outlet": "MFA spokesperson Mao Ning",
+          "title": "Regular Press Conference, 25 May 2026",
+          "date": "2026-05-25",
+          "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202605/t20260525_11918710.html",
+          "bullets": [
+            [
+              "Sharp rebuke of Bundestag delegation visit to Taiwan",
+              "Mao Ning criticised the German MPs' Taipei visit as sending \"wrong signals\" to \"Taiwan independence\" forces, urging Berlin to abide by the one-China principle."
+            ],
+            [
+              "Routine items on trade, regional security, and bilateral meetings",
+              "Covered briefings on EU-China economic talks, ASEAN engagement, and clarifications on China-Japan and China-Philippines maritime issues."
             ]
           ]
         }
