@@ -2179,10 +2179,58 @@ window.W22_2026 = {
   "chineseSourcesSections": [
     {
       "number": "",
+      "slug": "cn-authoritative",
+      "short": "Authoritative",
+      "label": "Authoritative texts",
+      "items": [
+        {
+          "outlet": "Sinocism (Bill Bishop)",
+          "title": "Qiushi June 2026: Xi article + commentaries on developing future industries",
+          "date": "2026-06-01",
+          "url": "https://sinocism.com/p/new-regulations-on-outbound-investment",
+          "bullets": [
+            [
+              "Coordinated doctrinal rollout",
+              "The June Qiushi issue pairs a Xi Jinping article on future industries with a Qiushi Editorial Department exegesis, \"How Future Industries Will Shape the Future of Industrial Development,\" reading the theme from three perspectives."
+            ],
+            [
+              "Named technocrats supply the policy scaffolding",
+              "Yin Hejun frames high-level tech self-reliance as the lead driver, Zhang Jun stresses source innovation as the foundation, and Liu Zhenzhong reflects on development experience."
+            ],
+            [
+              "Cross-channel amplification",
+              "Monday's People's Daily reinforces the line with a page-nine article by MIIT Party Secretary and Minister Li Lecheng on accelerating the forward-looking layout of future industries."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "number": "",
       "slug": "cn-regulatory",
       "short": "Regulatory",
       "label": "Regulatory & policy primary sources",
       "items": [
+        {
+          "outlet": "Sinocism (Bill Bishop)",
+          "title": "State Council Regulations on Outbound Investment (国务院关于对外投资的规定) - State Council Order No. 837",
+          "date": "2026-06-01",
+          "url": "https://sinocism.com/p/new-regulations-on-outbound-investment",
+          "bullets": [
+            [
+              "Codifies dispersed rules into a 34-article State Council regulation",
+              "The text, signed by Li Qiang on May 5 and effective July 1, replaces a departmental-rules model the Q&A says no longer fits geopolitical risk and competition."
+            ],
+            [
+              "Article 13 closes export-control workarounds",
+              "It bars transferring restricted goods, technology, services, or data abroad via dispatched personnel, cross-border technical guidance, or overseas training, targeting circumvention routes used by firms like Manus."
+            ],
+            [
+              "Articles 24-25 codify discretionary countermeasures",
+              "The joint Q&A from Justice, NDRC, and MOFCOM frames potential responses to \"discriminatory\" foreign measures as \"protective, defensive\" while empowering Beijing to act under the Anti-Foreign Sanctions Law."
+            ]
+          ]
+        },
         {
           "outlet": "mfa.gov.cn",
           "title": "Wang Yi meets Portuguese foreign minister Rangel",
