@@ -2184,22 +2184,42 @@ window.W22_2026 = {
       "label": "Authoritative texts",
       "items": [
         {
-          "outlet": "Sinocism (Bill Bishop)",
-          "title": "Qiushi June 2026: Xi article + commentaries on developing future industries",
-          "date": "2026-06-01",
-          "url": "https://sinocism.com/p/new-regulations-on-outbound-investment",
+          "outlet": "Qiushi 求是",
+          "title": "前瞻布局和发展未来产业 [Forward-looking layout and development of future industries]",
+          "date": "2026-05-31",
+          "url": "https://www.qstheory.cn/20260601/c8ba0a40b56a4ec5b3e84a1aac3e2a5f/c.html",
           "bullets": [
             [
-              "Coordinated doctrinal rollout",
-              "The June Qiushi issue pairs a Xi Jinping article on future industries with a Qiushi Editorial Department exegesis, \"How Future Industries Will Shape the Future of Industrial Development,\" reading the theme from three perspectives."
+              "Names six priority frontier sectors for the 15th Five-Year Plan",
+              "Xi designates quantum technology, biomanufacturing, hydrogen and fusion energy, brain-computer interfaces, embodied intelligence, and 6th-generation mobile communications as the main directions for cultivating future industries and new growth points."
             ],
             [
-              "Named technocrats supply the policy scaffolding",
-              "Yin Hejun frames high-level tech self-reliance as the lead driver, Zhang Jun stresses source innovation as the foundation, and Liu Zhenzhong reflects on development experience."
+              "Claims China's future industries have entered the global first tier",
+              "the article holds that Party leadership has driven competitiveness into the world's top echelon, with \"parallel-running\" and even \"leading\" positions in growing numbers of fields, while acknowledging that shortcomings and weak links remain numerous."
             ],
             [
-              "Cross-channel amplification",
-              "Monday's People's Daily reinforces the line with a page-nine article by MIIT Party Secretary and Minister Li Lecheng on accelerating the forward-looking layout of future industries."
+              "Casts enterprises and central SOEs as the principal force, under unified Party leadership",
+              "Xi states firms are the main body of innovation and central state-owned enterprises should be the \"main army,\" while insisting on a \"whole nation\" approach, the new-type whole-of-nation system, and balancing development with security against risks of technology loss of control, ethical breaches, and data misuse."
+            ]
+          ]
+        },
+        {
+          "outlet": "Qiushi 求是",
+          "title": "以高水平科技自立自强引领未来产业发展 [Leading future-industry development with high-level S&T self-reliance and self-strengthening]",
+          "date": "2026-06-01",
+          "url": "https://www.aisixiang.com/data/176784.html",
+          "bullets": [
+            [
+              "New tech revolution mandates urgency",
+              "The article holds that the AI-led wave of scientific and industrial change is accelerating, citing Xi's January 2026 Politburo study session, and frames future-industry leadership as the decisive arena of great-power competition where the first to convert \"0-to-1\" breakthroughs into \"1-to-N\" industrialisation seizes dominance."
+            ],
+            [
+              "Five structural advantages enumerated",
+              "Yin asserts China possesses the new whole-nation system, a maturing innovation system (525 firms in the global industrial-R&D top 2000), the world's most complete industrial base (all 41 UN industrial categories), a super-large market (1.4bn people, 400m middle-income), and 220m-strong talent pool as unique bases for future industries."
+            ],
+            [
+              "Self-reliance gaps acknowledged",
+              "The text states original-innovation capacity remains relatively weak, certain core technologies are controlled by others, and top-tier talent is insufficient, calling for coordinated R&D attacks during the 15th Five-Year Plan toward the 2035 goal of building a science-and-technology power."
             ]
           ]
         }
