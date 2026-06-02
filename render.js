@@ -203,7 +203,9 @@
         return `<li>${lead}${rest}</li>`;
       }).join("");
 
-    return `<article class="entry">${head}${bullets ? `<ul class="bullets">${bullets}</ul>` : ""}${tagsHtml}</article>`;
+    const linkOnly = !bullets;
+    const cls = linkOnly ? "entry entry-link-only" : "entry";
+    return `<article class="${cls}">${head}${bullets ? `<ul class="bullets">${bullets}</ul>` : ""}${tagsHtml}</article>`;
   }
 
   // Does an entry pass the current filter set? OR-semantics; entries with no
