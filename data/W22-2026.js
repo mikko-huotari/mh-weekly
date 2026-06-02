@@ -2469,133 +2469,101 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "Aisixiang 爱思想",
-          "title": "New Trends in Southeast Asian Party Politics: Family-Party Inter-embedding 东南亚政党政治的新趋向：家族与政党互嵌",
-          "date": "2026-05-19",
-          "url": "https://www.aisixiang.com/data/175672.html",
-          "bullets": [
-            [
-              "Family and party structures increasingly interlock",
-              "The article identifies a new pattern in Southeast Asia where political families and parties fuse across alliances, internal organisation, and voter relations, exceeding the explanatory scope of patronage and party-institutionalisation theory."
-            ],
-            [
-              "Generational succession reshapes party logic",
-              "As elite succession advances, families' power, resources, and platforms recast how mainstream parties and party systems operate, producing a family-dominated political ecosystem driven by institutional deficiencies, local social-cultural context, geopolitical pressure, and technological change."
-            ],
-            [
-              "Long-term costs outweigh short-term continuity",
-              "The author argues that while interlocking aids policy continuity short-term, over time family interests may override national interests and party representativeness, fuel populism, and degrade party institutionalisation in the region."
-            ]
-          ]
-        },
-        {
-          "outlet": "guancha.cn",
-          "title": "Despite the EU’s “de-risking” rhetoric, European companies are deepening integration with “Made in China”",
+          "title": "影响我国经济增长的风险制约与化解突破路径 [Risk constraints on China's economic growth and breakthrough paths]",
           "date": "2026-05-27",
-          "url": "https://www.guancha.cn/internation/2026_05_27_818558.shtml?s=zwyzxw",
+          "url": "https://www.aisixiang.com/data/176530.html",
           "bullets": [
             [
-              "EU Chamber survey finds most European firms maintaining or expanding China supply chains",
-              "Despite official \"de-risking\" rhetoric, the majority of respondents reported no reduction in their China sourcing presence, according to the European Union Chamber of Commerce in China."
+              "Five structural drag dimensions on high-quality growth",
+              "The author argues that as China shifts from extensive to high-quality intensive growth, structural contradictions and risk points across institutional innovation, technological innovation, industrial upgrading, macro governance, and micro management are sapping growth momentum."
             ],
             [
-              "Chamber President Eskelund states European corporate dependence on \"Made in China\" has not weakened",
-              "The assessment reflects a gap between EU policy positioning and the on-the-ground behaviour of European businesses operating in China."
+              "Entrenched interests as the deep-water reform bottleneck",
+              "The article maintains that reform has exhausted the space for \"Pareto improvements,\" and breaking through \"the barriers of entrenched interests\" via top-down/bottom-up reform coordination, fault-tolerance mechanisms, and shared-interest arrangements is now the decisive test for liberating productive forces."
+            ],
+            [
+              "Three disconnects in digital-real economy innovation",
+              "The author argues technological innovation suffers from gaps between R&D investment and industrial application (central SOE conversion rates below 15%), malfunctioning innovation consortia, and standards outpacing application, proposing \"call-to-arms 2.0\" mechanisms and a data-factor market to build an innovation ecosystem."
             ]
           ]
         },
         {
-          "outlet": "guancha.cn",
-          "title": "Giorgia Meloni: The EU has limited our ability to grow and compete on the global stage",
+          "outlet": "Aisixiang 爱思想",
+          "title": "为民造福是最大政绩 [Benefiting the people is the greatest political achievement]",
           "date": "2026-05-26",
-          "url": "https://m.guancha.cn/internation/2026_05_26_818462.shtml",
+          "url": "https://www.aisixiang.com/data/176465.html",
           "bullets": [
             [
-              "Meloni calls EU regulation a strategic liability for Europe",
-              "Italian PM Giorgia Meloni told the Confindustria annual assembly in Rome that excessive EU bureaucracy and interference undermine European competitiveness and international strategic capacity."
+              "Correct view of achievement rooted in serving the public",
+              "The author argues that \"benefiting the people is the greatest political achievement\" embodies the principle of building the party for the public and governing for the people, and that the deeper question behind any view of achievement is for whom one works and what name or profit is sought."
             ],
             [
-              "Italy's above-threshold deficit complicates its push for fiscal exemptions",
-              "Rome's 2025 budget deficit reached 3.1% - above the EU's 3% ceiling - as Italy lobbies Brussels for fiscal flexibility to address energy costs."
+              "Materialist conception of history places the people as creators",
+              "The article maintains that the people are the creators of history and the decisive force in social change, so cadres must consult and rely on the masses rather than produce vanity \"image projects\" or unrealistic \"achievement projects\" detached from popular interests."
+            ],
+            [
+              "Practical aim of improving people's lives",
+              "The author states that the people's aspiration for a better life is the party's goal, which must be realized step by step through solid achievements that let the public see change and gain tangible benefits."
             ]
           ]
         },
         {
-          "outlet": "CASS",
-          "title": "《欧洲发展报告（2025—2026）》发布",
-          "date": "2026-05-29",
-          "url": "http://cass.cn/yaowen/202605/t20260529_5998976.shtml",
-          "bullets": [
-            [
-              "CASS published its annual European Development Report (2025 - 2026)",
-              "The Chinese Academy of Social Sciences released the report on 29 May 2026, continuing its standing series on European affairs."
-            ],
-            [
-              "No substantive content is available from the source provided",
-              "The entry contains only the title and publication date - further analysis requires access to the report body."
-            ]
-          ]
-        },
-        {
-          "outlet": "IWEP - Institute of World Economics and Politics",
-          "title": "以资本市场开放推动上海国际金融中心建设",
-          "date": "2026-05-29",
-          "url": "http://www.iwep.org.cn/xscg/xscg_sp/202605/t20260529_5998321.shtml",
-          "bullets": [
-            [
-              "IWEP calls for capital market liberalisation as the primary lever for Shanghai IFC development",
-              "The article frames further opening of equity and bond markets as the mechanism to advance Shanghai's international financial centre status, published 29 May 2026."
-            ],
-            [
-              "Framing positions market access expansion as policy priority, not outcome",
-              "The title's construction - \"using opening to promote\" - indicates the piece argues capital account liberalisation should drive, not follow, Shanghai's financial hub ambitions."
-            ]
-          ]
-        },
-        {
-          "outlet": "CASS IES - Institute of European Studies",
-          "title": "2026-05-27 欧洲所举行“欧洲研究的中国自主知识体系建设”工作会议 欧洲所举行“欧洲研究的中国自主知识体系建设”工作会议",
+          "outlet": "Aisixiang 爱思想",
+          "title": "特朗普政府与美国掠夺性霸权的形成 [The Trump administration and the formation of US predatory hegemony]",
           "date": "2026-05-27",
-          "url": "http://ies.cass.cn/cn/exchange/home/202605/t20260527_5993674.shtml",
+          "url": "https://www.aisixiang.com/data/176536.html",
           "bullets": [
             [
-              "CASS IES [中国社会科学院欧洲研究所, Zhōngguó Shèhuì Kēxuéyuàn Ōuzhōu Yánjiūsuǒ] convened a working conference on developing China's independent European studies knowledge system",
-              "The Institute of European Studies held the session on 27 May 2026, centred on the concept of 自主知识体系 [zìzhǔ zhīshì tǐxì] as applied specifically to the European studies field."
+              "Predatory turn rooted in oligarchic government",
+              "The author argues that in his second term Trump declines to act as a \"benevolent hegemon\" providing public goods and instead converts US hegemony into a predatory model, a shift the article roots in the social fact that the US government has become an oligarchy."
             ],
             [
-              "The conference title explicitly frames the initiative as building a distinctly Chinese epistemological foundation for European area studies",
-              "According to the institute's own announcement, the working meeting [工作会议, gōngzuò huìyì] format suggests an internal, policy-oriented deliberation rather than a public academic conference."
+              "Predatory toolkit targets allies and trade partners",
+              "The article maintains that this hegemony operates by forcing allies to share international burdens, imposing tariffs on trade partners, abusing \"long-arm jurisdiction\" to seize quality assets, and profiting from war, in order to feed US dominance by extracting global strategic resources."
+            ],
+            [
+              "Recommends cautious Chinese response",
+              "The author contends the transformation will dissolve American exceptionalism and may spark new international crises and sharpened geopolitical confrontation, and that China should treat the shift with strategic and tactical caution."
             ]
           ]
         },
         {
-          "outlet": "East is Read",
-          "title": "Wu Xinbo on Trumps's China visit",
-          "date": "2026-05-25",
-          "url": "https://www.eastisread.com/p/wu-xinbo-on-trumpss-china-visit",
+          "outlet": "Aisixiang 爱思想",
+          "title": "从党中央关于制定\"十五五\"规划的建议看党的全面领导 [Reading the Party-Centre 15th-FYP proposal through the lens of comprehensive Party leadership]",
+          "date": "2026-05-29",
+          "url": "https://www.aisixiang.com/data/176635.html",
           "bullets": [
             [
-              "Wu Xinbo attended the state banquet welcoming Trump to China",
-              "The Fudan University scholar was among Chinese academics invited to the official ceremony marking the U.S. president's visit."
+              "Five-year planning framed as core governance experience",
+              "The author argues that drafting and implementing successive five-year plans is a key Party governance experience and a political advantage of socialism with Chinese characteristics, tracing the practice from the 1953-1957 First Five-Year Plan to the current 15th-FYP proposal."
             ],
             [
-              "Strategic stability in China - U.S. ties hinges on execution, mechanisms, and Taiwan",
-              "Wu argued the constructive bilateral relationship will hold only if implementation follows and the Taiwan issue is handled carefully."
+              "Comprehensive Party leadership cast as indispensable",
+              "The article maintains that upholding the Party's comprehensive leadership is the fundamental guarantee for formulating and implementing the 15th-FYP, citing the Fourth Plenum of the 20th Central Committee and Xi Jinping's accompanying explanatory note."
+            ],
+            [
+              "Plan-drafting process presented as expression of Party leadership",
+              "The author contends that the three new-era five-year plans embodied Party leadership through soliciting public opinion, setting guiding principles, focusing on priority issues, applying the Party's theoretical innovations, and maintaining a systems approach."
             ]
           ]
         },
         {
-          "outlet": "East is Read",
-          "title": "Zhou Yongmei: Rebuilding Trust, Coordination, and Collective Action in a Fragmented World",
+          "outlet": "Aisixiang 爱思想",
+          "title": "深化产业融合赋能现代化产业体系建设 [Deepening industrial convergence to empower the modern industrial system]",
           "date": "2026-05-28",
-          "url": "https://www.eastisread.com/p/zhou-yongmei-rebuilding-trust-coordination",
+          "url": "https://www.aisixiang.com/data/176591.html",
           "bullets": [
             [
-              "PKU scholar proposes EU-China complementarity for the Global South",
-              "Zhou Yongmei argued Europe's institutional strengths and China's implementation capacity could be combined around developing countries' priorities."
+              "Industrial convergence framed as core path",
+              "The author argues that industrial convergence has become a new trend in building a modern industrial system and a new route for developing \"new quality productive forces,\" citing the 15th Five-Year Plan's call to deepen integration of manufacturing, services, and agriculture."
             ],
             [
-              "World Bank veteran frames fragmentation as a collective action failure",
-              "Zhou identified trust deficits and coordination breakdown - not great-power rivalry - as the structural obstacles requiring joint institutional responses."
+              "New technological revolution drives融合 [convergence]",
+              "The article maintains that the current wave of AI, big data, and Internet-of-Things technologies is shortening the cycle from scientific to technological to industrial revolution and tightening the two-way interaction between technological and industrial innovation."
+            ],
+            [
+              "Policy measures proposed",
+              "The author recommends a services-sector quality-and-capacity drive, industrial policy that prioritizes innovation ecosystems and industrial-chain modernization, and more inclusive regulation that encourages new industrial-convergence scenarios."
             ]
           ]
         }
