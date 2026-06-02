@@ -2667,9 +2667,9 @@ window.W22_2026 = {
     },
     {
       "number": "",
-      "slug": "cn-media",
-      "short": "EU/GER in CN media",
-      "label": "EU / GER in CN media",
+      "slug": "cn-cn-coverage-of-eu-ger",
+      "short": "CN coverage of",
+      "label": "CN coverage of EU/GER",
       "items": [
         {
           "outlet": "China Daily",
