@@ -2468,6 +2468,26 @@ window.W22_2026 = {
       "label": "Chinese thinking",
       "items": [
         {
+          "outlet": "Aisixiang 爱思想",
+          "title": "New Trends in Southeast Asian Party Politics: Family-Party Inter-embedding 东南亚政党政治的新趋向：家族与政党互嵌",
+          "date": "2026-05-19",
+          "url": "https://www.aisixiang.com/data/175672.html",
+          "bullets": [
+            [
+              "Family and party structures increasingly interlock",
+              "The article identifies a new pattern in Southeast Asia where political families and parties fuse across alliances, internal organisation, and voter relations, exceeding the explanatory scope of patronage and party-institutionalisation theory."
+            ],
+            [
+              "Generational succession reshapes party logic",
+              "As elite succession advances, families' power, resources, and platforms recast how mainstream parties and party systems operate, producing a family-dominated political ecosystem driven by institutional deficiencies, local social-cultural context, geopolitical pressure, and technological change."
+            ],
+            [
+              "Long-term costs outweigh short-term continuity",
+              "The author argues that while interlocking aids policy continuity short-term, over time family interests may override national interests and party representativeness, fuel populism, and degrade party institutionalisation in the region."
+            ]
+          ]
+        },
+        {
           "outlet": "guancha.cn",
           "title": "Despite the EU’s “de-risking” rhetoric, European companies are deepening integration with “Made in China”",
           "date": "2026-05-27",
