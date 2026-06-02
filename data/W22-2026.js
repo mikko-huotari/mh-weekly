@@ -3077,6 +3077,11 @@ window.W22_2026 = {
       "src": "assets/charts/W22-2026-chart-4.png",
       "alt": "PMI Employment subindex, monthly, March 2022 – May 2026, index",
       "caption": "**Chart 4 – PMI Employment subindex below 50 since 2022 — sustained labour-market weakness** ([NBS Manufacturing PMI](http://www.stats.gov.cn/sj/zxfb/202605/t20260531_1956003.html); index, monthly)"
+    },
+    {
+      "src": "assets/charts/W22-2026-chart-5.png",
+      "alt": "Industrial subsidies by region, 2005-24 average, % of firm revenue",
+      "caption": "**Chart 5 – China's industrial subsidies dwarf OECD peers, driven by below-market borrowing** ([OECD MAGIC database](https://datawrapper.dwcdn.net/A7YVh/); 15 key sectors, 2005-24 average, % of annual firm revenue)"
     }
   ]
 };
