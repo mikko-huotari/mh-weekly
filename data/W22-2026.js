@@ -2540,23 +2540,6 @@ window.W22_2026 = {
       "label": "Quality CN journalism",
       "items": [
         {
-          "outlet": "Yicai",
-          "author": "",
-          "title": "EU Council extends sanctions on Russian-linked individuals and entity",
-          "date": "2026-05-27",
-          "url": "https://www.yicai.com/news/103202190.html",
-          "bullets": [
-            [
-              "EU Council renews Russia-linked sanctions for another year",
-              "The Council of the European Union voted on 26 May to extend restrictive measures against 72 individuals and one entity until 28 May 2027."
-            ],
-            [
-              "Listed parties face asset freezes and EU-wide travel bans",
-              "EU citizens and companies are barred from providing funds to sanctioned individuals, who are also prohibited from entering or transiting EU member states."
-            ]
-          ]
-        },
-        {
           "outlet": "Caixin Global",
           "author": "",
           "title": "EU business confidence in China remains low despite modest improvement, survey shows",
@@ -2915,23 +2898,6 @@ window.W22_2026 = {
       "label": "CN coverage of EU/GER",
       "items": [
         {
-          "outlet": "China Daily",
-          "author": "",
-          "title": "'Brexit moment' feared in Iceland's looming EU vote",
-          "date": "2026-05-28",
-          "url": "https://www.chinadaily.com.cn/a/202605/28/WS6a179deda310d6866eb4b23b.html",
-          "bullets": [
-            [
-              "Iceland's foreign minister warns of a \"Brexit moment\" risk",
-              "Iceland will hold a referendum on Aug 29 on whether to continue EU accession talks, with the minister citing misinformation, foreign interference, and AI as key concerns."
-            ],
-            [
-              "The vote is drawing close attention from Washington, Moscow, and Brussels",
-              "China Daily reports the outcome is seen as geopolitically significant by major powers monitoring the process."
-            ]
-          ]
-        },
-        {
           "outlet": "huanqiu.com",
           "author": "",
           "title": "Brussels needs a new narrative on China-EU relations",
@@ -3034,23 +3000,6 @@ window.W22_2026 = {
             [
               "Beijing characterizes bilateral trade as mutually beneficial and non-coercive",
               "Mao stated that \"international trade is a two-way street\" and \"there's no forced trade,\" describing China-EU trade relations as \"win-win in nature.\""
-            ]
-          ]
-        },
-        {
-          "outlet": "Xinhua",
-          "author": "",
-          "title": "Poland to sign 27 bln USD military deals with EU by end-May",
-          "date": "2026-05-28",
-          "url": "https://english.news.cn/20260528/0900734feaf0401fa6c62e7efce5d320/c.html",
-          "bullets": [
-            [
-              "Poland to sign ~40 SAFE military financing agreements with EU",
-              "Prime Minister Tusk said the deals, worth 100 billion zlotys (~27 billion USD), would benefit more than 10,000 Polish companies."
-            ],
-            [
-              "Poland is the largest beneficiary of the EU's 150-billion-euro SAFE initiative",
-              "Deputy PM Kosiniak-Kamysz said the funds would strengthen Poland's security, NATO's eastern flank, and EU border security."
             ]
           ]
         },
