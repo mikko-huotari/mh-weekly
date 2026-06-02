@@ -308,6 +308,7 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "China’s Industrial Profits Rise, Defying Economic Headwinds",
           "date": "2026-05-27",
           "url": "https://www.wsj.com/economy/chinas-industrial-profits-rise-defying-economic-headwinds-58d3c3bb",
@@ -324,6 +325,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Caixin",
+          "author": "",
           "title": "As China’s Hidden Local Debts Shrink, a New Challenge Emerges",
           "date": "2026-05-29",
           "url": "https://www.caixinglobal.com/2026-05-29/in-depth-as-chinas-hidden-local-debts-shrink-a-new-challenge-emerges-102449016.html",
@@ -344,6 +346,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "China now home to more people over 65 than children, official survey finds",
           "date": "2026-05-26",
           "url": "https://www.scmp.com/economy/china-economy/article/3354772/china-now-home-more-people-over-65-children-official-survey-finds",
@@ -360,6 +363,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "NYT",
+          "author": "",
           "title": "What Plunging Pork Prices Say About China’s Economy",
           "date": "2026-05-28",
           "url": "https://www.nytimes.com/2026/05/28/business/china-pork-prices-economy.html",
@@ -376,6 +380,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "China s 3 trillion of hidden bad debt prolongs economic pain",
           "date": "",
           "url": "https://www.bloomberg.com/news/articles/2026-05-12/china-s-3-trillion-of-hidden-bad-debt-prolongs-economic-pain",
@@ -392,6 +397,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Economist",
+          "author": "",
           "title": "Without fanfare, China is making rural migrants’ lives easier",
           "date": "2026-05-28",
           "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
@@ -408,6 +414,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "China’s Urban Reforms Have a Long Way to Go - Bloomberg",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/opinion/articles/2026-05-26/china-s-urban-reforms-have-a-long-way-to-go",
@@ -424,6 +431,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "Millions of Chinese consumers ditch their credit cards amid prudent spending, slow economy",
           "date": "2026-05-25",
           "url": "https://www.scmp.com/economy/china-economy/article/3354728/millions-chinese-consumers-ditch-their-credit-cards-amid-prudent-spending-slow-economy",
@@ -440,6 +448,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "China’s change in maths on carbon emissions masks growth, report says",
           "date": "2026-05-26",
           "url": "https://www.ft.com/content/78d28a07-02ac-4a86-bcae-6eb70dd948b8",
@@ -452,6 +461,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Carbon Brief",
+          "author": "",
           "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
           "date": "2026-05-25",
           "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions",
@@ -464,6 +474,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "China Lets Policy Loan Rate Fall to Record Low to Boost Economy - Bloomberg",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-lets-policy-loan-rate-fall-to-record-low-to-boost-economy",
@@ -476,6 +487,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "NYT",
+          "author": "",
           "title": "$140,000 E.V.s and Heritage Gold: The Rise of China’s Homegrown Luxury Market - The New York Times",
           "date": "2026-05-25",
           "url": "https://www.nytimes.com/2026/05/25/business/chinese-luxury-brands.html",
@@ -488,6 +500,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "Job ad for shepherds goes viral in China, exposing labour market strains",
           "date": "2026-05-27",
           "url": "https://www.reuters.com/business/world-at-work/job-ad-shepherds-goes-viral-china-exposing-labour-market-strains-2026-05-27",
@@ -500,6 +513,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "Chinese coking coal jumps as deadly mine accident tightens supply outlook",
           "date": "2026-05-25",
           "url": "https://www.reuters.com/world/asia-pacific/chinese-coking-coal-jumps-deadly-mine-accident-tightens-supply-outlook-2026-05-25",
@@ -512,6 +526,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Coal Mine Blast Tests Limits of Xi’s Energy Security Push",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-24/china-coal-mine-blast-tests-limits-of-xi-s-energy-security-push",
@@ -524,6 +539,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "JD.com founder vows to protect Chinese jobs from AI and robots",
           "date": "2026-05-28",
           "url": "https://www.bloomberg.com/news/articles/2026-05-28/jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robots",
@@ -531,6 +547,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Economist",
+          "author": "",
           "title": "A coalmine explosion lays bare China’s two-speed economy",
           "date": "2026-05-28",
           "url": "https://www.economist.com/china/2026/05/28/a-coalmine-explosion-lays-bare-chinas-two-speed-economy",
@@ -538,6 +555,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "China Scrutinizes Firms, Funds After AI-Fueled Stock Moves - Bloomberg",
           "date": "2026-05-25",
           "url": "https://www.bloomberg.com/news/articles/2026-05-22/china-scrutinizes-companies-funds-after-ai-fueled-stock-moves",
@@ -545,6 +563,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "China-maxxing’ helps spur an inbound tourism boom",
           "date": "2026-05-28",
           "url": "https://www.ft.com/content/1b2b88ea-f929-4174-9d6e-30f19e695b07",
@@ -552,6 +571,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "CREA",
+          "author": "",
           "title": "China energy and emissions trends april 2026 snapsho",
           "date": "",
           "url": "https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot",
@@ -559,6 +579,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Com",
+          "author": "",
           "title": "Maiden flight of domestic 600-kilogram-thrust-class turbofan engine",
           "date": "2026-05-27",
           "url": "http://sc.people.com.cn/BIG5/n2/2026/0527/c345167-41592107.html",
@@ -566,6 +587,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Nikkei",
+          "author": "",
           "title": "China amasses 30-day coal supply ahead of El Nino power crunch",
           "date": "2026-05-27",
           "url": "https://asia.nikkei.com/business/energy/china-amasses-30-day-coal-supply-ahead-of-el-nino-power-crunch",
@@ -573,6 +595,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Nikkei",
+          "author": "",
           "title": "China to promote drones and flying cars via new safety department",
           "date": "2026-05-26",
           "url": "https://asia.nikkei.com/business/china-tech/china-to-promote-drones-and-flying-cars-via-new-safety-department",
@@ -580,6 +603,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "NYT",
+          "author": "",
           "title": "Xi Jinping quit smoking. China still cannot",
           "date": "2026-05-27",
           "url": "https://www.nytimes.com/2026/05/27/business/china-smoking-economy.html",
@@ -587,6 +611,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Nikkei",
+          "author": "",
           "title": "AI demand strains supplies of lasers, fiber and other optical tech",
           "date": "2026-05-27",
           "url": "https://asia.nikkei.com/location/east-asia/china",
@@ -594,6 +619,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "China burns more fossil fuels for power as coal production slips",
           "date": "2026-05-18",
           "url": "https://www.bloomberg.com/news/articles/2026-05-18/china-burns-more-fossil-fuels-for-power-as-coal-production-slips",
@@ -609,6 +635,7 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "FT",
+          "author": "",
           "title": "How China is breaking apart a people and its culture",
           "date": "2026-05-29",
           "url": "https://www.ft.com/content/119d8c3a-e10f-4bf7-a198-90507293054b",
@@ -629,6 +656,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Theinformation",
+          "author": "",
           "title": "DeepSeek, a National Treasure in China, is Now Being Closely Guarded",
           "date": "2026-05-28",
           "url": "https://www.theinformation.com/articles/deepseek-national-treasure-china-now-closely-guarded",
@@ -645,6 +673,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Jamestown",
+          "author": "",
           "title": "Beijing’s Hukou Reform Is Not Welfare-Oriented",
           "date": "2026-05-29",
           "url": "https://jamestown.org/beijings-hukou-reform-is-not-welfare-oriented",
@@ -665,6 +694,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Jamestown",
+          "author": "",
           "title": "Beijing’s Regional Studies Push Risks Campaign-Style Overreach",
           "date": "2026-05-29",
           "url": "https://jamestown.org/beijings-regional-studies-push-risks-campaign-style-overreach",
@@ -681,6 +711,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "DW",
+          "author": "",
           "title": "New Chinese surveillance leaves foreigners nowhere to hide",
           "date": "",
           "url": "https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713",
@@ -697,6 +728,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Diplomat",
+          "author": "",
           "title": "How chinas population stopped noticing their country had been sealed",
           "date": "",
           "url": "https://thediplomat.com/2026/05/how-chinas-population-stopped-noticing-their-country-had-been-sealed",
@@ -713,6 +745,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Strait Times",
+          "author": "",
           "title": "China issues new rules to keep senior military officials in check",
           "date": "2026-05-27",
           "url": "https://www.straitstimes.com/asia/china-issues-new-rules-to-keep-senior-military-officials-in-check",
@@ -729,6 +762,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Eastisread",
+          "author": "",
           "title": "PhD dropout’s exposé forces an academic fraud reckoning in China",
           "date": "2026-05-29",
           "url": "https://www.eastisread.com/p/phd-dropouts-expose-forces-an-academic",
@@ -745,6 +779,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Diplomat",
+          "author": "",
           "title": "What’s driving anti-Qing sentiment in contemporary China?",
           "date": "2026-05-27",
           "url": "https://thediplomat.com/2026/05/whats-driving-anti-qing-sentiment-in-contemporary-china",
@@ -757,6 +792,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Economist",
+          "author": "",
           "title": "Bowing to online fury, China’s censors ban a prize-winning film",
           "date": "2026-05-28",
           "url": "https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prize-winning-film",
@@ -769,6 +805,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Caixin",
+          "author": "",
           "title": "Former China Brokerage President Probed in Anti-Graft Drive",
           "date": "2026-05-29",
           "url": "https://www.caixinglobal.com/2026-05-29/exclusive-former-china-brokerage-president-probed-in-anti-graft-drive-102449079.html",
@@ -781,6 +818,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "China says jailed aerospace engineer was lured into spying for foreign agency",
           "date": "2026-05-26",
           "url": "https://www.scmp.com/news/china/politics/article/3354863/china-says-engineer-jailed-15-years-was-lured-sending-aerospace-secrets-overseas",
@@ -793,6 +831,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "China is throwing christians in jail but this pastor refuses to back down fd4c88dd",
           "date": "",
           "url": "https://www.wsj.com/world/china/china-is-throwing-christians-in-jail-but-this-pastor-refuses-to-back-down-fd4c88dd",
@@ -805,6 +844,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Uyghurtimes",
+          "author": "",
           "title": "Prominent Uyghur Religious Scholar Abdushukur Rahmatulla Hajim Reportedly Detained by Chinese Authorities",
           "date": "2026-05-25",
           "url": "https://uyghurtimes.com/prominent-uyghur-religious-scholar-abdushukur-rahmatulla-hajim-reportedly-detained-by-chinese-authorities",
@@ -817,6 +857,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Thetibetpost",
+          "author": "",
           "title": "Chinese authorities arrest 97 tibetans in the name of “cybersecurity law”",
           "date": "",
           "url": "https://thetibetpost.com/news/tibet/chinese-authorities-arrest-97-tibetans-in-the-name-of-%E2%80%9Ccybersecurity-law%E2%80%9D",
@@ -829,6 +870,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "DW",
+          "author": "",
           "title": "Numbers of Tibetan exiles plummet as China tightens grip",
           "date": "",
           "url": "https://www.dw.com/en/numbers-of-tibetan-exiles-plummet-as-china-tightens-grip/a-77229131",
@@ -836,6 +878,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "Are systemic safety failures to blame for China’s deadly mine blast?",
           "date": "2026-05-25",
           "url": "https://www.scmp.com/news/china/politics/article/3354784/are-systemic-safety-failures-blame-chinas-deadly-mine-blast",
@@ -843,6 +886,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "BBC",
+          "author": "",
           "title": "Anger grows after China's deadliest coal mining disaster in years",
           "date": "2026-05-25",
           "url": "https://www.bbc.com/news/articles/c893543gn20o",
@@ -850,6 +894,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "NYT",
+          "author": "",
           "title": "A Dissident Escapes China by Rubber Boat and Lands in South Korea - The New York Times",
           "date": "2026-05-26",
           "url": "https://www.nytimes.com/2026/05/26/world/asia/china-dissident-dong-guangping-south-korea.html",
@@ -857,6 +902,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "Chinese Dissident Braves 30-Hour Rubber Boat Journey to South Korea",
           "date": "2026-05-28",
           "url": "https://www.wsj.com/world/asia/chinese-dissident-braves-30-hour-rubber-boat-journey-to-south-korea-05f73bcb",
@@ -864,6 +910,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Straits Times",
+          "author": "",
           "title": "South Korea detains Chinese man found at sea after report on fleeing dissident",
           "date": "2026-05-27",
           "url": "https://www.straitstimes.com/asia/east-asia/south-korea-detains-chinese-man-found-at-sea-after-report-on-fleeing-dissident",
@@ -879,6 +926,7 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Huawei Touts Chip Breakthrough to Shorten Gap With TSMC - Bloomberg",
           "date": "2026-05-25",
           "url": "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc",
@@ -895,6 +943,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "China expands travel curbs to top AI talent at private firms",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
@@ -915,6 +964,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Diplomat",
+          "author": "",
           "title": "The Manus fallout highlights structural problems in China’s industrial policy ecosystem",
           "date": "2026-05-28",
           "url": "https://thediplomat.com/2026/05/the-manus-fallout-highlights-structural-problems-in-chinas-industrial-policy-ecosystem",
@@ -935,6 +985,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "Huawei Says It Has Workaround to Match Leading Chips",
           "date": "2026-05-26",
           "url": "https://www.wsj.com/tech/huawei-says-it-has-workaround-to-match-leading-chips-c6075fd1",
@@ -951,6 +1002,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan",
           "date": "2026-05-27",
           "url": "https://www.bloomberg.com/news/articles/2026-05-27/taiwan-said-to-suspect-nvidia-chips-smuggled-to-china-via-japan",
@@ -967,6 +1019,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "Global buyout funds to exit China's data centres with final $1bn deal",
           "date": "",
           "url": "https://www.ft.com/content/c6ded5c6-6343-4e9b-a170-7232ab28f63e",
@@ -983,6 +1036,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Strait Times",
+          "author": "",
           "title": "TikTok owner ByteDance said to weigh spending as much as $89 billion in AI push",
           "date": "2026-05-28",
           "url": "https://www.straitstimes.com/business/companies-markets/tiktok-owner-bytedance-said-to-weigh-spending-as-much-as-89-billion-in-ai-push",
@@ -999,6 +1053,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Nikkei",
+          "author": "",
           "title": "Inside Huawei's chip comeback: The woman taking on U.S. sanctions",
           "date": "2026-05-26",
           "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/inside-huawei-s-chip-comeback-the-woman-taking-on-us-sanctions",
@@ -1015,6 +1070,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "Nvidia chief Jensen Huang to join board at prestigious Beijing university",
           "date": "2026-05-28",
           "url": "https://www.ft.com/content/1c567fe9-6df9-4313-902c-c8c65782c19e",
@@ -1027,6 +1083,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Nikkei",
+          "author": "",
           "title": "Chinese rivals push gopro from pioneer to takeover targe",
           "date": "",
           "url": "https://asia.nikkei.com/business/technology/chinese-rivals-push-gopro-from-pioneer-to-takeover-target",
@@ -1039,6 +1096,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "US chipmakers in China see revenue rise, defying trade tensions: Hurun list",
           "date": "2026-05-25",
           "url": "https://www.scmp.com/business/china-business/article/3354805/us-chipmakers-china-see-revenue-rise-defying-trade-tensions-hurun-list",
@@ -1051,6 +1109,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "China Memory-Chip Maker CXMT Clears Shanghai Listing Review",
           "date": "2026-05-27",
           "url": "https://www.wsj.com/tech/china-memory-chip-maker-cxmt-clears-shanghai-listing-review-0fc8dae2",
@@ -1063,6 +1122,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "BYD Unveils Chip for Autonomous-Driving Technology",
           "date": "2026-05-29",
           "url": "https://www.wsj.com/business/autos/byd-unveils-chip-for-autonomous-driving-technology-b087326a",
@@ -1075,6 +1135,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Qualcomm Reaches AI Chip Supply Deal With ByteDance for Data Centers - Bloomberg",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance",
@@ -1087,6 +1148,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "China adds AI chips to secure technology assessment list amid US curbs",
           "date": "2026-05-27",
           "url": "https://www.scmp.com/tech/policy/article/3354993/china-adds-ai-chips-secure-technology-assessment-list-amid-us-curbs",
@@ -1099,6 +1161,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Nikkei",
+          "author": "",
           "title": "Tencent bets on AI agents, smaller models in race with Alibaba,",
           "date": "2026-05-28",
           "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-bets-on-ai-agents-smaller-models-in-race-with-alibaba-bytedance",
@@ -1106,6 +1169,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "ByteDance offers AI team special stock to fend off poaching",
           "date": "2026-05-26",
           "url": "https://www.ft.com/content/557561df-4b72-48e8-89cb-239829de694a",
@@ -1113,6 +1177,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Xiaomi Profit Drops More Than Expected in Memory Chip Crunch - Bloomberg",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/xiaomi-profit-drops-more-than-expected-in-global-memory-crunch",
@@ -1120,6 +1185,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "Chip prodigy Da Bo returns to China after his role in TSMC’s 3nm plant in Japan",
           "date": "2026-05-25",
           "url": "https://www.scmp.com/news/china/science/article/3354758/chip-prodigy-da-bo-returns-china-after-his-role-tsmcs-3nm-plant-japan",
@@ -1127,6 +1193,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "Chinese wireless firm quectel sues us over military designation 2026 05 11",
           "date": "2026-05-11",
           "url": "https://www.reuters.com/world/chinese-wireless-firm-quectel-sues-us-over-military-designation-2026-05-11",
@@ -1134,6 +1201,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "Opinion: China’s next big leap: becoming a frontier science civilisation",
           "date": "2026-05-28",
           "url": "https://www.scmp.com/opinion/china-opinion/article/3354799/chinas-next-big-leap-becoming-frontier-science-civilisation",
@@ -1141,6 +1209,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "AI is massively increasing China’s new weapon development speed",
           "date": "2026-05-27",
           "url": "https://www.scmp.com/news/china/science/article/3354989/ai-massively-increasing-chinas-new-weapon-development-speed-scientists",
@@ -1148,6 +1217,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "ChinaTalk",
+          "author": "",
           "title": "China's Robotics Dream Began in 1972",
           "date": "2026-05-27",
           "url": "https://www.chinatalk.media/p/chinas-father-of-robotics",
@@ -1155,6 +1225,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "Xiaomi’s Profit Buckles as Memory Prices Soar",
           "date": "2026-05-27",
           "url": "https://www.wsj.com/business/earnings/xiaomis-profit-buckles-as-memory-prices-soar-ae12db4a",
@@ -1162,6 +1233,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "What readers found when they asked their chatbots about China",
           "date": "2026-05-26",
           "url": "https://www.wsj.com/world/china/what-readers-found-when-they-asked-their-chatbots-about-china-229e4203",
@@ -1169,6 +1241,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Nikkei",
+          "author": "",
           "title": "Nvidia spending up to $150bn a year on Taiwan AI suppliers: Jensen Huang",
           "date": "2026-05-27",
           "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-spending-up-to-150bn-a-year-on-taiwan-ai-suppliers-jensen-huang",
@@ -1184,6 +1257,7 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "Euronews",
+          "author": "",
           "title": "Industrial sovereignty: Five sectors where the EU is critically dependent on China",
           "date": "2026-05-26",
           "url": "https://www.euronews.com/business/2026/05/26/industrial-sovereignty-five-sectors-where-the-eu-is-critically-dependent-on-china",
@@ -1204,6 +1278,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "War and AI Demand Break China’s Record of Falling Export Prices",
           "date": "2026-05-29",
           "url": "https://www.bloomberg.com/news/articles/2026-05-29/china-export-prices-climb-most-in-three-years-on-oil-shock",
@@ -1224,6 +1299,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Economist",
+          "author": "",
           "title": "China’s world-beating solar industry is in turmoil",
           "date": "2026-05-26",
           "url": "https://www.economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil",
@@ -1244,6 +1320,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "China Is Exporting Its Factories Across the World and Spooking the Competition",
           "date": "2026-05-28",
           "url": "https://www.wsj.com/business/autos/china-is-exporting-its-factories-across-the-world-and-spooking-the-competition-39e63291",
@@ -1260,6 +1337,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Nikkei",
+          "author": "",
           "title": "China tungsten exports to Japan halve amid tightened controls",
           "date": "2026-05-29",
           "url": "https://asia.nikkei.com/business/materials/china-tungsten-exports-to-japan-halve-amid-tightened-controls",
@@ -1276,6 +1354,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "World’s Appetite for AI Makes China Less Afraid of Stronger Yuan",
           "date": "2026-05-28",
           "url": "https://www.bloomberg.com/news/articles/2026-05-28/world-s-appetite-for-ai-makes-china-less-afraid-of-stronger-yuan",
@@ -1292,6 +1371,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "BBC",
+          "author": "",
           "title": "The world's carmakers are struggling to compete with China",
           "date": "2026-05-28",
           "url": "https://www.bbc.com/news/articles/c4g8vg72z43o",
@@ -1308,6 +1388,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Carnegie",
+          "author": "",
           "title": "Post U.S.-China Summit: Managed Instability",
           "date": "2026-05-27",
           "url": "https://carnegieendowment.org/posts/2026/05/post-us-china-summit-and-managed-instability",
@@ -1324,6 +1405,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "PIIE",
+          "author": "",
           "title": "China’s mercantilist squeeze on developing countries | PIIE",
           "date": "2026-05-25",
           "url": "https://www.piie.com/publications/working-papers/2026/chinas-mercantilist-squeeze-developing-countries",
@@ -1336,6 +1418,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "US says process to form China Board of Trade to start shortly",
           "date": "2026-05-27",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/greer-says-process-to-form-china-board-of-trade-to-start-shortly",
@@ -1348,6 +1431,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "US to seek public comment on Chinese goods eligible for tariff cuts",
           "date": "2026-05-27",
           "url": "https://www.reuters.com/world/asia-pacific/us-seek-public-comment-chinese-goods-eligible-tariff-cuts-2026-05-26",
@@ -1360,6 +1444,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Jamestown",
+          "author": "",
           "title": "The Chinese ‘Rules and Future’ of Global Trade",
           "date": "2026-05-28",
           "url": "https://jamestown.org/the-chinese-rules-and-future-of-global-trade",
@@ -1372,6 +1457,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "No one wins a trade war. Or do they?",
           "date": "2026-05-26",
           "url": "https://www.ft.com/content/50006f16-9eaf-410d-847c-3f32593d4d95",
@@ -1384,6 +1470,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Diplomat",
+          "author": "",
           "title": "The double China shock: How Beijing is disrupting both developing and advanced economies",
           "date": "2026-05-29",
           "url": "https://thediplomat.com/2026/05/the-double-china-shock-how-beijing-is-disrupting-both-developing-and-advanced-economies",
@@ -1396,6 +1483,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "China Eliminates Tariffs on Africa to Outmaneuver Trump",
           "date": "2026-05-26",
           "url": "https://www.wsj.com/world/africa/china-africa-tariffs-664f62eb",
@@ -1408,6 +1496,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "China targets offshore billions in biggest crackdown in decades",
           "date": "2026-05-28",
           "url": "https://www.bloomberg.com/news/articles/2026-05-28/china-targets-billions-in-offshore-stock-trading-in-biggest-crackdown-in-decades",
@@ -1415,6 +1504,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "How Southeast Asia’s ambitious green transition strategy is a windfall for China",
           "date": "2026-05-28",
           "url": "https://www.scmp.com/economy/china-economy/article/3355042/how-southeast-asias-ambitious-green-transition-strategy-windfall-china",
@@ -1422,6 +1512,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "Hong Kong overtakes Switzerland as hub for global offshore wealth",
           "date": "2026-05-27",
           "url": "https://www.ft.com/content/c030138f-275e-4950-be5e-62abe240057c",
@@ -1429,6 +1520,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "Hong Kong overtakes Switzerland as world's top cross-border wealth hub on China ties, report shows",
           "date": "2026-05-27",
           "url": "https://www.reuters.com/business/finance/hong-kong-overtakes-switzerland-worlds-top-cross-border-wealth-hub-china-ties-2026-05-27",
@@ -1436,6 +1528,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Why China Is Tightening Controls on Overseas Stock Trading - Bloomberg",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/why-china-is-tightening-controls-on-overseas-stock-trading",
@@ -1443,6 +1536,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "China Inc goes shopping for western consumer brands",
           "date": "",
           "url": "https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640",
@@ -1450,6 +1544,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "Japan slips to third-largest creditor behind China despite record net external assets",
           "date": "2026-05-26",
           "url": "https://www.reuters.com/world/asia-pacific/japan-slips-third-largest-creditor-behind-china-despite-record-net-external-2026-05-25",
@@ -1457,6 +1552,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Russia starts offering yuan bonds after Putin’s visit to Beijing",
           "date": "2026-05-28",
           "url": "https://www.bloomberg.com/news/articles/2026-05-28/russia-starts-offering-yuan-bonds-after-putin-s-visit-to-beijing",
@@ -1464,6 +1560,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Made-in-China EVs Enter Canada Under Deal Carney Struck With Xi",
           "date": "2026-05-29",
           "url": "https://www.bloomberg.com/news/articles/2026-05-28/chinese-evs-enter-canada-under-quota-deal-carney-struck-with-xi",
@@ -1471,6 +1568,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "China Crude Imports Hit Lowest Level Since 2016, Freeing Up Asia Supply - WSJ",
           "date": "2026-05-26",
           "url": "https://www.wsj.com/business/energy-oil/chinas-crude-import-slowdown-eases-asia-supply-strain-from-gulf-shock-89e0e274",
@@ -1478,6 +1576,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "Boeing CEO says 200-jet China deal an 'initial tranche' with more to come",
           "date": "2026-05-28",
           "url": "https://www.reuters.com/business/aerospace-defense/boeing-ceo-says-200-jet-china-deal-an-initial-tranche-with-more-come-2026-05-28",
@@ -1485,6 +1584,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "China works on AI token futures market, sources say, in race with U.S.",
           "date": "2026-05-28",
           "url": "https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28",
@@ -1492,6 +1592,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "Tencent links PayPal to WeChat Pay network, enabling US users to spend across China",
           "date": "2026-05-27",
           "url": "https://www.reuters.com/world/asia-pacific/tencent-links-paypal-wechat-pay-network-enabling-us-users-spend-across-china-2026-05-27",
@@ -1499,6 +1600,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "Temu Owner PDD Posts Profit Miss Amid Fierce Competition in China",
           "date": "2026-05-27",
           "url": "https://www.wsj.com/business/earnings/temu-owner-pdd-posts-profit-miss-amid-fierce-competition-in-china-a8cf3b0a",
@@ -1506,6 +1608,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "China pharma industry not impacted by Beijing scrutiny of sensitive tech deals, JW chief says",
           "date": "2026-05-27",
           "url": "https://www.reuters.com/legal/transactional/china-pharma-industry-not-impacted-by-beijing-scrutiny-sensitive-tech-deals-jw-2026-05-26",
@@ -1521,6 +1624,7 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Germany arrests married couple suspected of chinese espionage",
           "date": "",
           "url": "https://www.bloomberg.com/news/articles/2026-05-20/germany-arrests-married-couple-suspected-of-chinese-espionage",
@@ -1537,6 +1641,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Economist",
+          "author": "",
           "title": "How china quietly helps russia in ukraine",
           "date": "",
           "url": "https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine",
@@ -1557,6 +1662,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Lefigaro",
+          "author": "",
           "title": "A study reveals a “systematic” Chinese interference strategy in G7 countries",
           "date": "2026-05-28",
           "url": "https://www.lefigaro.fr/international/une-etude-revele-une-strategie-d-ingerence-chinoise-systemique-dans-les-pays-du-g7-20260527",
@@ -1577,6 +1683,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Wire China",
+          "author": "",
           "title": "The supplicant and the sovereign",
           "date": "",
           "url": "https://www.thewirechina.com/2026/05/21/the-supplicant-and-the-sovereign",
@@ -1593,6 +1700,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Foreign Affairs",
+          "author": "",
           "title": "The G-2 Reality",
           "date": "2026-05-26",
           "url": "https://www.foreignaffairs.com/united-states/g-2-reality",
@@ -1609,6 +1717,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Diplomat",
+          "author": "",
           "title": "The Putin-Xi summit and the asymmetry of the China-Russia partnership",
           "date": "2026-05-28",
           "url": "https://thediplomat.com/2026/05/the-putin-xi-summit-and-the-asymmetry-of-the-china-russia-partnership",
@@ -1625,6 +1734,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Foreign Policy",
+          "author": "",
           "title": "Xi ascendant",
           "date": "2026-05-26",
           "url": "https://foreignpolicy.com/2026/05/26/xi-trump-china-united-states-summit-power",
@@ -1641,6 +1751,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Carnegie",
+          "author": "",
           "title": "China’s Police and Security Cooperation Agreements",
           "date": "2026-05-27",
           "url": "https://carnegieendowment.org/research/2026/05/chinas-police-and-security-cooperation-agreements",
@@ -1657,6 +1768,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "Xi Jinping railed against Japan’s ‘remilitarisation’ at Donald Trump summit",
           "date": "2026-05-24",
           "url": "https://www.ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b",
@@ -1669,6 +1781,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "Stable US-China ties? It won’t last long, Evan Medeiros says",
           "date": "2026-05-25",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3354598/stable-us-china-ties-it-wont-last-long-says-evan-medeiros",
@@ -1681,6 +1794,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "EUreporter",
+          "author": "",
           "title": "China-EUMEPs to visit China for the 43rd Inter-Parliamentary Meeting (IPM)",
           "date": "2026-05-25",
           "url": "https://www.eureporter.co/world/china-2/china-eu/2026/05/25/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm",
@@ -1693,6 +1807,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Jamestown",
+          "author": "",
           "title": "Cognitive Warfare Against Japan’s Security Normalization",
           "date": "2026-05-29",
           "url": "https://jamestown.org/cognitive-warfare-against-japans-security-normalization",
@@ -1705,6 +1820,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Economist",
+          "author": "",
           "title": "China’s diplomatic successes are broad but shallow",
           "date": "2026-05-25",
           "url": "https://www.economist.com/china/2026/05/25/chinas-diplomatic-successes-are-broad-but-shallow",
@@ -1717,6 +1833,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "NYT",
+          "author": "",
           "title": "Chinese Firms Plot Secret Arms Sales to Iran, US Officials Say",
           "date": "",
           "url": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html",
@@ -1729,6 +1846,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "NYT",
+          "author": "",
           "title": "China is testing its state surveillance model abroad",
           "date": "2026-05-27",
           "url": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html",
@@ -1741,6 +1859,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "China is building launch pads near its nuclear missile silos",
           "date": "2026-05-29",
           "url": "https://www.reuters.com/graphics/CHINA-MILITARY/NUCLEAR/zjpqmbrlqpx",
@@ -1748,6 +1867,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Hudson",
+          "author": "",
           "title": "The War Above the War: How Chinese Satellites Support Iran | MENA Defense Intelligence Digest Special Report",
           "date": "2026-05-29",
           "url": "https://www.hudson.org/national-security-defense/war-above-war-how-chinese-satellites-support-iran-mena-defense-can-kasapoglu",
@@ -1755,6 +1875,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Foreign Affairs",
+          "author": "",
           "title": "China was ready age anarchy",
           "date": "",
           "url": "https://www.foreignaffairs.com/china/china-was-ready-age-anarchy",
@@ -1762,6 +1883,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Hudson",
+          "author": "",
           "title": "Trump–Xi Summit: Strategic Developments, Outcomes, and Implications",
           "date": "2026-05-19",
           "url": "https://www.hudson.org/foreign-policy/trump-xi-summit-strategic-developments-outcomes-implications-miles-yu-colin-tessier-kay",
@@ -1769,6 +1891,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "Why the era of the 3 joint US-China communiques may be ‘completely’ over",
           "date": "2026-05-25",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3354789/why-era-3-joint-us-china-communiques-may-be-completely-over",
@@ -1776,6 +1899,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "How Beijing pushed Trump to ‘arrest’ the trend on Taiwan arms sales",
           "date": "2026-05-29",
           "url": "https://www.scmp.com/news/china/article/3355293/art-deal-how-beijing-pushed-trump-arrest-trend-taiwan-arms-sales",
@@ -1783,6 +1907,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "NYT",
+          "author": "",
           "title": "Trump's Pursuit of a Partnership with China Raises Concerns in India",
           "date": "",
           "url": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
@@ -1790,6 +1915,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "WSJ",
+          "author": "",
           "title": "Exclusive | U.S. Warns of Growing Russian and Chinese Spying in Cuba - WSJ",
           "date": "2026-05-26",
           "url": "https://www.wsj.com/politics/national-security/u-s-warns-of-growing-russian-and-chinese-spying-in-cuba-a99059dd",
@@ -1797,6 +1923,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Chosun",
+          "author": "",
           "title": "China, Russia operate intelligence bases in Cuba near US coast",
           "date": "2026-05-25",
           "url": "https://www.chosun.com/english/world-en/2026/05/25/HSEPMDXCGZHV5EOED67CNBPQGU",
@@ -1804,6 +1931,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Diplomat",
+          "author": "",
           "title": "China’s navy is shifting pressure beyond the Taiwan Strait",
           "date": "2026-05-28",
           "url": "https://thediplomat.com/2026/05/chinas-navy-is-shifting-pressure-beyond-the-taiwan-strait",
@@ -1811,6 +1939,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "China Minister Again Skips Defense Forum Attended by Hegseth",
           "date": "2026-05-28",
           "url": "https://www.bloomberg.com/news/articles/2026-05-28/china-minister-again-skips-defense-forum-attended-by-hegseth",
@@ -1818,6 +1947,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "China lifts peacekeeping budget share amid warnings bodies like UN may be sidelined",
           "date": "2026-05-26",
           "url": "https://www.scmp.com/news/china/military/article/3354743/china-lifts-peacekeeping-budget-share-amid-warnings-bodies-un-may-be-sidelined",
@@ -1825,6 +1955,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "‘New form of war’: an insider view of China’s AI strategy in electronic warfare",
           "date": "2026-05-26",
           "url": "https://www.scmp.com/news/china/science/article/3353491/new-form-war-insider-view-chinas-ai-strategy-electronic-warfare",
@@ -1832,6 +1963,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "Why Hainan holds the key to survival for China’s aircraft carriers",
           "date": "2026-05-24",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3354674/breaking-chain-why-hainan-holds-key-survival-chinas-aircraft-carriers",
@@ -1839,6 +1971,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "Panama encourages dialogue and bridge-building at UN as canal tensions with China simmer",
           "date": "2026-05-27",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3354958/panama-encourages-dialogue-and-bridge-building-un-canal-tensions-china-simmer",
@@ -1854,6 +1987,7 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "WP",
+          "author": "",
           "title": "U.S. pauses $14 billion Taiwan arms sale after China summit - The Washington Post",
           "date": "2026-05-25",
           "url": "https://www.washingtonpost.com/national-security/2026/05/23/us-pauses-14-billion-taiwan-arms-sale-after-china-summit",
@@ -1874,6 +2008,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Pentagon aims to break china rare earths grip with critical minerals plan",
           "date": "",
           "url": "https://www.bloomberg.com/news/articles/2026-05-14/pentagon-aims-to-break-china-rare-earths-grip-with-critical-minerals-plan",
@@ -1890,6 +2025,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "State",
+          "author": "",
           "title": "Quad Critical Minerals Initiative Framework Among the United States, Japan, Australia, and India",
           "date": "2026-05-26",
           "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/quad-critical-minerals-initiative-framework-among-the-united-states-japan-australia-and-india",
@@ -1906,6 +2042,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "The new arms race in computing power",
           "date": "2026-05-25",
           "url": "https://www.ft.com/content/5aecd7b6-652f-4edb-b666-71f3f50fc43e",
@@ -1922,6 +2059,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Foreign Policy",
+          "author": "",
           "title": "Trump is treating Taiwan like collateral",
           "date": "2026-05-26",
           "url": "https://foreignpolicy.com/2026/05/26/taiwan-china-us-arms-sales-package-trump-xi",
@@ -1938,6 +2076,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Volvo Poised to Avoid US Ban on Connected Cars Linked to China",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/volvo-poised-to-avoid-us-ban-on-connected-cars-linked-to-china",
@@ -1954,6 +2093,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "UK spy chief warns China Is closing cyber gap with West",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/uk-spy-chief-warns-china-is-closing-cyber-gap-with-west",
@@ -1970,6 +2110,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "War",
+          "author": "",
           "title": "Remarks by secretary of war pete hegseth at the 2026 shangri la dialogue in sin",
           "date": "",
           "url": "https://www.war.gov/News/Speeches/Speech/Article/4504755/remarks-by-secretary-of-war-pete-hegseth-at-the-2026-shangri-la-dialogue-in-sin",
@@ -1986,6 +2127,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Org",
+          "author": "",
           "title": "Not just commercial litigation china is trying to keep darwin por",
           "date": "",
           "url": "https://www.aspistrategist.org.au/not-just-commercial-litigation-china-is-trying-to-keep-darwin-port",
@@ -1998,6 +2140,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Germany’s Reiche tells EU to avoid harming exports to China",
           "date": "2026-05-27",
           "url": "https://www.bloomberg.com/news/articles/2026-05-27/germany-s-reiche-tells-eu-to-avoid-harming-exports-to-china",
@@ -2010,6 +2153,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Taiwan seeks to detain three in ai chip smuggling crackdown",
           "date": "",
           "url": "https://www.bloomberg.com/news/articles/2026-05-21/taiwan-seeks-to-detain-three-in-ai-chip-smuggling-crackdown",
@@ -2022,6 +2166,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Brookings",
+          "author": "",
           "title": "How partisan is Taiwan’s security debate?",
           "date": "2026-05-28",
           "url": "https://www.brookings.edu/articles/how-partisan-is-taiwans-security-debate",
@@ -2034,6 +2179,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Cnas",
+          "author": "",
           "title": "Thwarting communications blackou",
           "date": "",
           "url": "https://www.cnas.org/publications/reports/thwarting-communications-blackout",
@@ -2046,6 +2192,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "CNBC",
+          "author": "",
           "title": "Uk spy chief gchq russia china us cyber attack security",
           "date": "",
           "url": "https://www.cnbc.com/2026/05/27/uk-spy-chief-gchq-russia-china-us-cyber-attack-security.html",
@@ -2058,6 +2205,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Defensenews",
+          "author": "",
           "title": "Japan fires first ever missiles from philippine soi",
           "date": "",
           "url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil",
@@ -2070,6 +2218,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "FT",
+          "author": "",
           "title": "EU fines China’s Temu €200mn for failing to prevent sale of illegal goods",
           "date": "2026-05-28",
           "url": "https://www.ft.com/content/5beb72de-4c60-4f43-89c6-f36f5d7d5e05",
@@ -2077,6 +2226,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Foreign Affairs",
+          "author": "",
           "title": "China’s AI Heist",
           "date": "2026-05-29",
           "url": "https://www.foreignaffairs.com/china/chinas-ai-heist",
@@ -2084,6 +2234,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Lowy Institute",
+          "author": "",
           "title": "Critical minerals: The West is learning the wrong lesson from China",
           "date": "2026-05-29",
           "url": "https://www.lowyinstitute.org/the-interpreter/critical-minerals-west-learning-wrong-lesson-china",
@@ -2091,6 +2242,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Bloomberg",
+          "author": "",
           "title": "Marco Rubio Unveils Indo-Pacific Monitor Plan as Hormuz Crisis Deepens - Bloomberg",
           "date": "2026-05-26",
           "url": "https://www.bloomberg.com/news/articles/2026-05-26/quad-diplomats-meet-in-india-to-revive-group-after-trump-tension",
@@ -2098,6 +2250,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Substack",
+          "author": "",
           "title": "Dirty Laundry: The Commerce Department hung theirs out this morning",
           "date": "2026-05-31",
           "url": "https://chinaarticles.substack.com/p/dirty-laundry",
@@ -2105,6 +2258,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Militarytimes",
+          "author": "",
           "title": "Former university of michigan researcher accused of hiding chinese military drone ties",
           "date": "",
           "url": "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties",
@@ -2112,6 +2266,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Taipei Times",
+          "author": "",
           "title": "Ryan Hass On Taiwan: Hard questions await Cheng Li-wun",
           "date": "2026-05-25",
           "url": "https://www.taipeitimes.com/News/editorials/archives/2026/05/25/2003857901",
@@ -2119,6 +2274,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "State",
+          "author": "",
           "title": "Secretary of State Marco Rubio and Indian External Affairs Minister Subrahmanyam Jaishankar at the Signing of a Critical Minerals Framework",
           "date": "2026-05-26",
           "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/secretary-of-state-marco-rubio-and-indian-external-affairs-minister-subrahmanyam-jaishankar-at-the-signing-of-a-critical-minerals-framework",
@@ -2126,6 +2282,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Hudson",
+          "author": "",
           "title": "Silk Seven or the OTS? Central Asia May Not Have to Choose",
           "date": "2026-05-28",
           "url": "https://www.hudson.org/security-alliances/silk-seven-or-ots-central-asia-may-not-have-choose-ken-moriyasu",
@@ -2133,6 +2290,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Taipei Times",
+          "author": "",
           "title": "Uncrewed US craft transits the Taiwan Strait",
           "date": "",
           "url": "https://www.taipeitimes.com/News/front/archives/2026/05/29/2003858167",
@@ -2140,6 +2298,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Jamestown",
+          "author": "",
           "title": "Taiwan Weighs HIMARS for PRC Counterstrikes",
           "date": "2026-05-29",
           "url": "https://jamestown.org/taiwan-weighs-himars-for-prc-counterstrikes",
@@ -2147,6 +2306,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Jamestown",
+          "author": "",
           "title": "Taiwan’s Special Defense Budget Bill Passes with Drastic Cuts",
           "date": "2026-05-29",
           "url": "https://jamestown.org/taiwans-special-defense-budget-bill-passes-with-drastic-cuts",
@@ -2154,6 +2314,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "CFR",
+          "author": "",
           "title": "Trump Shouldn’t Give China a Veto on Taiwan Arms Sales",
           "date": "2026-05-28",
           "url": "https://www.cfr.org/articles/trump-shouldnt-give-china-a-veto-on-taiwan-arms-sales",
@@ -2161,6 +2322,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "SCMP",
+          "author": "",
           "title": "‘We’ll be a museum’: EU heavyweights back industrial accelerator as China shock fears grow",
           "date": "2026-05-28",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3355208/well-be-museum-eu-heavyweights-back-industrial-accelerator-china-shock-fears-grow",
@@ -2168,6 +2330,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Reuters",
+          "author": "",
           "title": "Japan philippines discuss information sharing pact ease arms exports 2026 05 28",
           "date": "2026-05-28",
           "url": "https://www.reuters.com/world/china/japan-philippines-discuss-information-sharing-pact-ease-arms-exports-2026-05-28",
@@ -2185,7 +2348,8 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "Qiushi 求是",
-          "title": "前瞻布局和发展未来产业 [Forward-looking layout and development of future industries]",
+          "author": "Xi Jinping · 习近平",
+          "title": "Forward-looking layout and development of future industries · 前瞻布局和发展未来产业",
           "date": "2026-05-31",
           "url": "https://www.qstheory.cn/20260601/c8ba0a40b56a4ec5b3e84a1aac3e2a5f/c.html",
           "bullets": [
@@ -2205,7 +2369,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "Qiushi 求是",
-          "title": "以高水平科技自立自强引领未来产业发展 [Leading future-industry development with high-level S&T self-reliance and self-strengthening]",
+          "author": "Yin Hejun · 阴和俊",
+          "title": "Leading future-industry development with high-level S&T self-reliance and self-strengthening · 以高水平科技自立自强引领未来产业发展",
           "date": "2026-06-01",
           "url": "https://www.aisixiang.com/data/176784.html",
           "bullets": [
@@ -2233,7 +2398,8 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "NEA 国家能源局",
-          "title": "\"AI+\" Energy High-Value Scenarios (51 cases) — first batch typical application scenarios 人工智能+ 能源高价值场景",
+          "author": "",
+          "title": "\"AI+\" Energy High-Value Scenarios (51 cases) — first batch typical application scenarios · 人工智能+ 能源高价值场景",
           "date": "2026-05-30",
           "url": "no-url",
           "bullets": [
@@ -2253,7 +2419,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "NDRC 国家发改委",
-          "title": "Advancing Major Project Construction and Accelerating Implementation of \"AI Plus\" 推进重大项目建设、加快人工智能+ 实施",
+          "author": "",
+          "title": "Advancing Major Project Construction and Accelerating Implementation of \"AI Plus\" · 推进重大项目建设、加快人工智能+ 实施",
           "date": "2026-05-29",
           "url": "no-url",
           "bullets": [
@@ -2269,7 +2436,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "State Council 国务院",
-          "title": "Implementation Opinions on Promoting the Provision of Basic Public Services at Place of Habitual Residence 关于推行常住地提供基本公共服务的实施意见",
+          "author": "",
+          "title": "Implementation Opinions on Promoting the Provision of Basic Public Services at Place of Habitual Residence · 关于推行常住地提供基本公共服务的实施意见",
           "date": "2026-05-22",
           "url": "no-url",
           "bullets": [
@@ -2285,7 +2453,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "CSRC + 7 agencies",
-          "title": "Implementation Plan for the Comprehensive Rectification of Illegal Cross-Border Securities, Futures and Fund Business Activities 综合整治非法跨境证券期货基金经营活动实施方案",
+          "author": "",
+          "title": "Implementation Plan for the Comprehensive Rectification of Illegal Cross-Border Securities, Futures and Fund Business Activities · 综合整治非法跨境证券期货基金经营活动实施方案",
           "date": "2026-05-22",
           "url": "https://www.csrc.gov.cn/csrc/c100028/c7634326/content.shtml",
           "bullets": [
@@ -2305,7 +2474,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "State Council 国务院",
-          "title": "Implementing Opinions on Rolling Out the Provision of Basic Public Services by Place of Permanent Residence 关于按常住地提供基本公共服务的实施意见 (Guo Fa [2026] No. 11)",
+          "author": "",
+          "title": "Implementing Opinions on Rolling Out the Provision of Basic Public Services by Place of Permanent Residence · 关于按常住地提供基本公共服务的实施意见 (Guo Fa [2026] No. 11)",
           "date": "2026-05-22",
           "url": "no-url",
           "bullets": [
@@ -2324,10 +2494,11 @@ window.W22_2026 = {
           ]
         },
         {
-          "outlet": "Sinocism (Bill Bishop)",
-          "title": "State Council Regulations on Outbound Investment (国务院关于对外投资的规定) - State Council Order No. 837",
-          "date": "2026-06-01",
-          "url": "https://sinocism.com/p/new-regulations-on-outbound-investment",
+          "outlet": "State Council 国务院",
+          "author": "",
+          "title": "Regulations on Outbound Investment · 国务院关于对外投资的规定 (State Council Order No. 837)",
+          "date": "2026-05-05",
+          "url": "https://www.gov.cn/zhengce/content/202606/content_7070755.htm",
           "bullets": [
             [
               "Codifies dispersed rules into a 34-article State Council regulation",
@@ -2345,6 +2516,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "gov.cn",
+          "author": "",
           "title": "China moves to provide basic public services based on residence",
           "date": "2026-05-25",
           "url": "https://english.www.gov.cn/policies/latestreleases/202605/22/content_WS6a104f0cc6d00ca5f9a0b2d2.html",
@@ -2369,6 +2541,7 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "Yicai",
+          "author": "",
           "title": "EU Council extends sanctions on Russian-linked individuals and entity",
           "date": "2026-05-27",
           "url": "https://www.yicai.com/news/103202190.html",
@@ -2385,6 +2558,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Caixin Global",
+          "author": "",
           "title": "EU business confidence in China remains low despite modest improvement, survey shows",
           "date": "2026-05-27",
           "url": "https://www.caixinglobal.com/2026-05-27/eu-business-confidence-in-china-remains-low-despite-modest-improvement-survey-shows-102447674.html",
@@ -2401,6 +2575,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Jiemian",
+          "author": "",
           "title": "How is China’s aluminium industry responding to the looming “carbon tariff” pressure?",
           "date": "2026-05-25",
           "url": "https://www.jiemian.com/article/14473498.html",
@@ -2417,6 +2592,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Jiemian",
+          "author": "",
           "title": "China Commerce Ministry calls EU steel tariff plan protectionism",
           "date": "2026-05-28",
           "url": "https://www.jiemian.com/article/14499002.html",
@@ -2433,6 +2609,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Caixin Global",
+          "author": "",
           "title": "Economists urge export tax rebate cuts as trade surplus hits record",
           "date": "2026-05-29",
           "url": "https://www.caixinglobal.com/2026-05-29/economists-urge-export-tax-rebate-cuts-as-trade-surplus-hits-record-102448715.html",
@@ -2449,6 +2626,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Caixin",
+          "author": "",
           "title": "Hong Kong banks tighten checks on mainland clients, with some Chinese banks suspending new investment accounts",
           "date": "2026-05-27",
           "url": "https://finance.caixin.com/m/2026-05-27/102447909.html",
@@ -2469,6 +2647,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Caixin Global",
+          "author": "",
           "title": "APEC ministers agree on digital trade, ai and supply chains in China talks",
           "date": "2026-05-25",
           "url": "https://www.caixinglobal.com/2026-05-25/apec-ministers-agree-on-digital-trade-ai-and-supply-chains-in-china-talks-102447383.html",
@@ -2485,6 +2664,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "21st Century Business Herald",
+          "author": "",
           "title": "China’s Vice Minister of Commerce and Deputy International Trade Representative Ling Ji meets German SME delegation",
           "date": "2026-05-27",
           "url": "https://www.21jingji.com/article/20260527/herald/82882b5653a45089e95431c037584062.html",
@@ -2509,7 +2689,8 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "PRC + Serbia",
-          "title": "Joint Statement on Jointly Promoting the New Era China-Serbia Iron-Clad Friendship 中塞两国关于共同推进新时代中塞铁杆友谊的联合声明",
+          "author": "",
+          "title": "Joint Statement on Jointly Promoting the New Era China-Serbia Iron-Clad Friendship · 中塞两国关于共同推进新时代中塞铁杆友谊的联合声明",
           "date": "2026-05-25",
           "url": "no-url",
           "bullets": [
@@ -2529,7 +2710,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "PRC + Pakistan",
-          "title": "Joint Statement of the People's Republic of China and the Islamic Republic of Pakistan 中华人民共和国和巴基斯坦伊斯兰共和国联合声明",
+          "author": "",
+          "title": "Joint Statement of the People's Republic of China and the Islamic Republic of Pakistan · 中华人民共和国和巴基斯坦伊斯兰共和国联合声明",
           "date": "2026-05-25",
           "url": "no-url",
           "bullets": [
@@ -2545,6 +2727,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "mfa.gov.cn",
+          "author": "",
           "title": "Wang Yi meets Portuguese foreign minister Rangel",
           "date": "2026-05-28",
           "url": "https://www.mfa.gov.cn/web/wjbz_673089/xghd_673097/202605/t20260528_11919512.shtml",
@@ -2561,6 +2744,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Xinhua News",
+          "author": "",
           "title": "Li Hongzhong leads NPC delegation on visit to Albania",
           "date": "2026-05-25",
           "url": "http://www.npc.gov.cn/npc/c2/kgfb/202605/t20260525_454992.html",
@@ -2577,6 +2761,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "MFA spokesperson Mao Ning",
+          "author": "",
           "title": "Regular Press Conference, 26 May 2026",
           "date": "2026-05-26",
           "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202605/t20260526_11919210.html",
@@ -2593,6 +2778,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "MFA spokesperson Mao Ning",
+          "author": "",
           "title": "Regular Press Conference, 25 May 2026",
           "date": "2026-05-25",
           "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202605/t20260525_11918710.html",
@@ -2617,7 +2803,8 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "Aisixiang 爱思想",
-          "title": "影响我国经济增长的风险制约与化解突破路径 [Risk constraints on China's economic growth and breakthrough paths]",
+          "author": "Jia Kang · 贾康",
+          "title": "Risk constraints on China's economic growth and breakthrough paths · 影响我国经济增长的风险制约与化解突破路径",
           "date": "2026-05-27",
           "url": "https://www.aisixiang.com/data/176530.html",
           "bullets": [
@@ -2637,7 +2824,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "Aisixiang 爱思想",
-          "title": "为民造福是最大政绩 [Benefiting the people is the greatest political achievement]",
+          "author": "Huang Yibing · 黄一兵",
+          "title": "Benefiting the people is the greatest political achievement · 为民造福是最大政绩",
           "date": "2026-05-26",
           "url": "https://www.aisixiang.com/data/176465.html",
           "bullets": [
@@ -2657,7 +2845,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "Aisixiang 爱思想",
-          "title": "特朗普政府与美国掠夺性霸权的形成 [The Trump administration and the formation of US predatory hegemony]",
+          "author": "Zuo Xiying · 左希迎",
+          "title": "The Trump administration and the formation of US predatory hegemony · 特朗普政府与美国掠夺性霸权的形成",
           "date": "2026-05-27",
           "url": "https://www.aisixiang.com/data/176536.html",
           "bullets": [
@@ -2677,7 +2866,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "Aisixiang 爱思想",
-          "title": "从党中央关于制定\"十五五\"规划的建议看党的全面领导 [Reading the Party-Centre 15th-FYP proposal through the lens of comprehensive Party leadership]",
+          "author": "Qi Weiping · 齐卫平",
+          "title": "Reading the Party-Centre 15th-FYP proposal through the lens of comprehensive Party leadership · 从党中央关于制定\"十五五\"规划的建议看党的全面领导",
           "date": "2026-05-29",
           "url": "https://www.aisixiang.com/data/176635.html",
           "bullets": [
@@ -2697,7 +2887,8 @@ window.W22_2026 = {
         },
         {
           "outlet": "Aisixiang 爱思想",
-          "title": "深化产业融合赋能现代化产业体系建设 [Deepening industrial convergence to empower the modern industrial system]",
+          "author": "Jiang Changyun · 姜长云",
+          "title": "Deepening industrial convergence to empower the modern industrial system · 深化产业融合赋能现代化产业体系建设",
           "date": "2026-05-28",
           "url": "https://www.aisixiang.com/data/176591.html",
           "bullets": [
@@ -2725,6 +2916,7 @@ window.W22_2026 = {
       "items": [
         {
           "outlet": "China Daily",
+          "author": "",
           "title": "'Brexit moment' feared in Iceland's looming EU vote",
           "date": "2026-05-28",
           "url": "https://www.chinadaily.com.cn/a/202605/28/WS6a179deda310d6866eb4b23b.html",
@@ -2741,6 +2933,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "huanqiu.com",
+          "author": "",
           "title": "Brussels needs a new narrative on China-EU relations",
           "date": "2026-05-28",
           "url": "https://hqtime.huanqiu.com/article/4Rjxg6Vv4bk",
@@ -2757,6 +2950,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Global Times",
+          "author": "",
           "title": "Brussels should listen to rational voices: Global Times editorial",
           "date": "2026-05-28",
           "url": "https://www.globaltimes.cn/page/202605/1362214.shtml",
@@ -2777,6 +2971,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Xinhua",
+          "author": "",
           "title": "China negotiating with EU on new steel tariffs: commerce ministry",
           "date": "2026-05-28",
           "url": "https://english.news.cn/20260528/150f5e94b7284bf89c32a7afa3894d67/c.html",
@@ -2793,6 +2988,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Global Times",
+          "author": "",
           "title": "China urges EU to honor commitment to free trade, warns of response after Brussels’ addressing ‘imbalanced trade’ rhetoric",
           "date": "2026-05-28",
           "url": "https://www.globaltimes.cn/page/202605/1362200.shtml",
@@ -2809,6 +3005,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "china.com.cn",
+          "author": "",
           "title": "EU’s provocation of economic and trade frictions with China is a costly strategic misjudgment",
           "date": "2026-05-28",
           "url": "http://www.china.com.cn/opinion/2026-05/28/content_118514722.html",
@@ -2825,6 +3022,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Xinhua",
+          "author": "",
           "title": "EU should put trade ties with China in perspective: Chinese FM spokesperson",
           "date": "2026-05-28",
           "url": "https://english.news.cn/20260528/1c263168dff1449da9bea3ed97614469/c.html",
@@ -2841,6 +3039,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Xinhua",
+          "author": "",
           "title": "Poland to sign 27 bln USD military deals with EU by end-May",
           "date": "2026-05-28",
           "url": "https://english.news.cn/20260528/0900734feaf0401fa6c62e7efce5d320/c.html",
@@ -2857,6 +3056,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "China Daily",
+          "author": "",
           "title": "Takeaway from Sino-German economic relations for Brussels",
           "date": "2026-05-28",
           "url": "https://www.chinadaily.com.cn/a/202605/28/WS6a183c5fa310d6866eb4b466.html",
@@ -2873,6 +3073,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "Global Times",
+          "author": "",
           "title": "The EU should neither engage in nor afford a ‘trade war with China’: Global Times editorial",
           "date": "2026-05-26",
           "url": "https://www.globaltimes.cn/page/202605/1361926.shtml",
@@ -2889,6 +3090,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "China Daily",
+          "author": "",
           "title": "Protectionism undermines China-EU cooperation",
           "date": "2026-05-25",
           "url": "https://www.chinadaily.com.cn/a/202605/25/WS6a13a618a310d6866eb4a781.html",
@@ -2905,6 +3107,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "People's Daily",
+          "author": "",
           "title": "Opinion: China-Africa friendship in a bag of rice",
           "date": "2026-05-28",
           "url": "https://en.people.cn/n3/2026/0528/c90000-20461331.html",
@@ -2921,6 +3124,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "People's Daily",
+          "author": "",
           "title": "The international community must see through Japan's nuclear",
           "date": "2026-05-28",
           "url": "https://en.people.cn/n3/2026/0528/c90000-20461333.html",
@@ -2937,6 +3141,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "china.org.cn",
+          "author": "",
           "title": "Chinese FM calls for joint effort with Thailand to advance global governance reform",
           "date": "2026-05-27",
           "url": "http://www.china.org.cn/world/Off_the_Wire/2026-05/27/content_118516823.shtml",
@@ -2953,6 +3158,7 @@ window.W22_2026 = {
         },
         {
           "outlet": "china.org.cn",
+          "author": "",
           "title": "Mainland spokesperson slams separatist remarks by Taiwan leader",
           "date": "2026-05-27",
           "url": "http://www.china.org.cn/china/Off_the_Wire/2026-05/27/content_118516703.shtml",
