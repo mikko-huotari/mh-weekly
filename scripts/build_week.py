@@ -85,6 +85,7 @@ def parse_article_block(block: str) -> dict | None:
     if not m:
         return None
     outlet = m.group("outlet").strip()
+    author = (m.group("author") or "").strip()
     title = m.group("title").strip()
     raw_date = (m.group("date") or "").strip()
     url = (m.group("url1") or m.group("url2") or "").strip()
@@ -95,6 +96,7 @@ def parse_article_block(block: str) -> dict | None:
         bullets.append([bm.group("lead").strip(), bm.group("rest").strip()])
     entry = {
         "outlet": outlet,
+        "author": author,
         "title": title,
         "date": raw_date,
         "url": url,
