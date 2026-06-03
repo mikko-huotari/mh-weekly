@@ -44,11 +44,16 @@ EXPECTED_KEYS_BY_SLUG = {
 
 
 def find_export(vault: Path, week_id: str) -> Path:
+    # Online-first: build directly from the hand-edited source `W-XX.md`
+    # (the Wochenbericht lives there as Part III). No separate export file.
     folder = vault / VAULT_SUBDIR
+    src = folder / f"{week_id}.md"
+    if src.exists():
+        return src
+    # Legacy fallback: an old '— Export.md' if a source file is absent.
     candidates = [p for p in folder.iterdir() if p.name.startswith(week_id) and "Export" in p.name and p.suffix == ".md"]
     if not candidates:
-        sys.exit(f"No Export.md found for {week_id} in {folder}")
-    # Prefer 'W-XX — Export.md' over '— Export FULL.md' etc.
+        sys.exit(f"No source markdown found for {week_id} in {folder}")
     candidates.sort(key=lambda p: ("FULL" in p.name, len(p.name)))
     return candidates[0]
 
