@@ -388,7 +388,7 @@ window.W22_2026 = {
               "bullets": [
                 [
                   "",
-                  "Politico had Grzegorz Stec on their podcast, talking about the European Commission's attempts to forge a common stance on China."
+                  "[Politico](https://podcasts.apple.com/gb/podcast/china-the-abusive-partner-the-eu-just-cant-quit/id1244862657) had Grzegorz Stec on their podcast, talking about the European Commission's attempts to forge a common stance on China."
                 ]
               ]
             },
@@ -400,7 +400,7 @@ window.W22_2026 = {
               "bullets": [
                 [
                   "",
-                  "The Guardian quoted Grzegorz Stec on EU-China industrial competition."
+                  "[The Guardian](https://www.theguardian.com/world/2026/may/28/eu-discuss-restrictions-chinese-imports-fears-overreliance) quoted Grzegorz Stec on EU-China industrial competition."
                 ]
               ]
             },
@@ -412,7 +412,7 @@ window.W22_2026 = {
               "bullets": [
                 [
                   "",
-                  "Süddeutsche Zeitung asked Mikko Huotari about Katherina Reiche's trip to China."
+                  "[Süddeutsche Zeitung](https://www.sueddeutsche.de/politik/katherina-reiche-peking-china-wirtschaft-technologie-konkurrenz-li.3489174) asked Mikko Huotari about Katherina Reiche's trip to China."
                 ]
               ]
             },
@@ -424,7 +424,7 @@ window.W22_2026 = {
               "bullets": [
                 [
                   "",
-                  "Berliner Zeitung quoted MERICS analysis of China's new Five-Year-Plan."
+                  "[Berliner Zeitung](https://www.berliner-zeitung.de/article/pakt-der-supermaechte-10037562) quoted MERICS analysis of China's new Five-Year-Plan."
                 ]
               ]
             },
@@ -436,7 +436,7 @@ window.W22_2026 = {
               "bullets": [
                 [
                   "",
-                  "Die Zeit quoted the recent MERICS × Rhodium Group joint report on Chinese FDI in Europe."
+                  "[Die Zeit](https://www.zeit.de/wirtschaft/unternehmen/2026-05/china-investitionen-deutschland-cosco-huawei-vw-x) quoted the recent MERICS × Rhodium Group joint report on Chinese FDI in Europe."
                 ]
               ]
             },
@@ -448,7 +448,43 @@ window.W22_2026 = {
               "bullets": [
                 [
                   "",
-                  "New York Times quoted both Rebecca Arcesati and the MERICS × Soapbox newsletter."
+                  "[New York Times](https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html) quoted both Rebecca Arcesati and the MERICS × Soapbox newsletter."
+                ]
+              ]
+            },
+            {
+              "outlet": "Handelsblatt",
+              "title": "",
+              "date": "",
+              "url": "https://www.handelsblatt.com/unternehmen/china-provinzen-und-staedte-konkurrieren-um-investoren-in-hartem-wettbewerb/100226213.html",
+              "bullets": [
+                [
+                  "",
+                  "[Handelsblatt](https://www.handelsblatt.com/unternehmen/china-provinzen-und-staedte-konkurrieren-um-investoren-in-hartem-wettbewerb/100226213.html) reported on the fierce competition among Chinese provinces and cities to attract foreign investors, a window onto China's overcapacity dynamics."
+                ]
+              ]
+            },
+            {
+              "outlet": "Handelsblatt Greentech",
+              "title": "",
+              "date": "",
+              "url": "https://www.handelsblatt.com/politik/international/greentech-wie-china-vom-iran-krieg-profitiert/100227022.html",
+              "bullets": [
+                [
+                  "",
+                  "[Handelsblatt Greentech](https://www.handelsblatt.com/politik/international/greentech-wie-china-vom-iran-krieg-profitiert/100227022.html) reported on how China benefits from the Iran war as higher oil prices lift demand for its green-tech exports — the surge MERICS × Soapbox Trade tracks."
+                ]
+              ]
+            },
+            {
+              "outlet": "SCMP",
+              "title": "",
+              "date": "",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3355120/european-leaders-get-ready-act-now-amid-rising-fears-china-shock-20",
+              "bullets": [
+                [
+                  "",
+                  "[SCMP](https://www.scmp.com/news/china/diplomacy/article/3355120/european-leaders-get-ready-act-now-amid-rising-fears-china-shock-20) reported on European leaders preparing to \"act now\" amid fears of a \"China shock 2.0\"."
                 ]
               ]
             }

@@ -405,7 +405,7 @@ def parse_research_section(text: str) -> dict | None:
             link = INLINE_LINK_RE.search(content)
             url = link.group("url") if link else ""
             outlet = (link.group("text") if link else "MERICS")[:40]
-            note = INLINE_LINK_RE.sub(lambda mm: mm.group("text"), content)
+            note = content  # keep [text](url) markdown so the link renders in the bullet
             current_items.append({
                 "outlet": outlet, "title": "", "date": "", "url": url,
                 "bullets": [["", note]],
