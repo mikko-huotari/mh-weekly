@@ -420,21 +420,38 @@ def parse_research_section(text: str) -> dict | None:
 # Spotlight section
 # ---------------------------------------------------------------------------
 
-def _split_spotlight_subsection(body: str) -> tuple[list[str], list[dict]]:
-    """Split a Spotlight sub-section body into intro paragraphs and bullet items."""
+def _parse_md_table(lines: list[str]) -> dict | None:
+    """Parse a run of `| a | b |` markdown lines into {headers, rows}."""
+    rows: list[list[str]] = []
+    for ls in lines:
+        cells = [c.strip() for c in ls.strip().strip("|").split("|")]
+        if cells and all(set(c) <= set("-: ") for c in cells):
+            continue  # separator row (|---|---|)
+        rows.append(cells)
+    if not rows:
+        return None
+    return {"headers": rows[0], "rows": rows[1:]}
+
+
+def _split_spotlight_subsection(body: str) -> tuple[list[str], list[dict], dict | None]:
+    """Split a Spotlight sub-section body into intro paragraphs, bullet items,
+    and an optional markdown table."""
     intro_parts: list[str] = []
     items: list[dict] = []
+    table_lines: list[str] = []
     in_bullets = False
     for line in body.splitlines():
         ls = line.strip()
         if not ls:
             continue
-        if ls.startswith("- "):
+        if ls.startswith("|") and ls.endswith("|"):
+            table_lines.append(ls)
+        elif ls.startswith("- "):
             in_bullets = True
             items.append({"note": ls[2:].strip()})
         elif not in_bullets:
             intro_parts.append(ls)
-    return intro_parts, items
+    return intro_parts, items, (_parse_md_table(table_lines) if table_lines else None)
 
 
 def _parse_one_spotlight(title: str, body: str) -> dict:
@@ -452,18 +469,19 @@ def _parse_one_spotlight(title: str, body: str) -> dict:
 
     h3_iter = list(re.finditer(r"^###\s+(.+?)\s*$", body, re.MULTILINE))
     top_end = h3_iter[0].start() if h3_iter else len(body)
-    intro_parts, items = _split_spotlight_subsection(body[:top_end])
+    intro_parts, items, table = _split_spotlight_subsection(body[:top_end])
 
     subsections: list[dict] = []
     for i, h in enumerate(h3_iter):
         label = h.group(1).strip()
         sub_start = h.end()
         sub_end = h3_iter[i + 1].start() if i + 1 < len(h3_iter) else len(body)
-        sub_intro, sub_items = _split_spotlight_subsection(body[sub_start:sub_end])
+        sub_intro, sub_items, sub_table = _split_spotlight_subsection(body[sub_start:sub_end])
         subsections.append({
             "label": label,
             "intro": " ".join(sub_intro).strip(),
             "items": sub_items,
+            "table": sub_table,
         })
 
     if sources_items:
@@ -477,6 +495,7 @@ def _parse_one_spotlight(title: str, body: str) -> dict:
         "title": title,
         "intro": " ".join(intro_parts).strip(),
         "items": items,
+        "table": table,
         "subsections": subsections,
     }
 
