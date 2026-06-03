@@ -266,6 +266,12 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
+              "note": "**Berlin resists EU restrictions on Chinese telecoms and faces US exposure on autos**: Germany and Spain [pushed back](https://www.bloomberg.com/news/articles/2026-05-27/germany-spain-push-back-on-europe-s-plans-to-ban-huawei-gear) on Commission plans to ban Huawei gear, while US [legislation targeting Chinese-owned carmakers](https://www.bloomberg.com/news/articles/2026-05-29/mercedes-benz-risks-us-ban-under-bill-restricting-chinese-cars) could put Mercedes-Benz at risk in the American market, underscoring how German firms are caught between Chinese competition and allied restrictions."
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
               "note": "**Economic advisory bodies quantify deepening German dependence and structural strain from China**: The Sachverständigenrat's [Frühjahrsgutachten 2026](https://www.sachverstaendigenrat-wirtschaft.de/fruehjahrsgutachten-2026.html) names intensifying Chinese competition, persistent market and supplier dependencies, and a more geopolitically uncertain export environment as a major structural pressure on German industry, while an [FNF study](https://www.freiheit.org/de/taiwan/studie-deutschlands-importabhaengigkeit-von-china-steigt) documents rising German import reliance on China despite the de-risking agenda."
             },
             {
@@ -273,12 +279,6 @@ window.W22_2026 = {
               "date": "",
               "url": "",
               "note": "**Anglophone commentary warns of a \"second China shock\" hitting German industry with Berlin passive**: [Euronews](https://www.euronews.com/business/2026/05/28/china-shock-20-beijing-targets-german-industry-as-berlin-looks-on) and the [Guardian](https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation) argue that Beijing is now competing directly in German core sectors and that Berlin is responding too slowly to the risk of deindustrialisation."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**Berlin resists EU restrictions on Chinese telecoms and faces US exposure on autos**: Germany and Spain [pushed back](https://www.bloomberg.com/news/articles/2026-05-27/germany-spain-push-back-on-europe-s-plans-to-ban-huawei-gear) on Commission plans to ban Huawei gear, while US [legislation targeting Chinese-owned carmakers](https://www.bloomberg.com/news/articles/2026-05-29/mercedes-benz-risks-us-ban-under-bill-restricting-chinese-cars) could put Mercedes-Benz at risk in the American market, underscoring how German firms are caught between Chinese competition and allied restrictions."
             }
           ]
         },
@@ -289,13 +289,19 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**First EP delegation visits China since 2018 for the 43rd Inter-Parliamentary Meeting**: A 12-member D-CN group led by Chair Eroglu attended the [43rd EU-China Inter-Parliamentary Meeting in Beijing](https://www.eureporter.co/world/china-2/china-eu/2026/05/25/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm) on 28 May and also visited Wuhan."
+              "note": "**Commission orientation debate hardens EU-China trade posture while holding to de-risking**: Following the College orientation debate, the Commission [reaffirmed de-risking over decoupling](https://ec.europa.eu/commission/presscorner/detail/en/read_26_1201) but judged the current trade and investment relationship \"not sustainable,\" [vowing tougher action](https://www.reuters.com/world/china/european-commission-debates-policy-shift-protect-industry-china-2026-05-29/) and signalling, [per an official cited by the FT](https://www.reuters.com/world/china/eu-broaden-import-quotas-tariffs-against-china-official-tells-ft-2026-05-28/), that it will broaden import quotas and tariffs; [Brussels framed this as the opening of a tougher phase](https://www.scmp.com/news/china/diplomacy/article/3355380/brussels-fires-starting-gun-tougher-china-trade-policy-beijing-vows-retaliation) and Beijing pledged retaliation."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Commission orientation debate hardens EU-China trade posture while holding to de-risking**: Following the College orientation debate, the Commission [reaffirmed de-risking over decoupling](https://ec.europa.eu/commission/presscorner/detail/en/read_26_1201) but judged the current trade and investment relationship \"not sustainable,\" [vowing tougher action](https://www.reuters.com/world/china/european-commission-debates-policy-shift-protect-industry-china-2026-05-29/) and signalling, [per an official cited by the FT](https://www.reuters.com/world/china/eu-broaden-import-quotas-tariffs-against-china-official-tells-ft-2026-05-28/), that it will broaden import quotas and tariffs; [Brussels framed this as the opening of a tougher phase](https://www.scmp.com/news/china/diplomacy/article/3355380/brussels-fires-starting-gun-tougher-china-trade-policy-beijing-vows-retaliation) and Beijing pledged retaliation."
+              "note": "**Regulatory tools target Chinese platforms beyond classic trade defence**: The Commission [fined Temu €200 million](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1178) for failing to assess systemic risks of illegal products under the Digital Services Act ([over $230 million](https://www.wsj.com/tech/temu-fined-more-than-230-million-in-eu-over-product-risks-e641be96)) and [opened an in-depth foreign-subsidies investigation](https://ec.europa.eu/commission/presscorner/detail/es/ip_26_1164) into JD.com's acquisition of Ceconomy (MediaMarkt-Saturn)."
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**First EP delegation visits China since 2018 for the 43rd Inter-Parliamentary Meeting**: A 12-member D-CN group led by Chair Eroglu attended the [43rd EU-China Inter-Parliamentary Meeting in Beijing](https://www.eureporter.co/world/china-2/china-eu/2026/05/25/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm) on 28 May and also visited Wuhan."
             },
             {
               "outlet": "",
@@ -313,12 +319,6 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Regulatory tools target Chinese platforms beyond classic trade defence**: The Commission [fined Temu €200 million](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1178) for failing to assess systemic risks of illegal products under the Digital Services Act ([over $230 million](https://www.wsj.com/tech/temu-fined-more-than-230-million-in-eu-over-product-risks-e641be96)) and [opened an in-depth foreign-subsidies investigation](https://ec.europa.eu/commission/presscorner/detail/es/ip_26_1164) into JD.com's acquisition of Ceconomy (MediaMarkt-Saturn)."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
               "note": "**Business sentiment on the ground diverges from the policy escalation**: The [EU Chamber's 2026 survey records rebounding confidence](https://www.china-briefing.com/news/eu-chamber-china-2026-business-confidence-survey/) among European firms in China, [echoed by Nikkei](https://asia.nikkei.com/business/business-trends/business-confidence-in-china-rebounds-eu-chamber-of-commerce-survey), with companies [feeling less gloomy as Beijing offers stability](https://www.scmp.com/economy/china-economy/article/3354911/eu-firms-china-starting-feel-less-gloomy-beijing-offers-stability-report)."
             },
             {
@@ -330,13 +330,13 @@ window.W22_2026 = {
           ]
         },
         {
-          "label": "EU member states",
+          "label": "EU member states and European neighborhood",
           "items": [
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Five member states, now including Germany, press for tougher EU trade defences while Spain breaks ranks**: Berlin [signalled support](https://www.politico.eu/article/germany-gives-ok-for-tougher-trade-action-china/) for harder action as [five EU countries called for stronger trade weapons](https://www.politico.eu/article/eu-china-economy-germany-tougher-trade-weapons) against Chinese overcapacity, even as Spain [withdrew its backing](https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses/) amid a parallel [US envoy warning](https://www.reuters.com/business/aerospace-defense/us-envoy-warns-spain-be-very-careful-deepening-ties-with-china-2026-05-27/) to be \"very careful\" deepening ties with Beijing."
+              "note": "**Five member states press for tougher EU trade defences as Germany holds out and Spain wavers**: France, Italy, the Netherlands, Lithuania and Spain [called for stronger trade weapons](https://www.politico.eu/article/eu-china-economy-germany-tougher-trade-weapons) against Chinese overcapacity, but [Germany declined to endorse the push](https://www.euronews.com/my-europe/2026/05/26/germany-resists-eu-members-push-for-a-tougher-stance-on-china) and remains the main holdout, favouring cooperation; Spain then [withdrew its backing](https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses/) amid a parallel [US envoy warning](https://www.reuters.com/business/aerospace-defense/us-envoy-warns-spain-be-very-careful-deepening-ties-with-china-2026-05-27/) to be \"very careful\" deepening ties with Beijing."
             },
             {
               "outlet": "",
@@ -354,13 +354,13 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**China courts the EU periphery as accession-track and aspirant states keep ties warm**: Beijing said it was [willing to work with the Czech government](https://www.reuters.com/world/china/china-willing-work-with-czech-government-improve-ties-2026-05-27) to repair relations, while Serbia's Vučić [defended Belgrade's Chinese ties](https://www.euronews.com/my-europe/2026/05/25/vucic-defends-serbias-chinese-ties-on-controversial-visit-to-beijing) on a contested Beijing visit."
+              "note": "**A South China Sea encounter pulls a European navy into maritime friction with Beijing**: China [accused the Dutch frigate HNLMS De Ruyter](https://www.politico.eu/article/china-netherlands-warship-hnlms-de-ruyter-provocative-acts-south-china-sea) of \"provocative acts\" and [drove it from waters near the Paracel Islands](https://www.zeit.de/politik/ausland/2026-05/chinesische-marine-niederlaendische-fregatte-de-ruyter-paracel-inseln), underscoring exposure as European states project naval presence in the region."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**A South China Sea encounter pulls a European navy into maritime friction with Beijing**: China [accused the Dutch frigate HNLMS De Ruyter](https://www.politico.eu/article/china-netherlands-warship-hnlms-de-ruyter-provocative-acts-south-china-sea) of \"provocative acts\" and [drove it from waters near the Paracel Islands](https://www.zeit.de/politik/ausland/2026-05/chinesische-marine-niederlaendische-fregatte-de-ruyter-paracel-inseln), underscoring exposure as European states project naval presence in the region."
+              "note": "**Serbia's Vučić defends Belgrade's China ties on a contested Beijing visit**: Serbia's president [defended Belgrade's Chinese ties](https://www.euronews.com/my-europe/2026/05/25/vucic-defends-serbias-chinese-ties-on-controversial-visit-to-beijing) during a contested visit to Beijing."
             },
             {
               "outlet": "",
@@ -2954,6 +2954,19 @@ window.W22_2026 = {
             [
               "Routine items on trade, regional security, and bilateral meetings",
               "Covered briefings on EU-China economic talks, ASEAN engagement, and clarifications on China-Japan and China-Philippines maritime issues."
+            ]
+          ]
+        },
+        {
+          "outlet": "MFA spokesperson Guo Jiakun 郭嘉昆",
+          "author": "",
+          "title": "China welcomes the new Czech government's wish to improve ties · 愿同捷方推动中捷关系重返健康稳定发展轨道",
+          "date": "2026-05-20",
+          "url": "https://www.fmprc.gov.cn/fyrbt_673021/202605/t20260520_11914508.shtml",
+          "bullets": [
+            [
+              "Beijing signals openness to repairing China-Czech relations under PM Babiš",
+              "The spokesperson welcomed the new Czech government's reaffirmation of the one-China policy and said China is willing to expand dialogue and cooperation to bring ties back onto a healthy, stable track after years of friction over Taiwan contacts."
             ]
           ]
         }
