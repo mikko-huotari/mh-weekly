@@ -444,6 +444,8 @@ def _split_spotlight_subsection(body: str) -> tuple[list[str], list[dict], dict 
         ls = line.strip()
         if not ls:
             continue
+        if ls.startswith(":::"):
+            continue  # pandoc fenced-div markers (e.g. Spacer) — not content
         if ls.startswith("|") and ls.endswith("|"):
             table_lines.append(ls)
         elif ls.startswith("- "):
@@ -459,12 +461,21 @@ def _parse_one_spotlight(title: str, body: str) -> dict:
     # Split off the trailing `Sources:` block (sits inside the Spotlight section
     # but is a flat link list, not part of any H3 sub-section).
     sources_items: list[dict] = []
-    sources_m = re.search(r"^Sources?:\s*$", body, re.MULTILINE)
+    sources_m = re.search(r"^Sources?:\s*(.*)$", body, re.MULTILINE)
     if sources_m:
-        for line in body[sources_m.end():].splitlines():
-            ls = line.strip()
-            if ls.startswith("- "):
-                sources_items.append({"note": ls[2:].strip()})
+        inline = sources_m.group(1).strip()
+        if inline:
+            # inline form: "Sources: [a](u) · [b](u) · [c](u)"
+            for part in re.split(r"\s+·\s+", inline):
+                p = part.strip()
+                if p:
+                    sources_items.append({"note": p})
+        else:
+            # block form: "Sources:" then "- " bullet lines
+            for line in body[sources_m.end():].splitlines():
+                ls = line.strip()
+                if ls.startswith("- "):
+                    sources_items.append({"note": ls[2:].strip()})
         body = body[:sources_m.start()]
 
     h3_iter = list(re.finditer(r"^###\s+(.+?)\s*$", body, re.MULTILINE))
