@@ -1166,32 +1166,14 @@ window.W22_2026 = {
             [
               "Chinese dissident Dong Guangping arrives in South Korea by rubber boat",
               "Coast Guard officials in Taean detained the 68-year-old after fishermen spotted him offshore on Monday, May 26."
-            ]
-          ]
-        },
-        {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "Chinese dissident braves 30-hour rubber boat journey to South Korea",
-          "date": "2026-05-28",
-          "url": "https://www.wsj.com/world/asia/chinese-dissident-braves-30-hour-rubber-boat-journey-to-south-korea-05f73bcb",
-          "bullets": [
+            ],
             [
-              "Chinese dissident Dong Guangping crossed to South Korea by rubber dinghy",
-              "The 68-year-old, jailed multiple times in China for activism and carrying UN refugee status from a prior bid, arrived on his fourth escape attempt."
-            ]
-          ]
-        },
-        {
-          "outlet": "Straits Times",
-          "author": "",
-          "title": "South Korea detains Chinese man found at sea after report on fleeing dissident",
-          "date": "2026-05-27",
-          "url": "https://www.straitstimes.com/asia/east-asia/south-korea-detains-chinese-man-found-at-sea-after-report-on-fleeing-dissident",
-          "bullets": [
+              "A UN-recognised refugee's fourth escape attempt",
+              "Dong, jailed repeatedly in China for activism and holding UN refugee status from a prior bid, made the roughly 30-hour crossing on a rubber dinghy before being found about 38 nautical miles offshore and held on suspected immigration violations."
+            ],
             [
-              "South Korean coast guard detains suspected Chinese dissident at sea",
-              "A Chinese man in his 60s found on a rubber dinghy 38 nautical miles offshore was arrested on immigration law violation suspicion after a fishing vessel spotted him."
+              "Related",
+              "[WSJ](https://www.wsj.com/world/asia/chinese-dissident-braves-30-hour-rubber-boat-journey-to-south-korea-05f73bcb), \"Chinese dissident braves 30-hour rubber boat journey to South Korea\"; [Straits Times](https://www.straitstimes.com/asia/east-asia/south-korea-detains-chinese-man-found-at-sea-after-report-on-fleeing-dissident), \"South Korea detains Chinese man found at sea after report on fleeing dissident\"."
             ]
           ]
         }
@@ -1565,19 +1547,10 @@ window.W22_2026 = {
             [
               "Xiaomi Q1 profit fell 43% as memory costs surged fivefold",
               "Adjusted net profit dropped to 6.07 billion yuan, missing forecasts, with smartphone gross margin down 2.3 percentage points amid rising DRAM and NAND prices."
-            ]
-          ]
-        },
-        {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "Xiaomi's profit buckles as memory prices soar",
-          "date": "2026-05-27",
-          "url": "https://www.wsj.com/business/earnings/xiaomis-profit-buckles-as-memory-prices-soar-ae12db4a",
-          "bullets": [
+            ],
             [
-              "Xiaomi Q1 net profit fell 57% to 4.72 billion yuan",
-              "Revenue dropped 11% to 99.14 billion yuan as the AI-driven memory crunch raised component costs and domestic competition compressed smartphone gross margins to 10.1%."
+              "Related",
+              "[WSJ](https://www.wsj.com/business/earnings/xiaomis-profit-buckles-as-memory-prices-soar-ae12db4a), \"Xiaomi's profit buckles as memory prices soar\" — on a reported basis net profit fell 57% to 4.72 billion yuan as revenue dropped 11% to 99.14 billion yuan and smartphone gross margin compressed to 10.1%."
             ]
           ]
         }
@@ -1942,19 +1915,10 @@ window.W22_2026 = {
             [
               "Hong Kong booked $2.9tn in cross-border assets in 2025",
               "BCG estimates show 60% came from mainland China, with the gap over Switzerland forecast to widen to $600bn by decade's end."
-            ]
-          ]
-        },
-        {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "Hong Kong overtakes Switzerland as world's top cross-border wealth hub on China ties, report shows",
-          "date": "2026-05-27",
-          "url": "https://www.reuters.com/business/finance/hong-kong-overtakes-switzerland-worlds-top-cross-border-wealth-hub-china-ties-2026-05-27",
-          "bullets": [
+            ],
             [
-              "Hong Kong overtook Switzerland as the world's largest cross-border wealth hub",
-              "BCG's 2026 Global Wealth Report put Hong Kong at $2.95 trillion versus Switzerland's $2.94 trillion, driven by Chinese wealth flows and a 2025 IPO boom."
+              "Related",
+              "[Reuters](https://www.reuters.com/business/finance/hong-kong-overtakes-switzerland-worlds-top-cross-border-wealth-hub-china-ties-2026-05-27), \"Hong Kong overtakes Switzerland as world's top cross-border wealth hub\" — BCG's 2026 Global Wealth Report put Hong Kong at $2.95tn versus Switzerland's $2.94tn, on Chinese wealth flows and a 2025 IPO boom."
             ]
           ]
         },
