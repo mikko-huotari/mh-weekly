@@ -381,7 +381,7 @@ window.W22_2026 = {
           "label": "Selected insights for media by colleagues",
           "items": [
             {
-              "outlet": "Politico had Grzegorz Stec on their podc",
+              "outlet": "Politico",
               "title": "",
               "date": "",
               "url": "https://podcasts.apple.com/gb/podcast/china-the-abusive-partner-the-eu-just-cant-quit/id1244862657",
@@ -393,7 +393,7 @@ window.W22_2026 = {
               ]
             },
             {
-              "outlet": "The Guardian quoted Grzegorz Stec on EU-",
+              "outlet": "The Guardian",
               "title": "",
               "date": "",
               "url": "https://www.theguardian.com/world/2026/may/28/eu-discuss-restrictions-chinese-imports-fears-overreliance",
@@ -405,7 +405,7 @@ window.W22_2026 = {
               ]
             },
             {
-              "outlet": "Süddeutsche Zeitung asked Mikko Huotari ",
+              "outlet": "Süddeutsche Zeitung",
               "title": "",
               "date": "",
               "url": "https://www.sueddeutsche.de/politik/katherina-reiche-peking-china-wirtschaft-technologie-konkurrenz-li.3489174",
@@ -417,7 +417,7 @@ window.W22_2026 = {
               ]
             },
             {
-              "outlet": "Berliner Zeitung quoted MERICS analysis ",
+              "outlet": "Berliner Zeitung",
               "title": "",
               "date": "",
               "url": "https://www.berliner-zeitung.de/article/pakt-der-supermaechte-10037562",
@@ -429,7 +429,7 @@ window.W22_2026 = {
               ]
             },
             {
-              "outlet": "Die Zeit quoted the recent MERICS × Rhod",
+              "outlet": "Die Zeit",
               "title": "",
               "date": "",
               "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-05/china-investitionen-deutschland-cosco-huawei-vw-x",
@@ -441,7 +441,7 @@ window.W22_2026 = {
               ]
             },
             {
-              "outlet": "New York Times quoted both Rebecca Arces",
+              "outlet": "New York Times",
               "title": "",
               "date": "",
               "url": "https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html",
@@ -449,42 +449,6 @@ window.W22_2026 = {
                 [
                   "",
                   "New York Times quoted both Rebecca Arcesati and the MERICS × Soapbox newsletter."
-                ]
-              ]
-            },
-            {
-              "outlet": "Handelsblatt: China — Provinzen und Städ",
-              "title": "",
-              "date": "",
-              "url": "https://www.handelsblatt.com/unternehmen/china-provinzen-und-staedte-konkurrieren-in-heikler-investoren-show",
-              "bullets": [
-                [
-                  "",
-                  "Handelsblatt: China — Provinzen und Städte konkurrieren in heikler Investoren-Show"
-                ]
-              ]
-            },
-            {
-              "outlet": "Handelsblatt Greentech: Wie China vom Ir",
-              "title": "",
-              "date": "",
-              "url": "https://www.handelsblatt.com/politik/international/greentech-wie-china-vom-iran-krieg-profitiert/100",
-              "bullets": [
-                [
-                  "",
-                  "Handelsblatt Greentech: Wie China vom Iran-Krieg profitiert"
-                ]
-              ]
-            },
-            {
-              "outlet": "SCMP: European leaders get ready to 'act",
-              "title": "",
-              "date": "",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3355120/european-leaders-get-ready-act-now-amid-rising-fears-china-shock-20",
-              "bullets": [
-                [
-                  "",
-                  "SCMP: European leaders get ready to 'act now' amid rising fears of 'China shock 2.0'"
                 ]
               ]
             }
