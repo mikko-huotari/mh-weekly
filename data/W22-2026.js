@@ -650,6 +650,27 @@ window.W22_2026 = {
           ]
         },
         {
+          "outlet": "Jamestown",
+          "author": "",
+          "title": "Beijing's hukou reform is not welfare-oriented",
+          "date": "2026-05-29",
+          "url": "https://jamestown.org/beijings-hukou-reform-is-not-welfare-oriented",
+          "bullets": [
+            [
+              "State Council directive shifts services to place of residence",
+              "A May 22 document reallocates fiscal transfers and land quotas to permanent-resident populations but commits no new spending, the article reports."
+            ],
+            [
+              "Pension gap, reimbursement rates, and gaokao eligibility left unchanged",
+              "The 17:1 urban-rural pension gap and hukou links to college entrance eligibility remain untouched by the reform."
+            ],
+            [
+              "Fiscal constraints limit the reform to reallocation, not expansion",
+              "The authors argue the most likely path is leveling down urban privilege rather than lifting benefits for the 360 million floating population."
+            ]
+          ]
+        },
+        {
           "outlet": "SCMP",
           "author": "",
           "title": "Millions of Chinese consumers ditch their credit cards amid prudent spending, slow economy",
@@ -1029,27 +1050,6 @@ window.W22_2026 = {
             [
               "Censors reversed approval of a domestic-abuse film after online fury",
               "Shanghai authorities banned \"Her Heart Beats in its Cage\" - which had cleared censors and won at Spain's San Sebastian festival - after hashtags attracted nearly 1bn views."
-            ]
-          ]
-        },
-        {
-          "outlet": "Jamestown",
-          "author": "",
-          "title": "Beijing's hukou reform is not welfare-oriented",
-          "date": "2026-05-29",
-          "url": "https://jamestown.org/beijings-hukou-reform-is-not-welfare-oriented",
-          "bullets": [
-            [
-              "State Council directive shifts services to place of residence",
-              "A May 22 document reallocates fiscal transfers and land quotas to permanent-resident populations but commits no new spending, the article reports."
-            ],
-            [
-              "Pension gap, reimbursement rates, and gaokao eligibility left unchanged",
-              "The 17:1 urban-rural pension gap and hukou links to college entrance eligibility remain untouched by the reform."
-            ],
-            [
-              "Fiscal constraints limit the reform to reallocation, not expansion",
-              "The authors argue the most likely path is leveling down urban privilege rather than lifting benefits for the 360 million floating population."
             ]
           ]
         },
