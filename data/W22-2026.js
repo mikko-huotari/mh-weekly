@@ -89,10 +89,13 @@ window.W22_2026 = {
         "intro": "",
         "items": [
           {
-            "note": "[gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm)"
+            "note": "[gov.cn Order 834](https://www.gov.cn/zhengce/content/202604/content_7064837.htm)"
           },
           {
-            "note": "[Xinhua Order 835](https://www.news.cn/politics/leaders/20260413/0a29d45b57bb4d688ea056415e9d26eb/c.html)"
+            "note": "[gov.cn Order 835](https://www.gov.cn/zhengce/content/202604/content_7065398.htm)"
+          },
+          {
+            "note": "[gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm)"
           },
           {
             "note": "[CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn)"
@@ -187,10 +190,13 @@ window.W22_2026 = {
           "intro": "",
           "items": [
             {
-              "note": "[gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm)"
+              "note": "[gov.cn Order 834](https://www.gov.cn/zhengce/content/202604/content_7064837.htm)"
             },
             {
-              "note": "[Xinhua Order 835](https://www.news.cn/politics/leaders/20260413/0a29d45b57bb4d688ea056415e9d26eb/c.html)"
+              "note": "[gov.cn Order 835](https://www.gov.cn/zhengce/content/202604/content_7065398.htm)"
+            },
+            {
+              "note": "[gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm)"
             },
             {
               "note": "[CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn)"
