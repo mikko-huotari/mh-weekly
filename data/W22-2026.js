@@ -12,7 +12,7 @@ window.W22_2026 = {
     "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
     "items": [
       {
-        "note": "**Legal track:** The State Council issued a cluster of administrative regulations (国务院令, \"State Council orders\"): Order 834 on industrial- and supply-chain security (31 March), Order 835 – a blocking statute against foreign extraterritorial measures (反外国不当域外管辖条例, 13 April), and the capstone Order 837, the Regulations on Outbound Investment (对外投资规定, signed 5 May, effective 1 July). Order 837's 34 articles replace a patchwork of ministerial rules with a single State Council regulation: they bar the cross-border transfer of export-controlled goods, technology and data – including via secondment of technical staff or offshore training (Art. 13); subject outbound deals to a security review covering the investment and any later asset transfer (Art. 15); and authorise countermeasures tied to the Anti-Foreign Sanctions Law (Arts. 24–25)."
+        "note": "**Legal track:** The State Council issued a cluster of administrative regulations (国务院令, \"State Council orders\"): Order 834 on industrial- and supply-chain security (31 March), Order 835 – a blocking statute against foreign extraterritorial measures (反外国不当域外管辖条例, 7 April), and the capstone Order 837, the Regulations on Outbound Investment (对外投资规定, signed 5 May, effective 1 July). Order 837's 34 articles replace a patchwork of ministerial rules with a single State Council regulation: they bar the cross-border transfer of export-controlled goods, technology, services and data – including via secondment of technical staff or offshore training (Art. 13); subject outbound deals to a security review covering the investment and any later asset transfer (Art. 15); and authorise countermeasures tied to the Anti-Foreign Sanctions Law (Arts. 24–25)."
       },
       {
         "note": "**Analytical track:** A study in the Bulletin of the Chinese Academy of Sciences (中国科学院院刊, published 19 March; led by Peng Xianke of the Chinese Academy of Engineering's innovation-strategy institute; seems to be withdrawn) sets out what it calls China's first comprehensive framework for selecting technologies that might warrant export restriction, yielding a list of 63 strategically sensitive or globally competitive technologies spanning chemicals, materials, machinery, agriculture, information, energy and medicine. As an [SCMP write-up](https://archive.is/oJrsa) (1 June) framed it, the work marks a conceptual turn: China is now preparing the methodology to wield such controls where it leads."
@@ -113,7 +113,7 @@ window.W22_2026 = {
       "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
       "items": [
         {
-          "note": "**Legal track:** The State Council issued a cluster of administrative regulations (国务院令, \"State Council orders\"): Order 834 on industrial- and supply-chain security (31 March), Order 835 – a blocking statute against foreign extraterritorial measures (反外国不当域外管辖条例, 13 April), and the capstone Order 837, the Regulations on Outbound Investment (对外投资规定, signed 5 May, effective 1 July). Order 837's 34 articles replace a patchwork of ministerial rules with a single State Council regulation: they bar the cross-border transfer of export-controlled goods, technology and data – including via secondment of technical staff or offshore training (Art. 13); subject outbound deals to a security review covering the investment and any later asset transfer (Art. 15); and authorise countermeasures tied to the Anti-Foreign Sanctions Law (Arts. 24–25)."
+          "note": "**Legal track:** The State Council issued a cluster of administrative regulations (国务院令, \"State Council orders\"): Order 834 on industrial- and supply-chain security (31 March), Order 835 – a blocking statute against foreign extraterritorial measures (反外国不当域外管辖条例, 7 April), and the capstone Order 837, the Regulations on Outbound Investment (对外投资规定, signed 5 May, effective 1 July). Order 837's 34 articles replace a patchwork of ministerial rules with a single State Council regulation: they bar the cross-border transfer of export-controlled goods, technology, services and data – including via secondment of technical staff or offshore training (Art. 13); subject outbound deals to a security review covering the investment and any later asset transfer (Art. 15); and authorise countermeasures tied to the Anti-Foreign Sanctions Law (Arts. 24–25)."
         },
         {
           "note": "**Analytical track:** A study in the Bulletin of the Chinese Academy of Sciences (中国科学院院刊, published 19 March; led by Peng Xianke of the Chinese Academy of Engineering's innovation-strategy institute; seems to be withdrawn) sets out what it calls China's first comprehensive framework for selecting technologies that might warrant export restriction, yielding a list of 63 strategically sensitive or globally competitive technologies spanning chemicals, materials, machinery, agriculture, information, energy and medicine. As an [SCMP write-up](https://archive.is/oJrsa) (1 June) framed it, the work marks a conceptual turn: China is now preparing the methodology to wield such controls where it leads."
@@ -495,7 +495,7 @@ window.W22_2026 = {
             ],
             [
               "Government interventions have stabilised neither prices nor farm income",
-              "Wens Foodstuff profits fell 43% last year; a Nomura economist says demand recovery is the only durable fix."
+              "Wens Foodstuff profits fell 43% last year; analysts say a demand recovery is the only durable fix."
             ]
           ],
           "related": []
@@ -611,8 +611,8 @@ window.W22_2026 = {
               "Active accounts totalled 687 million in Q1 2026, a 14th consecutive quarterly decline from the 807 million recorded in September 2022."
             ],
             [
-              "Property market losses drove consumer caution, analyst says",
-              "Dong Zheng attributed the credit card decline to falling home values reducing household wealth and weakening retail spending willingness."
+              "Decline reflects cautious spending and a crackdown on inactive accounts",
+              "Card transaction value across major listed banks fell about 11% year-on-year in 2025, which analysts attribute to weak consumer spending, a clean-up of dormant accounts, and the slowing economy."
             ]
           ],
           "related": []
@@ -639,7 +639,7 @@ window.W22_2026 = {
           "url": "https://www.ft.com/content/78d28a07-02ac-4a86-bcae-6eb70dd948b8",
           "bullets": [
             [
-              "CREA: China's revised carbon intensity formula erases 700mn tonnes of CO2",
+              "CREA: China's revised carbon intensity formula erases ~730mn tonnes of CO2",
               "The think-tank says Beijing's new calculation halves the apparent 2020-2025 emissions rise, making Xi's 2030 climate pledges appear achievable."
             ]
           ],
@@ -677,8 +677,8 @@ window.W22_2026 = {
           "url": "http://sc.people.com.cn/BIG5/n2/2026/0527/c345167-41592107.html",
           "bullets": [
             [
-              "AECC-linked firm flies hydrogen fuel cell UAV",
-              "A 600-liter hydrogen-powered F406 drone completed its maiden flight, confirming stable operation at 15 km altitude and above Mach 0.8, according to People's Daily."
+              "AECC's 600-kg-thrust-class turbofan completes its maiden flight",
+              "The F406 engine flew on 23–24 May mounted on a Baofeng-4 (Storm-4) meteorological UAV over Xilin Gol, Inner Mongolia, a step toward domestic high-thrust engine development, per People's Daily."
             ]
           ],
           "related": []
@@ -693,20 +693,6 @@ window.W22_2026 = {
             [
               "China establishes a dedicated low-altitude economy safety agency",
               "The CAAC created a 30-member department to regulate drones and eVTOLs, replacing a temporary organisational structure, according to Nikkei Asia."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "AI demand strains supplies of lasers, fiber and other optical tech",
-          "date": "2026-05-27",
-          "url": "https://asia.nikkei.com/location/east-asia/china",
-          "bullets": [
-            [
-              "China's August data showed broad-based economic deceleration",
-              "Investment contracted while retail sales and industrial output growth both eased, Nikkei Asia reports."
             ]
           ],
           "related": []
@@ -905,7 +891,7 @@ window.W22_2026 = {
           "url": "https://www.bbc.com/news/articles/c893543gn20o",
           "bullets": [
             [
-              "82 killed at Shanxi mine, deadliest accident in 15 years",
+              "82 killed at Shanxi mine, deadliest accident in over a decade",
               "Authorities cited Tongzhou Group for serious illegal violations at the privately-owned Liushenyu mine, where at least 120 were also injured."
             ]
           ],
@@ -920,11 +906,11 @@ window.W22_2026 = {
           "bullets": [
             [
               "Chinese dissident Dong Guangping arrives in South Korea by rubber boat",
-              "Coast Guard officials in Taean detained the 68-year-old after fishermen spotted him offshore on Monday, May 26."
+              "Coast Guard officials in Taean detained the 68-year-old on 26 May after fishermen spotted him offshore the previous evening."
             ],
             [
               "A UN-recognised refugee's fourth escape attempt",
-              "Dong, jailed repeatedly in China for activism and holding UN refugee status from a prior bid, made the roughly 30-hour crossing on a rubber dinghy before being found about 38 nautical miles offshore and held on suspected immigration violations."
+              "Dong, jailed repeatedly in China for activism and holding UN refugee status from a prior bid, made the roughly 30-hour crossing on a rubber dinghy before being found about 18 km offshore and held on suspected immigration violations."
             ]
           ],
           "related": [
@@ -977,7 +963,7 @@ window.W22_2026 = {
           "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/inside-huawei-s-chip-comeback-the-woman-taking-on-us-sanctions",
           "bullets": [
             [
-              "Huawei opens 160-hectare research campus at Lake Dianshan",
+              "Huawei opens 160-hectare research campus at Lianqiu Lake",
               "The site near Shanghai, eventually housing 35,000 employees, marks the company's reinvention as the stated spearhead of China's tech independence strategy."
             ],
             [
@@ -1018,7 +1004,7 @@ window.W22_2026 = {
           "bullets": [
             [
               "ByteDance issues unit-linked stock to retain Seed AI lab staff",
-              "The company priced \"Doubao stock\" at $13 per share - up roughly 30% since year-end - to shield its 2,000-strong research division from poaching rivals."
+              "The company priced \"Doubao stock\" at $13 per share - up roughly 30% over the past year - to shield its 2,000-strong research division from poaching rivals."
             ]
           ],
           "related": []
@@ -1113,7 +1099,7 @@ window.W22_2026 = {
           "url": "https://www.straitstimes.com/business/companies-markets/tiktok-owner-bytedance-said-to-weigh-spending-as-much-as-89-billion-in-ai-push",
           "bullets": [
             [
-              "ByteDance plans $70B AI capex in 2026, tripling its 2025 spending",
+              "ByteDance plans $70B AI capex in 2026, more than doubling its 2025 spending",
               "The company discussed scaling to roughly $100 billion in 2027, funded largely by its $50 billion 2025 profit."
             ],
             [
@@ -1236,8 +1222,8 @@ window.W22_2026 = {
           "url": "https://www.wsj.com/business/autos/china-is-exporting-its-factories-across-the-world-and-spooking-the-competition-39e63291",
           "bullets": [
             [
-              "Chinese outward FDI rose 7.1% in 2024 while domestic investment fell 3.8%",
-              "The first annual domestic investment decline on record is driving Chinese manufacturers to build factories across Europe, the Americas and Southeast Asia, the article reports."
+              "Domestic fixed-asset investment fell 3.8% in 2025, its first annual decline since 1989",
+              "The contraction is driving Chinese manufacturers to build factories across Europe, the Americas and Southeast Asia, the article reports."
             ],
             [
               "EU's Industrial Accelerator Act attaches local hiring conditions to large-scale Chinese FDI",
@@ -1322,12 +1308,12 @@ window.W22_2026 = {
           "url": "https://www.economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil",
           "bullets": [
             [
-              "Chinese solar installations forecast to fall 24-43% in 2026",
+              "Chinese solar installations forecast to fall 24-43% in 2026 (CPIA)",
               "The drop could cause global solar demand to decline for the first time in two decades, according to BloombergNEF."
             ],
             [
               "Annual production capacity far outstrips global demand",
-              "Chinese factories can produce over 1,000 GW per year, far exceeding the 600 GW installed globally in 2025 - more than global markets may ever absorb, per BloombergNEF."
+              "Chinese factories can produce over 1,000 GW per year, far exceeding the roughly 650 GW installed globally in 2025 - more than global markets may ever absorb, per BloombergNEF."
             ],
             [
               "Over 40 solar firms bankrupt or delisted since 2024",
@@ -1348,7 +1334,7 @@ window.W22_2026 = {
               "Japan's April imports of Chinese tungsten-related goods were down 63% versus April 2024, according to Nikkei's analysis of customs data."
             ],
             [
-              "Japanese manufacturers face sevenfold price increases and production cuts",
+              "Japanese manufacturers face a sevenfold tungsten price increase",
               "Tungsten prices have risen roughly sevenfold in a year, prompting Mitsubishi Materials and Sumitomo Electric to invest over ¥25 billion in domestic and European recycling capacity."
             ]
           ],
@@ -1468,8 +1454,8 @@ window.W22_2026 = {
           "url": "https://www.wsj.com/world/africa/china-africa-tariffs-664f62eb",
           "bullets": [
             [
-              "China removes all remaining tariffs on African LDC exports",
-              "Beijing announced at FOCAC that 100% of tariff lines from least-developed African nations would be duty-free, effective immediately."
+              "China removes tariffs on all 53 African countries with diplomatic ties",
+              "Zero-tariff treatment took effect 1 May 2026, extending duty-free access beyond the least-developed nations already covered since 2024."
             ]
           ],
           "related": []
@@ -1496,7 +1482,7 @@ window.W22_2026 = {
           "url": "https://www.bloomberg.com/news/articles/2026-05-28/china-targets-billions-in-offshore-stock-trading-in-biggest-crackdown-in-decades",
           "bullets": [
             [
-              "Nine Chinese regulators jointly targeted three offshore brokers",
+              "Eight Chinese agencies jointly targeted three offshore brokers",
               "Futu, Tiger Brokers, and Long Bridge face at least $330 million in penalties for unlicensed mainland operations; Citic Securities estimates HK$250 billion in Hong Kong assets at risk."
             ]
           ],
@@ -1646,8 +1632,8 @@ window.W22_2026 = {
               "Kennedy (CSIS) contends the summit legitimised China's 2025 trade-dispute gains rather than restoring US leverage."
             ],
             [
-              "Summit trade package covers roughly 15% of bilateral goods trade",
-              "The deal includes a $30 billion tariff-reduction Board of Trade, 200 Boeing aircraft sales, and agricultural purchases."
+              "Summit package targets ~$30bn of tariff cuts via a new US-China Board of Trade",
+              "It also includes 200 Boeing aircraft sales and agricultural purchases, the author arguing Trump accepted Beijing's framing and consolidated China's 2025 gains."
             ]
           ],
           "related": []
@@ -1884,8 +1870,8 @@ window.W22_2026 = {
           "url": "https://www.lowyinstitute.org/the-interpreter/critical-minerals-west-learning-wrong-lesson-china",
           "bullets": [
             [
-              "The author argues West copies China's now-abandoned low-standards model",
-              "China's minerals dominance derived from processing capacity and state capital, not weak rules - which Beijing is now raising to cut project delays and stranded-asset risk."
+              "Lowy: the West should not copy China's now-abandoned low-standards playbook",
+              "China built its minerals dominance on processing scale, state capital and looser environmental and social standards - standards Beijing is now raising to cut project delays and stranded-asset risk."
             ]
           ],
           "related": []
@@ -1917,7 +1903,7 @@ window.W22_2026 = {
           "bullets": [
             [
               "GCHQ chief warns of narrowing window to maintain technological edge over China",
-              "Director Anne Keast-Butler called China a \"science and tech superpower\" with sophisticated intelligence, cyber, and military capabilities, urging business-intelligence collaboration at \"the speed of the frontier.\""
+              "Director Anne Keast-Butler called China a \"tech superpower\" with sophisticated intelligence, cyber, and military capabilities, urging business-intelligence collaboration at \"the speed of the frontier.\""
             ],
             [
               "Russia cited for escalating hybrid attacks on UK and European critical infrastructure",
@@ -2003,17 +1989,13 @@ window.W22_2026 = {
         {
           "outlet": "US War Dept",
           "author": "",
-          "title": "Remarks by Secretary of War Pete Hegseth at the 2026 Shangri La Dialogue in sin",
+          "title": "Remarks by Secretary of War Pete Hegseth at the 2026 Shangri-La Dialogue in Singapore",
           "date": "2026-05-31",
           "url": "https://www.war.gov/News/Speeches/Speech/Article/4504755/remarks-by-secretary-of-war-pete-hegseth-at-the-2026-shangri-la-dialogue-in-sin",
           "bullets": [
             [
               "Hegseth sets 3.5% GDP as the new US alliance standard",
               "allies who refuse lose priority access to arms sales, intelligence sharing, and industrial cooperation, he said at Shangri-La."
-            ],
-            [
-              "Trump-Xi Beijing talks produced a \"strategic stability\" framework",
-              "both leaders agreed on constructive US-China relations based on fairness and reciprocity, Hegseth - an attendee - said."
             ]
           ],
           "related": []
@@ -2075,7 +2057,7 @@ window.W22_2026 = {
           "author": "Xi Jinping · 习近平",
           "title": "Forward-looking layout and development of future industries · 前瞻布局和发展未来产业",
           "date": "2026-05-31",
-          "url": "https://www.qstheory.cn/20260601/c8ba0a40b56a4ec5b3e84a1aac3e2a5f/c.html",
+          "url": "https://www.qstheory.cn/20260530/8fa0ec6956ee4bf2ade0e366ce29a722/c.html",
           "bullets": [
             [
               "Names six priority frontier sectors for the 15th Five-Year Plan",
@@ -2237,7 +2219,7 @@ window.W22_2026 = {
             ],
             [
               "Article 13 closes export-control workarounds",
-              "It bars transferring restricted goods, technology, services, or data abroad via dispatched personnel, cross-border technical guidance, or overseas training, targeting circumvention routes used by firms like Manus."
+              "It bars transferring restricted goods, technology, services, or data abroad via dispatched personnel, cross-border technical guidance, or overseas training."
             ],
             [
               "Articles 24-25 codify discretionary countermeasures",
@@ -2480,8 +2462,8 @@ window.W22_2026 = {
               "China's NPC delegation met senior Albanian officials during a three-day trip aimed at deepening political trust and practical cooperation."
             ],
             [
-              "China invoked Albania's 1971 UN vote to frame the partnership",
-              "Officials highlighted Albania's historical role in restoring China's UN seat as a foundation for expanding bilateral relations."
+              "China cited Albania's support for restoring its UN seat",
+              "Officials thanked Albania for its historical support on the restoration of China's lawful seat in the United Nations."
             ]
           ],
           "related": []
@@ -2494,8 +2476,8 @@ window.W22_2026 = {
           "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202605/t20260526_11919210.html",
           "bullets": [
             [
-              "Daily press briefing covered EU trade defense + Iran war + Taiwan delegation",
-              "Mao Ning addressed questions on EU Commission de-risking debate, US-Iran talks, the Bundestag visit to Taiwan, and bilateral readouts from Wang Yi's meetings."
+              "Daily press briefing addressed Taiwan and the Middle East",
+              "Mao Ning took questions on the Bundestag delegation's visit to Taiwan and on US-Iran talks, among other topics."
             ],
             [
               "Standard MFA framing on EU policy",
@@ -2516,8 +2498,8 @@ window.W22_2026 = {
               "Mao Ning criticised the German MPs' Taipei visit as sending \"wrong signals\" to \"Taiwan independence\" forces, urging Berlin to abide by the one-China principle."
             ],
             [
-              "Routine items on trade, regional security, and bilateral meetings",
-              "Covered briefings on EU-China economic talks, ASEAN engagement, and clarifications on China-Japan and China-Philippines maritime issues."
+              "Routine items on regional security and bilateral matters",
+              "Other questions covered China-Japan rare-earth controls, the Middle East ceasefire, and South Asian security."
             ]
           ],
           "related": []
@@ -2845,7 +2827,7 @@ window.W22_2026 = {
     {
       "src": "assets/charts/W22-2026-chart-3.png",
       "alt": "PMI Employment subindex, monthly, March 2022 – May 2026, index",
-      "caption": "**Chart 3 – PMI Employment subindex below 50 since 2022 — sustained labour-market weakness** ([NBS Manufacturing PMI](http://www.stats.gov.cn/sj/zxfb/202605/t20260531_1956003.html); index, monthly)"
+      "caption": "**Chart 3 – PMI Employment subindex below 50 since 2022 – sustained labour-market weakness** ([NBS Manufacturing PMI](https://www.stats.gov.cn/sj/zxfb/202605/t20260531_1963824.html); index, monthly)"
     },
     {
       "src": "assets/charts/W22-2026-chart-4.png",
