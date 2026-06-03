@@ -451,42 +451,6 @@ window.W22_2026 = {
                   "[New York Times](https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html) quoted both Rebecca Arcesati and the MERICS × Soapbox newsletter."
                 ]
               ]
-            },
-            {
-              "outlet": "Handelsblatt",
-              "title": "",
-              "date": "",
-              "url": "https://www.handelsblatt.com/unternehmen/china-provinzen-und-staedte-konkurrieren-um-investoren-in-hartem-wettbewerb/100226213.html",
-              "bullets": [
-                [
-                  "",
-                  "[Handelsblatt](https://www.handelsblatt.com/unternehmen/china-provinzen-und-staedte-konkurrieren-um-investoren-in-hartem-wettbewerb/100226213.html) reported on the fierce competition among Chinese provinces and cities to attract foreign investors, a window onto China's overcapacity dynamics."
-                ]
-              ]
-            },
-            {
-              "outlet": "Handelsblatt Greentech",
-              "title": "",
-              "date": "",
-              "url": "https://www.handelsblatt.com/politik/international/greentech-wie-china-vom-iran-krieg-profitiert/100227022.html",
-              "bullets": [
-                [
-                  "",
-                  "[Handelsblatt Greentech](https://www.handelsblatt.com/politik/international/greentech-wie-china-vom-iran-krieg-profitiert/100227022.html) reported on how China benefits from the Iran war as higher oil prices lift demand for its green-tech exports — the surge MERICS × Soapbox Trade tracks."
-                ]
-              ]
-            },
-            {
-              "outlet": "SCMP",
-              "title": "",
-              "date": "",
-              "url": "https://www.scmp.com/news/china/diplomacy/article/3355120/european-leaders-get-ready-act-now-amid-rising-fears-china-shock-20",
-              "bullets": [
-                [
-                  "",
-                  "[SCMP](https://www.scmp.com/news/china/diplomacy/article/3355120/european-leaders-get-ready-act-now-amid-rising-fears-china-shock-20) reported on European leaders preparing to \"act now\" amid fears of a \"China shock 2.0\"."
-                ]
-              ]
             }
           ]
         }
