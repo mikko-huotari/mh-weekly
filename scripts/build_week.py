@@ -78,6 +78,45 @@ BULLET_RE = re.compile(
 PLAIN_BULLET_RE = re.compile(r"^-\s+(.+?)$", re.MULTILINE)
 INLINE_LINK_RE = re.compile(r"\[(?P<text>[^\]]+)\]\((?P<url>https?://[^)\s]+)\)")
 
+# Source-format basket entry header (the hand-edited W-XX.md uses [[Outlet]]
+# wikilinks + a bare url + a <!-- basket --> comment). Converted in-memory to
+# the internal '### **Outlet**: "..", date, <url>' shape so the parsers above
+# stay unchanged. This is what lets the webapp build directly from the source
+# file — no separate export file.
+SOURCE_HEADER_RE = re.compile(
+    r'^\*\*\[\[(?P<outlet>[^\]]+)\]\]\*\*:\s*'
+    r'(?P<title>"\s*\*\*.+?\*\*\s*")\s*,\s*'  # "**Title**" — title may contain quotes
+    r'(?P<date>[\d-]*)\s*,\s*'
+    r'(?P<url>\S+?)'
+    r'(?:\s+<!--.*?-->)?\s*$',
+    re.MULTILINE,
+)
+
+
+def source_to_buildtext(src: str, cn_part: str) -> str:
+    """Convert the hand-edited source markdown into the internal build format
+    in memory, so every downstream parser is unchanged.
+
+    - basket entries `**[[Outlet]]**: "..", date, url <!-- basket -->`
+      → `### **Outlet**: "..", date, <url>`
+    - Chinese Sources (kept in `5 SYSTEM/.wNN_YYYY_cn_part_xps.md`) are injected
+      as Part IV, immediately before the Wochenbericht (renumbered III → V to
+      match the published part order).
+    """
+    src = SOURCE_HEADER_RE.sub(
+        lambda m: f'### **{m.group("outlet")}**: {m.group("title")}, '
+                  f'{m.group("date")}, <{m.group("url")}>',
+        src,
+    )
+    src = src.replace("# III. Wochenbericht", "# V. Wochenbericht", 1)
+    if cn_part:
+        i = src.find("# V. Wochenbericht")
+        if i != -1:
+            src = src[:i] + cn_part.rstrip() + "\n\n" + src[i:]
+        else:
+            src = src.rstrip() + "\n\n" + cn_part.rstrip() + "\n"
+    return src
+
 
 def parse_article_block(block: str) -> dict | None:
     """Parse one '### header + bullets' block into an entry dict."""
@@ -719,11 +758,16 @@ def main() -> None:
     week_id = sys.argv[1]
     week_no = int(week_id[1:3])
     year = int(week_id.split("-")[1])
-    export_path = EXPORT_DIR / f"{week_id} — Export.md"
-    if not export_path.exists():
-        print(f"ERROR: export not found at {export_path}")
+    source_path = EXPORT_DIR / f"{week_id}.md"
+    if not source_path.exists():
+        print(f"ERROR: source not found at {source_path}")
         sys.exit(2)
-    text = export_path.read_text(encoding="utf-8")
+    src = source_path.read_text(encoding="utf-8")
+    cn_path = VAULT / "5 SYSTEM" / f".w{week_no}_{year}_cn_part_xps.md"
+    cn_part = cn_path.read_text(encoding="utf-8") if cn_path.exists() else ""
+    if not cn_part:
+        print(f"WARN: Chinese Sources part not found at {cn_path} (Part IV will be empty)")
+    text = source_to_buildtext(src, cn_part)
 
     # ---- Sections
     spotlights = parse_spotlight_sections(text)
