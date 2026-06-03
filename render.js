@@ -203,9 +203,15 @@
         return `<li>${lead}${rest}</li>`;
       }).join("");
 
-    const linkOnly = !bullets;
+    const related = (e.related || []).filter(r => r && r.url);
+    const relHtml = related.length
+      ? `<div class="entry-related"><span class="rel-label">Related</span> ${related.map(r =>
+          `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.text)}</a>`
+        ).join(' <span class="rel-sep">·</span> ')}</div>`
+      : "";
+    const linkOnly = !bullets && !relHtml;
     const cls = linkOnly ? "entry entry-link-only" : "entry";
-    return `<article class="${cls}">${head}${bullets ? `<ul class="bullets">${bullets}</ul>` : ""}${tagsHtml}</article>`;
+    return `<article class="${cls}">${head}${bullets ? `<ul class="bullets">${bullets}</ul>` : ""}${relHtml}${tagsHtml}</article>`;
   }
 
   // Does an entry pass the current filter set? OR-semantics; entries with no

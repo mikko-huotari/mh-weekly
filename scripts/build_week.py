@@ -101,8 +101,20 @@ def parse_article_block(block: str) -> dict | None:
         "date": raw_date,
         "url": url,
         "bullets": bullets,
+        "related": _parse_related(body),
     }
     return entry
+
+
+def _parse_related(body: str) -> list[dict]:
+    """Capture a non-bullet `Related: [text](url) · [text](url)` line into a
+    list of {text, url} — rendered as plain links, not bullets."""
+    out: list[dict] = []
+    rm = re.search(r"^Related:\s*(.+)$", body, re.MULTILINE)
+    if rm:
+        for lm in INLINE_LINK_RE.finditer(rm.group(1)):
+            out.append({"text": lm.group("text").strip(), "url": lm.group("url").strip()})
+    return out
 
 
 def split_article_blocks(text: str) -> list[str]:

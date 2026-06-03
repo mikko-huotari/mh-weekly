@@ -1200,6 +1200,25 @@
     font-weight: 600;
   }
 
+  /* Related links (clustered duplicate coverage) — plain links, no bullet */
+  .entry-related {
+    margin: -4px 0 14px;
+    font-family: var(--sans);
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: var(--ink-3, #777);
+  }
+  .entry-related .rel-label {
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 11px;
+    color: var(--ink-3, #999);
+    margin-right: 4px;
+  }
+  .entry-related a { color: var(--merics-dark-blue, #116179); text-decoration: none; border-bottom: 1px solid rgba(17,97,121,0.25); }
+  .entry-related a:hover { border-bottom-color: currentColor; }
+  .entry-related .rel-sep { color: var(--ink-3, #BBB); margin: 0 2px; }
+
   /* Empty state */
   .empty-state {
     margin: 64px 0;
