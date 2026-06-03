@@ -161,6 +161,52 @@ window.OUTLET_MAP = {
   "Zhou Fangyin (SYSU)":                                  { mono: "周",  bg: "#1A1916", fg: "#FFFFFF" },
   "Lin Yifu (former World Bank chief economist)":         { mono: "林",  bg: "#1A1916", fg: "#FFFFFF" },
 
+  // ---------------- W22 review: name variants + missing brands ----------------
+  // Real logos that already ship — names just didn't match the key:
+  "Die Zeit":         { iconUrl: "assets/icons/zeit.png",          mono: "Z",    bg: "#000000", fg: "#FFFFFF", font: "serif" },
+  "New York Times":   { iconUrl: "assets/icons/nyt.png",           mono: "NYT",  bg: "#000000", fg: "#FFFFFF", font: "serif", size: 8 },
+  "Handelsblatt Greentech": { iconUrl: "assets/icons/handelsblatt.png", mono: "H", bg: "#E84E0E", fg: "#FFFFFF" },
+  "Strait Times":     { iconUrl: "assets/icons/straitstimes.png",  mono: "ST",   bg: "#0B3D91", fg: "#FFFFFF" },
+  "Nikkei Asia ":     { iconUrl: "assets/icons/nikkei.png",        mono: "N",    bg: "#D4202C", fg: "#FFFFFF" },
+  // Mono variants of existing keys:
+  "Aisixiang 爱思想": { mono: "Ais", bg: "#003366", fg: "#FFFFFF" },
+  "Qiushi 求是":      { mono: "QS",  bg: "#C41E1E", fg: "#FFFFFF" },
+  "Xinhua News":      { mono: "XH",  bg: "#003399", fg: "#FFFFFF" },
+  "Global Times":     { mono: "GT",  bg: "#C41E1E", fg: "#FFFFFF" },
+  "gov.cn":           { mono: "Gov", bg: "#003A70", fg: "#FFFFFF" },
+  "mfa.gov.cn":       { mono: "MFA", bg: "#003A70", fg: "#FFFFFF" },
+  "china.com.cn":     { mono: "中",  bg: "#C41E1E", fg: "#FFFFFF" },
+  // Chinese government / state bodies:
+  "State Council 国务院": { mono: "SC",   bg: "#C41E1E", fg: "#FFFFFF" },
+  "NDRC 国家发改委":   { mono: "NDRC", bg: "#C41E1E", fg: "#FFFFFF", size: 7 },
+  "NEA 国家能源局":    { mono: "NEA",  bg: "#C41E1E", fg: "#FFFFFF" },
+  "CSRC + 7 agencies": { mono: "CSRC", bg: "#003A70", fg: "#FFFFFF", size: 7 },
+  "MFA spokesperson Mao Ning": { mono: "MFA", bg: "#003A70", fg: "#FFFFFF" },
+  "MFA spokesperson Guo Jiakun 郭嘉昆": { mono: "MFA", bg: "#003A70", fg: "#FFFFFF" },
+  "PRC + Serbia":     { mono: "中塞", bg: "#C41E1E", fg: "#FFFFFF", size: 7 },
+  "PRC + Pakistan":   { mono: "中巴", bg: "#C41E1E", fg: "#FFFFFF", size: 7 },
+  "State":            { mono: "St",  bg: "#1A1916", fg: "#FFFFFF" },
+  // Western / international press + think tanks (no shipped logo — branded mono):
+  "Berliner Zeitung": { mono: "BZ",  bg: "#E2001A", fg: "#FFFFFF" },
+  "CNBC":             { mono: "CNBC", bg: "#005594", fg: "#FFFFFF", size: 7 },
+  "WP":               { mono: "WP",  bg: "#000000", fg: "#FFFFFF", font: "serif" },
+  "Taipei Times":     { mono: "TT",  bg: "#0B5394", fg: "#FFFFFF" },
+  "Theinformation":   { mono: "Inf", bg: "#000000", fg: "#FFFFFF" },
+  "Carbon Brief":     { mono: "CB",  bg: "#F39C12", fg: "#FFFFFF" },
+  "CREA":             { mono: "CREA", bg: "#1A7A4C", fg: "#FFFFFF", size: 7 },
+  "Cnas":             { mono: "CNAS", bg: "#0B2E5B", fg: "#FFFFFF", size: 7 },
+  "Jamestown":        { mono: "JF",  bg: "#7A1F2B", fg: "#FFFFFF" },
+  "Jiemian":          { mono: "JM",  bg: "#0F2D59", fg: "#FFFFFF" },
+  "Lefigaro":         { mono: "LF",  bg: "#0B3D91", fg: "#FFFFFF" },
+  "Chosun":           { mono: "CI",  bg: "#003366", fg: "#FFFFFF" },
+  "Defensenews":      { mono: "DN",  bg: "#1A1916", fg: "#FFFFFF" },
+  "Militarytimes":    { mono: "MT",  bg: "#1A1916", fg: "#FFFFFF" },
+  "Substack":         { mono: "Sub", bg: "#FF6719", fg: "#FFFFFF" },
+  "Thetibetpost":     { mono: "TP",  bg: "#7A1F2B", fg: "#FFFFFF" },
+  "Uyghurtimes":      { mono: "UT",  bg: "#1A7A8C", fg: "#FFFFFF" },
+  "War":              { mono: "War", bg: "#1A1916", fg: "#FFFFFF" },
+  "CREA ":            { mono: "CREA", bg: "#1A7A4C", fg: "#FFFFFF", size: 7 },
+
   // ---------------- Catch-alls ---------------------
   "Media":           { svg: "news", mono: "···", bg: "#7A786F", fg: "#FFFFFF" }
 };
