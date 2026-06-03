@@ -575,24 +575,6 @@ window.W22_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "China's $3 trillion of hidden bad debt prolongs economic pain",
-          "date": "2026-05-13",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-12/china-s-3-trillion-of-hidden-bad-debt-prolongs-economic-pain",
-          "bullets": [
-            [
-              "True NPL ratio estimated at 10%, against the official 1.5%",
-              "That implies roughly $3 trillion in hidden bad loans - about 17% of GDP - per multiple economists cited by Bloomberg."
-            ],
-            [
-              "Bank forbearance locks credit inside zombie firms",
-              "About 40% of loans are in deferral, with zombie firms holding 16% of non-financial company assets in 2024, up from 5% in 2018."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
           "title": "China scrutinizes firms, funds after AI-fueled stock moves",
           "date": "2026-05-25",
           "url": "https://www.bloomberg.com/news/articles/2026-05-22/china-scrutinizes-companies-funds-after-ai-fueled-stock-moves",
@@ -839,20 +821,6 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "CREA",
-          "author": "",
-          "title": "China energy and emissions trends April 2026 snapshot",
-          "date": "",
-          "url": "https://energyandcleanair.org/china-energy-and-emissions-trends-april-2026-snapshot",
-          "bullets": [
-            [
-              "Coal power rose for the fourth consecutive month in April",
-              "Strait of Hormuz disruptions cut China's gas imports around 13% year-on-year while poor wind and solar conditions pushed coal generation up 3.3%, according to CREA's monthly tracker."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Nikkei",
           "author": "",
           "title": "China amasses 30-day coal supply ahead of El Nino power crunch",
@@ -862,20 +830,6 @@ window.W22_2026 = {
             [
               "NDRC reports 200 million tonnes of coal stockpiled at power plants",
               "The reserve, described as sufficient for 30 days of electricity supply, was announced ahead of an anticipated El Nino-driven summer peak."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "China burns more fossil fuels for power as coal production slips",
-          "date": "2026-05-18",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-18/china-burns-more-fossil-fuels-for-power-as-coal-production-slips",
-          "bullets": [
-            [
-              "Thermal power grew for a fourth straight month in April",
-              "Output rose 3.1% year-on-year as LNG import cuts - driven by Iran-war Hormuz disruptions - shifted generation load back onto coal."
             ]
           ],
           "related": []
@@ -967,7 +921,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Uyghurtimes",
+          "outlet": "Uyghur Times",
           "author": "",
           "title": "Prominent Uyghur religious scholar Abdushukur Rahmatulla Hajim reportedly detained by Chinese authorities",
           "date": "2026-05-25",
@@ -981,35 +935,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Thetibetpost",
-          "author": "",
-          "title": "Chinese authorities arrest 97 Tibetans in the name of \"cybersecurity law\"",
-          "date": "",
-          "url": "https://thetibetpost.com/news/tibet/chinese-authorities-arrest-97-tibetans-in-the-name-of-%E2%80%9Ccybersecurity-law%E2%80%9D",
-          "bullets": [
-            [
-              "Shigatse police arrested 97 Tibetans under cybersecurity law in 2025",
-              "Authorities charged livestreamers and video uploaders with \"online fraud\" for broadcasting content in the Tibetan language, according to the report."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "DW",
-          "author": "",
-          "title": "Numbers of Tibetan exiles plummet as China tightens grip",
-          "date": "",
-          "url": "https://www.dw.com/en/numbers-of-tibetan-exiles-plummet-as-china-tightens-grip/a-77229131",
-          "bullets": [
-            [
-              "Tibet exile arrivals collapsed to 81 over five years",
-              "Data from the Central Tibetan Administration show new arrivals fell from over 12,000 in 1995-1999 to just 81 recently, cutting independent reporting on conditions inside Tibet."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Theinformation",
+          "outlet": "The Information",
           "author": "",
           "title": "DeepSeek, a national treasure in China, is now being closely guarded",
           "date": "2026-05-28",
@@ -1063,7 +989,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Diplomat",
+          "outlet": "The Diplomat",
           "author": "",
           "title": "What's driving anti-Qing sentiment in contemporary China?",
           "date": "2026-05-27",
@@ -1091,43 +1017,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "DW",
-          "author": "",
-          "title": "New Chinese surveillance leaves foreigners nowhere to hide",
-          "date": "",
-          "url": "https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713",
-          "bullets": [
-            [
-              "Unsecured Chinese police dashboard exposed real journalist data to researcher",
-              "Cybersecurity researcher NetAskari found passport photos, phone numbers, and visa details for nearly all foreign journalists based in Beijing around 2021."
-            ],
-            [
-              "System assigns \"trackable\" real-time tags to journalists from Five Eyes countries",
-              "Upon entering a jurisdiction, the tag automatically triggers police alerts and uses mobile payment and ticket data to anticipate movements."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Diplomat",
-          "author": "",
-          "title": "How China's population stopped noticing their country had been sealed",
-          "date": "",
-          "url": "https://thediplomat.com/2026/05/how-chinas-population-stopped-noticing-their-country-had-been-sealed",
-          "bullets": [
-            [
-              "COVID lockdowns as three-stage conditioning sequence",
-              "The article argues Wuhan (2020), Shanghai (2022), and nationwide dynamic-zero normalized state-enforced closure as ordinary daily life over 33 months."
-            ],
-            [
-              "Shanghai lockdown executor Li Qiang elevated to premier",
-              "The author argues Li's promotion confirms a political - not epidemiological - objective behind the closure."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Strait Times",
+          "outlet": "Straits Times",
           "author": "",
           "title": "China issues new rules to keep senior military officials in check",
           "date": "2026-05-27",
@@ -1340,7 +1230,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Diplomat",
+          "outlet": "The Diplomat",
           "author": "",
           "title": "The Manus fallout highlights structural problems in China's industrial policy ecosystem",
           "date": "2026-05-28",
@@ -1464,20 +1354,6 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "Chinese wireless firm Quectel sues US over military designation",
-          "date": "2026-05-11",
-          "url": "https://www.reuters.com/world/chinese-wireless-firm-quectel-sues-us-over-military-designation-2026-05-11",
-          "bullets": [
-            [
-              "Quectel sued the Pentagon over its military-entity list inclusion",
-              "The Chinese wireless module maker, added to the DoD list in January, claims the designation causes serious economic harm by disrupting U.S. supplier relationships."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Nikkei",
           "author": "",
           "title": "Nvidia spending up to $150bn a year on Taiwan AI suppliers: Jensen Huang",
@@ -1492,25 +1368,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "FT",
-          "author": "",
-          "title": "Global buyout funds to exit China's data centres with final $1bn deal",
-          "date": "2026-05-22",
-          "url": "https://www.ft.com/content/c6ded5c6-6343-4e9b-a170-7232ab28f63e",
-          "bullets": [
-            [
-              "Global PE firms completing full exit from China data centres",
-              "Princeton Digital Group (Warburg Pincus) is selling ~$1bn in Chinese assets, following Bain Capital's $4bn exit and Carlyle's VNET divestment."
-            ],
-            [
-              "Beijing's cyber security rules and AI-driven valuations together driving the shift",
-              "Tightening data protection regulations made foreign ownership politically untenable while rising valuations provided exit opportunity, the FT reports."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Strait Times",
+          "outlet": "Straits Times",
           "author": "",
           "title": "TikTok owner ByteDance said to weigh spending as much as $89 billion in AI push",
           "date": "2026-05-28",
@@ -1565,20 +1423,6 @@ window.W22_2026 = {
             [
               "DeepSeek gave opposing answers depending on user location",
               "A reader found the mainland-facing chatbot producing nationalist arguments while the overseas version flagged factual errors in the same text."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "Chinese rivals push GoPro from pioneer to takeover targe",
-          "date": "",
-          "url": "https://asia.nikkei.com/business/technology/chinese-rivals-push-gopro-from-pioneer-to-takeover-target",
-          "bullets": [
-            [
-              "DJI and Insta360 captured 82% of global handheld smart camera market in 2025",
-              "IDC data show DJI at 62% and Arashi Vision (Insta360) at 20%, while GoPro's shipments fell 26% year-on-year."
             ]
           ],
           "related": []
@@ -1693,7 +1537,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Diplomat",
+          "outlet": "The Diplomat",
           "author": "",
           "title": "The double China shock: how Beijing is disrupting both developing and advanced economies",
           "date": "2026-05-29",
@@ -2038,20 +1882,6 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "FT",
-          "author": "",
-          "title": "China Inc goes shopping for western consumer brands",
-          "date": "2026-05-23",
-          "url": "https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640",
-          "bullets": [
-            [
-              "Chinese consumer goods outbound M&A hit a post-2018 high",
-              "Last year's total reached $6.8bn, with $2.4bn already in Q1 2026, concentrated in Europe and North America, per Rhodium Group."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Reuters",
           "author": "",
           "title": "Japan slips to third-largest creditor behind China despite record net external assets",
@@ -2102,25 +1932,7 @@ window.W22_2026 = {
       "label": "Foreign policy and 'Global China'",
       "items": [
         {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "Germany arrests married couple suspected of Chinese espionage",
-          "date": "2026-05-20",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-20/germany-arrests-married-couple-suspected-of-chinese-espionage",
-          "bullets": [
-            [
-              "German couple arrested for cultivating researcher network for Chinese intelligence",
-              "Prosecutors detained Xuejun C. and Hua S. in Munich, accusing them of targeting universities and institutions in aerospace, computer science, and AI."
-            ],
-            [
-              "Scientists enticed to China through cover of paid academic lectures",
-              "Attendees were in fact employees of Chinese state-owned defense companies, prosecutors said, with the probe involving 10 witnesses across six German states."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Lefigaro",
+          "outlet": "Le Figaro",
           "author": "",
           "title": "A study reveals a \"systematic\" Chinese interference strategy in G7 countries",
           "date": "2026-05-28",
@@ -2170,7 +1982,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Chosun",
+          "outlet": "Chosun Ilbo",
           "author": "",
           "title": "China, Russia operate intelligence bases in Cuba near US coast",
           "date": "2026-05-25",
@@ -2184,29 +1996,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Economist",
-          "author": "",
-          "title": "How China quietly helps Russia in Ukraine",
-          "date": "2026-05-20",
-          "url": "https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine",
-          "bullets": [
-            [
-              "China accounts for ~90% of Russian machine-tool imports",
-              "The Jamestown Foundation estimate reflects broad dependence on Chinese microelectronics, CNC tools, and FPV drones to sustain Russia's war production."
-            ],
-            [
-              "Norinco is ramping up nitrocellulose exports via shell companies and intermediaries",
-              "Western officials allege the state-owned arms firm is filling the gap left after sanctions disrupted Turkey-based suppliers of the artillery propellant."
-            ],
-            [
-              "Beijing expects Russia's dependency to outlast the war",
-              "The article reports Chinese firms profit from dual-use exports while receiving discounted Russian energy, with the subordinate relationship viewed as durable beyond any ceasefire."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Diplomat",
+          "outlet": "The Diplomat",
           "author": "",
           "title": "The Putin-Xi summit and the asymmetry of the China-Russia partnership",
           "date": "2026-05-28",
@@ -2219,24 +2009,6 @@ window.W22_2026 = {
             [
               "China withheld progress on Russia's key pipeline priority",
               "Power of Siberia 2 went unmentioned in Chinese summit accounts, with Beijing reportedly demanding pricing aligned with Russian domestic rates, the article notes."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Wire China",
-          "author": "",
-          "title": "The supplicant and the sovereign",
-          "date": "2026-05-21",
-          "url": "https://www.thewirechina.com/2026/05/21/the-supplicant-and-the-sovereign",
-          "bullets": [
-            [
-              "Russia has no alternative to China for gas revenues, the authors argue",
-              "Western sanctions eliminated European markets, leaving Putin dependent on Beijing to set below-market pipeline terms - as it did for Power of Siberia I."
-            ],
-            [
-              "Arctic access is the strategic concession China may extract from Russia",
-              "Beijing already finances Northern Sea Route infrastructure and supplies sanctioned Russian firms with equipment, according to the article."
             ]
           ],
           "related": []
@@ -2292,34 +2064,6 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Foreign Affairs",
-          "author": "",
-          "title": "China was ready age anarchy",
-          "date": "2026-05-14",
-          "url": "https://www.foreignaffairs.com/china/china-was-ready-age-anarchy",
-          "bullets": [
-            [
-              "China's security minister calls for an integrated overseas protection system",
-              "Chen Yixin directed the national security bureaucracy to build an integrated system protecting BRI projects and strategic corridors abroad."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Hudson",
-          "author": "",
-          "title": "Trump–Xi summit: strategic developments, outcomes, and implications",
-          "date": "2026-05-19",
-          "url": "https://www.hudson.org/foreign-policy/trump-xi-summit-strategic-developments-outcomes-implications-miles-yu-colin-tessier-kay",
-          "bullets": [
-            [
-              "Trump-Xi two-day Beijing summit addressed trade, Iran, and Taiwan arms sales",
-              "Hudson Institute's Miles Yu analyzes the strategic objectives and red lines negotiated by both leaders, per the episode description."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "SCMP",
           "author": "",
           "title": "Why the era of the 3 joint US-China communiques may be 'completely' over",
@@ -2343,20 +2087,6 @@ window.W22_2026 = {
             [
               "Beijing pressed Washington on Taiwan arms sales at the May summit",
               "According to sources, Chinese officials demanded reduced package sizes and slower approval pacing, expressing dissatisfaction with record-sized deals approved in Trump's second term."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "NYT",
-          "author": "",
-          "title": "Trump's pursuit of a partnership with China raises concerns in India",
-          "date": "2026-05-23",
-          "url": "https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html",
-          "bullets": [
-            [
-              "Rubio visits India to repair US ties after Trump's Beijing summit",
-              "Trump praised Xi as \"a great leader\" and floated revisiting Taiwan arms sales, unnerving US partners across Asia."
             ]
           ],
           "related": []
@@ -2422,20 +2152,6 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "FT",
-          "author": "",
-          "title": "Xi Jinping railed against Japan's 'remilitarisation' at Donald Trump summit",
-          "date": "2026-05-24",
-          "url": "https://www.ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b",
-          "bullets": [
-            [
-              "Xi attacked Japan's rearmament at the Trump-Xi summit",
-              "Xi became agitated criticising PM Takaichi's defence spending, described by seven US officials as the two-day summit's most heated exchange."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Jamestown",
           "author": "",
           "title": "Cognitive warfare against Japan's security normalization",
@@ -2445,20 +2161,6 @@ window.W22_2026 = {
             [
               "Beijing shifted from coercive to cognitive warfare on Japan",
               "After PRC threats backfired, Beijing pivoted to below-threshold operations targeting domestic political consensus on Japan's constitutional reform agenda."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "NYT",
-          "author": "",
-          "title": "Chinese firms plot secret arms sales to Iran, US officials say",
-          "date": "2026-05-13",
-          "url": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html",
-          "bullets": [
-            [
-              "Chinese firms plan covert arms transfers to Iran",
-              "US intelligence shows weapons would be routed through third-country intermediaries - at least one in Africa - to disguise their Chinese origins, officials say."
             ]
           ],
           "related": []
@@ -2492,7 +2194,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Diplomat",
+          "outlet": "The Diplomat",
           "author": "",
           "title": "China's navy is shifting pressure beyond the Taiwan Strait",
           "date": "2026-05-28",
@@ -2532,20 +2234,6 @@ window.W22_2026 = {
             ]
           ],
           "related": []
-        },
-        {
-          "outlet": "SCMP",
-          "author": "",
-          "title": "Why Hainan holds the key to survival for China's aircraft carriers",
-          "date": "2026-05-24",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3354674/breaking-chain-why-hainan-holds-key-survival-chinas-aircraft-carriers",
-          "bullets": [
-            [
-              "Hainan carrier base assessed as vital to PLA fleet survivability",
-              "Defence Review, a mainland Chinese magazine, reports the Sanya complex gives warships room to counter US first-island-chain containment."
-            ]
-          ],
-          "related": []
         }
       ]
     },
@@ -2556,7 +2244,7 @@ window.W22_2026 = {
       "label": "Strategic implications and responses",
       "items": [
         {
-          "outlet": "WP",
+          "outlet": "Washington Post",
           "author": "",
           "title": "U.S. pauses $14 billion Taiwan arms sale after China summit - The Washington Post",
           "date": "2026-05-25",
@@ -2680,25 +2368,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "Pentagon aims to break China's rare-earths grip with critical-minerals plan",
-          "date": "2026-05-14",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-14/pentagon-aims-to-break-china-rare-earths-grip-with-critical-minerals-plan",
-          "bullets": [
-            [
-              "Pentagon deploys $200 billion to end Chinese magnet dependence",
-              "The Economic Defense Unit aims for non-Chinese supply chains to cover half of global rare earth magnet demand by 2030, when China produces 94% of global output."
-            ],
-            [
-              "Conflict-of-interest concerns dog Pentagon dealmaking",
-              "Critics flagged Trump Jr.'s passive stake in $620 million loan recipient Vulcan Elements and Deputy Secretary Feinberg's ties to Cerberus Capital, which operates in the same sectors."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "State",
+          "outlet": "US State Dept",
           "author": "",
           "title": "Quad Critical Minerals Initiative Framework among the United States, Japan, Australia, and India",
           "date": "2026-05-26",
@@ -2730,7 +2400,7 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "State",
+          "outlet": "US State Dept",
           "author": "",
           "title": "Secretary of State Marco Rubio and Indian External Affairs Minister Subrahmanyam Jaishankar at the signing of a critical minerals framework",
           "date": "2026-05-26",
@@ -2780,20 +2450,6 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "Taiwan seeks to detain three in AI chip smuggling crackdown",
-          "date": "2026-05-21",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-21/taiwan-seeks-to-detain-three-in-ai-chip-smuggling-crackdown",
-          "bullets": [
-            [
-              "Taiwan detains three for forging Nvidia chip export documents",
-              "Keelung District Prosecutors apprehended the trio for falsifying declarations on approximately 50 Super Micro AI servers bound for China, Hong Kong, and Macau."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "CNBC",
           "author": "",
           "title": "UK spy chief: GCHQ on Russia, China, US cyber-attack security",
@@ -2831,20 +2487,6 @@ window.W22_2026 = {
             [
               "BIS halted AI chip export enforcement without public notice, author says",
               "Chinese firms legally bought Nvidia Blackwell chips via overseas subsidiaries for a year, the newsletter alleges, citing industry sources familiar with BIS practice."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Militarytimes",
-          "author": "",
-          "title": "Former University of Michigan researcher accused of hiding Chinese military drone ties",
-          "date": "2026-05-18",
-          "url": "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties",
-          "bullets": [
-            [
-              "Michigan scholar charged over undisclosed PLA drone company",
-              "Chuan Wang allegedly denied military work to customs while co-founding Tianxun, a drone manufacturer supplying the Chinese military."
             ]
           ],
           "related": []
@@ -2924,10 +2566,10 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "War",
+          "outlet": "US War Dept",
           "author": "",
           "title": "Remarks by Secretary of War Pete Hegseth at the 2026 Shangri La Dialogue in sin",
-          "date": "",
+          "date": "2026-05-31",
           "url": "https://www.war.gov/News/Speeches/Speech/Article/4504755/remarks-by-secretary-of-war-pete-hegseth-at-the-2026-shangri-la-dialogue-in-sin",
           "bullets": [
             [
@@ -2942,43 +2584,15 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "Not just commercial litigation, China is trying to keep Darwin por",
-          "date": "",
-          "url": "https://www.aspistrategist.org.au/not-just-commercial-litigation-china-is-trying-to-keep-darwin-port",
-          "bullets": [
-            [
-              "Landbridge files first-ever World Bank claim over Darwin Port",
-              "China's Landbridge Group lodged an ICSID case arguing forced lease termination would breach the China-Australia free-trade agreement."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Cnas",
+          "outlet": "CNAS",
           "author": "",
           "title": "Thwarting communications blackou",
-          "date": "",
+          "date": "2026-05-28",
           "url": "https://www.cnas.org/publications/reports/thwarting-communications-blackout",
           "bullets": [
             [
               "Taiwan recorded 28 human-caused cable incidents since 2022, three attributed to PRC",
               "China cannot impose a full communications blackout without severing all 15 cables, though partial cuts degrade bandwidth and latency."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Defensenews",
-          "author": "",
-          "title": "Japan fires first ever missiles from Philippine soi",
-          "date": "2026-05-14",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil",
-          "bullets": [
-            [
-              "Japan fired anti-ship missiles from Philippine soil for the first time since WWII",
-              "Around 1,400 Japanese troops participated in Exercise Balikatan 2026 under a reciprocal access agreement ratified in September 2025."
             ]
           ],
           "related": []
