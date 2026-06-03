@@ -9,7 +9,7 @@ window.W22_2026 = {
   "pdf": "pdfs/W22-2026.pdf",
   "spotlight": {
     "title": "Spotlight: China builds its outbound techno-economic restriction toolkit",
-    "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology, as Washington has done to it. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
+    "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
     "items": [
       {
         "note": "**The legal track.** The State Council issued a cluster of administrative regulations (国务院令, \"State Council orders\"): Order 834 on industrial- and supply-chain security (31 March), Order 835 – a blocking statute against foreign extraterritorial measures (反外国不当域外管辖条例, 13 April), and the capstone Order 837, the Regulations on Outbound Investment (对外投资规定, signed 5 May, effective 1 July). Order 837's 34 articles replace a patchwork of ministerial rules with a single State Council regulation: they bar the cross-border transfer of export-controlled goods, technology and data – including via secondment of technical staff or offshore training (Art. 13); subject outbound deals to a security review covering the investment and any later asset transfer (Art. 15); and authorise countermeasures tied to the Anti-Foreign Sanctions Law (Arts. 24–25)."
@@ -22,7 +22,7 @@ window.W22_2026 = {
     "subsections": [
       {
         "label": "The study's top 10 restricted-export candidates (all Tier 1, scored out of 10)",
-        "intro": "The ranking spans frontier technologies and mature industrial processes alike – from satellite quantum communications to petroleum catalytic cracking and silicon steel. Sources: [gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm) · [Xinhua Order 835](https://www.news.cn/politics/leaders/20260413/0a29d45b57bb4d688ea056415e9d26eb/c.html) · [CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn) · [SCMP, archived](https://archive.is/oJrsa) ::: {custom-style=\"Spacer\"} :::",
+        "intro": "The ranking spans frontier technologies and mature industrial processes alike – from satellite quantum communications to petroleum catalytic cracking and silicon steel.",
         "items": [],
         "table": {
           "headers": [
@@ -83,13 +83,31 @@ window.W22_2026 = {
             ]
           ]
         }
+      },
+      {
+        "label": "Selected sources",
+        "intro": "",
+        "items": [
+          {
+            "note": "[gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm)"
+          },
+          {
+            "note": "[Xinhua Order 835](https://www.news.cn/politics/leaders/20260413/0a29d45b57bb4d688ea056415e9d26eb/c.html)"
+          },
+          {
+            "note": "[CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn)"
+          },
+          {
+            "note": "[SCMP, archived](https://archive.is/oJrsa)"
+          }
+        ]
       }
     ]
   },
   "spotlights": [
     {
       "title": "Spotlight: China builds its outbound techno-economic restriction toolkit",
-      "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology, as Washington has done to it. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
+      "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
       "items": [
         {
           "note": "**The legal track.** The State Council issued a cluster of administrative regulations (国务院令, \"State Council orders\"): Order 834 on industrial- and supply-chain security (31 March), Order 835 – a blocking statute against foreign extraterritorial measures (反外国不当域外管辖条例, 13 April), and the capstone Order 837, the Regulations on Outbound Investment (对外投资规定, signed 5 May, effective 1 July). Order 837's 34 articles replace a patchwork of ministerial rules with a single State Council regulation: they bar the cross-border transfer of export-controlled goods, technology and data – including via secondment of technical staff or offshore training (Art. 13); subject outbound deals to a security review covering the investment and any later asset transfer (Art. 15); and authorise countermeasures tied to the Anti-Foreign Sanctions Law (Arts. 24–25)."
@@ -102,7 +120,7 @@ window.W22_2026 = {
       "subsections": [
         {
           "label": "The study's top 10 restricted-export candidates (all Tier 1, scored out of 10)",
-          "intro": "The ranking spans frontier technologies and mature industrial processes alike – from satellite quantum communications to petroleum catalytic cracking and silicon steel. Sources: [gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm) · [Xinhua Order 835](https://www.news.cn/politics/leaders/20260413/0a29d45b57bb4d688ea056415e9d26eb/c.html) · [CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn) · [SCMP, archived](https://archive.is/oJrsa) ::: {custom-style=\"Spacer\"} :::",
+          "intro": "The ranking spans frontier technologies and mature industrial processes alike – from satellite quantum communications to petroleum catalytic cracking and silicon steel.",
           "items": [],
           "table": {
             "headers": [
@@ -163,6 +181,24 @@ window.W22_2026 = {
               ]
             ]
           }
+        },
+        {
+          "label": "Selected sources",
+          "intro": "",
+          "items": [
+            {
+              "note": "[gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm)"
+            },
+            {
+              "note": "[Xinhua Order 835](https://www.news.cn/politics/leaders/20260413/0a29d45b57bb4d688ea056415e9d26eb/c.html)"
+            },
+            {
+              "note": "[CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn)"
+            },
+            {
+              "note": "[SCMP, archived](https://archive.is/oJrsa)"
+            }
+          ]
         }
       ]
     }
@@ -178,25 +214,25 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Wirtschaftsministerin Reiche reist zum Antrittsbesuch nach China und betont Wettbewerb \"zu beiderseitigem Nutzen\"**: Reiche besuchte China vom 27. bis 29. Mai und rahmte die Reise als Werben für [konstruktiven Dialog, Transparenz und langfristige Kooperation](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-ministerin-reiche-reist-nach-china.html), mit dem Ziel, die Beziehung \"[stabil, verlässlich und zukunftsfähig](https://www.bundesregierung.de/breg-de/aktuelles/wirtschaftsministerin-in-china-2432586)\" weiterzuentwickeln und faire Wettbewerbsbedingungen herzustellen."
+              "note": "**Economy Minister Reiche makes her inaugural China visit, stressing competition \"to mutual benefit\"**: Reiche visited China on 27–29 May, framing the trip as a pitch for [constructive dialogue, transparency and long-term cooperation](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-ministerin-reiche-reist-nach-china.html), aiming to develop the relationship into one that is \"[stable, reliable and future-proof](https://www.bundesregierung.de/breg-de/aktuelles/wirtschaftsministerin-in-china-2432586)\" and to establish fair competitive conditions."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Reiche fordert von Handelsminister Wang Wentao besseren Zugang zu Seltenen Erden – China kontert mit Protektionismus-Vorwurf**: Gegenüber Wang verlangte Reiche [verlässlichen Zugang zu kritischen Mineralien](https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-fordert-bei-china-besuch-besseren-zugang-zu-seltenen-erden-100.html), ohne die \"moderne Technologien nicht denkbar\" seien, während Wang die jüngsten EU-Stahl-Handelsschutzmaßnahmen als \"stark protektionistisch\" zurückwies; Reiche [bekräftigte](https://www.reuters.com/world/asia-pacific/modern-economic-relationship-requires-cooperation-competition-german-minister-2026-05-27), dass die Wirtschaftsbeziehung zugleich Kooperation und Wettbewerb erfordere."
+              "note": "**Reiche presses Commerce Minister Wang Wentao for better rare-earth access – China counters with a protectionism charge**: Reiche pressed Wang for [reliable access to critical minerals](https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-fordert-bei-china-besuch-besseren-zugang-zu-seltenen-erden-100.html), without which \"modern technologies are unthinkable,\" while Wang dismissed the recent EU steel trade-defence measures as \"strongly protectionist\"; Reiche [reaffirmed](https://www.reuters.com/world/asia-pacific/modern-economic-relationship-requires-cooperation-competition-german-minister-2026-05-27) that the economic relationship requires both cooperation and competition."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Reiche trifft Vize-Premier He Lifeng sowie Huang Kunming und Meng Fanli**: Am Rande des Programms führte Reiche Gespräche mit [Vize-Ministerpräsident He Lifeng](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-chinesischen-vize-ministerpraesidenten-he-lifeng.html) sowie mit [Huang Kunming und Meng Fanli](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-reiche-trifft-huang-kunming-sowie-meng-fanli.html); die chinesische Seite stellte die Treffen mit [He Lifeng](https://de.china-embassy.gov.cn/det/zgyw_/202605/t20260528_11919907.htm) und [Wang Wentao](https://de.china-embassy.gov.cn/det/zgyw_/202605/t20260528_11919903.htm) als Bekenntnis zu stabilen Wirtschaftsbeziehungen dar."
+              "note": "**Reiche meets Vice-Premier He Lifeng as well as Huang Kunming and Meng Fanli**: On the margins, Reiche held talks with [Vice-Premier He Lifeng](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-chinesischen-vize-ministerpraesidenten-he-lifeng.html) and with [Huang Kunming and Meng Fanli](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-reiche-trifft-huang-kunming-sowie-meng-fanli.html); the Chinese side portrayed the meetings with [He Lifeng](https://de.china-embassy.gov.cn/det/zgyw_/202605/t20260528_11919907.htm) and [Wang Wentao](https://de.china-embassy.gov.cn/det/zgyw_/202605/t20260528_11919903.htm) as a commitment to stable economic relations."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Deutsche Kommentatoren werten den Besuch als zurückhaltend und diagnostizieren eigene Verwundbarkeit**: Die [SZ](https://www.sueddeutsche.de/politik/katherina-reiche-peking-china-wirtschaft-technologie-konkurrenz-li.3489174) deutete Reiches Bewunderung für Chinas Innovationstempo als Befund deutscher Verwundbarkeit, der [Stern](https://www.stern.de/capital/reiche-in-china--freundliche-worte--harte-interessen-37454048.html) attestierte ihr beim Antrittsbesuch betont freundliche Töne und Kritikverzicht, während der [BGA](https://bga.de/presse/pressemitteilung/bga-zur-china-reise-von-ministerin-reiche) die Reise aus Sicht des Außenhandels kommentierte."
+              "note": "**German commentators read the visit as restrained and diagnose home-grown vulnerability**: The [SZ](https://www.sueddeutsche.de/politik/katherina-reiche-peking-china-wirtschaft-technologie-konkurrenz-li.3489174) cast Reiche's admiration for China's pace of innovation as evidence of German vulnerability, the [Stern](https://www.stern.de/capital/reiche-in-china--freundliche-worte--harte-interessen-37454048.html) noted her pointedly friendly tone and avoidance of criticism on the inaugural visit, while the [BGA](https://bga.de/presse/pressemitteilung/bga-zur-china-reise-von-ministerin-reiche) commented on the trip from a foreign-trade perspective."
             }
           ]
         },
@@ -247,7 +283,7 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[EUreporter: 43rd EU-China Inter-Parliamentary Meeting in Beijing (28 May)](https://www.eureporter.co/world/china-2/china-eu/2026/05/25/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm) — first EP delegation visit to China since 2018; 12-member D-CN group led by Chair Eroglu, also visited Wuhan."
+              "note": "**First EP delegation visits China since 2018 for the 43rd Inter-Parliamentary Meeting**: A 12-member D-CN group led by Chair Eroglu attended the [43rd EU-China Inter-Parliamentary Meeting in Beijing](https://www.eureporter.co/world/china-2/china-eu/2026/05/25/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm) on 28 May and also visited Wuhan."
             },
             {
               "outlet": "",
@@ -283,12 +319,12 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Strategic commentary questions whether Europe's response is timely or sufficient**: Analysts debate [Europe's capacity to compete with the US and China](https://carnegieendowment.org/europe/posts/2026/05/can-europe-compete-with-the-united-states-and-china) and [its embrace of subsidies](https://www.ft.com/content/b3e968c3-9089-417b-9757-95020eb0f469), with one critique arguing the bloc's [China strategy arrives too late and aims too low](https://moderndiplomacy.eu/2026/05/27/distant-water-cannot-quench-a-nearby-fire-why-europes-china-strategy-arrives-too-late-and-aims-too-low), even as [MEPs prepare to visit China for the 43rd Inter-Parliamentary Meeting](https://www.eeas.europa.eu/delegations/china/meps-visit-china-43rd-inter-parliamentary-meeting-ipm_en)."
+              "note": "**Strategic commentary questions whether Europe's response is timely or sufficient**: Analysts debate [Europe's capacity to compete with the US and China](https://carnegieendowment.org/europe/posts/2026/05/can-europe-compete-with-the-united-states-and-china) and [its embrace of subsidies](https://www.ft.com/content/b3e968c3-9089-417b-9757-95020eb0f469), with one critique arguing the bloc's [China strategy arrives too late and aims too low](https://moderndiplomacy.eu/2026/05/27/distant-water-cannot-quench-a-nearby-fire-why-europes-china-strategy-arrives-too-late-and-aims-too-low)."
             }
           ]
         },
         {
-          "label": "EU-Mitgliedstaaten & internationale Reaktionen",
+          "label": "EU-Mitgliedstaaten",
           "items": [
             {
               "outlet": "",
@@ -324,7 +360,7 @@ window.W22_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Information distortion and security signalling shape the European China debate**: [Viral posts misrepresented Kaja Kallas' remarks](https://www.euronews.com/my-europe/2026/05/26/viral-posts-distort-kaja-kallas-remarks-on-china-and-russia) on China and Russia, [Nikkei mapped European rightwing populists' divergent China views](https://asia.nikkei.com/politics/international-relations/how-do-european-rightwing-populists-see-china-4-things-to-know), and the [Pentagon chief urged allies to raise defence spending](https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/) over China's military build-up."
+              "note": "**Information distortion and populist divergence shape the European China debate**: [Viral posts misrepresented Kaja Kallas' remarks](https://www.euronews.com/my-europe/2026/05/26/viral-posts-distort-kaja-kallas-remarks-on-china-and-russia) on China and Russia, and [Nikkei mapped European rightwing populists' divergent China views](https://asia.nikkei.com/politics/international-relations/how-do-european-rightwing-populists-see-china-4-things-to-know)."
             }
           ]
         }
