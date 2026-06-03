@@ -8,17 +8,163 @@ window.W22_2026 = {
   "dateRange": "25 – 31 May 2026",
   "pdf": "pdfs/W22-2026.pdf",
   "spotlight": {
-    "title": "Spotlight",
-    "intro": "::: {custom-style=\"Spacer\"} :::",
-    "items": [],
-    "subsections": []
+    "title": "Spotlight: China builds its outbound techno-economic restriction toolkit",
+    "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology, as Washington has done to it. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
+    "items": [
+      {
+        "note": "**The legal track.** The State Council issued a cluster of administrative regulations (国务院令, \"State Council orders\"): Order 834 on industrial- and supply-chain security (31 March), Order 835 – a blocking statute against foreign extraterritorial measures (反外国不当域外管辖条例, 13 April), and the capstone Order 837, the Regulations on Outbound Investment (对外投资规定, signed 5 May, effective 1 July). Order 837's 34 articles replace a patchwork of ministerial rules with a single State Council regulation: they bar the cross-border transfer of export-controlled goods, technology and data – including via secondment of technical staff or offshore training (Art. 13); subject outbound deals to a security review covering the investment and any later asset transfer (Art. 15); and authorise countermeasures tied to the Anti-Foreign Sanctions Law (Arts. 24–25)."
+      },
+      {
+        "note": "**The analytical track.** A study in the Bulletin of the Chinese Academy of Sciences (中国科学院院刊, published 19 March; led by Peng Xianke of the Chinese Academy of Engineering's innovation-strategy institute; seems to be withdrawn) sets out what it calls China's first comprehensive framework for selecting technologies that might warrant export restriction, yielding a list of 63 strategically sensitive or globally competitive technologies spanning chemicals, materials, machinery, agriculture, information, energy and medicine. As an [SCMP write-up](https://archive.is/oJrsa) (1 June) framed it, the work marks a conceptual turn: China is now preparing the methodology to wield such controls where it leads."
+      }
+    ],
+    "table": null,
+    "subsections": [
+      {
+        "label": "The study's top 10 restricted-export candidates (all Tier 1, scored out of 10)",
+        "intro": "The ranking spans frontier technologies and mature industrial processes alike – from satellite quantum communications to petroleum catalytic cracking and silicon steel. Sources: [gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm) · [Xinhua Order 835](https://www.news.cn/politics/leaders/20260413/0a29d45b57bb4d688ea056415e9d26eb/c.html) · [CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn) · [SCMP, archived](https://archive.is/oJrsa) ::: {custom-style=\"Spacer\"} :::",
+        "items": [],
+        "table": {
+          "headers": [
+            "#",
+            "Technology",
+            "Score"
+          ],
+          "rows": [
+            [
+              "1",
+              "Petroleum catalytic cracking (FCC)",
+              "10.000"
+            ],
+            [
+              "2",
+              "Composite materials – fabrication & product design",
+              "9.732"
+            ],
+            [
+              "3",
+              "Solar-cell technologies",
+              "9.732"
+            ],
+            [
+              "4",
+              "High-grade silicon (electrical) steel",
+              "9.408"
+            ],
+            [
+              "5",
+              "Silicon-substrate GaN LEDs",
+              "9.329"
+            ],
+            [
+              "6",
+              "Commercial forestry cultivation",
+              "9.325"
+            ],
+            [
+              "7",
+              "Electromagnetic catapult (launch)",
+              "9.089"
+            ],
+            [
+              "8",
+              "Permanent-magnet maglev–rail integration",
+              "9.089"
+            ],
+            [
+              "9",
+              "Satellite quantum-secure communications",
+              "9.057"
+            ],
+            [
+              "10",
+              "High-refractive-index optical resin materials",
+              "8.953"
+            ]
+          ]
+        }
+      }
+    ]
   },
   "spotlights": [
     {
-      "title": "Spotlight",
-      "intro": "::: {custom-style=\"Spacer\"} :::",
-      "items": [],
-      "subsections": []
+      "title": "Spotlight: China builds its outbound techno-economic restriction toolkit",
+      "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology, as Washington has done to it. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
+      "items": [
+        {
+          "note": "**The legal track.** The State Council issued a cluster of administrative regulations (国务院令, \"State Council orders\"): Order 834 on industrial- and supply-chain security (31 March), Order 835 – a blocking statute against foreign extraterritorial measures (反外国不当域外管辖条例, 13 April), and the capstone Order 837, the Regulations on Outbound Investment (对外投资规定, signed 5 May, effective 1 July). Order 837's 34 articles replace a patchwork of ministerial rules with a single State Council regulation: they bar the cross-border transfer of export-controlled goods, technology and data – including via secondment of technical staff or offshore training (Art. 13); subject outbound deals to a security review covering the investment and any later asset transfer (Art. 15); and authorise countermeasures tied to the Anti-Foreign Sanctions Law (Arts. 24–25)."
+        },
+        {
+          "note": "**The analytical track.** A study in the Bulletin of the Chinese Academy of Sciences (中国科学院院刊, published 19 March; led by Peng Xianke of the Chinese Academy of Engineering's innovation-strategy institute; seems to be withdrawn) sets out what it calls China's first comprehensive framework for selecting technologies that might warrant export restriction, yielding a list of 63 strategically sensitive or globally competitive technologies spanning chemicals, materials, machinery, agriculture, information, energy and medicine. As an [SCMP write-up](https://archive.is/oJrsa) (1 June) framed it, the work marks a conceptual turn: China is now preparing the methodology to wield such controls where it leads."
+        }
+      ],
+      "table": null,
+      "subsections": [
+        {
+          "label": "The study's top 10 restricted-export candidates (all Tier 1, scored out of 10)",
+          "intro": "The ranking spans frontier technologies and mature industrial processes alike – from satellite quantum communications to petroleum catalytic cracking and silicon steel. Sources: [gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm) · [Xinhua Order 835](https://www.news.cn/politics/leaders/20260413/0a29d45b57bb4d688ea056415e9d26eb/c.html) · [CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn) · [SCMP, archived](https://archive.is/oJrsa) ::: {custom-style=\"Spacer\"} :::",
+          "items": [],
+          "table": {
+            "headers": [
+              "#",
+              "Technology",
+              "Score"
+            ],
+            "rows": [
+              [
+                "1",
+                "Petroleum catalytic cracking (FCC)",
+                "10.000"
+              ],
+              [
+                "2",
+                "Composite materials – fabrication & product design",
+                "9.732"
+              ],
+              [
+                "3",
+                "Solar-cell technologies",
+                "9.732"
+              ],
+              [
+                "4",
+                "High-grade silicon (electrical) steel",
+                "9.408"
+              ],
+              [
+                "5",
+                "Silicon-substrate GaN LEDs",
+                "9.329"
+              ],
+              [
+                "6",
+                "Commercial forestry cultivation",
+                "9.325"
+              ],
+              [
+                "7",
+                "Electromagnetic catapult (launch)",
+                "9.089"
+              ],
+              [
+                "8",
+                "Permanent-magnet maglev–rail integration",
+                "9.089"
+              ],
+              [
+                "9",
+                "Satellite quantum-secure communications",
+                "9.057"
+              ],
+              [
+                "10",
+                "High-refractive-index optical resin materials",
+                "8.953"
+              ]
+            ]
+          }
+        }
+      ]
     }
   ],
   "contextSections": [

@@ -265,20 +265,27 @@
     }
     return list.map(renderEntry).join("");
   }
+  function renderSpotlightTable(t) {
+    if (!t || !(t.rows || []).length) return "";
+    const head = (t.headers || []).map(h => `<th>${inlineMd(h)}</th>`).join("");
+    const body = t.rows.map(r => `<tr>${r.map(c => `<td>${inlineMd(c)}</td>`).join("")}</tr>`).join("");
+    return `<table class="spotlight-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+  }
   function renderSpotlight(s, idx = 0) {
     if (!s) return "";
     const items = filtered(s.items);
     const subs = (s.subsections || []).map(sub => {
       const subItems = filtered(sub.items || []);
-      if (!subItems.length && !(sub.intro || "").trim() && activeFilters.size) return "";
+      if (!subItems.length && !(sub.intro || "").trim() && !sub.table && activeFilters.size) return "";
       return `
       <div class="spotlight-sub">
         <h3 class="spotlight-sub-h">${esc(sub.label)}</h3>
         ${sub.intro ? `<p class="section-intro">${inlineMd(sub.intro)}</p>` : ""}
         ${renderSpotlightItems(subItems)}
+        ${renderSpotlightTable(sub.table)}
       </div>`;
     }).join("");
-    if (!items.length && !subs.trim() && activeFilters.size) return "";
+    if (!items.length && !subs.trim() && !s.table && activeFilters.size) return "";
     return `
       <section class="section" id="${idx === 0 ? "hl-spotlight" : `hl-spotlight-${idx + 1}`}">
         <header class="section-h">
@@ -286,6 +293,7 @@
         </header>
         ${s.intro ? `<p class="section-intro">${inlineMd(s.intro)}</p>` : ""}
         ${renderSpotlightItems(items)}
+        ${renderSpotlightTable(s.table)}
         ${subs}
       </section>`;
   }
