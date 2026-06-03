@@ -130,10 +130,13 @@
       let acc = "";
       for (const w of topic.split(/\s+/)) { if ((acc + " " + w).trim().length > 18) break; acc = (acc + " " + w).trim(); }
       acc = acc.replace(/\s+(in|the|of|at|on|and)$/i, "");
-      const n = spots.length > 1 ? `Spotlight ${i + 1}` : "Spotlight";
+      // Single spotlight: just "Spotlight" (front-truncating one long title is
+      // meaningless). Multi-spotlight weeks keep a short topic to disambiguate.
+      const single = spots.length === 1;
+      const n = single ? "Spotlight" : `Spotlight ${i + 1}`;
       chips.push({
         sub: i === 0 ? "hl-spotlight" : `hl-spotlight-${i + 1}`,
-        label: acc ? `${n}: ${acc}` : n,
+        label: (!single && acc) ? `${n}: ${acc}` : n,
       });
     });
     (w.contextSections || []).forEach(sec => {
