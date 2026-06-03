@@ -429,18 +429,6 @@ window.W22_2026 = {
               ]
             },
             {
-              "outlet": "Die Zeit",
-              "title": "",
-              "date": "",
-              "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-05/china-investitionen-deutschland-cosco-huawei-vw-x",
-              "bullets": [
-                [
-                  "",
-                  "[Die Zeit](https://www.zeit.de/wirtschaft/unternehmen/2026-05/china-investitionen-deutschland-cosco-huawei-vw-x) quoted the recent MERICS × Rhodium Group joint report on Chinese FDI in Europe."
-                ]
-              ]
-            },
-            {
               "outlet": "New York Times",
               "title": "",
               "date": "",
