@@ -605,42 +605,6 @@ window.W22_2026 = {
           "related": []
         },
         {
-          "outlet": "Economist",
-          "author": "",
-          "title": "Without fanfare, China is making rural migrants' lives easier",
-          "date": "2026-05-28",
-          "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier",
-          "bullets": [
-            [
-              "Column links hukou insecurity to China's export surplus",
-              "Migrants with rural registration save 6.8 percentage points more than urban-registered peers, according to an IMF paper cited in the column."
-            ],
-            [
-              "Hukou settlement probability in average city reached 94.6% by 2024",
-              "A 2024 index shows eligibility expanded from 46.9% in 2011; Beijing and Shanghai remain below 2%."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "China's urban reforms have a long way to go",
-          "date": "2026-05-26",
-          "url": "https://www.bloomberg.com/opinion/articles/2026-05-26/china-s-urban-reforms-have-a-long-way-to-go",
-          "bullets": [
-            [
-              "Hukou reform grants migrants access to urban public services",
-              "China's cabinet announced Friday that 358 million migrant workers can access city services regardless of registered hometown, the article reports."
-            ],
-            [
-              "New hukou plan delegates costs without funding details",
-              "The author argues the announcement passes financial responsibility to provincial governments already strained by the real estate collapse."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Jamestown",
           "author": "",
           "title": "Beijing's hukou reform is not welfare-oriented",
@@ -660,7 +624,16 @@ window.W22_2026 = {
               "The authors argue the most likely path is leveling down urban privilege rather than lifting benefits for the 360 million floating population."
             ]
           ],
-          "related": []
+          "related": [
+            {
+              "text": "Economist: Without fanfare, China is making rural migrants' lives easier",
+              "url": "https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier"
+            },
+            {
+              "text": "Bloomberg: China's urban reforms have a long way to go",
+              "url": "https://www.bloomberg.com/opinion/articles/2026-05-26/china-s-urban-reforms-have-a-long-way-to-go"
+            }
+          ]
         },
         {
           "outlet": "SCMP",
@@ -706,35 +679,12 @@ window.W22_2026 = {
               "The think-tank says Beijing's new calculation halves the apparent 2020-2025 emissions rise, making Xi's 2030 climate pledges appear achievable."
             ]
           ],
-          "related": []
-        },
-        {
-          "outlet": "Carbon Brief",
-          "author": "",
-          "title": "Analysis: China's new carbon metric leaves Germany-sized gap in its emissions",
-          "date": "2026-05-25",
-          "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions",
-          "bullets": [
-            [
-              "China's revised carbon intensity scope halves five-year CO2 growth",
-              "New methodology creates a 700 MtCO2/year gap - equivalent to Germany's total annual emissions - versus previous official statistics."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "Coal mine blast tests limits of Xi's energy security push",
-          "date": "2026-05-26",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-24/china-coal-mine-blast-tests-limits-of-xi-s-energy-security-push",
-          "bullets": [
-            [
-              "Shanxi blast killed at least 82, prompting Xi intervention",
-              "Preliminary investigations found \"serious violations\" at the Liushenyu mine, with central authorities pledging an \"uncompromising\" investigation."
-            ]
-          ],
-          "related": []
+          "related": [
+            {
+              "text": "Carbon Brief: Analysis: China's new carbon metric leaves Germany-sized gap in its emissions",
+              "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions"
+            }
+          ]
         },
         {
           "outlet": "Economist",
@@ -748,7 +698,12 @@ window.W22_2026 = {
               "Xi Jinping ordered a probe and punishment while state media reported unusually detailed safety violations at the Liushenyu mine."
             ]
           ],
-          "related": []
+          "related": [
+            {
+              "text": "Bloomberg: Coal mine blast tests limits of Xi's energy security push",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-24/china-coal-mine-blast-tests-limits-of-xi-s-energy-security-push"
+            }
+          ]
         },
         {
           "outlet": "Xinhua",
@@ -1028,24 +983,6 @@ window.W22_2026 = {
       "label": "Geoeconomics — tech & innovation",
       "items": [
         {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "Huawei touts chip breakthrough to shorten gap with TSMC",
-          "date": "2026-05-25",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc",
-          "bullets": [
-            [
-              "Huawei announces EUV-free 1.4nm chip path by 2031",
-              "The \"LogicFolding\" architecture would cut the current five-year gap with TSMC to three years, semiconductor chief He Tingbo said at a chip conference."
-            ],
-            [
-              "US export controls prompted Huawei to abandon Moore's Law approach",
-              "After EUV access was cut off six years ago, the firm's \"Tau Scaling Law\" compensates by boosting data transmission speed rather than shrinking transistor size."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "WSJ",
           "author": "",
           "title": "Huawei says it has workaround to match leading chips",
@@ -1061,7 +998,12 @@ window.W22_2026 = {
               "Analysts and company insiders cite overheating challenges and data-centre validation requirements as hurdles that could delay commercial viability."
             ]
           ],
-          "related": []
+          "related": [
+            {
+              "text": "Bloomberg: Huawei touts chip breakthrough to shorten gap with TSMC",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-25/huawei-touts-chipmaking-breakthrough-to-shorten-gap-with-tsmc"
+            }
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1594,7 +1536,12 @@ window.W22_2026 = {
               "Futu, Tiger Brokers, and Long Bridge face at least $330 million in penalties for unlicensed mainland operations; Citic Securities estimates HK$250 billion in Hong Kong assets at risk."
             ]
           ],
-          "related": []
+          "related": [
+            {
+              "text": "Bloomberg: Why China is tightening controls on overseas stock trading",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-26/why-china-is-tightening-controls-on-overseas-stock-trading"
+            }
+          ]
         },
         {
           "outlet": "FT",
@@ -1614,20 +1561,6 @@ window.W22_2026 = {
               "url": "https://www.reuters.com/business/finance/hong-kong-overtakes-switzerland-worlds-top-cross-border-wealth-hub-china-ties-2026-05-27"
             }
           ]
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "Why China is tightening controls on overseas stock trading",
-          "date": "2026-05-26",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-26/why-china-is-tightening-controls-on-overseas-stock-trading",
-          "bullets": [
-            [
-              "Eight agencies launch joint crackdown on unauthorized overseas brokers",
-              "Futu, Long Bridge, and Tiger Brokers were fined a combined $330 million for unlicensed mainland operations."
-            ]
-          ],
-          "related": []
         }
       ]
     },
