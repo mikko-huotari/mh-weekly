@@ -214,7 +214,7 @@ window.W22_2026 = {
       "label": "German China policy in context",
       "groups": [
         {
-          "label": "Bundesregierung – Reiche-Reise nach China (27.–29.05.2026)",
+          "label": "Federal government – Reiche's China trip (27–29 May 2026)",
           "items": [
             {
               "outlet": "",
@@ -243,7 +243,7 @@ window.W22_2026 = {
           ]
         },
         {
-          "label": "Bundestag — Delegation nach Taiwan",
+          "label": "Bundestag – delegation to Taiwan",
           "items": [
             {
               "outlet": "",
@@ -254,13 +254,13 @@ window.W22_2026 = {
           ]
         },
         {
-          "label": "Deutsche Wirtschaft & Industriediskurs",
+          "label": "German economy & industry debate",
           "items": [
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**German Economy Ministry frames single-market deepening and resilience as the answer to industrial pressure**: At the IAA, the BMWE [laid out a programme](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-binnenmarkt-vertiefen-wertschoepfung-resilienz.html) of deepening the EU single market, rebuilding domestic value creation and strengthening supply-chain resilience, an implicit response to mounting Chinese competitive pressure on German manufacturing."
+              "note": "**German Economy Ministry frames single-market deepening and resilience as the answer to industrial pressure**: The BMWE [laid out a programme](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-binnenmarkt-vertiefen-wertschoepfung-resilienz.html) of deepening the EU single market, rebuilding domestic value creation and strengthening supply-chain resilience, an implicit response to mounting Chinese competitive pressure on German manufacturing."
             },
             {
               "outlet": "",
@@ -283,7 +283,7 @@ window.W22_2026 = {
           ]
         },
         {
-          "label": "EU institutionell — Kommission, Trade Defense, Diskurs",
+          "label": "EU institutional – Commission, trade defence, debate",
           "items": [
             {
               "outlet": "",
@@ -330,7 +330,7 @@ window.W22_2026 = {
           ]
         },
         {
-          "label": "EU-Mitgliedstaaten",
+          "label": "EU member states",
           "items": [
             {
               "outlet": "",
