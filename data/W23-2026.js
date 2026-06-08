@@ -8,7 +8,7 @@ window.W23_2026 = {
   "dateRange": "1 – 7 Jun 2026",
   "pdf": "pdfs/W23-2026.pdf",
   "spotlight": {
-    "title": "Spotlight: The EU debates a more structural turn in its China trade defence",
+    "title": "Spotlight: The EU debates a more structural turn in its China trade defence and economic security",
     "intro": "The EU's internal debate over how to handle China's trade challenge sharpened this week, driven by a record goods deficit and growing frustration that case-by-case tariffs cannot keep pace. No instrument is imminent: the next real step is political direction from the 18-19 June European Council, with a concrete tool likely only later - after the summer and, realistically, not before early 2027.",
     "items": [
       {
@@ -26,7 +26,7 @@ window.W23_2026 = {
   },
   "spotlights": [
     {
-      "title": "Spotlight: The EU debates a more structural turn in its China trade defence",
+      "title": "Spotlight: The EU debates a more structural turn in its China trade defence and economic security",
       "intro": "The EU's internal debate over how to handle China's trade challenge sharpened this week, driven by a record goods deficit and growing frustration that case-by-case tariffs cannot keep pace. No instrument is imminent: the next real step is political direction from the 18-19 June European Council, with a concrete tool likely only later - after the summer and, realistically, not before early 2027.",
       "items": [
         {
