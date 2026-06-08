@@ -96,18 +96,18 @@ window.W23_2026 = {
               "date": "",
               "url": "",
               "note": "**The Commission's \"technological sovereignty\" package is an autonomy bid, not US alignment**: Brussels [unveiled a four-part package](http://www.xinhuanet.com/world/20260603/09cda3799e144166971c307e67fa2b93/c.html) - a Cloud and AI Development Act (tripling EU data-centre capacity), a Chip Act 2.0, an Open Source Strategy and an energy-sector AI roadmap - framed to widen European choice in core technologies, distinct from integration into US semiconductor arrangements."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**Lammy's Beijing trip caps a European normalisation wave**: Foreign Secretary David Lammy co-hosted the 11th China-UK Strategic Dialogue with Wang Yi on 1-3 June, following recent visits by leaders from Finland, Ireland, Germany, Spain and Serbia; [21st Century Business Herald](https://www.21jingji.com/article/20260601/herald/dea88a6cbd12cc8a61023ab4d2fa3c23.html) cited 2025 Chinese investment in the EU27-plus-UK at EUR168bn (up 67% y/y), framing the revival as step-by-step normalisation."
             }
           ]
         },
         {
           "label": "EU member states and European neighborhood",
           "items": [
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Lammy's Beijing trip caps a European normalisation wave**: Foreign Secretary David Lammy co-hosted the 11th China-UK Strategic Dialogue with Wang Yi on 1-3 June, following recent visits by leaders from Finland, Ireland, Germany, Spain and Serbia; [21st Century Business Herald](https://www.21jingji.com/article/20260601/herald/dea88a6cbd12cc8a61023ab4d2fa3c23.html) cited 2025 Chinese investment in the EU27-plus-UK at EUR168bn (up 67% y/y), framing the revival as step-by-step normalisation."
+            },
             {
               "outlet": "",
               "date": "",
@@ -2829,6 +2829,11 @@ window.W23_2026 = {
       "src": "assets/charts/W23-2026-chart-4.png",
       "alt": "Global Times tone on EU-China trade, scale +2 to −2, quarterly 2020 Q1–2026 Q2",
       "caption": "**Chart 4 – Global Times' tone on EU-China trade turns sharply negative in 2026 Q2** ([Soapbox Trade × MERICS](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product); provisional hand-coded tracker of Global Times English items, scale +2 to −2, quarterly 2020–2026)"
+    },
+    {
+      "src": "assets/charts/W23-2026-chart-5.png",
+      "alt": "Volkswagen vs BYD, Geely, Audi, Porsche - annual China sales in million, 2022-2025",
+      "caption": "**Chart 5 – Volkswagen's China problem: BYD overtakes, Geely closes in as VW keeps sliding** (China Passenger Car Association via Reuters/WSJ; annual auto sales in million, 2022–2025)"
     }
   ]
 };
