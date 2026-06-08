@@ -249,8 +249,8 @@ window.W23_2026_WOCHENBERICHT = {
       "label": "Fünf zentrale Themen in der deutschen China-Politik Diskussion",
       "items": [
         {
-          "title": "Das diplomatische Desaster bei der UN-Sicherheitsratswahl und der Verlust des Status als \"Mittelmacht\":",
-          "text": "Die Berichterstattung dieser Woche ist geprägt vom Schock über das Scheitern Deutschlands bei der Wahl zum nichtständigen Sitz im UN-Sicherheitsrat. Medien analysieren dies als \"Quittung\" für eine zu ehrgeizige, aber in der Umsetzung mangelhafte Außenpolitik. Die Diskussion fokussiert sich auf das bröckelnde Selbstbild einer moralischen Führungsmacht und die Erkenntnis, dass Deutschland ohne strategische Allianzen zunehmend zum \"Scheinriesen\" zwischen den USA und China degradiert wird.",
+          "title": "Deutschlands Scheitern bei der UN-Sicherheitsratswahl und die Debatte über die eigene außenpolitische Rolle",
+          "text": "Die Berichterstattung ist geprägt von Deutschlands verpasster Wahl zu einem nichtständigen Sitz im UN-Sicherheitsrat. Kommentatoren werten dies als Folge einer ehrgeizigen, in der Umsetzung aber unzureichenden Außenpolitik und diskutieren, dass Deutschland ohne belastbare Allianzen zwischen den USA und China an außenpolitischem Gewicht verliert.",
           "sources": [
             {
               "outlet": "Handelsblatt",
@@ -274,8 +274,8 @@ window.W23_2026_WOCHENBERICHT = {
           "kind": "theme"
         },
         {
-          "title": "Der \"Pharma-Exodus\" als Fanal für die Erosion des Hightech-Standorts:",
-          "text": "Ein zentrales Thema ist die Absage massiver Investitionen durch Boehringer Ingelheim und Eli Lilly. In der Debatte wird dies als direkte Folge des GKV-Gesetzes und einer verfehlten Industriepolitik gewertet. Während Merz eine \"Hightechagenda\" proklamiert, ziehen forschungsstarke Konzerne Kapital aus Deutschland ab. Der Kontrast zu China, das seine Gesundheitsindustrie als \"nationale Sicherheit\" behandelt und massiv subventioniert, wird als Alarmsignal für eine schleichende Deindustrialisierung wahrgenommen.",
+          "title": "Rückzug von Pharma-Investitionen und die Debatte über den Industriestandort",
+          "text": "Im Mittelpunkt steht die Absage geplanter Investitionen durch Boehringer Ingelheim und Eli Lilly. In der Debatte gilt dies als Folge des GKV-Gesetzes und der Industriepolitik; während Merz eine Hightech-Agenda ankündigt, ziehen forschungsstarke Konzerne Mittel aus Deutschland ab. Verwiesen wird auf den Kontrast zu China, das seine Gesundheitsindustrie strategisch fördert.",
           "sources": [
             {
               "outlet": "Handelsblatt",
@@ -299,8 +299,8 @@ window.W23_2026_WOCHENBERICHT = {
           "kind": "theme"
         },
         {
-          "title": "Das \"3,5-Prozent-Diktat\" der USA und die maritime Aufrüstung im Indopazifik:",
-          "text": "Nach dem Shangri-La-Dialog in Singapur dominiert die Forderung der USA nach einer massiven Erhöhung der europäischen Verteidigungsausgaben auf 3,5 % des BIP die Sicherheitsdebatte. Es herrscht Unbehagen über Trumps transaktionales Verhältnis zur NATO und die maritime Expansionspolitik Chinas. In Deutschland wird kontrovers diskutiert, ob man sich an Marinemissionen zur Sicherung der Handelswege beteiligen muss oder ob dies die militärische Überforderung Deutschlands angesichts der Bedrohung durch Russland und China weiter verschärft.",
+          "title": "US-Forderung nach höheren Verteidigungsausgaben und die maritime Lage im Indopazifik",
+          "text": "Nach dem Shangri-La-Dialog prägt die US-Forderung nach europäischen Verteidigungsausgaben von 3,5 % des BIP die Sicherheitsdebatte. Diskutiert werden Trumps transaktionales NATO-Verständnis und Chinas maritime Expansion sowie die Frage, ob sich Deutschland an Marinemissionen zur Sicherung der Handelswege beteiligen sollte oder dies seine militärischen Kapazitäten überfordert.",
           "sources": [
             {
               "outlet": "FAZ",
@@ -324,8 +324,8 @@ window.W23_2026_WOCHENBERICHT = {
           "kind": "theme"
         },
         {
-          "title": "Der schleichende Ausverkauf der \"Innovation made in Germany\" durch Patent-Abwanderung:",
-          "text": "Ein neues Eskalationsniveau in der Know-how-Debatte markiert eine IW-Studie zum Technologietransfer. Das Thema fokussiert sich darauf, dass China hochselektiv deutsche Patente übernimmt, ohne dass die Politik wirksame Abwehrmechanismen nutzt. Es wird gewarnt, dass Deutschland zur \"verlängerten Innovationswerkbank\" Chinas degradiert wird, während die Nutzungsrechte für zukunftsrelevante Erfindungen in den Bereichen Maschinenbau und Elektroindustrie massiv nach Fernost abfließen.",
+          "title": "Technologietransfer und die Übernahme deutscher Patente durch China",
+          "text": "Eine IW-Studie zum Technologietransfer verschärft die Debatte über den Abfluss von Know-how. Thema ist, dass China gezielt deutsche Patente übernimmt, ohne dass die Politik wirksame Gegenmaßnahmen einsetzt. Gewarnt wird, Deutschland könne zur \"verlängerten Werkbank\" Chinas werden, vor allem bei Erfindungen im Maschinenbau und in der Elektroindustrie.",
           "sources": [
             {
               "outlet": "Spiegel",
@@ -349,8 +349,8 @@ window.W23_2026_WOCHENBERICHT = {
           "kind": "theme"
         },
         {
-          "title": "Digitale Souveränität und die Angst vor dem US-chinesischen \"Kill-Switch\":",
-          "text": "Die Veröffentlichung neuer Digitalstrategien der EU-Kommission löst eine Debatte über die Abhängigkeit von US-Cloud-Anbietern und chinesischen Halbleitern aus. Das Thema wird als existenzielle Sicherheitsfrage gerahmt: Ein US-Präsident oder die Pekinger Führung könnten Europa jederzeit digital \"lahmlegen\". Die Diskussion dreht sich um den Aufbau eigener KI-Rechenzentren und Gesetze, die europäische Anbieter bevorzugen, um dem technologischen Zangengriff der Supermächte zu entkommen.",
+          "title": "Digitale Souveränität und die Abhängigkeit von US- und chinesischer Technologie",
+          "text": "Neue Digitalstrategien der EU-Kommission lösen eine Debatte über die Abhängigkeit von US-Cloud-Anbietern und chinesischen Halbleitern aus. Diskutiert werden der Aufbau eigener KI-Rechenzentren und Regeln, die europäische Anbieter stärken, um die technologische Abhängigkeit von beiden Großmächten zu verringern.",
           "sources": [
             {
               "outlet": "DIE ZEIT",
