@@ -2832,8 +2832,8 @@ window.W23_2026 = {
     },
     {
       "src": "assets/charts/W23-2026-chart-5.png",
-      "alt": "Volkswagen vs BYD, Geely, Audi, Porsche - annual China sales in million, 2022-2025",
-      "caption": "**Chart 5 – Volkswagen's China problem: BYD overtakes, Geely closes in as VW keeps sliding** (China Passenger Car Association via Reuters/WSJ; annual auto sales in million, 2022–2025)"
+      "alt": "Volkswagen China operating profit, € billion, 2010-2027",
+      "caption": "**Chart 5 – Volkswagen's China operating profit has collapsed from its mid-2010s ~€5bn peak to under €1bn** (Volkswagen; operating profit in € billion, 2010–2027, 2026–27 projected; incl. locally produced Audis, excl. export brands like Porsche)"
     }
   ]
 };
