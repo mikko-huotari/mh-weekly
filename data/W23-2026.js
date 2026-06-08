@@ -139,50 +139,50 @@ window.W23_2026 = {
               ]
             },
             {
-              "outlet": "What China's first-mover approval of a b",
+              "outlet": "MERICS comment",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us",
               "bullets": [
                 [
                   "",
-                  "[What China's first-mover approval of a brain-computer interface means for global competitors](https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us)."
+                  "[MERICS comment](https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us): what China's first-mover approval of a brain-computer interface means for global competitors."
                 ]
               ]
             },
             {
-              "outlet": "How China is shaping AI competition thro",
+              "outlet": "MERICS comment",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens",
               "bullets": [
                 [
                   "",
-                  "[How China is shaping AI competition through scale and low-cost deployment](https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens)."
+                  "[MERICS comment](https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens): how China is shaping AI competition through scale and low-cost deployment."
                 ]
               ]
             },
             {
-              "outlet": "How Chinese chipmakers may benefit from ",
+              "outlet": "MERICS comment",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips",
               "bullets": [
                 [
                   "",
-                  "[How Chinese chipmakers may benefit from a global shortage of AI memory](https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips)."
+                  "[MERICS comment](https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips): how Chinese chipmakers may benefit from a global shortage of AI memory."
                 ]
               ]
             },
             {
-              "outlet": "Will XPeng's planned investments help Eu",
+              "outlet": "MERICS comment",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence",
               "bullets": [
                 [
                   "",
-                  "[Will XPeng's planned investments help Europe become more competitive in electric car production?](https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence)"
+                  "[MERICS comment](https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence): will XPeng's planned investments help Europe become more competitive in electric car production?"
                 ]
               ]
             },
@@ -199,26 +199,26 @@ window.W23_2026 = {
               ]
             },
             {
-              "outlet": "China Tech Observatory newsletter",
+              "outlet": "China Tech Observatory",
               "title": "",
               "date": "",
               "url": "https://mericseu.substack.com/p/merics-china-tech-observatory-chinas",
               "bullets": [
                 [
                   "",
-                  "[China Tech Observatory newsletter](https://mericseu.substack.com/p/merics-china-tech-observatory-chinas): how Beijing is orchestrating a push for future industries."
+                  "[China Tech Observatory](https://mericseu.substack.com/p/merics-china-tech-observatory-chinas): how Beijing is orchestrating a push for future industries."
                 ]
               ]
             },
             {
-              "outlet": "Soapbox Trade × MERICS, Issue 250 – The ",
+              "outlet": "Soapbox × MERICS",
               "title": "",
               "date": "",
               "url": "https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product",
               "bullets": [
                 [
                   "",
-                  "[Soapbox Trade × MERICS, Issue 250 – The EU cannot chase China one product at a time](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product): when the EU closes one tariff door, Chinese supply reappears one step earlier in the chain; also covers the hybrid-driven EU car-export boom, crude-oil supply shifts, demographics, and weak factory hiring."
+                  "[Soapbox × MERICS](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product): Issue 250, \"The EU cannot chase China one product at a time\" - when the EU closes one tariff door, Chinese supply reappears one step earlier in the chain; also covers the hybrid-driven EU car-export boom, crude-oil supply shifts, demographics, and weak factory hiring."
                 ]
               ]
             }
@@ -2115,24 +2115,6 @@ window.W23_2026 = {
       "label": "Regulatory & policy primary sources",
       "items": [
         {
-          "outlet": "State Council 国务院",
-          "author": "",
-          "title": "Regulations on Outbound Investment · 对外投资管理条例 (国务院令第837号)",
-          "date": "2026-06-01",
-          "url": "http://english.www.gov.cn/policies/latestreleases/202606/01/content_WS6a1d2e29c6d00ca5f9a0b59e.html",
-          "bullets": [
-            [
-              "Codifies investor autonomy while retaining state oversight",
-              "The 34-article regulation, signed by Premier Li Qiang and effective 1 July 2026, affirms investors' right to independent decision-making in outbound investment while bearing their own risks, and mandates compliance with host-country laws and business ethics."
-            ],
-            [
-              "Builds a state coordination and countermeasures backstop",
-              "It pledges cross-government support across foreign affairs, finance, taxation, trade and customs, and authorises investigation of foreign investment barriers plus countermeasures against discriminatory restrictions by foreign states or organisations."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "CAC 国家网信办",
           "author": "",
           "title": "Interim Measures for AI Anthropomorphic Interactive Services - \"small, fast, flexible\" legislation · 人工智能拟人化互动服务管理办法",
@@ -2164,24 +2146,6 @@ window.W23_2026 = {
             [
               "Pushes sci-tech-led modernization",
               "It targets raising the contribution rate of sci-tech progress in agriculture to 67 percent and prioritises intelligent breeding, new-energy agricultural machinery, and agricultural bio-manufacturing."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "State Council 国务院",
-          "author": "",
-          "title": "Action Plan for Stabilizing Employment, Expanding Capacity and Improving Quality · 稳岗扩容提质行动方案",
-          "date": "2026-04-30",
-          "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=105915",
-          "bullets": [
-            [
-              "Bundles 18 measures around a \"stabilize-expand-upgrade\" frame",
-              "Issued by the State Council employment leading group, the plan covers stabilizing key-industry hiring (manufacturing, construction, hospitality, trade-affected sectors), tapping new employment potential, and improving job quality."
-            ],
-            [
-              "Tilts support toward externally pressured sectors and gig workers",
-              "Measures include unemployment-insurance premium refunds and skills-training subsidies for trade-affected industries, an \"AI Plus\" factory-upgrade track, and protections for new-form-employment workers."
             ]
           ],
           "related": []
