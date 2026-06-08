@@ -54,6 +54,12 @@ window.W23_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
+              "note": "**Berlin's China trade-defence position may be shifting ahead of the EU summit**: Reiche's economy ministry has reportedly convened department heads from the Chancellery, finance and foreign ministries to discuss sharper trade-defence instruments against China, with government circles signalling Berlin could be \"open to discussing an instrument for overcapacity\" as Merz takes a more pessimistic line - a possible bid by the ministry to regain a shaping role after Brussels and Paris pushed for a tougher course. EVP leader Manfred Weber [warned in Bild](https://www.bild.de/politik/ausland-und-internationales/eu-und-china-vor-handelskampf-weber-fordert-harten-kurs-gegen-peking-6a22d3ad8d84dbd8a4ed6037): \"either we defend ourselves or China flattens parts of our industry.\""
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
               "note": "**German Chief of Defence criticizes Beijing's absence from Shangri-La Dialogue**: At the Singapore security forum, Germany's Chief of Defence General Carsten Breuer said China was [\"losing a chance\"](https://www.cnbc.com/2026/05/30/germany-china-shangri-la-dialogue-defense-minister.html), calling Beijing's decision to skip the forum for a second year - sending only a lower-level delegation after Defence Minister Dong Jun stayed away - \"dangerous\" in today's security environment."
             },
             {
@@ -61,12 +67,6 @@ window.W23_2026 = {
               "date": "",
               "url": "",
               "note": "**IW analysis flags large-scale Chinese takeover of German patents**: A Cologne Institute for Economic Research (IW) evaluation found Chinese entities now [own more than 11,000 German-developed patents](https://www.reuters.com/world/china/china-owns-more-than-11000-german-developed-patents-iw-study-shows-2026-06-02), reinforcing concerns in Berlin about technology transfer and the erosion of Germany's industrial IP base."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**Berlin's China trade-defence position is shifting ahead of the EU summit**: Reiche's economy ministry has convened department heads from the Chancellery, finance and foreign ministries to discuss sharper trade-defence instruments against China, with government circles signalling Berlin is now \"open to discussing an instrument for overcapacity\" as Merz takes a more pessimistic line - a bid by the ministry to regain a shaping role after Brussels and Paris pushed for a tougher course. EVP leader Manfred Weber [warned in Bild](https://www.bild.de/politik/ausland-und-internationales/eu-und-china-vor-handelskampf-weber-fordert-harten-kurs-gegen-peking-6a22d3ad8d84dbd8a4ed6037): \"either we defend ourselves or China flattens parts of our industry.\""
             }
           ]
         },
