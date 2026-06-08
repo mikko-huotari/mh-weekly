@@ -9,13 +9,16 @@ window.W23_2026 = {
   "pdf": "pdfs/W23-2026.pdf",
   "spotlight": {
     "title": "Spotlight: The EU debates a more structural turn in its China trade defence",
-    "intro": "The EU's internal debate over how to handle China's trade challenge sharpened this week. After the Commission's 28 May orientation debate, trade chief Maroš Šefčovič publicly [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [match the intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) of the US's China negotiations, while DG Trade's Denis Redonnet [warned](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) that \"traditional trade instruments will inevitably, at some point, reach their limit.\" The thrust is to move beyond case-by-case tariffs toward a standing tool. The next real step is political direction from the 18-19 June European Council; a concrete instrument would follow only later - after the summer and, realistically, not before early 2027 - with member states still divided on how far to go. Beijing has already pushed back, the commerce ministry vowing to [\"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) any new discriminatory measures.",
+    "intro": "The EU's internal debate over how to handle China's trade challenge sharpened this week, driven by a record goods deficit and growing frustration that case-by-case tariffs cannot keep pace. No instrument is imminent: the next real step is political direction from the 18-19 June European Council, with a concrete tool likely only later - after the summer and, realistically, not before early 2027.",
     "items": [
       {
-        "note": "**The argument is structural, not about a single product**: A record EU-China goods deficit and an [OECD finding](https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html) that Chinese firms received three-to-eight times more state support than OECD peers underpin the case that case-by-case tariffs cannot keep pace; as the Soapbox Trade x MERICS analysis shows, when the EU closes one tariff door - on finished steel - Chinese supply shifts one step earlier in the chain, into semi-finished slabs."
+        "note": "**Sefcovic presses for a dedicated China trade instrument after the orientation debate**: Following the Commission's 28 May orientation debate, the EU trade chief [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, [meeting China's envoy](https://www.euronews.com/my-europe/2026/06/03/eu-trade-chief-to-meet-china-envoy-amid-heated-trade-tensions) as the Commission [weighs supply-chain diversification rules](https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/). DG Trade's Denis Redonnet [hinted at a new anti-China trade weapon](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/), warning that \"traditional trade instruments will inevitably, at some point, reach their limit.\""
       },
       {
-        "note": "**Member states remain split on how far to go**: Even as the Commission weighs new instruments, capitals diverge - Spain, courting SAIC's first EU plant in Galicia, has distanced itself from calls for a tougher line, which is partly why a structural instrument is floated as a way to bind a fragmented bloc to a common China policy."
+        "note": "**Von der Leyen seeks a Council mandate as the goods deficit hits €360bn and member states split**: With the EU-China goods deficit widening to €360 billion in 2025 (from €312bn in 2024) - and an [OECD finding](https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html) that Chinese firms received three-to-eight times more state support than OECD peers - von der Leyen is [gearing up](https://www.politico.eu/article/von-der-leyen-gears-up-fight-china-trade-ties) to win backing for new anti-subsidy tools at the 18-19 June European Council, with overcapacity also on the G7 agenda (15-17 June); France pushes for tougher safeguard probes while a Germany-led group - and Spain, which [disavowed the French position paper](https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses) - urge caution."
+      },
+      {
+        "note": "**Beijing warns it will \"resolutely counteract\" any new EU trade tools**: China's commerce ministry [said it would \"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) if Brussels \"insists on unilaterally introducing new trade tools and imposing discriminatory restrictions\", pre-empting the 11 June Trade Policy Committee [agenda](https://data.consilium.europa.eu/doc/document/CM-3147-2026-INIT/en/pdf)."
       }
     ],
     "table": null,
@@ -24,13 +27,16 @@ window.W23_2026 = {
   "spotlights": [
     {
       "title": "Spotlight: The EU debates a more structural turn in its China trade defence",
-      "intro": "The EU's internal debate over how to handle China's trade challenge sharpened this week. After the Commission's 28 May orientation debate, trade chief Maroš Šefčovič publicly [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [match the intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) of the US's China negotiations, while DG Trade's Denis Redonnet [warned](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) that \"traditional trade instruments will inevitably, at some point, reach their limit.\" The thrust is to move beyond case-by-case tariffs toward a standing tool. The next real step is political direction from the 18-19 June European Council; a concrete instrument would follow only later - after the summer and, realistically, not before early 2027 - with member states still divided on how far to go. Beijing has already pushed back, the commerce ministry vowing to [\"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) any new discriminatory measures.",
+      "intro": "The EU's internal debate over how to handle China's trade challenge sharpened this week, driven by a record goods deficit and growing frustration that case-by-case tariffs cannot keep pace. No instrument is imminent: the next real step is political direction from the 18-19 June European Council, with a concrete tool likely only later - after the summer and, realistically, not before early 2027.",
       "items": [
         {
-          "note": "**The argument is structural, not about a single product**: A record EU-China goods deficit and an [OECD finding](https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html) that Chinese firms received three-to-eight times more state support than OECD peers underpin the case that case-by-case tariffs cannot keep pace; as the Soapbox Trade x MERICS analysis shows, when the EU closes one tariff door - on finished steel - Chinese supply shifts one step earlier in the chain, into semi-finished slabs."
+          "note": "**Sefcovic presses for a dedicated China trade instrument after the orientation debate**: Following the Commission's 28 May orientation debate, the EU trade chief [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, [meeting China's envoy](https://www.euronews.com/my-europe/2026/06/03/eu-trade-chief-to-meet-china-envoy-amid-heated-trade-tensions) as the Commission [weighs supply-chain diversification rules](https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/). DG Trade's Denis Redonnet [hinted at a new anti-China trade weapon](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/), warning that \"traditional trade instruments will inevitably, at some point, reach their limit.\""
         },
         {
-          "note": "**Member states remain split on how far to go**: Even as the Commission weighs new instruments, capitals diverge - Spain, courting SAIC's first EU plant in Galicia, has distanced itself from calls for a tougher line, which is partly why a structural instrument is floated as a way to bind a fragmented bloc to a common China policy."
+          "note": "**Von der Leyen seeks a Council mandate as the goods deficit hits €360bn and member states split**: With the EU-China goods deficit widening to €360 billion in 2025 (from €312bn in 2024) - and an [OECD finding](https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html) that Chinese firms received three-to-eight times more state support than OECD peers - von der Leyen is [gearing up](https://www.politico.eu/article/von-der-leyen-gears-up-fight-china-trade-ties) to win backing for new anti-subsidy tools at the 18-19 June European Council, with overcapacity also on the G7 agenda (15-17 June); France pushes for tougher safeguard probes while a Germany-led group - and Spain, which [disavowed the French position paper](https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses) - urge caution."
+        },
+        {
+          "note": "**Beijing warns it will \"resolutely counteract\" any new EU trade tools**: China's commerce ministry [said it would \"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) if Brussels \"insists on unilaterally introducing new trade tools and imposing discriminatory restrictions\", pre-empting the 11 June Trade Policy Committee [agenda](https://data.consilium.europa.eu/doc/document/CM-3147-2026-INIT/en/pdf)."
         }
       ],
       "table": null,
@@ -71,25 +77,7 @@ window.W23_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Sefcovic presses for a dedicated China trade instrument after the orientation debate**: Following the Commission's 28 May orientation debate, the EU trade chief [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, [meeting China's envoy](https://www.euronews.com/my-europe/2026/06/03/eu-trade-chief-to-meet-china-envoy-amid-heated-trade-tensions) as the Commission [weighs supply-chain diversification rules](https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/). DG Trade's Denis Redonnet [hinted at a new anti-China trade weapon](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/), warning that \"traditional trade instruments will inevitably, at some point, reach their limit\"."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**Beijing warns it will \"resolutely counteract\" any new EU trade tools**: China's commerce ministry [said it would \"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) if Brussels \"insists on unilaterally introducing new trade tools and imposing discriminatory restrictions\", pre-empting the 11 June Trade Policy Committee [agenda](https://data.consilium.europa.eu/doc/document/CM-3147-2026-INIT/en/pdf)."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
               "note": "**EU moves to widen the China toolkit beyond trade defence**: Brussels is [set to join the US-led \"Pax Silica\" chip alliance](https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race) to counter China's AI ambitions, while sanctions envoy David O'Sullivan [called China a \"very big problem\"](https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews) for enforcing Russia sanctions. An EEAS draft would [add four Chinese firms](https://www.politico.eu/article/china-russia-firms-that-help-are-next-for-eu-sanctions/) (shadow-fleet, military chemicals, drone components) at the 15 June Foreign Affairs Council - after Beijing retaliated against the 20th sanctions package by banning seven European defence firms from Chinese-made products."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**Von der Leyen seeks a Council mandate as the goods deficit hits €360bn and member states split**: With the EU-China goods deficit widening to €360 billion in 2025 (from €312bn in 2024), von der Leyen is [gearing up](https://www.politico.eu/article/von-der-leyen-gears-up-fight-china-trade-ties) to win backing for new anti-subsidy tools at the 18-19 June European Council, with overcapacity also on the G7 agenda (15-17 June); France pushes for tougher safeguard probes while a Germany-led group - and Spain, which [disavowed the French position paper](https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses) - urge caution."
             },
             {
               "outlet": "",
@@ -966,6 +954,24 @@ window.W23_2026 = {
       "short": "Geoecon · Trade",
       "label": "Geoeconomics — trade, finance & industrial policy",
       "items": [
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "Will Volkswagen's Massive 'Made for China' Bet Pay Off?",
+          "date": "2026-06-01",
+          "url": "https://www.wsj.com/business/autos/will-volkswagens-massive-made-for-china-bet-pay-off-3a600abc",
+          "bullets": [
+            [
+              "VW bets $3.5 billion on an \"in China, for China\" strategy to revive eroding share",
+              "China once supplied more than half of Volkswagen's annual profit, but local EV makers with more advanced digital tech have rapidly eroded its position; VW has built an 18-football-field development hub in Hefei and partnered with tech-savvy local firms to insulate its China business from slow German decision-making."
+            ],
+            [
+              "The ID. Unyx 07 leads 20-plus new China models this year - catch-up, not leadership, analysts say",
+              "The first cars under the strategy are a big leap from the previous generation yet still not at the bleeding edge of Chinese automotive technology, making them a litmus test for VW and other Western brands in China."
+            ]
+          ],
+          "related": []
+        },
         {
           "outlet": "OECD",
           "author": "",
