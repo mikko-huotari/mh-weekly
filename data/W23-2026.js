@@ -370,8 +370,8 @@ window.W23_2026 = {
           "url": "https://www.bloomberg.com/news/articles/2026-06-02/pboc-cuts-cash-operation-to-record-low-as-bond-rally-deepens",
           "bullets": [
             [
-              "PBOC drained record-low 200 million yuan via daily open-market operations",
-              "The operation resulted in a net liquidity withdrawal of 248.8 billion yuan, the largest single-day drain in recent months."
+              "PBOC's daily cash injection fell to a record-low 200 million yuan",
+              "The central bank lent banks just 200 million yuan ($29.6 million) via 7-day reverse repos - its smallest-ever daily operation - leaving a net liquidity withdrawal on the day as larger earlier repos matured."
             ],
             [
               "Excess cash buildup drove benchmark yields to their lowest since August",
@@ -410,8 +410,8 @@ window.W23_2026 = {
               "State media cited the figure for a sector spanning hiking partners, travel escorts, and restaurant companions targeting socially isolated urban youth."
             ],
             [
-              "Youth unemployment and weakened social ties cited as primary drivers",
-              "Researchers and state media attribute demand to young people living far from family networks and relying on gig work in the absence of stable employment."
+              "Distance from family and weakened social ties cited as primary drivers",
+              "Researchers and state media attribute demand to young people living and working far from family networks, longer working hours, and frayed social bonds."
             ]
           ],
           "related": []
@@ -468,7 +468,7 @@ window.W23_2026 = {
           "url": "https://foreignpolicy.com/2026/06/02/china-coal-mining-accident-explosion-collapse",
           "bullets": [
             [
-              "Shanxi mine blast kills 82 - China's worst mine disaster in over 16 years",
+              "Shanxi mine blast kills 82 - China's worst mine disaster in more than 15 years",
               "Only 124 of 247 miners at Liushenyu were legally employed; undocumented workers lacked the geotagged safety cards used to locate trapped miners."
             ],
             [
@@ -517,7 +517,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "MSS ran a Chinese-state-media veteran as a paid US-based collector",
-              "Thomas Weir Pauken II (alias Tom McGregor), 50, a former Xinhua/CGTN editor, was charged in the Eastern District of Virginia with acting as a foreign agent under Ministry of State Security direction from 2019 to February 2026."
+              "Thomas Weir Pauken II (alias Tom McGregor), 50, a former Xinhua/CGTN editor, pleaded guilty in the Eastern District of Virginia to acting as a foreign agent under Ministry of State Security direction from 2019 to February 2026."
             ],
             [
               "The operation paid roughly $100,000 plus per-trip expenses",
@@ -739,12 +739,12 @@ window.W23_2026 = {
           "url": "https://www.economist.com/china/2026/06/04/xi-jinping-gives-chinas-crack-scientists-new-jobs-inside-government",
           "bullets": [
             [
-              "Scientist-members of the Central Committee doubled to 29 over the past decade",
+              "Scientist-members of the Central Committee roughly doubled over the past decade",
               "A University of Hong Kong study finds academicians increasingly elevated to guide innovation policy and direct capital toward China's technology sectors."
             ],
             [
               "Senior scientists placed in state planning roles for technology policy",
-              "Microelectronics specialist Huang Ru became NDRC vice-chair in 2026; the Central Science and Technology Commission, created in 2023, brings innovation directly under party control."
+              "Microelectronics specialist Huang Ru moved into a senior NDRC role; the Central Science and Technology Commission, created in 2023, brings innovation directly under party control."
             ],
             [
               "Big Fund corruption purge in 2022 accelerated the shift to technical outsiders",
@@ -1144,7 +1144,7 @@ window.W23_2026 = {
             ],
             [
               "Chinese firms received 3-8 times more subsidy than OECD-country peers",
-              "The database links 60% of Chinese firms' global market share gains over 2005-2024 to government support, versus 22% globally."
+              "The OECD database links 22% of global market-share gains by expanding firms over 2005-2023 to state support."
             ],
             [
               "Solar PV, semiconductors, steel, and shipbuilding were the most supported sectors",
@@ -1206,8 +1206,8 @@ window.W23_2026 = {
           "url": "https://www.reuters.com/graphics/CHINA-RAREEARTHS/UNIVERSITIES/zgpolorrwvd",
           "bullets": [
             [
-              "China runs 41 rare earth labs and 11 dedicated degree programs",
-              "The system enrolls over 500 students annually, producing graduates immediately productive in industry, according to a Reuters examination."
+              "China runs more than 40 rare earth labs and 11 dedicated degree programs",
+              "The system enrolls over 500 students annually, training specialists in partnership with labs and companies, according to a Reuters examination."
             ],
             [
               "Beijing restricted technician travel after Liberation Day tariffs",
@@ -1228,7 +1228,7 @@ window.W23_2026 = {
           "url": "https://www.ft.com/content/9a57ca27-d2eb-4a9c-a0e1-6a857a3bfcd9",
           "bullets": [
             [
-              "Chinese buyers are outbidding US rivals fivefold for tungsten scrap",
+              "Chinese buyers are outbidding US rivals for tungsten scrap",
               "Since early 2025, traders have swept US yards for the defence-critical metal, driving scrap prices up 350 percent, according to Argus Media."
             ],
             [
@@ -1530,7 +1530,7 @@ window.W23_2026 = {
         {
           "outlet": "NYT",
           "author": "",
-          "title": "In Taiwan, Chinese-born wives are a focus of infiltration fears",
+          "title": "In Taiwan, 'Mainland Spouses' From China Become a Focus of Infiltration Fears",
           "date": "2026-06-01",
           "url": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html",
           "bullets": [
@@ -1758,7 +1758,7 @@ window.W23_2026 = {
             ],
             [
               "Embassy demanded a formal apology as condition for lifting the bans",
-              "The Chinese embassy stated restrictions could be reduced only if lawmakers apologized; MP Laura McClure refused, calling it \"foreign interference\"; the other three did not publicly respond."
+              "The Chinese embassy stated restrictions could be reduced only if lawmakers apologized; MP Laura McClure called the demand \"frankly insulting\", and Labour's Duncan Webb said he would accept a year's exclusion rather than apologize."
             ],
             [
               "Australia and Taiwan both condemned the travel restrictions",
@@ -1992,7 +1992,7 @@ window.W23_2026 = {
             ],
             [
               "US strategy documents also dropped China and Taiwan references",
-              "The National Security Strategy removed China as America's top threat and the National Defense Strategy made no explicit Taiwan reference; Japan and the Philippines issued sharper China criticism than Washington, with Koizumi questioning the reliability of US pledges."
+              "The National Defense Strategy no longer calls China a \"revisionist power\" and made no explicit Taiwan reference; Japan and the Philippines issued sharper China criticism than Washington, with Koizumi calling it \"strange\" for nuclear-armed China to charge Japan with \"new militarism\"."
             ]
           ],
           "related": [
@@ -2015,7 +2015,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "Trump's June 2 AI order designates frontier models as national security assets",
-              "The NSA and CISA gain prominent roles, with a voluntary classified evaluation system for advanced AI cyber capabilities established."
+              "The NSA gains a prominent role, with a voluntary classified evaluation system for advanced AI cyber capabilities established."
             ],
             [
               "Chinese AI firms face a double bind on U.S. model testing",
@@ -2251,7 +2251,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "Beijing positions itself early in the UNSG succession",
-              "Foreign Minister Wang Yi received former Chilean president and SG candidate Michelle Bachelet in Beijing, saying China will take part in selecting the next UN Secretary-General in a \"responsible and constructive\" manner as Guterres' term ends this year."
+              "Foreign Minister Wang Yi received former Chilean president and SG candidate Michelle Bachelet in Beijing, saying China will take part in selecting the next UN Secretary-General in a \"responsible and constructive\" manner."
             ],
             [
               "Reform framing serves China's multilateral pitch",
@@ -2269,7 +2269,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "Beijing frames EU tech-sovereignty moves as a free-trade test",
-              "Responding to the EU's chip/cloud/AI promotion plans, the foreign-ministry spokesperson said China hopes the EU will uphold an open, non-discriminatory market and avoid politicising trade and technology."
+              "Responding to the EU's chip/cloud/AI promotion plans, the foreign-ministry spokesperson said China hopes the EU will adhere to the fundamental principles of a market economy - free trade, fair competition and open cooperation - and avoid protectionist measures."
             ]
           ],
           "related": []
@@ -2282,12 +2282,12 @@ window.W23_2026 = {
           "url": "https://www.fmprc.gov.cn/mfa_eng/wjbzhd/202606/t20260601_11922088.html",
           "bullets": [
             [
-              "Beijing courts Ottawa with a doubling-of-exports pledge",
-              "On a rare visit, Wang Yi met Canadian Foreign Minister Anita Anand (29 May) and PM Mark Carney, saying Canada could \"far surpass\" its 50%-by-2030 export-growth goal - suggesting exports to China could rise by 100%."
+              "Beijing courts Ottawa with a warmer-ties message",
+              "On a rare visit, Wang Yi met Canadian Foreign Minister Anita Anand (29 May) and PM Mark Carney, framing improved China-Canada relations as serving both sides' interests."
             ],
             [
               "MFA readout frames warmer ties as mutually beneficial",
-              "The official readout (published 1 June) said better China-Canada relations meet \"the expectations of all parties,\" with \"no clash of fundamental interests\" and \"enormous room for cooperation.\""
+              "The official readout (30 May) said better China-Canada relations meet \"the expectations of all parties,\" with \"no clashes of fundamental interests\" and \"enormous room for cooperation.\""
             ]
           ],
           "related": []
@@ -2500,8 +2500,8 @@ window.W23_2026 = {
           "url": "https://www.globaltimes.cn/page/202606/1362563.shtml",
           "bullets": [
             [
-              "EU reportedly set to join US \"Pax Silica\" and purchase $40 billion in AI chips",
-              "The Global Times reports the EU is expected to formally join the US-led semiconductor initiative this week, citing unnamed sources."
+              "EU reportedly set to join US \"Pax Silica\" and purchase at least $40 billion in AI chips",
+              "The Global Times, citing a Euro News report, says the EU is expected to formally join the US-led semiconductor initiative this week."
             ],
             [
               "Chinese analysts frame the move as a threat to EU strategic autonomy",
@@ -2773,7 +2773,7 @@ window.W23_2026 = {
             ],
             [
               "Fine covers both consumer protection and environmental rule breaches",
-              "The combined penalty - announced 4 June 2026 - marks one of the largest regulatory actions against a Chinese e-commerce operator in the EU."
+              "The DGCCRF combined penalty over return policies, product-information disclosure and order-confirmation processes was announced on 4 June 2026."
             ]
           ],
           "related": []
