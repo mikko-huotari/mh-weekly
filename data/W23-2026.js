@@ -9,7 +9,7 @@ window.W23_2026 = {
   "pdf": "pdfs/W23-2026.pdf",
   "spotlight": {
     "title": "Spotlight: The EU moves to build a structural China trade instrument",
-    "intro": "The Commission's 29 May orientation debate has hardened into concrete intent: this week Brussels shifted from case-by-case trade defence toward a standing instrument to manage dependencies on China. Following the debate, EU trade chief Maroš Šefčovič [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, while DG Trade's Denis Redonnet [warned](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) that \"traditional trade instruments will inevitably, at some point, reach their limit.\" Beijing has already pushed back, with the commerce ministry vowing to [\"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) any new discriminatory tools - with the next marker the 11 June Trade Policy Committee.",
+    "intro": "The Commission's 28 May orientation debate has hardened into concrete intent: this week Brussels shifted from case-by-case trade defence toward a standing instrument to manage dependencies on China. Following the debate, EU trade chief Maroš Šefčovič [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, while DG Trade's Denis Redonnet [warned](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) that \"traditional trade instruments will inevitably, at some point, reach their limit.\" Beijing has already pushed back, with the commerce ministry vowing to [\"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) any new discriminatory tools - with the next marker the 11 June Trade Policy Committee.",
     "items": [
       {
         "note": "**The case rests on a structural reading of the trade relationship, not a single product fight**: A record EU-China goods deficit and an [OECD finding](https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html) that Chinese firms received three-to-eight times more state support than OECD peers underpin the argument that case-by-case tariffs cannot keep pace; as the Soapbox Trade x MERICS analysis shows, when the EU closes one tariff door - on finished steel - Chinese supply simply shifts one step earlier in the chain, into semi-finished slabs."
@@ -24,7 +24,7 @@ window.W23_2026 = {
   "spotlights": [
     {
       "title": "Spotlight: The EU moves to build a structural China trade instrument",
-      "intro": "The Commission's 29 May orientation debate has hardened into concrete intent: this week Brussels shifted from case-by-case trade defence toward a standing instrument to manage dependencies on China. Following the debate, EU trade chief Maroš Šefčovič [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, while DG Trade's Denis Redonnet [warned](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) that \"traditional trade instruments will inevitably, at some point, reach their limit.\" Beijing has already pushed back, with the commerce ministry vowing to [\"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) any new discriminatory tools - with the next marker the 11 June Trade Policy Committee.",
+      "intro": "The Commission's 28 May orientation debate has hardened into concrete intent: this week Brussels shifted from case-by-case trade defence toward a standing instrument to manage dependencies on China. Following the debate, EU trade chief Maroš Šefčovič [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, while DG Trade's Denis Redonnet [warned](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) that \"traditional trade instruments will inevitably, at some point, reach their limit.\" Beijing has already pushed back, with the commerce ministry vowing to [\"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) any new discriminatory tools - with the next marker the 11 June Trade Policy Committee.",
       "items": [
         {
           "note": "**The case rests on a structural reading of the trade relationship, not a single product fight**: A record EU-China goods deficit and an [OECD finding](https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html) that Chinese firms received three-to-eight times more state support than OECD peers underpin the argument that case-by-case tariffs cannot keep pace; as the Soapbox Trade x MERICS analysis shows, when the EU closes one tariff door - on finished steel - Chinese supply simply shifts one step earlier in the chain, into semi-finished slabs."
@@ -71,7 +71,7 @@ window.W23_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Sefcovic presses for a dedicated China trade instrument after the orientation debate**: Following the Commission's 29 May orientation debate, the EU trade chief [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, [meeting China's envoy](https://www.euronews.com/my-europe/2026/06/03/eu-trade-chief-to-meet-china-envoy-amid-heated-trade-tensions) as the Commission [weighs supply-chain diversification rules](https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/). DG Trade's Denis Redonnet [hinted at a new anti-China trade weapon](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/), warning that \"traditional trade instruments will inevitably, at some point, reach their limit\"."
+              "note": "**Sefcovic presses for a dedicated China trade instrument after the orientation debate**: Following the Commission's 28 May orientation debate, the EU trade chief [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, [meeting China's envoy](https://www.euronews.com/my-europe/2026/06/03/eu-trade-chief-to-meet-china-envoy-amid-heated-trade-tensions) as the Commission [weighs supply-chain diversification rules](https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/). DG Trade's Denis Redonnet [hinted at a new anti-China trade weapon](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/), warning that \"traditional trade instruments will inevitably, at some point, reach their limit\"."
             },
             {
               "outlet": "",
@@ -118,12 +118,6 @@ window.W23_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Czech-Taiwan business delegation draws Beijing protest**: Senate President Miloš Vystrčil of the opposition ODS is leading a business mission to Taipei, prompting Beijing to [denounce the visit](https://www.reuters.com/world/china/china-criticizes-czech-senate-presidents-trip-taiwan-2026-05-31/) and reopening the Prague-Beijing friction line that has run through Czech parliamentary diplomacy since 2020."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
               "note": "**Brussels pushes enlargement as a counter to Russian and Chinese inroads in the neighbourhood**: The Commission is [moving to unblock the accession process](https://www.bloomberg.com/news/articles/2026-06-05/eu-pushes-to-end-expansion-deadlock-to-curb-russia-and-china) explicitly to limit Moscow's and Beijing's leverage in the Western Balkans and eastern partners, even as Serbian President Aleksandar Vučić [told Bloomberg that China is \"eclipsing\" Europe](https://www.bloomberg.com/news/articles/2026-06-02/exclusive-serbian-president-vucic-says-china-is-eclipsing-europe) - a candidate-state framing that underscores why enlargement is now being recast as a geoeconomic instrument."
             }
           ]
@@ -155,34 +149,6 @@ window.W23_2026 = {
               ]
             },
             {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "MERICS comments: China tech and industrial policy"
-                ],
-                [
-                  "",
-                  "[Brain-computer interfaces](https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us): what China's first-mover regulatory approval means for global competitors."
-                ],
-                [
-                  "",
-                  "[AI competition](https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens): how China is shaping it through scale and low-cost deployment."
-                ],
-                [
-                  "",
-                  "[AI memory shortage](https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips): how Chinese chipmakers may benefit."
-                ],
-                [
-                  "",
-                  "[XPeng in Europe](https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence): will its planned investments boost European electric-car competitiveness?"
-                ]
-              ]
-            },
-            {
               "outlet": "MERICS China Debates",
               "title": "",
               "date": "",
@@ -210,7 +176,19 @@ window.W23_2026 = {
                 ],
                 [
                   "",
-                  "The latest issue of the MERICS tech newsletter."
+                  "[Brain-computer interfaces](https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us): what China's first-mover regulatory approval means for global competitors."
+                ],
+                [
+                  "",
+                  "[AI competition](https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens): how China is shaping it through scale and low-cost deployment."
+                ],
+                [
+                  "",
+                  "[AI memory shortage](https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips): how Chinese chipmakers may benefit."
+                ],
+                [
+                  "",
+                  "[XPeng in Europe](https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence): will its planned investments boost European electric-car competitiveness?"
                 ]
               ]
             },
@@ -498,28 +476,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "Chinese solar giant Jinko to supply power to desert AI data center",
-          "date": "2026-06-04",
-          "url": "https://asia.nikkei.com/business/energy/chinese-solar-giant-jinko-to-supply-power-to-desert-ai-data-center",
-          "bullets": [
-            [
-              "Jinko Power enters data center business in Ningxia desert",
-              "Jinko Power, the Shanghai-listed power-plant operator, will build a $3.6 billion facility in Zhongwei powered directly by its own solar plants."
-            ],
-            [
-              "Sector losses underline the strategic pivot",
-              "Sister company JinkoSolar, the world's largest solar panel maker, posted a multi-billion-yuan net loss for FY2025 amid chronic overcapacity and a price war."
-            ],
-            [
-              "State-owned competitor launches rival operations in Zhongwei in May",
-              "China Datang Group began operating wind and solar plants directly supplying data centers in the same desert location, according to Nikkei."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "FT",
           "author": "",
           "title": "World’s biggest EV maker weans itself off supply-chain finance",
@@ -667,8 +623,8 @@ window.W23_2026 = {
               "Official branches organized propaganda events promoting Party ethnic policy, distributing booklets and instructing believers that \"national law takes precedence over religious norms.\""
             ],
             [
-              "Inner Mongolia clergy promoted \"Five Recognitions\" amid Mongolian-language resistance",
-              "Believers were told to subordinate religious identity to CCP nation-building doctrine in a region that has resisted education policy rollbacks."
+              "Inner Mongolia clergy held a \"Three Consciousnesses, Ethnic Unity\" event",
+              "Believers were told national law takes precedence over religious norms, in a region that has resisted Mandarin-language education rollbacks."
             ],
             [
               "Article questions whether Vatican will reassess 2018 Beijing agreement",
@@ -690,7 +646,7 @@ window.W23_2026 = {
             ],
             [
               "Rubio marked June 4 by challenging Beijing's censorship",
-              "The US Secretary of State said \"no amount of censorship can erase the past,\" as Trump touted warming ties with Xi."
+              "The US Secretary of State said \"no amount of censorship can erase the past.\""
             ]
           ],
           "related": [
@@ -793,7 +749,7 @@ window.W23_2026 = {
             ],
             [
               "Xi's \"turn the blade inward\" drive claims successive disciplinary officials",
-              "Li's successor Wang Huimin was indicted on bribery charges in April 2025; Li Gang, disciplinary head at the Central Organisation Department, was sentenced to 15 years in December 2025."
+              "Li's successor Wang Huimin was indicted on bribery charges in April 2026; Li Gang, disciplinary head at the Central Organisation Department, was sentenced to 15 years in December 2025."
             ],
             [
               "Li was a Wang Qishan lieutenant - part of a wider dismantling of the former anti-graft tsar's network",
@@ -820,7 +776,7 @@ window.W23_2026 = {
             ],
             [
               "Zhou's profile spans drone logistics and China's security-sensitive mapping sector",
-              "He pioneered the low-altitude drone economy; mapping in China omits restricted areas for security reasons and is commercially lucrative, the article notes."
+              "He built business interests in the low-altitude economy; mapping in China omits restricted areas for security reasons and is commercially lucrative, the article notes."
             ]
           ],
           "related": []
@@ -900,7 +856,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "PLA procurement records show 500-plus Nvidia chip acquisition attempts",
-              "Wirescreen's analysis of 3,800 records found every major military branch sought controlled U.S. chips from 2019 to 2025."
+              "Wirescreen's analysis of 3,800 records found nearly every military branch sought controlled U.S. chips from 2019 to 2025."
             ],
             [
               "Export controls slowed but did not stop PLA acquisition",
@@ -957,7 +913,7 @@ window.W23_2026 = {
             ],
             [
               "Nvidia export ban constrains compute capacity for a full rollout",
-              "Sources say Tencent \"was too conservative to stock up\" on Nvidia chips before US restrictions, and domestic semiconductor supply remains tight."
+              "The Nvidia export ban limits available compute and domestic semiconductor supply remains tight, the sources say."
             ],
             [
               "Alibaba's Qwen and ByteDance's Doubao already offer agentic functions",
@@ -993,29 +949,11 @@ window.W23_2026 = {
             ],
             [
               "Extraction scale exceeds DeepSeek-R1's full training corpus",
-              "Anthropic, Google, and OpenAI have documented campaigns involving millions of exchanges totalling tokens that, according to the report, exceed the 6.4 billion used to train DeepSeek-R1."
+              "Anthropic documented campaigns involving over 16 million exchanges; the report estimates extraction volumes exceeding the 6.4 billion tokens used to train DeepSeek-R1."
             ],
             [
               "Report proposes six-layer detection and deterrence regime",
               "Recommended measures include DOJ-FTC information-sharing guidance, Commerce entity designations for intermediary platforms, NSA threat intelligence support, and two pending Congressional bills."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "China's BYD, SAIC Motor eye EVs with all-solid-state batteries in 2027",
-          "date": "2026-06-02",
-          "url": "https://asia.nikkei.com/business/technology/china-s-byd-saic-motor-eye-evs-with-all-solid-state-batteries-in-2027",
-          "bullets": [
-            [
-              "SAIC and BYD target 2027 EV launches with all-solid-state batteries",
-              "SAIC partnered with startup Qingtao Energy to prototype the \"Guangqi\" battery in March; BYD, which began ASSB research in 2013, aims for large-scale production by 2030."
-            ],
-            [
-              "Chinese firms use semi-solid batteries as a commercial bridge",
-              "Unlike Japanese rivals, Chinese manufacturers are deploying semi-solid batteries - reducing liquid electrolyte to 5% - in production vehicles now, leveraging China's 16-million-unit annual EV market to compress adoption cycles."
             ]
           ],
           "related": []
@@ -1272,6 +1210,46 @@ window.W23_2026 = {
             ]
           ],
           "related": []
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "China's BYD, SAIC Motor eye EVs with all-solid-state batteries in 2027",
+          "date": "2026-06-02",
+          "url": "https://asia.nikkei.com/business/technology/china-s-byd-saic-motor-eye-evs-with-all-solid-state-batteries-in-2027",
+          "bullets": [
+            [
+              "SAIC and BYD target 2027 EV launches with all-solid-state batteries",
+              "SAIC partnered with startup Qingtao Energy to prototype the \"Guangqi\" battery in March; BYD, which began ASSB research in 2013, aims for large-scale production by 2030."
+            ],
+            [
+              "Chinese firms use semi-solid batteries as a commercial bridge",
+              "Unlike Japanese rivals, Chinese manufacturers are deploying semi-solid batteries - reducing liquid electrolyte to 5% - in production vehicles now, leveraging China's 16-million-unit annual EV market to compress adoption cycles."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "Chinese solar giant Jinko to supply power to desert AI data center",
+          "date": "2026-06-04",
+          "url": "https://asia.nikkei.com/business/energy/chinese-solar-giant-jinko-to-supply-power-to-desert-ai-data-center",
+          "bullets": [
+            [
+              "Jinko Power enters data center business in Ningxia desert",
+              "Jinko Power, the Shanghai-listed power-plant operator, will build a $3.6 billion facility in Zhongwei powered directly by its own solar plants."
+            ],
+            [
+              "Sector losses underline the strategic pivot",
+              "Sister company JinkoSolar, the world's largest solar panel maker, posted a multi-billion-yuan net loss for FY2025 amid chronic overcapacity and a price war."
+            ],
+            [
+              "State-owned competitor launches rival operations in Zhongwei in May",
+              "China Datang Group commissioned a 500 MW solar plant directly supplying data centers in the same desert location in May; a 1.5 GW wind farm is still under construction, according to Nikkei."
+            ]
+          ],
+          "related": []
         }
       ]
     },
@@ -1382,8 +1360,8 @@ window.W23_2026 = {
               "Cheng Li-wun, who met Xi in April, argues Taiwan's constitution supports the principle that island and mainland form one China."
             ],
             [
-              "Trump called his paused $14 billion Taiwan arms package a \"negotiating chip\"",
-              "The sale - covering Patriot upgrades and NASAMS missiles - has not been formally notified to Congress, raising deterrence concerns among Taiwan supporters."
+              "Taiwan supporters worry the paused $14 billion arms package could become a \"bargaining chip\"",
+              "The sale - covering Patriot upgrades and NASAMS missiles - has not been formally notified to Congress, raising deterrence concerns."
             ]
           ],
           "related": []
@@ -1429,7 +1407,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "Taiwan woman on trial for CCP-directed election interference",
-              "Hsu Chun-ying allegedly received WeChat instructions from two Chinese officials to place mainland-born candidates in Taiwan's legislature, prosecutors say."
+              "Hsu Chun-ying allegedly received instructions from Chinese officials to place mainland-born candidates in Taiwan's legislature, prosecutors say."
             ],
             [
               "Case prompts debate over profiling Taiwan's Chinese migrant community",
@@ -1669,11 +1647,11 @@ window.W23_2026 = {
             ],
             [
               "Embassy demanded a formal apology as condition for lifting the bans",
-              "The Chinese embassy stated restrictions could be reduced only if lawmakers apologized; all four refused, with one describing the move as \"foreign interference.\""
+              "The Chinese embassy stated restrictions could be reduced only if lawmakers apologized; MP Laura McClure refused, calling it \"foreign interference\"; the other three did not publicly respond."
             ],
             [
               "Australia and Taiwan both condemned the travel restrictions",
-              "Australian FM Penny Wong called pressure on parliamentarians inappropriate; Taiwan's foreign ministry rejected Beijing's right to interfere with parliamentary diplomacy."
+              "Australian FM Penny Wong said Canberra was “concerned” and would raise the issue with China; Taiwan's foreign ministry rejected Beijing's right to interfere with parliamentary diplomacy."
             ]
           ],
           "related": []
@@ -1775,7 +1753,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "EU Commission calls China trade ties unsustainable",
-              "An orientation debate on 29 May produced Brussels' first formal strategic reassessment, set against a record €359.9 billion trade deficit in 2025."
+              "An orientation debate on 28 May produced Brussels' first formal strategic reassessment, set against a record €359.9 billion trade deficit in 2025."
             ],
             [
               "EU prepares overcapacity instrument after duties shift Chinese export mix",
@@ -2104,7 +2082,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "China's cumulative AI investment projected at RMB 10 trillion by 2030",
-              "The article places this alongside US tech giants' combined $650 billion annual spend and major pledges from Europe (€200 billion) and Japan (¥1 trillion)."
+              "The article places this alongside US tech giants' combined $650 billion annual spend and major pledges from Europe (€200 billion) and Japan (¥387.3 billion)."
             ],
             [
               "Power grids, chips, optical modules, and transformers framed as the deeper strategic contest",
@@ -2224,7 +2202,7 @@ window.W23_2026 = {
           "bullets": [
             [
               "Three CISS experts attended the 23rd Shangri-La Dialogue in Singapore",
-              "Director Da Wei (达巍 [Dá Wēi]), Deputy Director Xiao Xi (肖茜 [Xiāo Qiàn]), and Research Fellow Zhou Bo (周波 [Zhōu Bō]) participated in the May 29 - 31 forum."
+              "Director Da Wei (达巍 [Dá Wēi]), Deputy Director Xiao Qian (肖茜 [Xiāo Qiàn]), and Research Fellow Zhou Bo (周波 [Zhōu Bō]) participated in the May 29 - 31 forum."
             ],
             [
               "CISS scholars gave interviews to domestic and international media on China - US relations and Asia-Pacific security",
@@ -2375,12 +2353,12 @@ window.W23_2026 = {
           "outlet": "Sinocism",
           "author": "Yuyuan Tantian · 玉渊谭天",
           "title": "If the EU Insists on Pushing an Overcapacity Tool, China Will Surely Retaliate",
-          "date": "2026-06-01",
+          "date": "2026-05-29",
           "url": "https://sinocism.notion.site/Yuyuan-Tantian-If-the-EU-Insists-on-Pushing-an-Overcapacity-Tool-China-Will-Surely-Retaliate-36f84ece41d781208c8ac388e736dba0",
           "bullets": [
             [
               "Yuyuan Tantian [玉渊谭天] warns EU that Chinese retaliation is certain if it advances an overcapacity trade tool",
-              "The CCTV state media commentary account stated that China will \"surely retaliate\" should the EU insist on pushing the proposed instrument, published 2026-06-01."
+              "The CCTV state media commentary account stated that China will \"surely retaliate\" should the EU insist on pushing the proposed instrument, published 2026-05-29."
             ],
             [
               "The warning frames retaliation as conditional on EU persistence",
@@ -2679,7 +2657,7 @@ window.W23_2026 = {
     {
       "src": "assets/charts/W23-2026-chart-4.png",
       "alt": "Global Times tone on EU-China trade, scale +2 to −2, quarterly 2020 Q1–2026 Q2",
-      "caption": "**Chart 4 – Global Times' tone on EU-China trade turns sharply negative in 2026 Q2** ([Soapbox Trade × MERICS](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product); MERICS hand-coded tracker, scale +2 to −2, quarterly 2020–2026)"
+      "caption": "**Chart 4 – Global Times' tone on EU-China trade turns sharply negative in 2026 Q2** ([Soapbox Trade × MERICS](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product); provisional hand-coded tracker of Global Times English items, scale +2 to −2, quarterly 2020–2026)"
     }
   ]
 };
