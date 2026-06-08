@@ -957,24 +957,6 @@ window.W23_2026 = {
             ]
           ],
           "related": []
-        },
-        {
-          "outlet": "Trivium",
-          "author": "",
-          "title": "Top academician pours cold water on future industries",
-          "date": "2026-06-02",
-          "url": "https://triviumchina.com/2026/06/02/top-academician-pours-cold-water-on-future-industries",
-          "bullets": [
-            [
-              "Senior academician warns China's future-industry parks outpace scientific foundations",
-              "Zhang Jun, writing in Qiushi on May 30, argued local governments are rushing to develop humanoid robots and brain-computer interfaces before technologies can support reliable mass production."
-            ],
-            [
-              "Zhang's critique ran in the same Qiushi issue as Xi Jinping's future-industry remarks",
-              "The newsletter argues this placement marks his criticism as part of the authorized reading of Xi's line, not external skepticism."
-            ]
-          ],
-          "related": []
         }
       ]
     },
@@ -1029,24 +1011,6 @@ window.W23_2026 = {
             [
               "New EU steel regime from July 2026 introduces \"melt and pour\" traceability",
               "The rule tracks steel to its country of first production, targeting Chinese slabs re-exported to the EU via Turkey or Indonesia."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Trivium",
-          "author": "",
-          "title": "State Council tightens control over outbound investment",
-          "date": "2026-06-01",
-          "url": "https://triviumchina.com/2026/06/01/state-council-tightens-control-over-outbound-investment",
-          "bullets": [
-            [
-              "State Council issues first unified outbound investment framework",
-              "The Regulations on Outbound Investment, released June 1 and effective July 1, establish China's first comprehensive national ODI oversight regime."
-            ],
-            [
-              "New rules replace a patchwork of lower-level ministerial regulations",
-              "Prior outbound investment oversight was dispersed across ministry-specific rules without a unified national framework, according to the article."
             ]
           ],
           "related": []
@@ -1510,24 +1474,6 @@ window.W23_2026 = {
             [
               "Vieira held separate meetings with Vice-President Han Zheng and Commerce Minister Wang Wentao",
               "Brazil's fertiliser supply security - linked to US-Iran tensions - featured as a practical cooperation priority alongside the political talks."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Trivium",
-          "author": "",
-          "title": "Top diplomat Wang Yi dangles doubling of Canadian exports",
-          "date": "2026-06-01",
-          "url": "https://triviumchina.com/2026/06/01/top-diplomat-wang-yi-dangles-doubling-of-canadian-exports",
-          "bullets": [
-            [
-              "Wang Yi told Canadian officials Chinese imports from Canada could double by 2030",
-              "The pledge came in a May 29 meeting with his Canadian counterpart, the article reports."
-            ],
-            [
-              "Wang's offer well exceeds Canada's own stated trade target",
-              "Ottawa had set a 50% export expansion goal by 2030; China's top diplomat suggested Canada could \"far surpass\" it."
             ]
           ],
           "related": []
