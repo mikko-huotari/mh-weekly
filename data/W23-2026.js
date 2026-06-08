@@ -1635,6 +1635,24 @@ window.W23_2026 = {
       "label": "Strategic implications and responses",
       "items": [
         {
+          "outlet": "House Select Committee on the CCP",
+          "author": "",
+          "title": "Moolenaar, Obernolte, McClellan introduce legislation to ban dangerous Chinese robots",
+          "date": "2026-06-04",
+          "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-obernolte-mcclellan-introduce-legislation-to-ban-dangerous-chinese-robots",
+          "bullets": [
+            [
+              "Bipartisan GUARD Act would screen PRC robotics via the FCC Covered List",
+              "The Guarding the US Against Adversarial Robotics Dominance Act would require national-security agencies to review humanoid and quadruped robots from China, Russia, Iran and North Korea within a year, adding those judged a threat - or any left unreviewed - to the FCC Covered List, barring them from the US market."
+            ],
+            [
+              "PLA-linked Unitree and espionage backdoors frame the case",
+              "Sponsors Moolenaar (R-MI), Obernolte (R-CA) and McClellan (D-VA) single out Unitree, citing concerns the robots contain backdoors exploitable for espionage."
+            ]
+          ],
+          "related": []
+        },
+        {
           "outlet": "FT",
           "author": "",
           "title": "Europe is running from a phantom China threat",
