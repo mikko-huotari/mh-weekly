@@ -83,6 +83,12 @@ window.W23_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
+              "note": "**The Commission's \"technological sovereignty\" package is an autonomy bid, not US alignment**: Brussels [unveiled a four-part package](http://www.xinhuanet.com/world/20260603/09cda3799e144166971c307e67fa2b93/c.html) - a Cloud and AI Development Act (tripling EU data-centre capacity), a Chip Act 2.0, an Open Source Strategy and an energy-sector AI roadmap - framed to widen European choice in core technologies, distinct from integration into US semiconductor arrangements."
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
               "note": "**MEP Eroglu returns from Beijing demanding reciprocity**: Renew Europe's Engin Eroglu, back from a China visit, [argued](https://x.com/EnginEroglu_FW/status/2062259697865076801) that \"every rule that applies to European companies operating in China should also apply to Chinese companies operating in Europe\", aligning Parliament voices with Sefcovic's level-playing-field framing."
             },
             {
@@ -90,12 +96,6 @@ window.W23_2026 = {
               "date": "",
               "url": "",
               "note": "**EU Parliament shields its own from the Huawei graft probe, blunting telecom hawkishness**: The Legal Affairs Committee voted to maintain the immunity of four MEPs, [blocking Belgian prosecutors](https://www.politico.eu/article/eu-lawmakers-vote-shield-peers-huawei-scandal-probe/) investigating whether Huawei-linked lobbyists paid lawmakers to co-sign a letter backing the firm's 5G rollout - as Brussels struggles to turn its non-binding anti-Huawei recommendation into law against German and Spanish pushback."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**The Commission's \"technological sovereignty\" package is an autonomy bid, not US alignment**: Brussels [unveiled a four-part package](http://www.xinhuanet.com/world/20260603/09cda3799e144166971c307e67fa2b93/c.html) - a Cloud and AI Development Act (tripling EU data-centre capacity), a Chip Act 2.0, an Open Source Strategy and an energy-sector AI roadmap - framed to widen European choice in core technologies, distinct from integration into US semiconductor arrangements."
             }
           ]
         },
