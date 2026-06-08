@@ -8,7 +8,7 @@ window.W23_2026 = {
   "dateRange": "1 – 7 Jun 2026",
   "pdf": "pdfs/W23-2026.pdf",
   "spotlight": {
-    "title": "Spotlight: What Beijing kept out of the spotlight - 37 years since Tiananmen",
+    "title": "Spotlight 1: What Beijing kept out of the spotlight - 37 years since Tiananmen",
     "intro": "The 37th anniversary of the 4 June 1989 crackdown passed under tightened censorship in China, where AI tools now help scrub references from the internet - though young Chinese still encounter the events indirectly through entertainment-linked viral content ([Washington Post](https://www.washingtonpost.com/world/2026/06/04/despite-censorship-young-chinese-are-learning-truth-about-tiananmen-square)). In Hong Kong, where the Victoria Park vigil has been shut since the 2020 security law, police detained activists near the former vigil site for symbolic gestures, while vigil organisers Chow Hang-tung and Lee Cheuk-yan await a July verdict for inciting subversion ([HKFP](https://hongkongfp.com/2026/06/04/in-pictures-activists-chant-buddhist-mantra-hold-up-yellow-flower-on-tiananmen-crackdown-anniversary)). Overseas archives preserving the record report repeated cyberattacks and harassment ([Guardian](https://www.theguardian.com/world/2026/jun/04/tiananmen-square-massacre-preserving-memory)). US Secretary of State Marco Rubio marked the date, saying \"no amount of censorship can erase the past\"; Beijing's foreign ministry dismissed the remarks as a \"smear\" ([Euronews](https://www.euronews.com/2026/06/04/beijing-slams-us-comments-on-tiananmen-square-crackdown-as-smear-of-china)). A new [CECC report](https://www.cecc.gov/publications/commission-analysis/report-prcs-transnational-repression-and-malign-influence-2025) documents the PRC's widening transnational repression.",
     "items": [],
     "table": null,
@@ -16,14 +16,14 @@ window.W23_2026 = {
   },
   "spotlights": [
     {
-      "title": "Spotlight: What Beijing kept out of the spotlight - 37 years since Tiananmen",
+      "title": "Spotlight 1: What Beijing kept out of the spotlight - 37 years since Tiananmen",
       "intro": "The 37th anniversary of the 4 June 1989 crackdown passed under tightened censorship in China, where AI tools now help scrub references from the internet - though young Chinese still encounter the events indirectly through entertainment-linked viral content ([Washington Post](https://www.washingtonpost.com/world/2026/06/04/despite-censorship-young-chinese-are-learning-truth-about-tiananmen-square)). In Hong Kong, where the Victoria Park vigil has been shut since the 2020 security law, police detained activists near the former vigil site for symbolic gestures, while vigil organisers Chow Hang-tung and Lee Cheuk-yan await a July verdict for inciting subversion ([HKFP](https://hongkongfp.com/2026/06/04/in-pictures-activists-chant-buddhist-mantra-hold-up-yellow-flower-on-tiananmen-crackdown-anniversary)). Overseas archives preserving the record report repeated cyberattacks and harassment ([Guardian](https://www.theguardian.com/world/2026/jun/04/tiananmen-square-massacre-preserving-memory)). US Secretary of State Marco Rubio marked the date, saying \"no amount of censorship can erase the past\"; Beijing's foreign ministry dismissed the remarks as a \"smear\" ([Euronews](https://www.euronews.com/2026/06/04/beijing-slams-us-comments-on-tiananmen-square-crackdown-as-smear-of-china)). A new [CECC report](https://www.cecc.gov/publications/commission-analysis/report-prcs-transnational-repression-and-malign-influence-2025) documents the PRC's widening transnational repression.",
       "items": [],
       "table": null,
       "subsections": []
     },
     {
-      "title": "Spotlight: The EU debates a more structural approach to China on trade defence and economic security",
+      "title": "Spotlight 2: The EU debates a more structural approach to China on trade defence and economic security",
       "intro": "The EU's internal debate over how to handle China's trade challenge sharpened this week, driven by a record goods deficit and growing frustration that case-by-case tariffs cannot keep pace. No instrument is imminent: the next real step is political direction from the 18-19 June European Council, with a concrete tool likely only later - after the summer and, realistically, not before early 2027.",
       "items": [
         {
