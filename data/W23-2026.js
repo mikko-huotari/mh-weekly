@@ -1490,7 +1490,7 @@ window.W23_2026 = {
             ],
             [
               "Taiwan supporters worry the paused $14 billion arms package could become a \"bargaining chip\"",
-              "The sale - covering Patriot upgrades and NASAMS missiles - has not been formally notified to Congress, raising deterrence concerns."
+              "The sale - covering Patriot upgrades and NASAMS missiles - was approved by Congress, but Trump has delayed signing it, with the pause tied to munitions needs for the Iran campaign."
             ]
           ],
           "related": []
@@ -2090,12 +2090,16 @@ window.W23_2026 = {
           "url": "https://www.cac.gov.cn/2026-06/03/c_1782142434783056.htm",
           "bullets": [
             [
-              "Frames agile rulemaking as China's answer to fast-moving AI",
-              "The CAC legal-bureau explainer presents new Interim Measures - jointly issued with NDRC, MIIT, the Ministry of Public Security and SAMR, effective 15 July 2026 - as a \"小快灵\" model: narrow-but-precise scope, rapid timeline, flexible rules."
+              "Scope is deliberately narrowed to emotional-companion AI, leaving task assistants untouched",
+              "The Measures apply only to services that \"simulate a natural person's personality traits, thinking patterns and communication style\" through persistent emotional interaction; customer service, knowledge Q&A, work assistants and educational tools are explicitly excluded, defining the regulated category as virtual companions rather than AI broadly."
             ],
             [
-              "Targets emotional and virtual-intimacy AI services",
-              "It governs services simulating emotional interaction and virtual intimate relationships under a \"human-centered, AI for good\" and collaborative-governance principle."
+              "Minors face categorical bans, with mandatory AI-disclosure and self-harm intervention for all users",
+              "Providers may not offer virtual-kin or virtual-partner relationships to minors, must obtain guardian consent before serving under-14s, and must run a dedicated minor mode; for all users they must flag (at first use, re-login and on signs of over-dependence) that the counterpart is AI, detect excessive dependency and extreme emotional states, and alert guardians or emergency contacts where suicide or self-harm risk appears."
+            ],
+            [
+              "Five-agency joint issuance signals enforcement weight behind a \"小快灵\" pilot",
+              "CAC, NDRC, MIIT, MPS and SAMR co-issued the Measures (effective 15 July 2026) under the \"small, fast, flexible\" model – narrow scope, short cycle, adaptable mechanisms – with supervision and legal-liability provisions, though specific penalty amounts are not enumerated in the released text."
             ]
           ],
           "related": []
@@ -2108,12 +2112,12 @@ window.W23_2026 = {
           "url": "https://english.news.cn/20260602/510f777c04744495a73a84cd2cf98f85/c.html",
           "bullets": [
             [
-              "Sets a 725-million-tonne grain capacity target for 2030",
-              "The State Council plan for 2026-2030 aims to lift comprehensive grain production capacity to about 725 million tonnes and the agricultural-product quality pass rate to at least 98 percent."
+              "Grain-security floor anchors the plan against a 2025 baseline already near target",
+              "The plan sets a binding 725-million-tonne comprehensive grain production capacity by 2030 and a ≥98% routine-inspection pass rate for agricultural-product quality and safety, against 2025 actual output of 714.9 million tonnes (a second consecutive year above 700 million)."
             ],
             [
-              "Pushes sci-tech-led modernization",
-              "It targets raising the contribution rate of sci-tech progress in agriculture to 67 percent and prioritises intelligent breeding, new-energy agricultural machinery, and agricultural bio-manufacturing."
+              "Sci-tech upgrading targets a 67% contribution rate and names five frontier industries",
+              "The plan lifts the agricultural sci-tech progress contribution rate to 67% by 2030 (from above 64% in 2025) and prioritises intelligent-design breeding, new-energy agricultural machinery, the low-altitude agricultural economy, agricultural bio-manufacturing and new food products, alongside high-standard farmland, cold-chain logistics and AI adoption."
             ]
           ],
           "related": []
@@ -2126,12 +2130,12 @@ window.W23_2026 = {
           "url": "https://www.news.cn/20260604/530653cfbdf849c8978fbb30dae7b241/c.html",
           "bullets": [
             [
-              "Cuts pump prices on falling crude",
-              "Effective 24:00 on 4 June 2026, the NDRC lowered gasoline and diesel ceiling prices by 525 yuan and 505 yuan per tonne respectively, citing international oil-price changes."
+              "Falling ten-day crude assessment triggers a ceiling-price cut effective midnight",
+              "NDRC lowered the maximum gasoline price by 525 yuan/tonne and diesel by 505 yuan/tonne for standard products from 24:00 on 4 June 2026, citing a decline in international crude over the prior ten-working-day pricing window relative to the 21 May cycle."
             ],
             [
-              "Pairs the cut with supply and compliance directives",
-              "The notice instructed state-owned oil companies to keep supply stable and local authorities to enforce price compliance."
+              "Directives push supply stability and price-compliance enforcement onto SOEs and localities",
+              "CNPC, Sinopec, CNOOC and other refiners are instructed to keep production, distribution and market supply stable and enforce national pricing rules, while local departments tighten market supervision, with consumers directed to the 12315 platform to report illegal pricing."
             ]
           ],
           "related": []
@@ -2144,12 +2148,12 @@ window.W23_2026 = {
           "url": "https://english.news.cn/20260603/2493f83a69f54680a5e68c4172cbcbb7/c.html",
           "bullets": [
             [
-              "Opens data centers and internet services to wholly foreign ownership",
-              "MIIT reported 166 foreign-invested enterprises approved under the pilot removing foreign equity caps on value-added telecom services such as internet data centers, access and information services."
+              "Equity-cap removal converts into concrete entry across four pilot zones",
+              "MIIT reported 166 foreign-invested enterprises approved to operate value-added telecom services – internet data centres, internet access and information services – under the pilot lifting foreign equity caps in Beijing, Shanghai, Hainan and Shenzhen, with the first batch cleared in February 2025."
             ],
             [
-              "Concentrated in four pilot zones",
-              "The trial runs in Beijing, Shanghai, Hainan and Shenzhen, with approvals having begun in February 2025."
+              "MIIT frames the pilot as a precursor to wider sector opening",
+              "The ministry positioned the approvals as broadening consumer choice within a market already hosting over 3,100 foreign-invested telecom enterprises, and signalled further opening measures to draw eligible foreign firms in."
             ]
           ],
           "related": []
@@ -2170,12 +2174,16 @@ window.W23_2026 = {
           "url": "https://www.caixinglobal.com/2026-06-02/caixin-explains-china-arms-itself-with-new-outbound-investment-rules-102449944.html",
           "bullets": [
             [
-              "China issues new outbound investment framework with retaliation powers",
-              "Rules jointly issued by the Ministry of Justice, NDRC, and MOFCOM grant Beijing explicit legal authority to restrict or penalise foreign governments that limit Chinese capital outflows."
+              "Codifies retaliation as a standing instrument of investment policy",
+              "The regulations, jointly issued by the Ministry of Justice, NDRC and Ministry of Commerce, signed by Premier Li Qiang and effective 1 July 2026, let Beijing investigate \"trade and investment barriers\" where foreign governments impose discriminatory bans on Chinese capital, and invoke the Anti-Foreign Sanctions Law to bar offending foreign entities from investing in China or to restrict personnel entry."
             ],
             [
-              "Oversight of overseas technology and data transfers tightened under national security framing",
-              "The regulations require tighter controls on cross-border transfers of domestic technology and data, extending the security screening logic from inbound to outbound investment flows."
+              "Closes the human-channel loophole in export controls",
+              "The framework bars investors from using cross-border personnel deployments, offshore technical guidance or overseas training to transfer banned goods, technologies, services or data, extending national-security review of outbound deals run through NDRC and MOFCOM."
+            ],
+            [
+              "Backs the regime with graduated penalties",
+              "Violations trigger halts, asset disposal and confiscation of illegal gains plus fines of 0.5–1 percent of total investment, while responsible supervisors face personal fines of 50,000–100,000 yuan."
             ]
           ],
           "related": []
@@ -2188,12 +2196,16 @@ window.W23_2026 = {
           "url": "https://www.jiemian.com/article/14519813.html",
           "bullets": [
             [
-              "China's cumulative AI investment projected at RMB 10 trillion by 2030",
-              "The article places this alongside US tech giants' combined $650 billion annual spend and major pledges from Europe (€200 billion) and Japan (¥387.3 billion)."
+              "Frames AI buildout as a national-scale capital commitment",
+              "The article projects China's cumulative AI investment reaching RMB 10 trillion by 2030, benchmarked against the four US tech giants – Microsoft, Google, Amazon and Meta – whose combined projected outlay is put at roughly USD 650 billion, versus Europe's EUR 200 billion and Japan's JPY 1 trillion."
             ],
             [
-              "Power grids, chips, optical modules, and transformers framed as the deeper strategic contest",
-              "The article reports that governments are increasingly focusing beyond data centres toward securing the critical hardware infrastructure underpinning AI deployment."
+              "Locates Chinese advantage in the physical supply chain",
+              "It anchors the thesis in domestic capacity across AI chips (Huawei Ascend, Hygon, Cambricon, Kunlun), the top-five global server makers (Inspur, Huawei, New H3C, Sugon, Lenovo), an ~60 percent share of the 800G/1.6T optical-module market, and roughly 60 percent of global transformer capacity."
+            ],
+            [
+              "Ties the spend to grid and \"East Data, West Compute\"",
+              "The piece foregrounds power infrastructure – grids, transformers and the East Data–West Compute (东数西算) program – as the binding constraint and organizing logic of the buildout, against the US Stargate plan as the external reference point."
             ]
           ],
           "related": []
@@ -2206,12 +2218,16 @@ window.W23_2026 = {
           "url": "https://www.yicaiglobal.com/news/chinas-ai-computing-boom-tests-the-limits-of-green-power-experts-say",
           "bullets": [
             [
-              "China's AI compute expansion is outpacing renewable energy infrastructure",
-              "Experts at a June 2 Shanghai industry forum said closer coordination between computing demand and clean electricity supply is increasingly critical."
+              "Treats a \"green\" compute buildout as physically hard, not just costly",
+              "At the 2 June Shanghai forum \"Computing-Power Coordination,\" hosted by New Energy Nexus China and Shanghai Metals Market, David Fishman of the Lantau Group said operators \"can't make it a green revolution,\" calling decarbonized compute \"incredibly difficult, expensive and slow.\""
             ],
             [
-              "Green energy transition for AI data centers is not feasible in the near term",
-              "David Fishman of Lantau Group told Yicai that China's AI computing boom \"can't make it a green revolution.\""
+              "Quantifies the demand shock against renewable supply",
+              "Global data-center consumption is set to roughly double from ~415 TWh in 2024 (1.5 percent of demand) to ~945 TWh by 2030; China already accounts for ~25 percent of global data-center power use and is forecast to need 500–700 TWh by 2030, with hub zones such as Zhangjiakou and Langfang already drawing 20–30 percent of local electricity."
+            ],
+            [
+              "Notes the regulatory floor under hub-zone siting",
+              "China's 15th Five-Year Plan requires new data centers in the eight national computing hubs to source at least 80 percent renewable energy and meet PUE ratios of 1.25 or below (1.2 inside hub zones), per experts including State Grid's Yue Hao and Tsinghua's Liu Zhi."
             ]
           ],
           "related": []
@@ -2224,12 +2240,16 @@ window.W23_2026 = {
           "url": "https://www.jiemian.com/article/14520695.html",
           "bullets": [
             [
-              "Shanghai sets RMB 55 trillion AUM target for 2030",
-              "The city's new guidelines aim for one-third of China's total assets under management, with a focus on expanding financial products and derivatives markets."
+              "Sets a one-third-of-China AUM target as the headline metric",
+              "The Shanghai plan, effective 1 June 2026, aims for RMB 55 trillion in assets under management by 2030, about one-third of the national total, anchored on the Lujiazui and Bund financial clusters."
             ],
             [
-              "Plan prioritises RMB internationalisation and foreign manager access",
-              "Mechanisms including Stock Connect, China-Europe Connect, and Bond Connect are to be optimised to strengthen Shanghai's role in cross-border asset allocation."
+              "Builds out the cross-border RMB plumbing",
+              "It expands offshore, Yulan, Panda and sci-tech bonds, optimizes Shanghai–Hong Kong Connect, China–Europe Connect and Bond Connect – including adding REITs to the HK link – and sets up an overseas RMB-debt custodian to deepen RMB internationalization."
+            ],
+            [
+              "Pairs new products with a buyer-side advisory shift",
+              "The plan readies LNG, power and computing-power futures plus CSI 500, Shenzhen 100 and ChiNext index derivatives, while pushing wealth management from a sales-driven model toward buyer's-advisory and AI-driven research."
             ]
           ],
           "related": []
@@ -2277,7 +2297,7 @@ window.W23_2026 = {
         {
           "outlet": "MFA 外交部 (Wang Yi 王毅)",
           "author": "",
-          "title": "Wang Yi visits Canada; says Canadian exports to China could double by 2030 · 王毅访问加拿大",
+          "title": "Wang Yi visits Canada · 王毅访问加拿大",
           "date": "2026-06-01",
           "url": "https://www.fmprc.gov.cn/mfa_eng/wjbzhd/202606/t20260601_11922088.html",
           "bullets": [
@@ -2500,16 +2520,16 @@ window.W23_2026 = {
           "url": "https://www.globaltimes.cn/page/202606/1362563.shtml",
           "bullets": [
             [
-              "EU reportedly set to join US \"Pax Silica\" and purchase at least $40 billion in AI chips",
-              "The Global Times, citing a Euro News report, says the EU is expected to formally join the US-led semiconductor initiative this week."
+              "Joining the US bloc deepens, not reduces, supply-chain dependency",
+              "Cui Hongjian (Beijing Foreign Studies University) argues that signing onto the December-2025 US \"Pax Silica\" minerals-and-tech bloc – alongside an EU commitment to buy at least $40bn in US AI chips – would tie EU high-tech industry more tightly to the US supply chain and produce \"two-tier polarization\" within the bloc."
             ],
             [
-              "Chinese analysts frame the move as a threat to EU strategic autonomy",
-              "According to the article, Chinese experts warned that aligning with the US on chips and critical minerals would increase European dependence on US supply chains and weaken long-term technological self-reliance."
+              "Excluding China leaves the EU exposed to US unilateral pressure",
+              "Zhou Mi (CAITEC) claims that cutting Chinese suppliers shrinks the EU's options, so the arrangement adds \"unilateral pressure from US suppliers\" rather than offering substantive supply security."
             ],
             [
-              "Intra-European dissent cited as validation of Chinese framing",
-              "The article highlights French voices opposing the initiative as evidence that the EU's cohesion on tech alignment with Washington is contested."
+              "GT frames the move as driven by tech anxiety and self-undermining autonomy",
+              "the piece casts the EU as \"falling behind in nearly all high-tech sectors\" and cites French opposition calling the scheme an \"attempt to colonize Europe\" at odds with the EU's own tech-sovereignty agenda."
             ]
           ],
           "related": []
@@ -2522,12 +2542,16 @@ window.W23_2026 = {
           "url": "https://en.people.cn/n3/2026/0603/c98649-20463486.html",
           "bullets": [
             [
-              "People's Daily frames FSR as creeping trade protectionism",
-              "The commentary argues the EU's Foreign Subsidies Regulation uses broad subsidy definitions and cross-border data demands to create disproportionate compliance burdens for Chinese firms."
+              "The FSR is recast as unlawful long-arm protectionism",
+              "Yang Chengyu (Chinese Academy of Social Sciences) argues the EU Foreign Subsidies Regulation is \"extraterritorial jurisdiction\" historically used as a \"tool of hegemonic power,\" now broadening the definition of foreign subsidies without adequate evidence or procedural transparency."
             ],
             [
-              "Chinese green exports positioned as enablers of Europe's transition",
-              "The article claims cost-competitive Chinese products have supported European decarbonisation, and warns FSR overuse risks slowing that process."
+              "Compliance is framed as a legal double-bind",
+              "the article claims the FSR forces Chinese firms to disclose China-held core data abroad, putting them in \"double jeopardy\" – breaching China's Data Security Law if they comply, or facing fines and EU-market exclusion if they refuse."
+            ],
+            [
+              "Chinese green exports positioned as a pillar of Europe's transition",
+              "it casts EV, wind and photovoltaic products as an \"important pillar\" of the EU green transition, citing 2025 China-EU trade of 5.93tn yuan ($873.6bn, up 6%) and 130,000+ China-Europe freight-train runs."
             ]
           ],
           "related": []
@@ -2540,12 +2564,12 @@ window.W23_2026 = {
           "url": "https://www.globaltimes.cn/page/202606/1362664.shtml",
           "bullets": [
             [
-              "Chinese FM spokesperson warns EU against tech decoupling measures",
-              "Mao Ning said China is \"closely monitoring\" EU plans to reduce reliance on foreign semiconductors, cloud, and AI, urging dialogue over unilateral action."
+              "Beijing reasserts a \"win-win\" framing against EU tech de-risking",
+              "FM spokesperson Mao Ning states the \"essence of China-EU economic and trade relations is mutual benefit and win-win cooperation,\" responding to EU plans to cut reliance on foreign semiconductors, cloud and AI."
             ],
             [
-              "Beijing frames China-EU trade as mutual benefit, not rivalry",
-              "Mao characterised the bilateral economic relationship as \"win-win\" and called on Brussels to uphold free trade and fair competition principles."
+              "China presses the EU to forswear protectionism",
+              "Mao urges the EU to \"adhere to the fundamental principles of a market economy, including free trade, fair competition and open cooperation, avoid adopting protectionist measures,\" and to resolve differences through dialogue and consultation."
             ]
           ],
           "related": []
@@ -2558,12 +2582,16 @@ window.W23_2026 = {
           "url": "https://www.globaltimes.cn/page/202606/1362707.shtml",
           "bullets": [
             [
-              "Global Times urges EU dialogue over confrontation ahead of June summit",
-              "Analysts cited in the article called on the bloc to prioritize cooperation at the June 18-19 Brussels summit over protectionist measures and trade frictions."
+              "EU \"misperceptions\" of China are blamed for the friction",
+              "Dong Yifan (Beijing Language and Culture University) argues \"distorted and inaccurate perceptions\" drive EU policy, and that confrontation will \"intensify trade frictions\" and \"ultimately backfire on the EU's own economic development.\""
             ],
             [
-              "UK singled out as a more pragmatic model for China engagement",
-              "The article contrasts what it describes as the UK's flexible approach with the EU's confrontational stance, arguing that China-EU ties remain essential on climate, energy transition, and supply chains."
+              "The UK is held up as the pragmatic counter-model",
+              "the piece contrasts UK Foreign Secretary Yvette Cooper's line that engagement with China is \"no longer an option, but a necessity\" with an EU that calls China a \"critical partner\" while imposing protectionist measures."
+            ],
+            [
+              "The June 18-19 summit is cast as evasive",
+              "citing the Financial Times that the summit agenda will \"not use the word China,\" GT characterizes the EU as \"oscillating between confrontation and avoidance.\""
             ]
           ],
           "related": []
@@ -2576,16 +2604,16 @@ window.W23_2026 = {
           "url": "http://www.china.com.cn/opinion2020/2026-06/02/content_118526781.shtml",
           "bullets": [
             [
-              "china.com.cn frames EU de-risking as self-defeating for European industry",
-              "The article argues that excessive protectionism harms European firms' own interests and that stable China cooperation is essential given Europe's weak growth and rising costs."
+              "Reiche's visit is read as a signal to recalibrate EU China policy",
+              "the author (a professor at Northwestern Polytechnical University) frames German economy minister Katherina Reiche's just-concluded China trip – during which she sought better German access to Chinese minerals and rare earths – as a reminder that EU policy needs \"rational pragmatism,\" not \"emotional protectionism,\" amid a forecast of only 0.5% German growth in 2026."
             ],
             [
-              "61% of German firms plan to increase China investment, article reports",
-              "A cited survey also shows 68% of European companies intend to maintain or expand operations in China despite tightening EU restrictions."
+              "EU \"de-risking\" instruments are cast as self-harming",
+              "the piece attacks the draft Industrial Accelerator Act and Cyber Security Law revision for politicizing trade via subjective \"non-technical risk,\" noting Estonia, Finland, Latvia, the Netherlands – plus German and Spanish concerns over excluding Chinese telecom suppliers – have warned the exclusionary clauses do more harm than good."
             ],
             [
-              "Reiche's China visit used as hook for broader EU policy reassessment",
-              "The article calls on the EU to move beyond what it terms \"emotional protectionism\" and recalibrate its approach toward economic pragmatism."
+              "Business behavior is invoked against the de-risking narrative",
+              "it cites a German Chamber of Commerce in China survey showing 61% of firms plan to raise China investment over two years (a post-2023 high) and an EU Chamber survey showing 68% will maintain or expand China operations, plus GTAI data that China became Germany's top source of FDI projects in 2025 (228 projects, +14.6%, first time above the US since 2017)."
             ]
           ],
           "related": []
@@ -2598,12 +2626,16 @@ window.W23_2026 = {
           "url": "http://www.china.com.cn/opinion/2026-06/04/content_118529039.html",
           "bullets": [
             [
-              "EU trade curbs on China attributed to internal European dysfunction",
-              "The commentary argues that measures framed as responses to \"overcapacity\" fail to address the actual sources of Europe's competitiveness deficit - high energy costs, regulatory burdens, and market fragmentation."
+              "\"Curing an internal disease externally\" frames overcapacity rhetoric as deflection",
+              "Commentator Dong Yifan (Beijing Language and Culture University) argues the EU is weaponizing the \"overcapacity\" charge to legislate trade tools, citing the 26 May push by Spain, Italy, the Netherlands, France and Lithuania for more aggressive tariffs, safeguards and anti-circumvention measures, plus think-tank calls for a \"European Section 301.\""
             ],
             [
-              "Protectionism portrayed as self-defeating for the EU",
-              "According to the article, relying on trade restrictions risks escalating tensions with China, undermining bilateral economic cooperation, and further weakening EU competitiveness rather than remedying it."
+              "Structural weakness, not Chinese exports, is named as the real cause",
+              "Invoking the Letta and Draghi reports, he attributes Europe's decline to internal burdens – gas prices 4-5x US levels, electricity several times higher than China or the US, redundant approvals and fragmented market rules – making industrial relocation a rational market outcome."
+            ],
+            [
+              "\"Overcapacity\" dismissed as a pseudo-concept inverting trade logic",
+              "Citing IRENA and IEA findings that global clean-energy demand still outstrips supply, the piece argues treating exports as proof of overcapacity overturns the logic of comparative advantage, and warns \"wall-builders end up trapped by their own walls.\""
             ]
           ],
           "related": []
@@ -2616,12 +2648,16 @@ window.W23_2026 = {
           "url": "https://www.chinadaily.com.cn/a/202606/04/WS6a20ce32a310d6866eb4c542.html",
           "bullets": [
             [
-              "China Daily frames EU \"de-risking\" as the primary trade risk",
-              "The outlet argues that Brussels' expanding restrictions - not interdependence itself - threaten bilateral stability in green energy, pharma, and manufacturing."
+              "MOFCOM signals a new consultation mechanism alongside a retaliation warning",
+              "The Ministry of Commerce announced a China-EU trade and investment consultation mechanism while cautioning Beijing will \"respond firmly and take effective measures\" if the EU continues unilateral restrictions, singling out the Cybersecurity Act revision as imposing investment barriers and discrimination \"with China bearing the brunt.\""
             ],
             [
-              "China and EU are negotiating a trade and investment consultation mechanism",
-              "Unnamed experts cited in the article say structured dialogue provides \"certainty for global economic recovery.\""
+              "Cited scholars frame complementarity as the case for dialogue",
+              "Tu Xinquan (UIBE China Institute for WTO Studies) argues Europe's strengths in high-end manufacturing, automobiles, aerospace and pharmaceuticals complement China's market and supply chains, while Jian Junbo (Fudan) calls consultation \"the EU's most pragmatic path forward.\""
+            ],
+            [
+              "Trade volume and chamber data anchor the resilience claim",
+              "The piece cites 2025 bilateral trade of USD 828.1bn (up 5.4%) and a European Chamber survey in which 75% of respondents rated China-based production more efficient than operations elsewhere."
             ]
           ],
           "related": []
@@ -2634,12 +2670,16 @@ window.W23_2026 = {
           "url": "https://www.chinadaily.com.cn/a/202606/04/WS6a21715ba310d6866eb4c7e3.html",
           "bullets": [
             [
-              "China Daily labels EU \"de-risking\" as disguised protectionism",
-              "The editorial argues that EU technological sovereignty policy moves member states away from free, open, and fair trade, directly affecting Chinese entities."
+              "De-risking recast as self-defeating protectionism",
+              "The editorial argues that rejecting Chinese products and services will inflict financial losses on European countries and \"impede their own technological progress,\" calling protectionism \"a self-defeating practice that harms all parties.\""
             ],
             [
-              "Editorial warns protectionism harms both sides equally",
-              "China Daily argues China-EU trade ties are deeply integrated and complementary, and that disrupting them would damage enterprises and consumers on both sides."
+              "Tech-sovereignty measures portrayed as fragmenting supply chains",
+              "It targets the Chips Act 2.0 for favoring \"European-made\" chips and a \"closed digital ecosystem,\" and cites CCIA's Daniel Friedlaender warning the Cloud and AI Development Act is \"a direct recipe for fragmented discrimination across Europe in 27 different ways.\""
+            ],
+            [
+              "Long-run integration invoked against decoupling",
+              "Quoting FM spokeswoman Mao Ning, the editorial notes China-Europe trade has grown \"more than 300-fold\" over five decades with two-way investment approaching USD 260bn."
             ]
           ],
           "related": []
@@ -2652,12 +2692,16 @@ window.W23_2026 = {
           "url": "https://www.chinadaily.com.cn/a/202606/01/WS6a1cc224a310d6866eb4baaa.html",
           "bullets": [
             [
-              "Sino-French youth program framed around tech and AI cooperation",
-              "Officials and business leaders at the 2026 China-France Young Leaders Program discussed collaboration in technology, innovation and artificial intelligence, according to China Daily."
+              "Youth program positioned as a bilateral friendship channel",
+              "The 2026 China-France Young Leaders Program opened in Kunming (with stops in Pu'er and Xishuangbanna), co-organized by the Chinese People's Institute of Foreign Affairs and the France China Foundation, whose CPIFA president Wu Ken called it \"a catalyst for greater exchanges and interactions between Chinese and French youth.\""
             ],
             [
-              "CPIFA president cited youth exchanges as a friendship-building mechanism",
-              "Wu Ken [Wú Kěn], President of the Chinese People's Institute of Foreign Affairs, said the program would promote practical cooperation and strengthen bilateral ties."
+              "Tech and AI complementarity framed as the cooperation hook",
+              "The article pairs France's strength in engineering and startups with China's AI lead (citing DeepSeek) and BYD's European expansion, with France China Foundation president Nicolas Macquin pledging to link French businesses and universities with Yunnan counterparts."
+            ],
+            [
+              "Student exchanges pitched as the entry point",
+              "Participants propose beginning with student exchanges before moving to company collaborations."
             ]
           ],
           "related": []
@@ -2670,16 +2714,16 @@ window.W23_2026 = {
           "url": "https://hqtime.huanqiu.com/article/4RoSUgbqAc6",
           "bullets": [
             [
-              "China-Spain bilateral trade reached USD 55 billion in 2025",
-              "Navarro stated this marks a nearly 10% year-on-year increase, with China remaining Spain's largest trading partner outside the EU."
+              "Green corridors anchor the Ningbo-Spain port tie-up",
+              "At the 10th Maritime Silk Road Port Cooperation Forum, Ningbo Zhoushan Port signed green shipping corridor agreements with Valencia and Algeciras; per Pedro García Navarro (Director of Port Operations, Spain's national ports authority), the Ningbo-Valencia corridor drew in MSC and became the first globally to encourage autonomous-vehicle testing in port zones."
             ],
             [
-              "Ningbo Zhoushan Port signed green corridor agreements with Valencia and Algeciras ports",
-              "The deals, concluded at the 10th Maritime Silk Road Port Cooperation Forum, target decarbonization of Asia-Europe shipping routes."
+              "Trade momentum cited as the backdrop",
+              "Navarro notes 2025 China-Spain bilateral trade exceeded USD 55bn, up nearly 10% year-on-year, with China Spain's largest trading partner outside the EU and Spanish ports serving as transhipment hubs for Asian cargo into Europe."
             ],
             [
-              "Spain identified multimodal standardization and AI-driven operations as priority cooperation areas",
-              "Navarro said Spain hopes to learn from China's port digitalization experience, according to the article."
+              "Spain seeks Chinese smart-port know-how via a phased plan",
+              "He outlines standardizing port processes, then structuring operational data, then building AI-driven predictive capabilities, acknowledging China's lead in smart ports and proposing joint standard-setting."
             ]
           ],
           "related": []
@@ -2692,12 +2736,16 @@ window.W23_2026 = {
           "url": "https://www.chinanews.com.cn/gj/2026/05-29/10630800.shtml",
           "bullets": [
             [
-              "France retained Europe's top FDI ranking for the seventh year",
-              "The European Attractiveness Survey 2026 recorded 852 foreign investment projects in France in 2025."
+              "France's industrial pull anchors the FDI lead, not services alone",
+              "The 2026 European Attractiveness Survey records 852 foreign projects in France in 2025, with industrial investment the largest share at 354 projects (42%) and regional-HQ projects up 17% year-on-year, second in Europe."
             ],
             [
-              "China ranked as a leading investor in France and top Asian source",
-              "Chinese companies were credited with contributing to reindustrialization by projects and jobs created or maintained, according to the survey."
+              "AI is the fastest-growing segment",
+              "The report calls France Europe's premier destination for AI-related FDI, with such projects up 26% annually, alongside software, IT services, defence and clean energy."
+            ],
+            [
+              "China framed as France's leading Asian investor",
+              "The survey states Chinese firms play a \"distinct and important role\" in France's reindustrialisation and rank first among Asian investors in both project count and jobs created or retained."
             ]
           ],
           "related": []
@@ -2710,12 +2758,16 @@ window.W23_2026 = {
           "url": "https://english.news.cn/20260604/d6d32c17c10741a89e36ab1f04ae8e48/c.html",
           "bullets": [
             [
-              "Hungary unblocked Ukraine's first EU accession cluster after minority rights deal",
-              "Budapest approved the move at ambassadorial level following an agreement with Kyiv on language, cultural, educational and political rights for the Hungarian community in Transcarpathia."
+              "Hungary lifts its block at ambassadorial level",
+              "PM Peter Magyar announced Budapest approved opening Ukraine's first accession-negotiation cluster, ending Hungary's standing veto on the initial bloc of talks."
             ],
             [
-              "Magyar and Irish PM Martin met in Budapest ahead of Ireland's EU Council presidency",
-              "The two leaders discussed EU competitiveness, democratic values and Hungary's role in EU decision-making at a joint press conference."
+              "Conditioned on a Transcarpathia minority deal",
+              "Magyar tied support to a Budapest-Kyiv agreement on the language, cultural, educational and political rights of the Hungarian minority in Transcarpathia, with Ukraine committing to legislative changes."
+            ],
+            [
+              "Signalled at a Magyar-Martin press conference",
+              "The announcement came on 4 June with visiting Irish Taoiseach Micheál Martin – the first foreign leader to visit since Magyar took office – who pledged Irish backing during Ireland's Council presidency from 1 July."
             ]
           ],
           "related": []
@@ -2728,16 +2780,16 @@ window.W23_2026 = {
           "url": "https://hqtime.huanqiu.com/article/4RnGf2zrv6W",
           "bullets": [
             [
-              "Article attributes Europe's manufacturing pressures to internal structural factors",
-              "The piece argues that rising costs and constraints on innovation commercialization - not Chinese competition - are the primary drivers of European industrial decline."
+              "Pins Europe's decline on internal structural failings",
+              "A three-scholar roundtable argues Europe's manufacturing weakness stems from 30 years of de-industrialisation, high energy and labour costs, slow research-to-market conversion and fragmented industrial policy – not Chinese competition."
             ],
             [
-              "China's competitiveness framed as product of innovation and integrated supply chains",
-              "According to the article, China's industrial strength stems from continuous technological development and ecosystem integration, not unfair trade practices."
+              "Reframes the \"overcapacity\" charge",
+              "One scholar contends the real problem is that European goods in green energy, EVs and batteries lack competitiveness, citing Intel's 30-billion-euro German chip plant delayed at least two years over subsidy disputes and fiscal constraints."
             ],
             [
-              "Open China-EU cooperation presented as superior to protectionist responses",
-              "The article calls on Europe to prioritise digital transformation and bilateral collaboration, claiming engagement with China yields greater economic benefit than confrontation."
+              "Argues openness over barriers",
+              "The piece holds that regulations such as the AI Act and GDPR burden small firms, and that Europe should strengthen innovation and keep open collaboration with China on green technology rather than raise protectionist walls."
             ]
           ],
           "related": []
@@ -2750,12 +2802,16 @@ window.W23_2026 = {
           "url": "http://www.china.com.cn/opinion2020/2026-06/02/content_118526780.shtml",
           "bullets": [
             [
-              "Post-Cold War Europe chose crisis management over structural resolution",
-              "The article argues that unresolved disputes over identity, security boundaries, and strategic trust doomed European security reconstruction."
+              "Blames a Western \"victor's mentality\" for the missed post-Cold-War window",
+              "The essay (by the director of SIIS's Institute for International Strategic and Security Studies, via Global Times) argues that a \"victor's mentality\" and end-of-history triumphalism led the West to treat NATO/EU dual eastward enlargement as the only order, sidelining early inclusive designs like the Soviet \"common European home\", the Franco-Czech \"European confederation\" and Yeltsin's overtures."
             ],
             [
-              "NATO expansion and missile defense deployments ended the Russia-West honeymoon",
-              "Russia's \"Greater Europe\" vision and the West's NATO-centred approach diverged irreparably, the article reports."
+              "Casts Atlanticism and a \"greater Europe\" as irreconcilable",
+              "It contends the \"Atlantic-to-Urals\" / \"Lisbon-to-Vladivostok\" vision failed because Europe deepened energy and economic ties with Russia while staying security-dependent on NATO containment, citing Kennan's warning that enlargement was the West's \"most fateful error\", the 2008 Bucharest summit and the Russo-Georgian war."
+            ],
+            [
+              "Concludes deterrence alone cannot stabilise Europe",
+              "Reviewing the Minsk accords as crisis-management that never addressed identity, security boundaries or strategic trust, and Finland/Sweden's NATO entry erasing the buffer \"middle zone\", it argues lasting order requires great-power coordination and Russia-Europe reconciliation."
             ]
           ],
           "related": []
@@ -2768,12 +2824,16 @@ window.W23_2026 = {
           "url": "https://www.caixinglobal.com/2026-06-04/shein-fined-26-million-by-french-watchdog-for-consumer-violations-102450732.html",
           "bullets": [
             [
-              "French regulator fines Shein €22.5 million for consumer violations",
-              "France's DGCCRF penalised the fast-fashion platform over non-compliant return policies, product information disclosure, and order confirmation processes."
+              "Two-part penalty totalling about 22.5 million euros",
+              "France's DGCCRF fined Shein 16.7 million euros over order-confirmation practices and 5.8 million euros over returns and environmental-quality information, announced on 4 June following a 2025 probe of its French site."
             ],
             [
-              "Fine covers both consumer protection and environmental rule breaches",
-              "The DGCCRF combined penalty over return policies, product-information disclosure and order-confirmation processes was announced on 4 June 2026."
+              "Breaches span consumer and environmental law",
+              "Findings included non-compliance with the Consumer Code on return rights, missing product-traceability data, and failure to disclose plastic-microfibre content – required under French law for items over 50% synthetic fibres."
+            ],
+            [
+              "Shein contesting the fines",
+              "The company called the penalties \"disproportionate\" and said no consumer harm had been established, signalling it will challenge the ruling."
             ]
           ],
           "related": []
@@ -2786,12 +2846,16 @@ window.W23_2026 = {
           "url": "https://www.21jingji.com/article/20260603/abe69e632a668807294a7381abbe47a4.html",
           "bullets": [
             [
-              "Catalonia's industry minister pitched the region as a Chinese investment gateway to Europe",
-              "Miquel Sàmper said Chinese companies should treat Catalonia as a long-term strategic partner, not merely a market, highlighting electric mobility, autonomous driving, and batteries as priority sectors."
+              "Catalonia pitched as a strategic gateway, not just a market",
+              "Industry minister Miquel Sàmper urged Chinese firms to treat Catalonia as a \"long-term strategic partner\", citing roughly 1.1 billion euros of Chinese investment over five years and industry at about 20% of regional GDP."
             ],
             [
-              "Catalonia's 2026 - 2030 strategy targets €5 billion in industrial investment and 600 foreign projects",
-              "The regional government aims to create 45,000 jobs through the plan, with green energy and advanced manufacturing among the named cooperation areas."
+              "Autonomous driving framed as the core opportunity",
+              "Sàmper said Chinese companies lead globally in electric and smart-transport technology and that prospects for Chinese AV technology in Catalonia and Europe are \"very broad\", with collaboration in autonomous systems, smart cabins and connectivity."
+            ],
+            [
+              "Backed by a 2026-2030 investment target",
+              "The region's strategy aims to attract 600 foreign projects and create 45,000 jobs, with Sàmper advising Chinese firms to invest in local talent and supplier ties to build trust."
             ]
           ],
           "related": []
