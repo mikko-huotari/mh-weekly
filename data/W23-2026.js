@@ -127,50 +127,26 @@ window.W23_2026 = {
           "label": "Publications",
           "items": [
             {
-              "outlet": "On our MERICS podcast, Gregor Williams a",
+              "outlet": "MERICS podcast",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/podcast/chinese-fdi-europe-reaches-7-year-high-gregor-williams-and-andreas-mischer",
               "bullets": [
                 [
                   "",
-                  "[On our MERICS podcast, Gregor Williams and Andreas Mischer talk with Johannes Heller-John on the recent Rhodium Group and MERICS joint report on Chinese FDI in Europe: Chinese investment rises to 7-year high.](https://merics.org/en/podcast/chinese-fdi-europe-reaches-7-year-high-gregor-williams-and-andreas-mischer)"
+                  "[MERICS podcast](https://merics.org/en/podcast/chinese-fdi-europe-reaches-7-year-high-gregor-williams-and-andreas-mischer): Gregor Williams and Andreas Mischer discuss the new Rhodium Group–MERICS report finding Chinese FDI in Europe rose to a seven-year high."
                 ]
               ]
             },
             {
-              "outlet": "In our new issue of the China Tech Obser",
-              "title": "",
-              "date": "",
-              "url": "https://mericseu.substack.com/p/merics-china-tech-observatory-chinas",
-              "bullets": [
-                [
-                  "",
-                  "[In our new issue of the China Tech Observatory newsletter we look at:](https://mericseu.substack.com/p/merics-china-tech-observatory-chinas)"
-                ]
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "How Beijing is orchestrating a push for future industries"
-                ]
-              ]
-            },
-            {
-              "outlet": "What China’s first-mover approval of a b",
+              "outlet": "What China's first-mover approval of a b",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us",
               "bullets": [
                 [
                   "",
-                  "[What China’s first-mover approval of a brain-computer interface means for global competitors (LINK)](https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us)"
+                  "[What China's first-mover approval of a brain-computer interface means for global competitors](https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us)."
                 ]
               ]
             },
@@ -182,7 +158,7 @@ window.W23_2026 = {
               "bullets": [
                 [
                   "",
-                  "[How China is shaping AI competition through scale and low-cost deployment (LINK)](https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens)"
+                  "[How China is shaping AI competition through scale and low-cost deployment](https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens)."
                 ]
               ]
             },
@@ -194,149 +170,84 @@ window.W23_2026 = {
               "bullets": [
                 [
                   "",
-                  "[How Chinese chipmakers may benefit from a global shortage of AI memory (LINK)](https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips)"
+                  "[How Chinese chipmakers may benefit from a global shortage of AI memory](https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips)."
                 ]
               ]
             },
             {
-              "outlet": "Will XPeng’s planned investments help Eu",
+              "outlet": "Will XPeng's planned investments help Eu",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence",
               "bullets": [
                 [
                   "",
-                  "[Will XPeng’s planned investments help Europe become more competitive in electric car production? (LINK)](https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence)"
+                  "[Will XPeng's planned investments help Europe become more competitive in electric car production?](https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence)"
                 ]
               ]
             },
             {
-              "outlet": "An analysis by Alexander Davey (LINK) in",
+              "outlet": "MERICS China Debates",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/comment/chinese-experts-urge-beijing-push-past-obstacles-unified-national-market",
               "bullets": [
                 [
                   "",
-                  "[An analysis by Alexander Davey (LINK) in our new MERICS China Debates format examines how experts in China are discussing the political economy behind Beijing’s unified national market push. China’s recently released 15th Five-Year Plan calls on all levels of government to improve regulatory frameworks to “resolutely remove bottlenecks and obstacles hindering the development of a unified national market” and “eliminate local protectionism and market segmentation.”](https://merics.org/en/comment/chinese-experts-urge-beijing-push-past-obstacles-unified-national-market)"
+                  "[MERICS China Debates](https://merics.org/en/comment/chinese-experts-urge-beijing-push-past-obstacles-unified-national-market): Alexander Davey examines how Chinese experts discuss the political economy behind Beijing's unified-national-market push, as the 15th Five-Year Plan calls on all levels of government to \"eliminate local protectionism and market segmentation.\""
                 ]
               ]
             },
             {
-              "outlet": "Soapbox Trade × MERICS. Issue 250 – The ",
+              "outlet": "China Tech Observatory newsletter",
+              "title": "",
+              "date": "",
+              "url": "https://mericseu.substack.com/p/merics-china-tech-observatory-chinas",
+              "bullets": [
+                [
+                  "",
+                  "[China Tech Observatory newsletter](https://mericseu.substack.com/p/merics-china-tech-observatory-chinas): how Beijing is orchestrating a push for future industries."
+                ]
+              ]
+            },
+            {
+              "outlet": "Soapbox Trade × MERICS, Issue 250 – The ",
               "title": "",
               "date": "",
               "url": "https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product",
               "bullets": [
                 [
                   "",
-                  "[Soapbox Trade × MERICS. Issue 250 – The EU cannot chase China one product at a time → China disappears from one product line and reappears one step earlier. For the EU, the question is no longer only how to tariff a product. It is how to follow the chain. Among others, also in this issue:](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product)"
-                ]
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "EU-China trade was not a political story – It is now"
-                ]
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "Hybrids power China’s EU car-export boom"
-                ]
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "Russia leads China’s crude-oil supply, while Brazil rises in April"
-                ]
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "China now has more seniors than children"
-                ]
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "China’s factories are still not hiring"
+                  "[Soapbox Trade × MERICS, Issue 250 – The EU cannot chase China one product at a time](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product): when the EU closes one tariff door, Chinese supply reappears one step earlier in the chain; also covers the hybrid-driven EU car-export boom, crude-oil supply shifts, demographics, and weak factory hiring."
                 ]
               ]
             }
           ]
         },
         {
-          "label": "Briefings & roundtables",
+          "label": "Selected insights for media by colleagues",
           "items": [
             {
-              "outlet": "Tagesordnung 9. Sitzung UA Krisenprävent",
-              "title": "",
-              "date": "",
-              "url": "https://www.bundestag.de/resource/blob/1183318/to09_ksvf.pdf",
-              "bullets": [
-                [
-                  "",
-                  "[Tagesordnung 9. Sitzung UA Krisenprävention - 8. Juni 2026 Tagesordnungspunkt 2: Deutschlands strategische Vorausschau und Antwort auf Abhängigkeiten bei kritischen Rohstoffen aus China bei gleichzeitigen Disruptionspotentialen für den Handel durch die Taiwanstraße und zunehmend expansionistisches Auftreten Chinas](https://www.bundestag.de/resource/blob/1183318/to09_ksvf.pdf)"
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "label": "Selected insights for media by colleagues:",
-          "items": [
-            {
-              "outlet": "Euronews quoted Jacob Gunter on European",
+              "outlet": "Euronews",
               "title": "",
               "date": "",
               "url": "https://de.euronews.com/my-europe/2026/06/03/europa-china-falle-abhangigkeit",
               "bullets": [
                 [
                   "",
-                  "[Euronews quoted Jacob Gunter on European dependencies on China.](https://de.euronews.com/my-europe/2026/06/03/europa-china-falle-abhangigkeit)"
+                  "[Euronews](https://de.euronews.com/my-europe/2026/06/03/europa-china-falle-abhangigkeit) quoted Jacob Gunter on European dependencies on China."
                 ]
               ]
             },
             {
-              "outlet": "The Diplomat quoted our last weeks’ Soap",
+              "outlet": "The Diplomat",
               "title": "",
               "date": "",
               "url": "https://thediplomat.com/2026/06/the-eus-new-economic-security-tools-and-chinas-countermeasure-calculus/",
               "bullets": [
                 [
                   "",
-                  "[The Diplomat quoted our last weeks’ Soapbox.](https://thediplomat.com/2026/06/the-eus-new-economic-security-tools-and-chinas-countermeasure-calculus/)"
+                  "[The Diplomat](https://thediplomat.com/2026/06/the-eus-new-economic-security-tools-and-chinas-countermeasure-calculus/) cited the MERICS × Soapbox newsletter on the EU's new economic-security tools."
                 ]
               ]
             }
@@ -353,23 +264,85 @@ window.W23_2026 = {
       "label": "Domestic economic situation and policy",
       "items": [
         {
-          "outlet": "WSJ",
+          "outlet": "The Atlantic",
           "author": "",
-          "title": "China gets anxious enough to choose worker freedom",
-          "date": "2026-06-04",
-          "url": "https://www.wsj.com/opinion/china-gets-anxious-enough-to-choose-worker-freedom-b22478bd",
+          "title": "China's Economy Is Taking Everyone Down",
+          "date": "2026-06-03",
+          "url": "https://www.theatlantic.com/international/2026/06/china-doomed-economic-model/687385",
           "bullets": [
             [
-              "Beijing eased hukou rules for rural-to-urban migrants",
-              "Workers can now enroll children in local schools and access government healthcare in cities where they reside, the article reports."
+              "Author argues China's export model floods world markets",
+              "Schuman contends state subsidies and a held-down currency make Chinese exports artificially cheap, costing Germany 10,000 manufacturing jobs a month."
             ],
             [
-              "The author argues the reform is political, not economic",
-              "Beijing's move reflects CCP anxiety over slow growth rather than a genuine strategy to boost household consumption or reduce excessive saving."
+              "China's trade surplus reached a record $1.2 trillion last year",
+              "The article reports this as the largest share of the global economy ever accumulated by a single country, citing MIT economist David Autor's warning of \"forced deindustrialization.\""
             ],
             [
-              "Local government debt constrains how far reform will reach",
-              "Property market deflation has created hidden fiscal burdens, leaving many urban jurisdictions unable to absorb the costs of formalizing migrant residents."
+              "The model also suppresses China's own domestic economy, Schuman argues",
+              "Private investment and consumer spending remain weak, property slumps, and state aid sustains loss-making factories rather than funding social services."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Diplomat",
+          "author": "",
+          "title": "Why China needs high GDP growth rates to avoid a crisis",
+          "date": "2026-06-01",
+          "url": "https://thediplomat.com/2026/06/why-china-needs-high-gdp-growth-rates-to-avoid-a-crisis",
+          "bullets": [
+            [
+              "Volume-driven model replaces profit as survival metric",
+              "The author argues Chinese firms sell at or below cost, sustained only by cash inflows from constantly expanding market scale."
+            ],
+            [
+              "Growth slowdown triggers systemic \"supply-side depression\"",
+              "When incremental expansion fails, the article argues, hidden corporate losses surface as fiscal shortfalls, mass defaults, and widespread unemployment."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "China Leadership Monitor",
+          "author": "",
+          "title": "China's Dual Economy: When Strategic Ambition Hollows Out the Foundation",
+          "date": "2026-06-02",
+          "url": "https://www.prcleader.org/post/chinasdualeconomy-whenstrategicambitionhollowsoutthefoundation",
+          "bullets": [
+            [
+              "García-Herrero argues China's bifurcated economy serves strategic competition",
+              "Financial repression channels cheap household savings into state-directed high-tech manufacturing while domestic consumption is structurally suppressed."
+            ],
+            [
+              "Three internal contradictions are undermining the model",
+              "Price wars erode margins, real wage growth fell below 1% in 2025, and AI adoption risks accelerating labour displacement."
+            ],
+            [
+              "Structural reforms to resolve these tensions remain unlikely",
+              "The author concludes China faces continued deceleration as strategic ambition hollows out the economic foundation it depends on."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Sinification",
+          "author": "",
+          "title": "Spring Recovery or Price-Shock Mirage?",
+          "date": "2026-06-02",
+          "url": "https://www.sinification.org/p/spring-recovery-or-price-shock-mirage",
+          "bullets": [
+            [
+              "Most surveyed economists skeptical of China's Q1 rebound",
+              "Wu Ge of Changjiang Securities argues PPI gains reflect commodity prices rather than demand recovery, with property improvement likely a short-term \"pulse.\""
+            ],
+            [
+              "CASS's Zhang Bin calls for aggressive deflation-fighting measures",
+              "He advocates macro policy carrying out a \"war of annihilation\" against deflation, with Yu Yongding backing Keynesian infrastructure investment to boost income and expectations."
+            ],
+            [
+              "Rebalancing advocates warn Q1 data mask worsening supply-demand imbalance",
+              "Wang Yiming and Zhao Bo argue China should redirect support from fixed-asset investment toward households and migrant workers to restart consumption growth."
             ]
           ],
           "related": []
@@ -399,6 +372,24 @@ window.W23_2026 = {
         {
           "outlet": "Bloomberg",
           "author": "",
+          "title": "PBOC cuts cash operation to record low as bond rally deepens",
+          "date": "2026-06-02",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-02/pboc-cuts-cash-operation-to-record-low-as-bond-rally-deepens",
+          "bullets": [
+            [
+              "PBOC drained record-low 200 million yuan via daily open-market operations",
+              "The operation resulted in a net liquidity withdrawal of 248.8 billion yuan, the largest single-day drain in recent months."
+            ],
+            [
+              "Excess cash buildup drove benchmark yields to their lowest since August",
+              "Slowing loan growth has flooded the banking system with surplus funds, deepening the bond rally."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "author": "",
           "title": "China’s Shoppers Are Buying Luxury Again as Stock Market Rebounds - Bloomberg",
           "date": "2026-06-01",
           "url": "https://www.bloomberg.com/news/articles/2026-05-31/china-s-shoppers-are-buying-luxury-again-as-stock-market-rebounds",
@@ -410,6 +401,86 @@ window.W23_2026 = {
             [
               "China's stock rally is lifting affluent consumer spending",
               "Household savings allocated to property fell from over 90% in 2016 to one-third last year as more savings shifted into equities, according to McKinsey."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "From hiking to hotpot, lonely consumers in China fuel a $7.4 billion companionship economy",
+          "date": "2026-06-02",
+          "url": "https://www.reuters.com/world/asia-pacific/hiking-hotpot-lonely-consumers-china-fuel-74-billion-companionship-economy-2026-06-02",
+          "bullets": [
+            [
+              "China's paid-companionship market estimated at 50 billion yuan in 2025",
+              "State media cited the figure for a sector spanning hiking partners, travel escorts, and restaurant companions targeting socially isolated urban youth."
+            ],
+            [
+              "Youth unemployment and weakened social ties cited as primary drivers",
+              "Researchers and state media attribute demand to young people living far from family networks and relying on gig work in the absence of stable employment."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "China gets anxious enough to choose worker freedom",
+          "date": "2026-06-04",
+          "url": "https://www.wsj.com/opinion/china-gets-anxious-enough-to-choose-worker-freedom-b22478bd",
+          "bullets": [
+            [
+              "Beijing eased hukou rules for rural-to-urban migrants",
+              "Workers can now enroll children in local schools and access government healthcare in cities where they reside, the article reports."
+            ],
+            [
+              "The author argues the reform is political, not economic",
+              "Beijing's move reflects CCP anxiety over slow growth rather than a genuine strategy to boost household consumption or reduce excessive saving."
+            ],
+            [
+              "Local government debt constrains how far reform will reach",
+              "Property market deflation has created hidden fiscal burdens, leaving many urban jurisdictions unable to absorb the costs of formalizing migrant residents."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "China Leadership Monitor",
+          "author": "",
+          "title": "Why Xi's Pro-Natalist Turn is Failing: Legibility, Marketized Neo-Familism, and Micropolitical Refusal in China",
+          "date": "2026-06-01",
+          "url": "https://www.prcleader.org/post/whyxispro-natalistturnisfailing-legibility-marketizedneo-familism-andmicropoliticalrefusalinchina",
+          "bullets": [
+            [
+              "State capacity to suppress births exceeds capacity to encourage them",
+              "Thornton argues China's coercive apparatus - quotas, permits, surveillance - has no administrative equivalent for pro-natalist incentivisation."
+            ],
+            [
+              "2025 births hit 7.92 million, the lowest figure since 1949",
+              "The record came despite over 100 billion yuan in subsidies introduced after the one-child policy formally ended in 2016."
+            ],
+            [
+              "Child-rearing costs make additional births economically irrational",
+              "Raising one child to adulthood cost ~538,000 yuan by 2024 - exceeding typical annual income - according to the essay."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Foreign Policy",
+          "author": "",
+          "title": "The Deadly Price of China’s Coal Boom",
+          "date": "2026-06-02",
+          "url": "https://foreignpolicy.com/2026/06/02/china-coal-mining-accident-explosion-collapse",
+          "bullets": [
+            [
+              "Shanxi mine blast kills 82 - China's worst mine disaster in over 16 years",
+              "Only 124 of 247 miners at Liushenyu were legally employed; undocumented workers lacked the geotagged safety cards used to locate trapped miners."
+            ],
+            [
+              "Illegal production and lax enforcement remain systemic in Chinese coal mines",
+              "Operators run undocumented tunnels beyond permitted zones, and inspectors routinely tip off mine owners before scheduled visits, the article reports."
             ]
           ],
           "related": []
@@ -437,82 +508,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "PBOC cuts cash operation to record low as bond rally deepens",
-          "date": "2026-06-02",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-02/pboc-cuts-cash-operation-to-record-low-as-bond-rally-deepens",
-          "bullets": [
-            [
-              "PBOC drained record-low 200 million yuan via daily open-market operations",
-              "The operation resulted in a net liquidity withdrawal of 248.8 billion yuan, the largest single-day drain in recent months."
-            ],
-            [
-              "Excess cash buildup drove benchmark yields to their lowest since August",
-              "Slowing loan growth has flooded the banking system with surplus funds, deepening the bond rally."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Sinification",
-          "author": "",
-          "title": "Spring Recovery or Price-Shock Mirage?",
-          "date": "2026-06-02",
-          "url": "https://www.sinification.org/p/spring-recovery-or-price-shock-mirage",
-          "bullets": [
-            [
-              "Most surveyed economists skeptical of China's Q1 rebound",
-              "Wu Ge of Changjiang Securities argues PPI gains reflect commodity prices rather than demand recovery, with property improvement likely a short-term \"pulse.\""
-            ],
-            [
-              "CASS's Zhang Bin calls for aggressive deflation-fighting measures",
-              "He advocates macro policy carrying out a \"war of annihilation\" against deflation, with Yu Yongding backing Keynesian infrastructure investment to boost income and expectations."
-            ],
-            [
-              "Rebalancing advocates warn Q1 data mask worsening supply-demand imbalance",
-              "Wang Yiming and Zhao Bo argue China should redirect support from fixed-asset investment toward households and migrant workers to restart consumption growth."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Foreign Policy",
-          "author": "",
-          "title": "The Deadly Price of China’s Coal Boom",
-          "date": "2026-06-02",
-          "url": "https://foreignpolicy.com/2026/06/02/china-coal-mining-accident-explosion-collapse",
-          "bullets": [
-            [
-              "Shanxi mine blast kills 82 - China's worst mine disaster in over 16 years",
-              "Only 124 of 247 miners at Liushenyu were legally employed; undocumented workers lacked the geotagged safety cards used to locate trapped miners."
-            ],
-            [
-              "Illegal production and lax enforcement remain systemic in Chinese coal mines",
-              "Operators run undocumented tunnels beyond permitted zones, and inspectors routinely tip off mine owners before scheduled visits, the article reports."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Diplomat",
-          "author": "",
-          "title": "Why China needs high GDP growth rates to avoid a crisis",
-          "date": "2026-06-01",
-          "url": "https://thediplomat.com/2026/06/why-china-needs-high-gdp-growth-rates-to-avoid-a-crisis",
-          "bullets": [
-            [
-              "Volume-driven model replaces profit as survival metric",
-              "The author argues Chinese firms sell at or below cost, sustained only by cash inflows from constantly expanding market scale."
-            ],
-            [
-              "Growth slowdown triggers systemic \"supply-side depression\"",
-              "When incremental expansion fails, the article argues, hidden corporate losses surface as fiscal shortfalls, mass defaults, and widespread unemployment."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "FT",
           "author": "",
           "title": "World’s biggest EV maker weans itself off supply-chain finance",
@@ -530,24 +525,6 @@ window.W23_2026 = {
             [
               "BYD's headline net cash of Rmb22bn masks estimated adjusted net debt of Rmb320bn",
               "GMT Research adds de-recognised receivables and excess payables, labelling the company \"high\" accounting risk."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "From hiking to hotpot, lonely consumers in China fuel a $7.4 billion companionship economy",
-          "date": "2026-06-02",
-          "url": "https://www.reuters.com/world/asia-pacific/hiking-hotpot-lonely-consumers-china-fuel-74-billion-companionship-economy-2026-06-02",
-          "bullets": [
-            [
-              "China's paid-companionship market estimated at 50 billion yuan in 2025",
-              "State media cited the figure for a sector spanning hiking partners, travel escorts, and restaurant companions targeting socially isolated urban youth."
-            ],
-            [
-              "Youth unemployment and weakened social ties cited as primary drivers",
-              "Researchers and state media attribute demand to young people living far from family networks and relying on gig work in the absence of stable employment."
             ]
           ],
           "related": []
@@ -623,46 +600,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Economist",
-          "author": "",
-          "title": "Xi Jinping gives China’s crack scientists new jobs inside government - The Economist",
-          "date": "2026-06-04",
-          "url": "https://www.economist.com/china/2026/06/04/xi-jinping-gives-chinas-crack-scientists-new-jobs-inside-government",
-          "bullets": [
-            [
-              "Scientist-members of the Central Committee doubled to 29 over the past decade",
-              "A University of Hong Kong study finds academicians increasingly elevated to guide innovation policy and direct capital toward China's technology sectors."
-            ],
-            [
-              "Senior scientists placed in state planning roles for technology policy",
-              "Microelectronics specialist Huang Ru became NDRC vice-chair in 2026; the Central Science and Technology Commission, created in 2023, brings innovation directly under party control."
-            ],
-            [
-              "Big Fund corruption purge in 2022 accelerated the shift to technical outsiders",
-              "Anti-corruption authorities removed officials who mismanaged the 343bn yuan semiconductor fund; analysts say a new technical team now runs industrial semiconductor policy."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "China probes former aide to ex-anti-corruption tsar | Reuters",
-          "date": "2026-06-02",
-          "url": "https://www.reuters.com/world/asia-pacific/china-probes-former-aide-ex-anti-corruption-tsar-2026-06-02",
-          "bullets": [
-            [
-              "Former CSRC disciplinary chief investigated nine years after retirement",
-              "Li Xiaohong, 73, who oversaw central inspections until 2017 and was the top disciplinary figure at China's securities regulator, is under CCDI review for suspected corruption."
-            ],
-            [
-              "Xi's \"turn the blade inward\" drive claims successive disciplinary officials",
-              "Li's successor Wang Huimin was indicted on bribery charges in April 2025; Li Gang, disciplinary head at the Central Organisation Department, was sentenced to 15 years in December 2025."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "WP",
           "author": "",
           "title": "Despite censorship, young Chinese are learning the truth about Tiananmen Square",
@@ -680,6 +617,50 @@ window.W23_2026 = {
             [
               "Hong Kong's June 4 vigil shut after 2020 security law",
               "The annual Victoria Park commemoration and a dedicated museum have both closed, replaced by a \"Patriotic Hometown Market.\""
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "CECC",
+          "author": "",
+          "title": "Report on the PRC's Transnational Repression and Malign Influence in 2025",
+          "date": "2026-06-04",
+          "url": "https://www.cecc.gov/publications/commission-analysis/report-prcs-transnational-repression-and-malign-influence-2025",
+          "bullets": [
+            [
+              "CECC separates PRC overseas repression into standalone annual report",
+              "The Commission cites widening tactics and targets - from diaspora intimidation to democratic influence operations - as requiring sustained, dedicated public attention."
+            ],
+            [
+              "Freedom House ranked PRC as leading perpetrator of transnational repression",
+              "The PRC accounted for 23 percent of all recorded cases globally since 2014, according to the 2026 Freedom House assessment cited in the report."
+            ],
+            [
+              "Xi designated overseas Chinese as primary agents of United Front work abroad",
+              "UFWD operations have expanded beyond the diaspora to target any global voice critical of the CCP, the report documents."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Bitter Winter",
+          "author": "",
+          "title": "China's Patriotic Catholic Church Promotes the Ethnic Unity Law",
+          "date": "2026-06-02",
+          "url": "https://bitterwinter.org/chinas-patriotic-catholic-church-promotes-the-ethnic-unity-law",
+          "bullets": [
+            [
+              "Patriotic Catholic Church enlisted in ethnic unity law campaign",
+              "Official branches organized propaganda events promoting Party ethnic policy, distributing booklets and instructing believers that \"national law takes precedence over religious norms.\""
+            ],
+            [
+              "Inner Mongolia clergy promoted \"Five Recognitions\" amid Mongolian-language resistance",
+              "Believers were told to subordinate religious identity to CCP nation-building doctrine in a region that has resisted education policy rollbacks."
+            ],
+            [
+              "Article questions whether Vatican will reassess 2018 Beijing agreement",
+              "The author argues the Patriotic Church has been absorbed into Sinicization machinery, presenting a government agency as the voice of Chinese Catholicism."
             ]
           ],
           "related": []
@@ -739,28 +720,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "CECC",
-          "author": "",
-          "title": "Report on the PRC's Transnational Repression and Malign Influence in 2025",
-          "date": "2026-06-04",
-          "url": "https://www.cecc.gov/publications/commission-analysis/report-prcs-transnational-repression-and-malign-influence-2025",
-          "bullets": [
-            [
-              "CECC separates PRC overseas repression into standalone annual report",
-              "The Commission cites widening tactics and targets - from diaspora intimidation to democratic influence operations - as requiring sustained, dedicated public attention."
-            ],
-            [
-              "Freedom House ranked PRC as leading perpetrator of transnational repression",
-              "The PRC accounted for 23 percent of all recorded cases globally since 2014, according to the 2026 Freedom House assessment cited in the report."
-            ],
-            [
-              "Xi designated overseas Chinese as primary agents of United Front work abroad",
-              "UFWD operations have expanded beyond the diaspora to target any global voice critical of the CCP, the report documents."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Reuters",
           "author": "",
           "title": "Rubio says China cannot erase memories of Tiananmen Square crackdown",
@@ -779,19 +738,63 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "SCMP",
+          "outlet": "Economist",
           "author": "",
-          "title": "Top Chinese map-making scientist Zhou Chenghu under investigation in anti-corruption sweep",
-          "date": "2026-06-02",
-          "url": "https://www.scmp.com/news/china/science/article/3355712/top-chinese-map-making-scientist-detained-anti-corruption-sweep",
+          "title": "Xi Jinping gives China’s crack scientists new jobs inside government - The Economist",
+          "date": "2026-06-04",
+          "url": "https://www.economist.com/china/2026/06/04/xi-jinping-gives-chinas-crack-scientists-new-jobs-inside-government",
           "bullets": [
             [
-              "CCDI opens probe into leading CAS cartographic academician",
-              "Zhou Chenghu, former deputy director of a CAS geographic-sciences institute, faces investigation for \"suspected serious violations of duty,\" the watchdog announced."
+              "Scientist-members of the Central Committee doubled to 29 over the past decade",
+              "A University of Hong Kong study finds academicians increasingly elevated to guide innovation policy and direct capital toward China's technology sectors."
             ],
             [
-              "Zhou's profile spans drone logistics and China's security-sensitive mapping sector",
-              "He pioneered the low-altitude drone economy; mapping in China omits restricted areas for security reasons and is commercially lucrative, the article notes."
+              "Senior scientists placed in state planning roles for technology policy",
+              "Microelectronics specialist Huang Ru became NDRC vice-chair in 2026; the Central Science and Technology Commission, created in 2023, brings innovation directly under party control."
+            ],
+            [
+              "Big Fund corruption purge in 2022 accelerated the shift to technical outsiders",
+              "Anti-corruption authorities removed officials who mismanaged the 343bn yuan semiconductor fund; analysts say a new technical team now runs industrial semiconductor policy."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "China Leadership Monitor",
+          "author": "",
+          "title": "Changes of Factional Dynamics under Xi Jinping",
+          "date": "2026-06-01",
+          "url": "https://www.prcleader.org/post/changes-of-factional-dynamics-under-xi-jinping",
+          "bullets": [
+            [
+              "12.5% of 20th Central Committee penalized by April 2026",
+              "Wu reports 47 members or alternates disciplined - more than double the 18th Congress rate and far above the 0.8% recorded after the 19th."
+            ],
+            [
+              "Wu's \"factional cascade\" thesis reframes elite rivalry under Xi",
+              "Li Qiang and Cai Qi head sub-factions as Xi's subordinates, not independent rival blocs, the essay argues."
+            ],
+            [
+              "Sub-factions compete by gathering corruption evidence against rivals",
+              "Because purge targets are only indirectly linked to Xi, Wu argues their removal does not threaten his position - explaining why many of \"Xi's men\" have fallen."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "China probes former aide to ex-anti-corruption tsar | Reuters",
+          "date": "2026-06-02",
+          "url": "https://www.reuters.com/world/asia-pacific/china-probes-former-aide-ex-anti-corruption-tsar-2026-06-02",
+          "bullets": [
+            [
+              "Former CSRC disciplinary chief investigated nine years after retirement",
+              "Li Xiaohong, 73, who oversaw central inspections until 2017 and was the top disciplinary figure at China's securities regulator, is under CCDI review for suspected corruption."
+            ],
+            [
+              "Xi's \"turn the blade inward\" drive claims successive disciplinary officials",
+              "Li's successor Wang Huimin was indicted on bribery charges in April 2025; Li Gang, disciplinary head at the Central Organisation Department, was sentenced to 15 years in December 2025."
             ]
           ],
           "related": []
@@ -813,6 +816,24 @@ window.W23_2026 = {
             ]
           ],
           "related": []
+        },
+        {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "Top Chinese map-making scientist Zhou Chenghu under investigation in anti-corruption sweep",
+          "date": "2026-06-02",
+          "url": "https://www.scmp.com/news/china/science/article/3355712/top-chinese-map-making-scientist-detained-anti-corruption-sweep",
+          "bullets": [
+            [
+              "CCDI opens probe into leading CAS cartographic academician",
+              "Zhou Chenghu, former deputy director of a CAS geographic-sciences institute, faces investigation for \"suspected serious violations of duty,\" the watchdog announced."
+            ],
+            [
+              "Zhou's profile spans drone logistics and China's security-sensitive mapping sector",
+              "He pioneered the low-altitude drone economy; mapping in China omits restricted areas for security reasons and is commercially lucrative, the article notes."
+            ]
+          ],
+          "related": []
         }
       ]
     },
@@ -822,6 +843,46 @@ window.W23_2026 = {
       "short": "Geoecon · Tech",
       "label": "Geoeconomics — tech & innovation",
       "items": [
+        {
+          "outlet": "FT",
+          "author": "",
+          "title": "The China-US tech truce is fragile",
+          "date": "2026-06-02",
+          "url": "https://www.ft.com/content/7344ae89-6104-4b3f-a86b-18c7348830de",
+          "bullets": [
+            [
+              "Beijing unveiled regulations penalising corporate compliance with third-party sanctions",
+              "The rules, announced ahead of the Trump-Xi summit, give China a tool to pressure multinationals in future supply chain disputes, the article reports."
+            ],
+            [
+              "Congress advanced export control bills restricting chipmaker access to China",
+              "The Match Act would close loopholes allowing US allies to sell chipmaking equipment to China on terms more favourable than those available to US companies."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Euronews",
+          "author": "",
+          "title": "New trade secret rules: China says its AI data is none of your business",
+          "date": "2026-06-02",
+          "url": "https://www.euronews.com/next/2026/06/02/new-trade-secret-rules-china-says-its-ai-data-is-none-of-your-business",
+          "bullets": [
+            [
+              "China's first trade secret update since 1998 explicitly covers AI algorithms and data",
+              "Undisclosed algorithms, datasets, and computer programs are now protected trade secrets, with SAMR empowered to levy fines up to 5 million yuan for confirmed breaches."
+            ],
+            [
+              "New rules impose strict controls on cross-border data access and remote collaboration",
+              "Companies must implement access logging, data anonymisation, and audit trails tracking who has copied or modified protected information."
+            ],
+            [
+              "Regulation is part of a broader pattern of Chinese AI protectionism",
+              "The same week, China also restricted AI talent movement, blocked Meta's acquisition of AI firm Manus, and tightened rules on overseas deals involving technology and data."
+            ]
+          ],
+          "related": []
+        },
         {
           "outlet": "SCMP",
           "author": "",
@@ -836,24 +897,6 @@ window.W23_2026 = {
             [
               "Proposed list spans 63 technologies China views as globally competitive",
               "The framework covers sectors where China holds strategic advantages, shifting its posture from export control target to potential restrictor of critical technologies."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "China's BYD, SAIC Motor eye EVs with all-solid-state batteries in 2027",
-          "date": "2026-06-02",
-          "url": "https://asia.nikkei.com/business/technology/china-s-byd-saic-motor-eye-evs-with-all-solid-state-batteries-in-2027",
-          "bullets": [
-            [
-              "SAIC and BYD target 2027 EV launches with all-solid-state batteries",
-              "SAIC partnered with startup Qingtao Energy to prototype the \"Guangqi\" battery in March; BYD, which began ASSB research in 2013, aims for large-scale production by 2030."
-            ],
-            [
-              "Chinese firms use semi-solid batteries as a commercial bridge",
-              "Unlike Japanese rivals, Chinese manufacturers are deploying semi-solid batteries - reducing liquid electrolyte to 5% - in production vehicles now, leveraging China's 16-million-unit annual EV market to compress adoption cycles."
             ]
           ],
           "related": []
@@ -881,73 +924,23 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Straits Times",
+          "outlet": "Bloomberg",
           "author": "",
-          "title": "DeepSeek slated to draw $9.5 billion in first fundraising, sources say",
-          "date": "2026-06-03",
-          "url": "https://www.straitstimes.com/business/companies-markets/deepseek-slated-to-draw-9-5-billion-in-first-fundraising-sources-say",
+          "title": "Trump Officials Worry US Loophole Let Chinese Firms Buy Nvidia Blackwell Chips",
+          "date": "2026-06-05",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-05/trump-officials-worry-us-loophole-let-chinese-firms-buy-nvidia-blackwells",
           "bullets": [
             [
-              "DeepSeek set to raise 50 billion yuan in first-ever funding round",
-              "Tencent, CATL, and China's national AI fund are among fewer than 10 investors, valuing the start-up at up to 400 billion yuan, per Reuters sources. (Headline S$9.5bn ≈ US$7.4bn.)"
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "FT",
-          "author": "",
-          "title": "Tencent moves closer to launching AI agent for China’s most-used app",
-          "date": "2026-06-02",
-          "url": "https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6",
-          "bullets": [
-            [
-              "Tencent testing WeChat AI agent for mini-app task completion",
-              "Compliance filing is planned for as early as this month, with a phased public rollout to follow, according to two people familiar with the plan."
+              "BIS reaffirmed global AI chip controls on Chinese buyers",
+              "An anonymous May memo had argued export restrictions effectively lapsed; BIS denied this Sunday and confirmed controls remain in effect."
             ],
             [
-              "Nvidia export ban constrains compute capacity for a full rollout",
-              "Sources say Tencent \"was too conservative to stock up\" on Nvidia chips before US restrictions, and domestic semiconductor supply remains tight."
+              "Trump's May 2025 rollback of Biden's AI diffusion rule left enforcement ambiguous",
+              "The change left unclear whether controls applied to third-country Nvidia chip sales to Chinese companies."
             ],
             [
-              "Alibaba's Qwen and ByteDance's Doubao already offer agentic functions",
-              "Both rivals' user bases are growing rapidly despite WeChat's 1.4bn MAU advantage, putting pressure on Tencent to accelerate its timeline."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "FT",
-          "author": "",
-          "title": "The China-US tech truce is fragile",
-          "date": "2026-06-02",
-          "url": "https://www.ft.com/content/7344ae89-6104-4b3f-a86b-18c7348830de",
-          "bullets": [
-            [
-              "Beijing unveiled regulations penalising corporate compliance with third-party sanctions",
-              "The rules, announced ahead of the Trump-Xi summit, give China a tool to pressure multinationals in future supply chain disputes, the article reports."
-            ],
-            [
-              "Congress advanced export control bills restricting chipmaker access to China",
-              "The Match Act would close loopholes allowing US allies to sell chipmaking equipment to China on terms more favourable than those available to US companies."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Trivium",
-          "author": "",
-          "title": "Top academician pours cold water on future industries",
-          "date": "2026-06-02",
-          "url": "https://triviumchina.com/2026/06/02/top-academician-pours-cold-water-on-future-industries",
-          "bullets": [
-            [
-              "Senior academician warns China's future-industry parks outpace scientific foundations",
-              "Zhang Jun, writing in Qiushi on May 30, argued local governments are rushing to develop humanoid robots and brain-computer interfaces before technologies can support reliable mass production."
-            ],
-            [
-              "Zhang's critique ran in the same Qiushi issue as Xi Jinping's future-industry remarks",
-              "The newsletter argues this placement marks his criticism as part of the authorized reading of Xi's line, not external skepticism."
+              "Officials are investigating Nvidia Blackwell shipments via Singapore and Malaysia to Chinese firms",
+              "A second potential loophole may have let chipmakers like TSMC legally produce advanced chips for Chinese companies including Tencent."
             ]
           ],
           "related": []
@@ -978,6 +971,100 @@ window.W23_2026 = {
               "url": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31"
             }
           ]
+        },
+        {
+          "outlet": "FT",
+          "author": "",
+          "title": "Tencent moves closer to launching AI agent for China’s most-used app",
+          "date": "2026-06-02",
+          "url": "https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6",
+          "bullets": [
+            [
+              "Tencent testing WeChat AI agent for mini-app task completion",
+              "Compliance filing is planned for as early as this month, with a phased public rollout to follow, according to two people familiar with the plan."
+            ],
+            [
+              "Nvidia export ban constrains compute capacity for a full rollout",
+              "Sources say Tencent \"was too conservative to stock up\" on Nvidia chips before US restrictions, and domestic semiconductor supply remains tight."
+            ],
+            [
+              "Alibaba's Qwen and ByteDance's Doubao already offer agentic functions",
+              "Both rivals' user bases are growing rapidly despite WeChat's 1.4bn MAU advantage, putting pressure on Tencent to accelerate its timeline."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Straits Times",
+          "author": "",
+          "title": "DeepSeek slated to draw $9.5 billion in first fundraising, sources say",
+          "date": "2026-06-03",
+          "url": "https://www.straitstimes.com/business/companies-markets/deepseek-slated-to-draw-9-5-billion-in-first-fundraising-sources-say",
+          "bullets": [
+            [
+              "DeepSeek set to raise 50 billion yuan in first-ever funding round",
+              "Tencent, CATL, and China's national AI fund are among fewer than 10 investors, valuing the start-up at up to 400 billion yuan, per Reuters sources. (Headline S$9.5bn ≈ US$7.4bn.)"
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "CNAS",
+          "author": "",
+          "title": "Adversarial Distillation: China's Campaign to Extract American AI Capabilities",
+          "date": "2026-06-02",
+          "url": "https://www.cnas.org/publications/reports/adversarial-distillation",
+          "bullets": [
+            [
+              "CNAS report documents Chinese extraction of US AI capabilities via adversarial distillation",
+              "Four techniques - synthetic data generation, chain-of-thought extraction, data cleaning, and reward modeling - allow adversaries to replicate US model capabilities without authorization."
+            ],
+            [
+              "Extraction scale exceeds DeepSeek-R1's full training corpus",
+              "Anthropic, Google, and OpenAI have documented campaigns involving millions of exchanges totalling tokens that, according to the report, exceed the 6.4 billion used to train DeepSeek-R1."
+            ],
+            [
+              "Report proposes six-layer detection and deterrence regime",
+              "Recommended measures include DOJ-FTC information-sharing guidance, Commerce entity designations for intermediary platforms, NSA threat intelligence support, and two pending Congressional bills."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "China's BYD, SAIC Motor eye EVs with all-solid-state batteries in 2027",
+          "date": "2026-06-02",
+          "url": "https://asia.nikkei.com/business/technology/china-s-byd-saic-motor-eye-evs-with-all-solid-state-batteries-in-2027",
+          "bullets": [
+            [
+              "SAIC and BYD target 2027 EV launches with all-solid-state batteries",
+              "SAIC partnered with startup Qingtao Energy to prototype the \"Guangqi\" battery in March; BYD, which began ASSB research in 2013, aims for large-scale production by 2030."
+            ],
+            [
+              "Chinese firms use semi-solid batteries as a commercial bridge",
+              "Unlike Japanese rivals, Chinese manufacturers are deploying semi-solid batteries - reducing liquid electrolyte to 5% - in production vehicles now, leveraging China's 16-million-unit annual EV market to compress adoption cycles."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Trivium",
+          "author": "",
+          "title": "Top academician pours cold water on future industries",
+          "date": "2026-06-02",
+          "url": "https://triviumchina.com/2026/06/02/top-academician-pours-cold-water-on-future-industries",
+          "bullets": [
+            [
+              "Senior academician warns China's future-industry parks outpace scientific foundations",
+              "Zhang Jun, writing in Qiushi on May 30, argued local governments are rushing to develop humanoid robots and brain-computer interfaces before technologies can support reliable mass production."
+            ],
+            [
+              "Zhang's critique ran in the same Qiushi issue as Xi Jinping's future-industry remarks",
+              "The newsletter argues this placement marks his criticism as part of the authorized reading of Xi's line, not external skepticism."
+            ]
+          ],
+          "related": []
         }
       ]
     },
@@ -988,23 +1075,68 @@ window.W23_2026 = {
       "label": "Geoeconomics — trade, finance & industrial policy",
       "items": [
         {
-          "outlet": "Reuters",
+          "outlet": "OECD",
           "author": "",
-          "title": "A bachelor’s in rare earths? In China, there are schools for that",
+          "title": "Industrial subsidies reach highest levels since the global financial crisis, says OECD - OECD",
           "date": "2026-06-01",
-          "url": "https://www.reuters.com/graphics/CHINA-RAREEARTHS/UNIVERSITIES/zgpolorrwvd",
+          "url": "https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html",
           "bullets": [
             [
-              "China runs 41 rare earth labs and 11 dedicated degree programs",
-              "The system enrolls over 500 students annually, producing graduates immediately productive in industry, according to a Reuters examination."
+              "Global industrial subsidies reached $108 billion in 2024",
+              "Total support across 15 sectors hit 1.3% of firm revenue - the second-highest ratio on record since 2009, according to the new OECD MAGIC database."
             ],
             [
-              "Beijing restricted technician travel after Liberation Day tariffs",
-              "China ordered some rare earth technicians to surrender passports and tightened technology export controls, intensifying a crackdown that began in April 2025."
+              "Chinese firms received 3-8 times more subsidy than OECD-country peers",
+              "The database links 60% of Chinese firms' global market share gains over 2005-2024 to government support, versus 22% globally."
             ],
             [
-              "US awarded just over 200 generalist mining degrees in 2023, none rare-earth-specific",
-              "No U.S. institution offers a dedicated rare earths undergraduate degree, compared to China's 11-plus specialized programs, Reuters found."
+              "Solar PV, semiconductors, steel, and shipbuilding were the most supported sectors",
+              "State-owned firms - particularly in China - received substantially more grants and below-market loans than private competitors, the report finds."
+            ],
+            [
+              "EU Commission declares the current China trade relationship \"not sustainable\"",
+              "The findings landed as Brussels held an orientation debate and weighs new measures to counter Beijing's industrial aid."
+            ]
+          ],
+          "related": [
+            {
+              "text": "Euronews: China's state subsidies up to eight times more than OECD's, report says",
+              "url": "https://www.euronews.com/my-europe/2026/06/01/chinas-state-subsidies-up-to-eight-times-more-than-oecds-report-says"
+            }
+          ]
+        },
+        {
+          "outlet": "Soapbox Trade",
+          "author": "",
+          "title": "The EU cannot chase China one product at a time",
+          "date": "2026-06-01",
+          "url": "https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product",
+          "bullets": [
+            [
+              "EU steel duties shifted China from finished to semi-finished inputs",
+              "After 2017 anti-dumping measures targeted hot-rolled flat steel, Chinese slab imports surged from 2022, concentrated in Italy and outside the duty scope."
+            ],
+            [
+              "New EU steel regime from July 2026 introduces \"melt and pour\" traceability",
+              "The rule tracks steel to its country of first production, targeting Chinese slabs re-exported to the EU via Turkey or Indonesia."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Trivium",
+          "author": "",
+          "title": "State Council tightens control over outbound investment",
+          "date": "2026-06-01",
+          "url": "https://triviumchina.com/2026/06/01/state-council-tightens-control-over-outbound-investment",
+          "bullets": [
+            [
+              "State Council issues first unified outbound investment framework",
+              "The Regulations on Outbound Investment, released June 1 and effective July 1, establish China's first comprehensive national ODI oversight regime."
+            ],
+            [
+              "New rules replace a patchwork of lower-level ministerial regulations",
+              "Prior outbound investment oversight was dispersed across ministry-specific rules without a unified national framework, according to the article."
             ]
           ],
           "related": []
@@ -1028,23 +1160,23 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "North Africa Post",
+          "outlet": "Reuters",
           "author": "",
-          "title": "China’s growing investment in Morocco sparks EU’s concerns",
+          "title": "A bachelor’s in rare earths? In China, there are schools for that",
           "date": "2026-06-01",
-          "url": "https://northafricapost.com/97536-chinas-growing-investment-in-morocco-sparks-eus-concerns.html",
+          "url": "https://www.reuters.com/graphics/CHINA-RAREEARTHS/UNIVERSITIES/zgpolorrwvd",
           "bullets": [
             [
-              "China pours $6 billion into Morocco's auto sector since the pandemic",
-              "Projects include Gotion High-tech's $1.3 billion battery gigafactory and multiple parts suppliers clustered around Tangier's special economic zones."
+              "China runs 41 rare earth labs and 11 dedicated degree programs",
+              "The system enrolls over 500 students annually, producing graduates immediately productive in industry, according to a Reuters examination."
             ],
             [
-              "EU officials acknowledge difficulty separating genuine collaboration from circumvention",
-              "Rules of origin are the stated safeguard, but China is building integrated supply chains from phosphate processing to EV components, FT reports."
+              "Beijing restricted technician travel after Liberation Day tariffs",
+              "China ordered some rare earth technicians to surrender passports and tightened technology export controls, intensifying a crackdown that began in April 2025."
             ],
             [
-              "Morocco markets 50 FTAs and five-year tax holidays to manufacturers",
-              "The kingdom offers tariff-free access to 2.5 billion consumers, positioning itself between Chinese manufacturing capacity and European auto supply chains."
+              "US awarded just over 200 generalist mining degrees in 2023, none rare-earth-specific",
+              "No U.S. institution offers a dedicated rare earths undergraduate degree, compared to China's 11-plus specialized programs, Reuters found."
             ]
           ],
           "related": []
@@ -1090,37 +1222,41 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Trivium",
+          "outlet": "North Africa Post",
           "author": "",
-          "title": "State Council tightens control over outbound investment",
+          "title": "China’s growing investment in Morocco sparks EU’s concerns",
           "date": "2026-06-01",
-          "url": "https://triviumchina.com/2026/06/01/state-council-tightens-control-over-outbound-investment",
+          "url": "https://northafricapost.com/97536-chinas-growing-investment-in-morocco-sparks-eus-concerns.html",
           "bullets": [
             [
-              "State Council issues first unified outbound investment framework",
-              "The Regulations on Outbound Investment, released June 1 and effective July 1, establish China's first comprehensive national ODI oversight regime."
+              "China pours $6 billion into Morocco's auto sector since the pandemic",
+              "Projects include Gotion High-tech's $1.3 billion battery gigafactory and multiple parts suppliers clustered around Tangier's special economic zones."
             ],
             [
-              "New rules replace a patchwork of lower-level ministerial regulations",
-              "Prior outbound investment oversight was dispersed across ministry-specific rules without a unified national framework, according to the article."
+              "EU officials acknowledge difficulty separating genuine collaboration from circumvention",
+              "Rules of origin are the stated safeguard, but China is building integrated supply chains from phosphate processing to EV components, FT reports."
+            ],
+            [
+              "Morocco markets 50 FTAs and five-year tax holidays to manufacturers",
+              "The kingdom offers tariff-free access to 2.5 billion consumers, positioning itself between Chinese manufacturing capacity and European auto supply chains."
             ]
           ],
           "related": []
         },
         {
-          "outlet": "Soapbox Trade",
+          "outlet": "Reuters",
           "author": "",
-          "title": "The EU cannot chase China one product at a time",
+          "title": "Indian steelmakers grapple with resurgence of cheap Chinese imports | Reuters",
           "date": "2026-06-01",
-          "url": "https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product",
+          "url": "https://www.reuters.com/world/china/indian-steelmakers-grapple-with-resurgence-cheap-chinese-imports-2026-06-01",
           "bullets": [
             [
-              "EU steel duties shifted China from finished to semi-finished inputs",
-              "After 2017 anti-dumping measures targeted hot-rolled flat steel, Chinese slab imports surged from 2022, concentrated in Italy and outside the duty scope."
+              "China's finished steel exports to India more than doubled in April",
+              "Around 232,000 metric tonnes were shipped, making China the top supplier despite tariffs imposed in December on some grades."
             ],
             [
-              "New EU steel regime from July 2026 introduces \"melt and pour\" traceability",
-              "The rule tracks steel to its country of first production, targeting Chinese slabs re-exported to the EU via Turkey or Indonesia."
+              "Two routes are bypassing India's December steel tariffs",
+              "Stainless products are exempt from duties, while Vietnam shipments - exploiting the India-ASEAN FTA - rose fourfold to 59,000 tonnes."
             ]
           ],
           "related": []
@@ -1148,53 +1284,22 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Reuters",
+          "outlet": "WSJ",
           "author": "",
-          "title": "Indian steelmakers grapple with resurgence of cheap Chinese imports | Reuters",
+          "title": "China Cooks the Carbon Emissions Books",
           "date": "2026-06-01",
-          "url": "https://www.reuters.com/world/china/indian-steelmakers-grapple-with-resurgence-cheap-chinese-imports-2026-06-01",
+          "url": "https://www.wsj.com/opinion/china-carbon-emissions-statistics-lauri-myllyvirta-fdf66609",
           "bullets": [
             [
-              "China's finished steel exports to India more than doubled in April",
-              "Around 232,000 metric tonnes were shipped, making China the top supplier despite tariffs imposed in December on some grades."
+              "China redefined its carbon intensity metric to show near-target compliance",
+              "Excluding chemicals and plastics emissions lifted the stated 2020-25 reduction from 12.4% to 17.7%, the WSJ editorial reports."
             ],
             [
-              "Two routes are bypassing India's December steel tariffs",
-              "Stainless products are exempt from duties, while Vietnam shipments - exploiting the India-ASEAN FTA - rose fourfold to 59,000 tonnes."
+              "The redefinition creates a statistical gap equal to South Korea's annual emissions",
+              "Analyst Lauri Myllyvirta found the new methodology \"effectively halves\" China's reported CO2 growth over the past five years."
             ]
           ],
           "related": []
-        },
-        {
-          "outlet": "OECD",
-          "author": "",
-          "title": "Industrial subsidies reach highest levels since the global financial crisis, says OECD - OECD",
-          "date": "2026-06-01",
-          "url": "https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html",
-          "bullets": [
-            [
-              "Global industrial subsidies reached $108 billion in 2024",
-              "Total support across 15 sectors hit 1.3% of firm revenue - the second-highest ratio on record since 2009, according to the new OECD MAGIC database."
-            ],
-            [
-              "Chinese firms received 3-8 times more subsidy than OECD-country peers",
-              "The database links 60% of Chinese firms' global market share gains over 2005-2024 to government support, versus 22% globally."
-            ],
-            [
-              "Solar PV, semiconductors, steel, and shipbuilding were the most supported sectors",
-              "State-owned firms - particularly in China - received substantially more grants and below-market loans than private competitors, the report finds."
-            ],
-            [
-              "EU Commission declares the current China trade relationship \"not sustainable\"",
-              "The findings landed as Brussels held an orientation debate and weighs new measures to counter Beijing's industrial aid."
-            ]
-          ],
-          "related": [
-            {
-              "text": "Euronews: China's state subsidies up to eight times more than OECD's, report says",
-              "url": "https://www.euronews.com/my-europe/2026/06/01/chinas-state-subsidies-up-to-eight-times-more-than-oecds-report-says"
-            }
-          ]
         }
       ]
     },
@@ -1204,6 +1309,51 @@ window.W23_2026 = {
       "short": "Foreign",
       "label": "Foreign policy and 'Global China'",
       "items": [
+        {
+          "outlet": "Diplomat",
+          "author": "",
+          "title": "Trilateral dynamics: China’s strategy to test US restraint of Japan",
+          "date": "2026-06-04",
+          "url": "https://thediplomat.com/2026/06/trilateral-dynamics-chinas-strategy-to-test-us-restraint-of-japan",
+          "bullets": [
+            [
+              "China's Japan pressure tests U.S. willingness to check Tokyo",
+              "The article argues Beijing is playing a trilateral game, using anti-militarism rhetoric to probe how far Washington will restrain Japanese rearmament."
+            ],
+            [
+              "The article identifies a structural paradox in Beijing's approach",
+              "If Trump restrains Tokyo, Japan accelerates rearmament fearing abandonment; if Trump stands firm, a U.S.-backed Japan grows bolder."
+            ],
+            [
+              "China's unanswered hotline in December 2025 exposes crisis management limits",
+              "PLA leadership purges further reduce reliable points of contact, the article notes, raising inadvertent escalation risks."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "WP",
+          "author": "",
+          "title": "U.S. and intelligence allies issue rare joint warning about China",
+          "date": "2026-06-03",
+          "url": "https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel?itid=sf_world-asia-pacific_toptable_1_0",
+          "bullets": [
+            [
+              "Five Eyes warned of Chinese spy recruitment via job platforms",
+              "PLA intelligence poses as HR consultants on LinkedIn and Upwork to solicit classified information from Western security clearance holders."
+            ],
+            [
+              "Paid report assignments escalate to encrypted channels for sensitive data",
+              "Candidates submit assessments on China policy or defense for fees up to several thousand dollars before being pressured for classified material."
+            ]
+          ],
+          "related": [
+            {
+              "text": "Nikkei: Five Eyes intelligence alliance warns of Chinese spying via job sites",
+              "url": "https://asia.nikkei.com/politics/international-relations/five-eyes-intelligence-alliance-warns-of-chinese-spying-via-job-sites"
+            }
+          ]
+        },
         {
           "outlet": "Lowy Institute",
           "author": "",
@@ -1229,17 +1379,93 @@ window.W23_2026 = {
         {
           "outlet": "Nikkei",
           "author": "",
-          "title": "Bangladesh tilts to China as India water-sharing impasse deepens",
+          "title": "Trump is turning Taiwan into a bargaining chip",
           "date": "2026-06-02",
-          "url": "https://asia.nikkei.com/politics/international-relations/bangladesh-tilts-to-china-as-india-water-sharing-impasse-deepens",
+          "url": "https://asia.nikkei.com/opinion/trump-is-turning-taiwan-into-a-bargaining-chip",
           "bullets": [
             [
-              "Bangladesh approved a $2.8 billion Padma Barrage and China-backed Teesta Mega Project",
-              "Dhaka cited India's failure to implement water-sharing agreements across their 54 shared rivers as the driver."
+              "Trump described U.S. arms sales to Taiwan as a \"negotiating chip\"",
+              "The statement, made after the Trump-Xi Beijing summit in May 2026, signals a transactional rather than principled U.S. commitment to Taipei's security."
             ],
             [
-              "China's role in the Teesta project raises Indian security concerns",
-              "The project sits near the Siliguri Corridor - India's narrow land link to its northeastern states - prompting analysts to frame Beijing's involvement as strategically significant."
+              "Trump blamed Taiwan's President Lai for cross-Strait tensions while ignoring Chinese military provocations",
+              "He also consulted Beijing on the arms sales question, violating the Reagan-era Six Assurances pledge to exclude China from such discussions."
+            ],
+            [
+              "Taiwan responded by emphasising its economic value",
+              "President Lai reportedly sent Trump a copy of TSMC founder Morris Chang's autobiography, while Taipei publicly praised Trump's \"continued support\" despite the alarming signals."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "Taiwan’s Opposition Leader Cheng Li-wun Visits U.S. With a Message Straight Out of China - WSJ",
+          "date": "2026-06-01",
+          "url": "https://www.wsj.com/world/china/taiwans-opposition-leader-comes-to-u-s-with-a-message-straight-out-of-beijing-1561596b",
+          "bullets": [
+            [
+              "KMT leader begins US tour with Beijing-aligned \"one China\" pitch",
+              "Cheng Li-wun, who met Xi in April, argues Taiwan's constitution supports the principle that island and mainland form one China."
+            ],
+            [
+              "Trump called his paused $14 billion Taiwan arms package a \"negotiating chip\"",
+              "The sale - covering Patriot upgrades and NASAMS missiles - has not been formally notified to Congress, raising deterrence concerns among Taiwan supporters."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "author": "",
+          "title": "China sends patrol east of Taiwan after Tokyo-Manila talks",
+          "date": "2026-06-01",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-01/china-sends-patrol-east-of-taiwan-after-tokyo-manila-talks",
+          "bullets": [
+            [
+              "China deployed Coast Guard east of Taiwan",
+              "Beijing sent patrols after Tokyo-Manila maritime border talks, calling the discussions a sovereignty violation and demanding Japan and the Philippines halt \"illegal acts.\""
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "Taiwan targets Beijing’s grey-zone tactics near remote South China Sea islands",
+          "date": "2026-06-02",
+          "url": "https://www.scmp.com/news/china/politics/article/3355602/taiwan-targets-beijings-grey-zone-tactics-near-remote-south-china-sea-islands",
+          "bullets": [
+            [
+              "Chinese coastguard vessels circled Dongsha 39 times since February 2025",
+              "The frequency marks a sharp increase from occasional transits in prior years, Taiwan's Coast Guard Administration reported."
+            ],
+            [
+              "Taiwan's navy ordered to support coastguard patrols around the atoll",
+              "Defence minister Wellington Koo said the coastguard remains the primary responding force, with the navy providing unspecified backup assistance."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "NYT",
+          "author": "",
+          "title": "In Taiwan, Chinese-born wives are a focus of infiltration fears",
+          "date": "2026-06-01",
+          "url": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html",
+          "bullets": [
+            [
+              "Taiwan woman on trial for CCP-directed election interference",
+              "Hsu Chun-ying allegedly received WeChat instructions from two Chinese officials to place mainland-born candidates in Taiwan's legislature, prosecutors say."
+            ],
+            [
+              "Case prompts debate over profiling Taiwan's Chinese migrant community",
+              "Officials acknowledge exploitation risks via family ties while community members say blanket suspicion of the 261,000 mainland spouses is unjust."
+            ],
+            [
+              "Taiwan ex-spy chief says China shifted to systematic proxy-building",
+              "A former deputy director of Taiwan's security bureau says Beijing moved from isolated espionage to organised political proxy recruitment."
             ]
           ],
           "related": []
@@ -1267,15 +1493,19 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Bloomberg",
+          "outlet": "Reuters",
           "author": "",
-          "title": "China sends patrol east of Taiwan after Tokyo-Manila talks",
-          "date": "2026-06-01",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-01/china-sends-patrol-east-of-taiwan-after-tokyo-manila-talks",
+          "title": "South Korea, China agree first expansion in flight rights in seven years",
+          "date": "2026-06-04",
+          "url": "https://www.reuters.com/world/china/south-korea-china-agree-first-expansion-flight-rights-seven-years-2026-06-04",
           "bullets": [
             [
-              "China deployed Coast Guard east of Taiwan",
-              "Beijing sent patrols after Tokyo-Manila maritime border talks, calling the discussions a sovereignty violation and demanding Japan and the Philippines halt \"illegal acts.\""
+              "South Korea and China expand bilateral flight rights for first time since 2019",
+              "Seoul and Beijing agreed to add 56 weekly passenger and 14 cargo flights, raising totals to 664 and 68 respectively."
+            ],
+            [
+              "Expansion follows demand recovery exceeding pre-pandemic levels",
+              "Q1 2026 South Korea-China passenger traffic reached 4.39 million, above the pre-pandemic 4.14 million benchmark."
             ]
           ],
           "related": []
@@ -1317,45 +1547,55 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "NYT",
+          "outlet": "SCMP",
           "author": "",
-          "title": "He Became China’s Largest Critic in Exile. Then the Threats Followed Him. - The New York Times",
+          "title": "China urges Brazil to jointly repel ‘external challenges’ as ties deepen in Beijing",
           "date": "2026-06-02",
-          "url": "https://www.nytimes.com/2026/06/01/business/teacher-li-transnational-repression.html",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3355615/china-urges-brazil-jointly-repel-external-challenges-ties-deepen-beijing",
           "bullets": [
             [
-              "Li Ying's exile X account reaches 2.2 million followers",
-              "His Turin-based account ranked fifth globally by traffic in December 2024, generating over six billion views annually from 2023 to 2025."
+              "Wang Yi called on Brazil to jointly repel \"external challenges\" at fifth bilateral strategic dialogue",
+              "The high-level mechanism, meeting in Beijing for the first time since January 2024, covered sovereignty, trade, technology, and innovation."
             ],
             [
-              "Beijing's transnational repression included frozen accounts and physical intimidation",
-              "Spray-painted threats appeared at his Turin apartment in 2024, and Chinese authorities froze his bank accounts and pressured his family inside China."
-            ],
-            [
-              "OpenAI found Chinese police using ChatGPT to target overseas dissidents",
-              "A February 2026 report cited Li Ying as an example of Beijing's AI-assisted online influence operations against critics abroad."
+              "Vieira held separate meetings with Vice-President Han Zheng and Commerce Minister Wang Wentao",
+              "Brazil's fertiliser supply security - linked to US-Iran tensions - featured as a practical cooperation priority alongside the political talks."
             ]
           ],
           "related": []
         },
         {
-          "outlet": "NYT",
+          "outlet": "Trivium",
           "author": "",
-          "title": "In Taiwan, Chinese-born wives are a focus of infiltration fears",
+          "title": "Top diplomat Wang Yi dangles doubling of Canadian exports",
           "date": "2026-06-01",
-          "url": "https://www.nytimes.com/2026/05/31/world/asia/taiwan-china-mainland-spouses-infiltration.html",
+          "url": "https://triviumchina.com/2026/06/01/top-diplomat-wang-yi-dangles-doubling-of-canadian-exports",
           "bullets": [
             [
-              "Taiwan woman on trial for CCP-directed election interference",
-              "Hsu Chun-ying allegedly received WeChat instructions from two Chinese officials to place mainland-born candidates in Taiwan's legislature, prosecutors say."
+              "Wang Yi told Canadian officials Chinese imports from Canada could double by 2030",
+              "The pledge came in a May 29 meeting with his Canadian counterpart, the article reports."
             ],
             [
-              "Case prompts debate over profiling Taiwan's Chinese migrant community",
-              "Officials acknowledge exploitation risks via family ties while community members say blanket suspicion of the 261,000 mainland spouses is unjust."
+              "Wang's offer well exceeds Canada's own stated trade target",
+              "Ottawa had set a 50% export expansion goal by 2030; China's top diplomat suggested Canada could \"far surpass\" it."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "Bangladesh tilts to China as India water-sharing impasse deepens",
+          "date": "2026-06-02",
+          "url": "https://asia.nikkei.com/politics/international-relations/bangladesh-tilts-to-china-as-india-water-sharing-impasse-deepens",
+          "bullets": [
+            [
+              "Bangladesh approved a $2.8 billion Padma Barrage and China-backed Teesta Mega Project",
+              "Dhaka cited India's failure to implement water-sharing agreements across their 54 shared rivers as the driver."
             ],
             [
-              "Taiwan ex-spy chief says China shifted to systematic proxy-building",
-              "A former deputy director of Taiwan's security bureau says Beijing moved from isolated espionage to organised political proxy recruitment."
+              "China's role in the Teesta project raises Indian security concerns",
+              "The project sits near the Siliguri Corridor - India's narrow land link to its northeastern states - prompting analysts to frame Beijing's involvement as strategically significant."
             ]
           ],
           "related": []
@@ -1383,99 +1623,63 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "SCMP",
+          "outlet": "China News",
           "author": "",
-          "title": "Taiwan targets Beijing’s grey-zone tactics near remote South China Sea islands",
-          "date": "2026-06-02",
-          "url": "https://www.scmp.com/news/china/politics/article/3355602/taiwan-targets-beijings-grey-zone-tactics-near-remote-south-china-sea-islands",
-          "bullets": [
-            [
-              "Chinese coastguard vessels circled Dongsha 39 times since February 2025",
-              "The frequency marks a sharp increase from occasional transits in prior years, Taiwan's Coast Guard Administration reported."
-            ],
-            [
-              "Taiwan's navy ordered to support coastguard patrols around the atoll",
-              "Defence minister Wellington Koo said the coastguard remains the primary responding force, with the navy providing unspecified backup assistance."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "Taiwan’s Opposition Leader Cheng Li-wun Visits U.S. With a Message Straight Out of China - WSJ",
-          "date": "2026-06-01",
-          "url": "https://www.wsj.com/world/china/taiwans-opposition-leader-comes-to-u-s-with-a-message-straight-out-of-beijing-1561596b",
-          "bullets": [
-            [
-              "KMT leader begins US tour with Beijing-aligned \"one China\" pitch",
-              "Cheng Li-wun, who met Xi in April, argues Taiwan's constitution supports the principle that island and mainland form one China."
-            ],
-            [
-              "Trump called his paused $14 billion Taiwan arms package a \"negotiating chip\"",
-              "The sale - covering Patriot upgrades and NASAMS missiles - has not been formally notified to Congress, raising deterrence concerns among Taiwan supporters."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Trivium",
-          "author": "",
-          "title": "Top diplomat Wang Yi dangles doubling of Canadian exports",
-          "date": "2026-06-01",
-          "url": "https://triviumchina.com/2026/06/01/top-diplomat-wang-yi-dangles-doubling-of-canadian-exports",
-          "bullets": [
-            [
-              "Wang Yi told Canadian officials Chinese imports from Canada could double by 2030",
-              "The pledge came in a May 29 meeting with his Canadian counterpart, the article reports."
-            ],
-            [
-              "Wang's offer well exceeds Canada's own stated trade target",
-              "Ottawa had set a 50% export expansion goal by 2030; China's top diplomat suggested Canada could \"far surpass\" it."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Diplomat",
-          "author": "",
-          "title": "Trilateral dynamics: China’s strategy to test US restraint of Japan",
+          "title": "World mayors gather in Beijing to explore new opportunities for China-Africa cooperation",
           "date": "2026-06-04",
-          "url": "https://thediplomat.com/2026/06/trilateral-dynamics-chinas-strategy-to-test-us-restraint-of-japan",
+          "url": "http://www.bj.chinanews.com.cn/news/2026/0604/102645.html",
           "bullets": [
             [
-              "China's Japan pressure tests U.S. willingness to check Tokyo",
-              "The article argues Beijing is playing a trilateral game, using anti-militarism rhetoric to probe how far Washington will restrain Japanese rearmament."
+              "Beijing's 2026 World Mayors Dialogue convened seven African delegations",
+              "The forum, held amid the \"China-Africa Cultural Exchange Year\" and 70th diplomatic anniversary, covered AI, e-commerce, and cultural exchange."
             ],
             [
-              "The article identifies a structural paradox in Beijing's approach",
-              "If Trump restrains Tokyo, Japan accelerates rearmament fearing abandonment; if Trump stands firm, a U.S.-backed Japan grows bolder."
-            ],
-            [
-              "China's unanswered hotline in December 2025 exposes crisis management limits",
-              "PLA leadership purges further reduce reliable points of contact, the article notes, raising inadvertent escalation risks."
+              "Haidian District promoted its AI cluster for Africa-facing expansion",
+              "A Beijing deputy district chief highlighted Haidian's 2,000 AI firms and 37 universities as assets to offer African city partners."
             ]
           ],
           "related": []
         },
         {
-          "outlet": "Nikkei",
+          "outlet": "Just Security",
           "author": "",
-          "title": "Trump is turning Taiwan into a bargaining chip",
-          "date": "2026-06-02",
-          "url": "https://asia.nikkei.com/opinion/trump-is-turning-taiwan-into-a-bargaining-chip",
+          "title": "China's Global 'Concierge Services' for Fellow Authoritarians",
+          "date": "2026-06-04",
+          "url": "https://www.justsecurity.org/141132/china-services-spread-authoritarianism",
           "bullets": [
             [
-              "Trump described U.S. arms sales to Taiwan as a \"negotiating chip\"",
-              "The statement, made after the Trump-Xi Beijing summit in May 2026, signals a transactional rather than principled U.S. commitment to Taipei's security."
+              "China acts as full-spectrum enabler of authoritarian regimes",
+              "The author argues Beijing combines governance training, emergency financing, surveillance exports, and UN shielding to make repression more durable and resistant to outside pressure."
             ],
             [
-              "Trump blamed Taiwan's President Lai for cross-Strait tensions while ignoring Chinese military provocations",
-              "He also consulted Beijing on the arms sales question, violating the Reagan-era Six Assurances pledge to exclude China from such discussions."
+              "NATO's then-Secretary General called China a \"decisive enabler\" of Russia's war",
+              "Beijing supplies dual-use components and reportedly trains Russian soldiers while publicly claiming neutrality, the article reports."
             ],
             [
-              "Taiwan responded by emphasising its economic value",
-              "President Lai reportedly sent Trump a copy of TSMC founder Morris Chang's autobiography, while Taipei publicly praised Trump's \"continued support\" despite the alarming signals."
+              "Xinjiang surveillance techniques and predictive policing are being exported globally",
+              "Systems refined against Uyghurs spread via Huawei, Hikvision, and ZTE sales of \"smart city\" and facial-recognition tools, the article reports."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "NYT",
+          "author": "",
+          "title": "He Became China’s Largest Critic in Exile. Then the Threats Followed Him. - The New York Times",
+          "date": "2026-06-02",
+          "url": "https://www.nytimes.com/2026/06/01/business/teacher-li-transnational-repression.html",
+          "bullets": [
+            [
+              "Li Ying's exile X account reaches 2.2 million followers",
+              "His Turin-based account ranked fifth globally by traffic in December 2024, generating over six billion views annually from 2023 to 2025."
+            ],
+            [
+              "Beijing's transnational repression included frozen accounts and physical intimidation",
+              "Spray-painted threats appeared at his Turin apartment in 2024, and Chinese authorities froze his bank accounts and pressured his family inside China."
+            ],
+            [
+              "OpenAI found Chinese police using ChatGPT to target overseas dissidents",
+              "A February 2026 report cited Li Ying as an example of Beijing's AI-assisted online influence operations against critics abroad."
             ]
           ],
           "related": []
@@ -1519,83 +1723,6 @@ window.W23_2026 = {
             ]
           ],
           "related": []
-        },
-        {
-          "outlet": "SCMP",
-          "author": "",
-          "title": "China urges Brazil to jointly repel ‘external challenges’ as ties deepen in Beijing",
-          "date": "2026-06-02",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3355615/china-urges-brazil-jointly-repel-external-challenges-ties-deepen-beijing",
-          "bullets": [
-            [
-              "Wang Yi called on Brazil to jointly repel \"external challenges\" at fifth bilateral strategic dialogue",
-              "The high-level mechanism, meeting in Beijing for the first time since January 2024, covered sovereignty, trade, technology, and innovation."
-            ],
-            [
-              "Vieira held separate meetings with Vice-President Han Zheng and Commerce Minister Wang Wentao",
-              "Brazil's fertiliser supply security - linked to US-Iran tensions - featured as a practical cooperation priority alongside the political talks."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "WP",
-          "author": "",
-          "title": "U.S. and intelligence allies issue rare joint warning about China",
-          "date": "2026-06-03",
-          "url": "https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel?itid=sf_world-asia-pacific_toptable_1_0",
-          "bullets": [
-            [
-              "Five Eyes warned of Chinese spy recruitment via job platforms",
-              "PLA intelligence poses as HR consultants on LinkedIn and Upwork to solicit classified information from Western security clearance holders."
-            ],
-            [
-              "Paid report assignments escalate to encrypted channels for sensitive data",
-              "Candidates submit assessments on China policy or defense for fees up to several thousand dollars before being pressured for classified material."
-            ]
-          ],
-          "related": [
-            {
-              "text": "Nikkei: Five Eyes intelligence alliance warns of Chinese spying via job sites",
-              "url": "https://asia.nikkei.com/politics/international-relations/five-eyes-intelligence-alliance-warns-of-chinese-spying-via-job-sites"
-            }
-          ]
-        },
-        {
-          "outlet": "China News",
-          "author": "",
-          "title": "World mayors gather in Beijing to explore new opportunities for China-Africa cooperation",
-          "date": "2026-06-04",
-          "url": "http://www.bj.chinanews.com.cn/news/2026/0604/102645.html",
-          "bullets": [
-            [
-              "Beijing's 2026 World Mayors Dialogue convened seven African delegations",
-              "The forum, held amid the \"China-Africa Cultural Exchange Year\" and 70th diplomatic anniversary, covered AI, e-commerce, and cultural exchange."
-            ],
-            [
-              "Haidian District promoted its AI cluster for Africa-facing expansion",
-              "A Beijing deputy district chief highlighted Haidian's 2,000 AI firms and 37 universities as assets to offer African city partners."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "South Korea, China agree first expansion in flight rights in seven years",
-          "date": "2026-06-04",
-          "url": "https://www.reuters.com/world/china/south-korea-china-agree-first-expansion-flight-rights-seven-years-2026-06-04",
-          "bullets": [
-            [
-              "South Korea and China expand bilateral flight rights for first time since 2019",
-              "Seoul and Beijing agreed to add 56 weekly passenger and 14 cargo flights, raising totals to 664 and 68 respectively."
-            ],
-            [
-              "Expansion follows demand recovery exceeding pre-pandemic levels",
-              "Q1 2026 South Korea-China passenger traffic reached 4.39 million, above the pre-pandemic 4.14 million benchmark."
-            ]
-          ],
-          "related": []
         }
       ]
     },
@@ -1605,64 +1732,6 @@ window.W23_2026 = {
       "short": "Responses",
       "label": "Strategic implications and responses",
       "items": [
-        {
-          "outlet": "CFR",
-          "author": "",
-          "title": "The Stockpile Gap: How America Can Secure the Strategic Materials It Needs to Win",
-          "date": "2026-06-02",
-          "url": "https://www.cfr.org/articles/the-stockpile-gap-how-america-can-secure-the-strategic-materials-it-needs-to-win",
-          "bullets": [
-            [
-              "NDS covered 6% of total shortfalls in 2023",
-              "Congressional Research Service analysis found the stockpile would meet less than half of defense production needs during a one-year conflict scenario."
-            ],
-            [
-              "Trump's $12 billion Project Vault stockpiles critical minerals privately",
-              "The February 2026 public-private initiative, backed by a $10 billion Ex-Im Bank loan, covers rare earths and six other strategic materials."
-            ],
-            [
-              "Authors propose strategic resilience reserve and plurilateral supply agreements",
-              "China controls 90% of rare earth processing, making refining capacity - not raw material stocks - the core vulnerability, the article argues."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Euronews",
-          "author": "",
-          "title": "China is a ‘very big problem’ for EU sanctions against Russia, O’Sullivan tells Euronews",
-          "date": "2026-06-03",
-          "url": "https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews",
-          "bullets": [
-            [
-              "O'Sullivan calls China a \"very big problem\" for EU Russia sanctions",
-              "The EU sanctions envoy said China systematically backfills Russia's embargoed supply chains - including drone electronics - with no sign of abating."
-            ],
-            [
-              "China retaliates against EU company blacklistings with mirror bans",
-              "Following the 20th package listing Chinese firms for military supply, Beijing banned seven European defence companies from receiving Chinese-made products."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "EU Prepares Warning on Trade Risks as Tensions With China Escalate - Bloomberg",
-          "date": "2026-06-03",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/left-with-few-choices-eu-braces-for-a-trade-fight-with-china",
-          "bullets": [
-            [
-              "EU Commission privately accepts China retaliation as likely",
-              "Officials at a closed EC meeting last week agreed to warn the European public about increased trade frictions, according to people familiar with the talks."
-            ],
-            [
-              "Germany signals openness to tougher trade instruments",
-              "Berlin is open to discussing an overcapacity measure, and EU leaders will assess a common mandate for von der Leyen at a Brussels summit later in June."
-            ]
-          ],
-          "related": []
-        },
         {
           "outlet": "FT",
           "author": "",
@@ -1703,6 +1772,202 @@ window.W23_2026 = {
             [
               "EU's 2019 China strategy is unfit, Malmström argues",
               "The framework predates China's support for Russia and CAI's collapse, and no longer fits a relationship running a €360 billion trade deficit."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "FT",
+          "author": "",
+          "title": "How do you solve a problem like China? The EU has no answer",
+          "date": "2026-06-04",
+          "url": "https://www.ft.com/content/ab1c096e-b2c6-4e2d-b0d3-32e77ddc09c4",
+          "bullets": [
+            [
+              "EU June summit will avoid naming China in its conclusions",
+              "Leaders will discuss \"global macroeconomic challenges\" with no binding statement planned, according to FT reporting on diplomatic preparations."
+            ],
+            [
+              "Commission called the EU-China trade deficit \"not sustainable\" but produced no concrete plan",
+              "A five-member-state proposal on overcapacity measures lost Spanish backing after its trade minister disavowed political support."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Euronews",
+          "author": "",
+          "title": "Is Europe finally waking up to China?",
+          "date": "2026-06-01",
+          "url": "https://www.euronews.com/my-europe/2026/05/29/is-europe-finally-waking-up-to-china",
+          "bullets": [
+            [
+              "EU Commission calls China trade ties unsustainable",
+              "An orientation debate on 29 May produced Brussels' first formal strategic reassessment, set against a record €359.9 billion trade deficit in 2025."
+            ],
+            [
+              "EU prepares overcapacity instrument after duties shift Chinese export mix",
+              "After EV tariffs prompted a Chinese pivot to hybrids, Brussels is designing tools to cap sector-specific imports systemically."
+            ],
+            [
+              "German reluctance and unused instruments constrain European response",
+              "Berlin declined a France-led push for tougher trade defence; the EU's anti-coercion instrument has never been deployed despite repeated Chinese economic pressure."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Politico",
+          "author": "",
+          "title": "Von der Leyen gears up for fight over China trade ties – POLITICO",
+          "date": "2026-06-01",
+          "url": "https://www.politico.eu/article/von-der-leyen-gears-up-fight-china-trade-ties",
+          "bullets": [
+            [
+              "Von der Leyen seeks commissioner backing for new anti-subsidy trade tools",
+              "The EU goods deficit with China widened to €360 billion in 2025 from €312 billion in 2024, according to Politico."
+            ],
+            [
+              "Germany and Spain resist French-led push for safeguard investigations",
+              "Berlin favors a \"balanced approach\" while Madrid publicly disavowed the French position paper, exposing divisions among major EU economies."
+            ],
+            [
+              "EV tariffs failed as producers pivoted to duty-free plug-in hybrids",
+              "The experience is cited as evidence that existing tools are insufficient, with specific new measures expected at the September State of the Union address."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Politico",
+          "author": "",
+          "title": "EU trade chief wants to emulate US intensity in talks with China",
+          "date": "2026-06-04",
+          "url": "https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china",
+          "bullets": [
+            [
+              "EU-China goods deficit hit €360bn, widening further in Q1 2026",
+              "Šefčovič called for trade talks matching the intensity of the six-round U.S.-China process that preceded the Trump-Xi summit."
+            ],
+            [
+              "EU member states divided on China response as June multilateral summits approach",
+              "France backs tougher trade probes; a Germany-led coalition urges caution; the European Council (June 18-19) and G7 (June 15-17) will both address Chinese overcapacity."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "author": "",
+          "title": "EU Prepares Warning on Trade Risks as Tensions With China Escalate - Bloomberg",
+          "date": "2026-06-03",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-03/left-with-few-choices-eu-braces-for-a-trade-fight-with-china",
+          "bullets": [
+            [
+              "EU Commission privately accepts China retaliation as likely",
+              "Officials at a closed EC meeting last week agreed to warn the European public about increased trade frictions, according to people familiar with the talks."
+            ],
+            [
+              "Germany signals openness to tougher trade instruments",
+              "Berlin is open to discussing an overcapacity measure, and EU leaders will assess a common mandate for von der Leyen at a Brussels summit later in June."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Euronews",
+          "author": "",
+          "title": "China is a ‘very big problem’ for EU sanctions against Russia, O’Sullivan tells Euronews",
+          "date": "2026-06-03",
+          "url": "https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews",
+          "bullets": [
+            [
+              "O'Sullivan calls China a \"very big problem\" for EU Russia sanctions",
+              "The EU sanctions envoy said China systematically backfills Russia's embargoed supply chains - including drone electronics - with no sign of abating."
+            ],
+            [
+              "China retaliates against EU company blacklistings with mirror bans",
+              "Following the 20th package listing Chinese firms for military supply, Beijing banned seven European defence companies from receiving Chinese-made products."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Politico",
+          "author": "",
+          "title": "Chinese firms that help Russia are next for EU sanctions",
+          "date": "2026-06-03",
+          "url": "https://www.politico.eu/article/china-russia-firms-that-help-are-next-for-eu-sanctions",
+          "bullets": [
+            [
+              "EU proposes sanctioning four Chinese firms over Russia support",
+              "The EEAS draft targets companies aiding Russia's shadow fleet, military chemicals, and drone components, for adoption at the June 15 foreign ministers meeting."
+            ],
+            [
+              "Brussels doubles down despite Beijing's \"consequences\" warning",
+              "Trade Commissioner Šefčovič meets Chinese envoy Li Chenggang in Paris on Tuesday as the EU continues targeting China-based Russia enablers."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Politico",
+          "author": "",
+          "title": "Spain distances itself from call for EU to get tougher on China – POLITICO",
+          "date": "2026-06-01",
+          "url": "https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses",
+          "bullets": [
+            [
+              "Spain withdrew support for a French-led EU trade defense paper",
+              "Economy Minister Cuerpo said Madrid had not specifically backed the document calling for stronger investigative tools against Chinese exports."
+            ],
+            [
+              "The reversal revealed EU member-state divisions over China trade policy",
+              "France, Belgium, the Netherlands and Lithuania favor tougher defenses; the Czech Republic, Germany and Slovakia remain cautious about a confrontational approach, the article reports."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Diplomat",
+          "author": "",
+          "title": "The EU’s new economic security tools and China’s countermeasure calculus",
+          "date": "2026-06-01",
+          "url": "https://thediplomat.com/2026/06/the-eus-new-economic-security-tools-and-chinas-countermeasure-calculus",
+          "bullets": [
+            [
+              "European Chamber finds first year-on-year easing in China business conditions",
+              "68% reported doing business harder, down 5 points, while firms citing market access barriers as lost opportunities fell 9 points to 54%."
+            ],
+            [
+              "EU's CSA2 and IAA would restrict Chinese firms' procurement access and ICT supply chains",
+              "A KPMG-China Chamber report put CSA2 compliance costs at €368 billion by 2030, with Germany bearing €117.8 billion."
+            ],
+            [
+              "State-linked Chinese media named Nokia, Ericsson, SAP, and automakers as retaliation targets",
+              "A Xinhua-linked account cited China's Unreliable Entity List and Export Control Law as counter-tools if the EU proposals advance."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "CFR",
+          "author": "",
+          "title": "The Stockpile Gap: How America Can Secure the Strategic Materials It Needs to Win",
+          "date": "2026-06-02",
+          "url": "https://www.cfr.org/articles/the-stockpile-gap-how-america-can-secure-the-strategic-materials-it-needs-to-win",
+          "bullets": [
+            [
+              "NDS covered 6% of total shortfalls in 2023",
+              "Congressional Research Service analysis found the stockpile would meet less than half of defense production needs during a one-year conflict scenario."
+            ],
+            [
+              "Trump's $12 billion Project Vault stockpiles critical minerals privately",
+              "The February 2026 public-private initiative, backed by a $10 billion Ex-Im Bank loan, covers rare earths and six other strategic materials."
+            ],
+            [
+              "Authors propose strategic resilience reserve and plurilateral supply agreements",
+              "China controls 90% of rare earth processing, making refining capacity - not raw material stocks - the core vulnerability, the article argues."
             ]
           ],
           "related": []
@@ -1774,86 +2039,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "FT",
-          "author": "",
-          "title": "How do you solve a problem like China? The EU has no answer",
-          "date": "2026-06-04",
-          "url": "https://www.ft.com/content/ab1c096e-b2c6-4e2d-b0d3-32e77ddc09c4",
-          "bullets": [
-            [
-              "EU June summit will avoid naming China in its conclusions",
-              "Leaders will discuss \"global macroeconomic challenges\" with no binding statement planned, according to FT reporting on diplomatic preparations."
-            ],
-            [
-              "Commission called the EU-China trade deficit \"not sustainable\" but produced no concrete plan",
-              "A five-member-state proposal on overcapacity measures lost Spanish backing after its trade minister disavowed political support."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Euronews",
-          "author": "",
-          "title": "Is Europe finally waking up to China?",
-          "date": "2026-06-01",
-          "url": "https://www.euronews.com/my-europe/2026/05/29/is-europe-finally-waking-up-to-china",
-          "bullets": [
-            [
-              "EU Commission calls China trade ties unsustainable",
-              "An orientation debate on 29 May produced Brussels' first formal strategic reassessment, set against a record €359.9 billion trade deficit in 2025."
-            ],
-            [
-              "EU prepares overcapacity instrument after duties shift Chinese export mix",
-              "After EV tariffs prompted a Chinese pivot to hybrids, Brussels is designing tools to cap sector-specific imports systemically."
-            ],
-            [
-              "German reluctance and unused instruments constrain European response",
-              "Berlin declined a France-led push for tougher trade defence; the EU's anti-coercion instrument has never been deployed despite repeated Chinese economic pressure."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Politico",
-          "author": "",
-          "title": "Spain distances itself from call for EU to get tougher on China – POLITICO",
-          "date": "2026-06-01",
-          "url": "https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses",
-          "bullets": [
-            [
-              "Spain withdrew support for a French-led EU trade defense paper",
-              "Economy Minister Cuerpo said Madrid had not specifically backed the document calling for stronger investigative tools against Chinese exports."
-            ],
-            [
-              "The reversal revealed EU member-state divisions over China trade policy",
-              "France, Belgium, the Netherlands and Lithuania favor tougher defenses; the Czech Republic, Germany and Slovakia remain cautious about a confrontational approach, the article reports."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Diplomat",
-          "author": "",
-          "title": "The EU’s new economic security tools and China’s countermeasure calculus",
-          "date": "2026-06-01",
-          "url": "https://thediplomat.com/2026/06/the-eus-new-economic-security-tools-and-chinas-countermeasure-calculus",
-          "bullets": [
-            [
-              "European Chamber finds first year-on-year easing in China business conditions",
-              "68% reported doing business harder, down 5 points, while firms citing market access barriers as lost opportunities fell 9 points to 54%."
-            ],
-            [
-              "EU's CSA2 and IAA would restrict Chinese firms' procurement access and ICT supply chains",
-              "A KPMG-China Chamber report put CSA2 compliance costs at €368 billion by 2030, with Germany bearing €117.8 billion."
-            ],
-            [
-              "State-linked Chinese media named Nokia, Ericsson, SAP, and automakers as retaliation targets",
-              "A Xinhua-linked account cited China's Unreliable Entity List and Export Control Law as counter-tools if the EU proposals advance."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Diplomat",
           "author": "",
           "title": "Trump’s new AI order raises the stakes in China-US tech competition",
@@ -1876,59 +2061,45 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Politico",
+          "outlet": "Stanford",
           "author": "",
-          "title": "Chinese firms that help Russia are next for EU sanctions",
-          "date": "2026-06-03",
-          "url": "https://www.politico.eu/article/china-russia-firms-that-help-are-next-for-eu-sanctions",
+          "title": "The China Penalty Is Quietly Reshaping American Science",
+          "date": "2026-06-02",
+          "url": "https://sccei.fsi.stanford.edu/china-briefs/china-penalty-quietly-reshaping-american-science",
           "bullets": [
             [
-              "EU proposes sanctioning four Chinese firms over Russia support",
-              "The EEAS draft targets companies aiding Russia's shadow fleet, military chemicals, and drone components, for adoption at the June 15 foreign ministers meeting."
+              "Support for China proposals lagged German equivalents by 18 points",
+              "In survey experiments, 30% of U.S. scientists backed China partnerships unconditionally versus 48% for identical German proposals."
             ],
             [
-              "Brussels doubles down despite Beijing's \"consequences\" warning",
-              "Trade Commissioner Šefčovič meets Chinese envoy Li Chenggang in Paris on Tuesday as the EU continues targeting China-based Russia enablers."
+              "Policymakers applied a steeper discount than scientists",
+              "Unconditional support fell from 68% for German to 28% for China proposals, with rejection rates roughly six times higher."
+            ],
+            [
+              "Penalty was stable across fields and prior China collaborators",
+              "The discount held in batteries, biotechnology, robotics and environmental science, pointing to geopolitical rivalry rather than field-specific risk, the study finds."
             ]
           ],
           "related": []
         },
         {
-          "outlet": "Politico",
+          "outlet": "PIIE",
           "author": "",
-          "title": "EU trade chief wants to emulate US intensity in talks with China",
+          "title": "US reciprocal trade deals built to push America's trade partners away from China",
           "date": "2026-06-04",
-          "url": "https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china",
+          "url": "https://www.piie.com/blogs/realtime-economics/2026/us-reciprocal-trade-deals-built-push-americas-trade-partners-away",
           "bullets": [
             [
-              "EU-China goods deficit hit €360bn, widening further in Q1 2026",
-              "Šefčovič called for trade talks matching the intensity of the six-round U.S.-China process that preceded the Trump-Xi summit."
+              "US reciprocal trade agreements embed seven recurring anti-China mechanisms",
+              "Partners must police third-country trade, investment, and technology flows or face tariff snapbacks, PIIE economists Lovely and Wan argue."
             ],
             [
-              "EU member states divided on China response as June multilateral summits approach",
-              "France backs tougher trade probes; a Germany-led coalition urges caution; the European Council (June 18-19) and G7 (June 15-17) will both address Chinese overcapacity."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Politico",
-          "author": "",
-          "title": "Von der Leyen gears up for fight over China trade ties – POLITICO",
-          "date": "2026-06-01",
-          "url": "https://www.politico.eu/article/von-der-leyen-gears-up-fight-china-trade-ties",
-          "bullets": [
-            [
-              "Von der Leyen seeks commissioner backing for new anti-subsidy trade tools",
-              "The EU goods deficit with China widened to €360 billion in 2025 from €312 billion in 2024, according to Politico."
+              "China's US import share halved to 9% since 2018, triggering third-country targeting",
+              "Because sourcing shifted to economies that deepened ties with China, the ARTs now target Chinese value-added content embedded in their exports."
             ],
             [
-              "Germany and Spain resist French-led push for safeguard investigations",
-              "Berlin favors a \"balanced approach\" while Madrid publicly disavowed the French position paper, exposing divisions among major EU economies."
-            ],
-            [
-              "EV tariffs failed as producers pivoted to duty-free plug-in hybrids",
-              "The experience is cited as evidence that existing tools are insufficient, with specific new measures expected at the September State of the Union address."
+              "The deals mark the first large-scale tariff-based policy alignment drive since the Cold War",
+              "They depart from WTO non-discrimination rules, placing China-integrated middle-income partners between US tariff threats and Chinese retaliation risk."
             ]
           ],
           "related": []
@@ -1944,95 +2115,109 @@ window.W23_2026 = {
       "label": "Regulatory & policy primary sources",
       "items": [
         {
-          "outlet": "mofcom.gov.cn",
+          "outlet": "State Council 国务院",
           "author": "",
-          "title": "China’s international air cargo network continues to expand",
+          "title": "Regulations on Outbound Investment · 对外投资管理条例 (国务院令第837号)",
+          "date": "2026-06-01",
+          "url": "http://english.www.gov.cn/policies/latestreleases/202606/01/content_WS6a1d2e29c6d00ca5f9a0b59e.html",
+          "bullets": [
+            [
+              "Codifies investor autonomy while retaining state oversight",
+              "The 34-article regulation, signed by Premier Li Qiang and effective 1 July 2026, affirms investors' right to independent decision-making in outbound investment while bearing their own risks, and mandates compliance with host-country laws and business ethics."
+            ],
+            [
+              "Builds a state coordination and countermeasures backstop",
+              "It pledges cross-government support across foreign affairs, finance, taxation, trade and customs, and authorises investigation of foreign investment barriers plus countermeasures against discriminatory restrictions by foreign states or organisations."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "CAC 国家网信办",
+          "author": "",
+          "title": "Interim Measures for AI Anthropomorphic Interactive Services - \"small, fast, flexible\" legislation · 人工智能拟人化互动服务管理办法",
           "date": "2026-06-03",
-          "url": "https://tradeinservices.mofcom.gov.cn/article/yanjiu/hangyezk/202606/183321.html",
+          "url": "https://www.cac.gov.cn/2026-06/03/c_1782142434783056.htm",
           "bullets": [
             [
-              "68 new international air cargo routes opened by end-April",
-              "The additions brought over 160 weekly round-trip flights, according to the China Federation of Logistics and Purchasing."
+              "Frames agile rulemaking as China's answer to fast-moving AI",
+              "The CAC legal-bureau explainer presents new Interim Measures - jointly issued with NDRC, MIIT, the Ministry of Public Security and SAMR, effective 15 July 2026 - as a \"小快灵\" model: narrow-but-precise scope, rapid timeline, flexible rules."
             ],
             [
-              "Europe and Asia absorbed the bulk of new capacity",
-              "Thirty routes were directed to European destinations, 27 to Asian markets."
-            ],
-            [
-              "Experts link expansion to e-commerce and manufacturing logistics demand",
-              "Industry experts said the network growth strengthens support for cross-border e-commerce, high-end manufacturing, and international trade."
+              "Targets emotional and virtual-intimacy AI services",
+              "It governs services simulating emotional interaction and virtual intimate relationships under a \"human-centered, AI for good\" and collaborative-governance principle."
             ]
           ],
           "related": []
         },
         {
-          "outlet": "mof.gov.cn",
+          "outlet": "State Council 国务院",
           "author": "",
-          "title": "Central government earmarks RMB 99.9 billion for childcare subsidy scheme",
+          "title": "15th Five-Year Plan for Agricultural and Rural Modernization · \"十五五\"农业农村现代化规划",
           "date": "2026-06-02",
-          "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202606/t20260602_3991021.htm",
+          "url": "https://english.news.cn/20260602/510f777c04744495a73a84cd2cf98f85/c.html",
           "bullets": [
             [
-              "MoF allocates RMB 99.9 billion for childcare subsidies in 2026",
-              "The central government allocation is up 10.6% year on year, with total funding across all government levels expected to reach approximately RMB 110 billion."
+              "Sets a 725-million-tonne grain capacity target for 2030",
+              "The State Council plan for 2026-2030 aims to lift comprehensive grain production capacity to about 725 million tonnes and the agricultural-product quality pass rate to at least 98 percent."
             ],
             [
-              "Payments disbursed quarterly to eligible infants and young children",
-              "Authorities pledged to strengthen fund management and oversight in support of what officials described as a family-friendly society."
+              "Pushes sci-tech-led modernization",
+              "It targets raising the contribution rate of sci-tech progress in agriculture to 67 percent and prioritises intelligent breeding, new-energy agricultural machinery, and agricultural bio-manufacturing."
             ]
           ],
           "related": []
         },
         {
-          "outlet": "gov.cn",
+          "outlet": "State Council 国务院",
           "author": "",
-          "title": "CEE countries deepen economic and trade cooperation with China through innovation",
-          "date": "2026-06-01",
-          "url": "https://cacs.mofcom.gov.cn/cacscms/article/myhbgjaj?articleId=188183",
+          "title": "Action Plan for Stabilizing Employment, Expanding Capacity and Improving Quality · 稳岗扩容提质行动方案",
+          "date": "2026-04-30",
+          "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=105915",
           "bullets": [
             [
-              "Over 600 officials from 44 countries attended the seventh China-CEEC Local Leaders' Meeting",
-              "The Shandong-hosted event brought together representatives from 15 Chinese provinces to discuss cooperation in AI, renewables, manufacturing, and logistics."
+              "Bundles 18 measures around a \"stabilize-expand-upgrade\" frame",
+              "Issued by the State Council employment leading group, the plan covers stabilizing key-industry hiring (manufacturing, construction, hospitality, trade-affected sectors), tapping new employment potential, and improving job quality."
             ],
             [
-              "Former Romanian PM Dancila described China as synonymous with \"development, technology and innovation\"",
-              "Participants framed the meeting around new cooperation opportunities rather than reviewing existing agreements."
+              "Tilts support toward externally pressured sectors and gig workers",
+              "Measures include unemployment-insurance premium refunds and skills-training subsidies for trade-affected industries, an \"AI Plus\" factory-upgrade track, and protections for new-form-employment workers."
             ]
           ],
           "related": []
         },
         {
-          "outlet": "gov.cn",
+          "outlet": "NDRC 国家发改委",
           "author": "",
-          "title": "《关于深化上海全球资产管理中心建设的若干意见》解读_中共上海市委金融委员会办公室、中共上海市金融工作委员会",
-          "date": "2026-06-02",
-          "url": "https://jrj.sh.gov.cn/jcgk-zcjd/20260602/eaed3902383046558ea3c134b3e273f3.html",
+          "title": "Domestic refined-oil price adjustment, 4 June 2026 · 国内成品油价格调整",
+          "date": "2026-06-04",
+          "url": "https://www.news.cn/20260604/530653cfbdf849c8978fbb30dae7b241/c.html",
           "bullets": [
             [
-              "Shanghai CCP financial authorities published a policy interpretation on global asset management hub development",
-              "The Municipal Committee Financial Commission Office and Financial Work Committee jointly released an official elaboration of \"Several Opinions on Deepening Shanghai's Global Asset Management Center Construction,\" dated June 2, 2026."
+              "Cuts pump prices on falling crude",
+              "Effective 24:00 on 4 June 2026, the NDRC lowered gasoline and diesel ceiling prices by 525 yuan and 505 yuan per tonne respectively, citing international oil-price changes."
             ],
             [
-              "\"Several Opinions\" format signals directive-level state backing for expanding Shanghai's international finance role",
-              "The document category - standard PRC governance language for top-level policy rollout - indicates formal central endorsement for deepening Shanghai's competitiveness as a global asset management center, per the gov.cn release."
+              "Pairs the cut with supply and compliance directives",
+              "The notice instructed state-owned oil companies to keep supply stable and local authorities to enforce price compliance."
             ]
           ],
           "related": []
         },
         {
-          "outlet": "gov.cn",
+          "outlet": "MIIT 工信部",
           "author": "",
-          "title": "Chinese Young Pioneers total 112M members",
-          "date": "2026-06-01",
-          "url": "http://english.scio.gov.cn/chinavoices/2026-06/01/content_118524940.html",
+          "title": "166 foreign-invested value-added telecom approvals under the equity-cap pilot · 增值电信业务扩大对外开放试点",
+          "date": "2026-06-03",
+          "url": "https://english.news.cn/20260603/2493f83a69f54680a5e68c4172cbcbb7/c.html",
           "bullets": [
             [
-              "Young Pioneers membership disclosed at 112 million",
-              "Gov.cn reported the total enrollment figure for China's CCP-affiliated youth organization for children aged 6 to 14 on June 1."
+              "Opens data centers and internet services to wholly foreign ownership",
+              "MIIT reported 166 foreign-invested enterprises approved under the pilot removing foreign equity caps on value-added telecom services such as internet data centers, access and information services."
             ],
             [
-              "Publication timed to International Children's Day",
-              "The announcement appeared on June 1, when Chinese state media routinely features youth organization activities and official messaging on child development."
+              "Concentrated in four pilot zones",
+              "The trial runs in Beijing, Shanghai, Hainan and Shenzhen, with approvals having begun in February 2025."
             ]
           ],
           "related": []
@@ -2189,6 +2374,46 @@ window.W23_2026 = {
             [
               "Plan prioritises RMB internationalisation and foreign manager access",
               "Mechanisms including Stock Connect, China-Europe Connect, and Bond Connect are to be optimised to strengthen Shanghai's role in cross-border asset allocation."
+            ]
+          ],
+          "related": []
+        }
+      ]
+    },
+    {
+      "number": "",
+      "slug": "cn-mfa",
+      "short": "Positions",
+      "label": "Government positions & readouts",
+      "items": [
+        {
+          "outlet": "MFA 外交部 (Wang Yi 王毅)",
+          "author": "",
+          "title": "Wang Yi Meets UN Secretary-General Candidate Michelle Bachelet · 王毅会见下任联合国秘书长候选人巴切莱特",
+          "date": "2026-06-04",
+          "url": "https://www.fmprc.gov.cn/wjbzhd/202606/t20260604_11937454.shtml",
+          "bullets": [
+            [
+              "Beijing positions itself early in the UNSG succession",
+              "Foreign Minister Wang Yi received former Chilean president and SG candidate Michelle Bachelet in Beijing, saying China will take part in selecting the next UN Secretary-General in a \"responsible and constructive\" manner as Guterres' term ends this year."
+            ],
+            [
+              "Reform framing serves China's multilateral pitch",
+              "Wang tied the meeting to China's call to revitalize UN authority, while Bachelet pressed for renewed commitment to multilateralism and the UN's peace, development and human-rights pillars."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "MFA spokesperson 外交部发言人",
+          "author": "",
+          "title": "China hopes the EU adheres to free-trade principles amid the bloc's tech-promotion pact",
+          "date": "2026-06-03",
+          "url": "https://www.globaltimes.cn/page/202606/1362664.shtml",
+          "bullets": [
+            [
+              "Beijing frames EU tech-sovereignty moves as a free-trade test",
+              "Responding to the EU's chip/cloud/AI promotion plans, the foreign-ministry spokesperson said China hopes the EU will uphold an open, non-discriminatory market and avoid politicising trade and technology."
             ]
           ],
           "related": []

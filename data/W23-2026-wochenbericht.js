@@ -13,99 +13,22 @@ window.W23_2026_WOCHENBERICHT = {
       "label": "Prominente Zitate und Positionen zu China-bezogenen Angelegenheiten",
       "items": [
         {
-          "lead": "Friedrich Merz",
-          "text": "betonte am Dienstag in Bad Saarow beim Ostdeutschen Wirtschaftsforum die Notwendigkeit digitaler Eigenständigkeit und erklärte: „Wir müssen bei der digitalen Souveränität mit eigenen Rechenzentren und Infrastrukturen vorankommen, um die Abhängigkeit von den USA und China zu verringern.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-06-02",
-            "title": "Halbleiter; Merz setzt auf digitale Souveränität mit eigenen Rechenzentren"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Donald Trump",
-          "text": "forderte laut Bericht vom Mittwoch in Washington einen privilegierten Zugriff auf neue Technologien und sagte: „Die US-Regierung braucht Vorab-Zugang zu neuen KI-Modellen, um im technologischen Wettlauf gegen China die Führung zu behaupten.\"",
-          "source": {
-            "outlet": "Spiegel",
-            "outletDisplay": "Spiegel",
-            "date": "2026-06-03",
-            "title": "US-Regierung soll exklusiven Vorabzugang zu neuen KI-Modellen bekommen"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Pete Hegseth",
-          "text": "erhöhte am Donnerstag am Rande des Shangri-La-Dialogs in Singapur den Druck auf die Verbündeten: „Wir erwarten, dass unsere Partner ihre Militärausgaben auf 3,5 Prozent des Bruttoinlandsprodukts steigern – das ist die Voraussetzung für eine stabile Partnerschaft gegen regionale Bedrohungen.\"",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-06-04",
-            "title": "SHANGRI-LA-DIALOG; Amerika an Asien: \"Aufrüsten!\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Ursula von der Leyen",
-          "text": "mahnte am Mittwoch in Brüssel zu einer entschlossenen Digitalpolitik und betonte: „Europa muss bei Chips, Cloud und KI unabhängiger von Drittstaaten wie den USA und China werden, um seine geopolitische Souveränität zu retten.\"",
-          "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
-            "date": "2026-06-03",
-            "title": "Digitale Infrastruktur; EU-Kommission will Unabhängigkeit bei Chips, Cloud und KI"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Cem Özdemir",
-          "text": "Cem Özdemir (Wirtschaftsminister/MP Baden-Württemberg) kritisierte am Dienstag auf der TECH-Konferenz in Heilbronn die europäische Umsetzungsschwäche: „Europa forscht Weltklasse, aber Amerika und China skalieren – wir müssen endlich lernen, Innovationen auch in industrielle Marktmacht zu übersetzen.\"",
-          "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
-            "date": "2026-06-01",
-            "title": "TECH-Konferenz; Europa forscht, Amerika skaliert – Cem Özdemir will das ändern"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Sanae Takaichi",
-          "text": "Sanae Takaichi (Japanische Ministerpräsidentin) erklärte am Freitag vor dem Parlament in Tokio, dass die nationale Sicherheit untrennbar mit der Wirtschaft verknüpft sei: „Der beste Weg zur Stabilisierung unserer Währung ist die Stärkung der globalen Wettbewerbsfähigkeit durch massive Investitionen in Wachstumsbranchen gegenüber China.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-06-05",
-            "title": "Halbleiter; Merz setzt auf digitale Souveränität"
-          },
-          "kind": "quote"
-        },
-        {
           "lead": "Jane Fraser",
-          "text": "Jane Fraser (Vorstandsvorsitzende, Citigroup) warnte am Mittwoch im Interview vor verpassten Gelegenheiten der Europäer: „Es wäre traurig, wenn Europa seine Grundlagen bei Talenten und Ingenieurskunst nicht nutzt, während die Welt nach einem stabilen Anker zwischen den USA und China sucht.\"",
+          "text": "(CEO, Citigroup) warnte sinngemäß, es wäre ein Verlust, wenn Europa seine Stärken bei Talenten und Ingenieurskunst nicht nutze, während die Welt einen stabilen Anker zwischen den USA und China suche.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-06-03",
-            "title": "Jane Fraser; „In den USA wächst gerade eine gewisse Skepsis gegenüber KI\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Martin Herrenknecht",
-          "text": "Martin Herrenknecht (Vorstandsvorsitzender, Herrenknecht AG) rechnete am Freitag in einem Interview scharf mit der deutschen Politik ab und konstatierte: „Unser Land ist auf dem Weg zu einer Bananenrepublik, weil wir uns durch Bürokratie selbst lähmen, während China uns technologisch überholt.\"",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-06-05",
-            "title": "INTERVIEW MIT MARTIN HERRENKNECHT; \"Unser Land ist auf dem Weg zu einer Bananenrepublik\""
+            "title": "Jane Fraser; In den USA wächst gerade eine gewisse Skepsis gegenüber KI"
           },
           "kind": "quote"
         },
         {
           "lead": "Henna Virkkunen",
-          "text": "Henna Virkkunen (EU-Digitalkommissarin) gab sich am Mittwoch in Brüssel kämpferisch bezüglich der europäischen Technik-Pläne: „Europa hat alles, was es braucht, um eine führende Rolle bei Cloud-Technologien und KI-Chips zu spielen und sich von der US-Dominanz zu befreien.\"",
+          "text": "(EU-Digitalkommissarin) zeigte sich überzeugt, Europa habe „alles, was es braucht, um eine führende Rolle zu spielen\" – mit Blick auf Cloud-Technologien und KI-Chips und mehr Unabhängigkeit von US-Anbietern.",
           "source": {
             "outlet": "taz",
-            "outletDisplay": "taz - die tageszeitung",
+            "outletDisplay": "taz",
             "date": "2026-06-04",
             "title": "Europa macht sich schlau"
           },
@@ -113,40 +36,29 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Veronika Grimm",
-          "text": "Veronika Grimm (Wirtschaftsweise) warnte am Mittwoch in einem Gastbeitrag vor einem strategischen Verlust des Westens: „Kluge Köpfe sind unsere zentrale Ressource; im Wettstreit mit China verspielt der Westen gerade seinen wichtigsten Talentpool durch falsche Anreize.\"",
+          "text": "(Wirtschaftsweise) warnte, kluge Köpfe seien „die zentrale Ressource für technologischen Fortschritt\"; im Wettstreit mit China drohe der Westen seinen Talentpool zu verspielen.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-06-03",
-            "title": "HOMO OECONOMICUS; Der Westen verspielt seinen Talentpool"
+            "title": "Der Westen droht im Kampf mit China seinen Talentpool zu verspielen"
           },
           "kind": "quote"
         },
         {
           "lead": "Karlheinz Wex",
-          "text": "Karlheinz Wex (Vorstandsvorsitzender, Plansee Group) wies am Dienstag auf die kritische Abhängigkeit bei Rohstoffen hin: „Der westliche Markt für Wolfram trocknet aus, weil China seine Vormachtstellung systematisch nutzt, um Preise und Verfügbarkeit zu diktieren.\"",
+          "text": "(CEO, Plansee Group) wies auf die Rohstoffabhängigkeit hin: China beherrsche bei Wolfram Abbau und Verarbeitung mit über 80 Prozent Marktanteil, und seit der Exportbeschränkung „trocknet der westliche Markt aus\".",
           "source": {
             "outlet": "taz",
-            "outletDisplay": "taz - die tageszeitung",
+            "outletDisplay": "taz",
             "date": "2026-06-02",
-            "title": "„Der westliche Markt trocknet aus\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Minxin Pei",
-          "text": "Minxin Pei (Politikwissenschaftler und Autor) erklärte am Dienstag in der F.A.Z., warum die wirtschaftliche Öffnung Chinas nicht zur Demokratisierung führte: „Xi Jinping hat bewiesen, dass Reformen in einem autoritären System auch dazu genutzt werden können, den Totalitarismus technologisch zu perfektionieren.\"",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "Frankfurter Allgemeine Zeitung",
-            "date": "2026-06-02",
-            "title": "Warum China nicht demokratischer wird"
+            "title": "Der westliche Markt trocknet aus"
           },
           "kind": "quote"
         },
         {
           "lead": "Oliver Koppel",
-          "text": "Oliver Koppel (Ökonom, Institut der deutschen Wirtschaft) warnte am Donnerstag vor dem massiven Know-how-Abfluss: „Ich mag die Vorstellung nicht, dass Deutschland zur verlängerten Innovationswerkbank Chinas wird, während unsere Patente systematisch in chinesischen Besitz wandern.\"",
+          "text": "(Ökonom, Institut der deutschen Wirtschaft) warnte vor dem Know-how-Abfluss: China habe „sehr viele wertvolle Patente deutscher Unternehmen übernommen\".",
           "source": {
             "outlet": "Spiegel",
             "outletDisplay": "Spiegel Online",
@@ -157,40 +69,29 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Zhu Shaodong",
-          "text": "Zhu Shaodong (Europa-Chef, Chery) gab sich am Donnerstag in einem Interview siegesgewiss für die chinesische Automobilindustrie: „Wir Chinesen führen die globale Autoindustrie heute an, weil wir schneller entwickeln und innovativer sind als die etablierte Konkurrenz.\"",
+          "text": "(Europa-Chef, Chery) gab sich siegesgewiss: „Aktuell führen wir Chinesen die globale Autoindustrie an\" – mit einem Vorsprung bei Elektroantrieben und autonomen Fahrfunktionen.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "Die Welt",
             "date": "2026-06-04",
-            "title": "„Wir Chinesen führen die globale Autoindustrie an\""
+            "title": "Wir Chinesen führen die globale Autoindustrie an"
           },
           "kind": "quote"
         },
         {
           "lead": "Lars Bialkowski",
-          "text": "Lars Bialkowski (Manager, Denza/BYD) forderte deutsche Premium-Kunden am Freitag zum Markenwechsel auf und sagte: „Fahrer von BMW und Mercedes sollten zu unseren Modellen wechseln, da wir bei der Schnellladetechnik bereits sechs Jahre voraus sind.\"",
+          "text": "(Manager, Denza/BYD) erklärte, mit der Schnellladetechnik sei Denza dem Wettbewerb „sechs Jahre voraus\".",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "Die Welt",
             "date": "2026-06-05",
-            "title": "„Mit Schnellladetechnik sechs Jahre voraus\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Kelly Ortberg",
-          "text": "Kelly Ortberg (Vorstandsvorsitzender, Boeing) betonte am Donnerstag die aktive Rolle der US-Politik für sein Unternehmen: „Der US-Präsident fördert Boeing sehr aktiv, um unsere Position im harten Wettbewerb mit chinesischen Flugzeugbauern zu sichern.\"",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-06-04",
-            "title": "BOEING-CHEF; \"Der US-Präsident fördert Boeing sehr aktiv\""
+            "title": "Mit Schnellladetechnik sechs Jahre voraus"
           },
           "kind": "quote"
         },
         {
           "lead": "Helmut Ahr",
-          "text": "Helmut Ahr (CEO, Horváth) sah am Montag, den 1. Juni 2026, in der Industrieanwendung von KI eine Rettungschance für Europa: „‚Industrial AI' ist die große Chance für Europa in der KI-Revolution, um nicht zwischen den USA und China zerrieben zu werden.\"",
+          "text": "(CEO, Horváth) sah in „Industrial AI\" eine Chance für europäische Unternehmen, im Rennen mit den USA und China nicht zurückzufallen.",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
@@ -200,63 +101,8 @@ window.W23_2026_WOCHENBERICHT = {
           "kind": "quote"
         },
         {
-          "lead": "Alexander Kopp",
-          "text": "Alexander Kopp (Gründer, Polaris) warnte am Dienstag in Heilbronn vor militärischer Verwundbarkeit: „Im Kriegsfall werden herkömmliche Raketenstartplätze sofort zerstört – für die Abwehr Chinas oder Russlands braucht Europa mobile und flexible Lösungen.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-06-02",
-            "title": "TECH 2026; Polaris kündigt ersten Testflug für größeres Raumflugzeug an"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Rolf J. Langhammer",
-          "text": "Rolf J. Langhammer (Außenwirtschaftsexperte) analysierte am Donnerstag die chinesische Exportstrategie und konstatierte: „Es ist ein unfaires Spiel Pekings, da massive Industriesubventionen die globale Marktbalance zulasten europäischer Firmen verzerren.\"",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-06-04",
-            "title": "EXPORTSUBVENTIONEN; Unfaires Spiel der Chinesen?"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Eléonore Crespo",
-          "text": "Eléonore Crespo (Vorstandschefin, Pigment) gab sich am Dienstag auf der TECH-Konferenz optimistisch: „Wir bauen hier in Europa Weltklasseunternehmen, die der US-Dominanz und dem chinesischen Staatskapitalismus trotzen können.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-06-02",
-            "title": "Morning Briefing; Wie der Telekom-Chef den Digitalminister auflaufen ließ"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "To Lam",
-          "text": "To Lam (Staatschef Vietnams) warnte laut Bericht vom Sonntag, den 31. Mai 2026, vor eskalierenden Spannungen im Indopazifik: „Wenn das Vertrauen erodiert, können selbst defensive Maßnahmen als Provokation wahrgenommen werden und zu fatalen Fehlkalkulationen führen.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-06-01",
-            "title": "PETE HEGSETH; Kein Wort zu Taiwan"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Beata Javorcik",
-          "text": "Beata Javorcik (EBRD-Chefökonomin) konstatierte am Mittwoch bezüglich der künftigen Entwicklung: „Es gibt wenig Optimismus für die Zukunft\", da die enge Verflechtung der Kriegsökonomien Chinas und Russlands die globale Stabilität belaste.",
-          "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
-            "date": "2026-06-03",
-            "title": "Putins Wirtschaftsforum zeigt Schwächen der russischen Wirtschaft"
-          },
-          "kind": "quote"
-        },
-        {
           "lead": "Oliver Steil",
-          "text": "Oliver Steil (Vorstandschef, Teamviewer) warnte am Montag, den 1. Juni 2026, davor, China bei industrieller KI zu unterschätzen: „China hat auch Daten und Prozesse – wir müssen aufpassen, dass wir nicht denken, wir führen dort, wo Peking das Thema bereits besetzt hat.\"",
+          "text": "(CEO, Teamviewer) warnte davor, China bei industrieller KI zu unterschätzen: „China hat auch Daten und Prozesse\"; Europa dürfe nicht annehmen, es führe dort, wo Peking das Thema längst besetzt habe.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -266,19 +112,8 @@ window.W23_2026_WOCHENBERICHT = {
           "kind": "quote"
         },
         {
-          "lead": "Achim Kampker",
-          "text": "Achim Kampker (Professor, RWTH Aachen) stellte am Donnerstag im Handelsblatt fest: „Bei der Technologie sind die Deutschen gut, aber das reicht nicht mehr aus\", um gegen die Skalierungskraft chinesischer Anbieter zu bestehen.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-06-04",
-            "title": "ZITATE FAKTEN MEINUNGEN"
-          },
-          "kind": "quote"
-        },
-        {
           "lead": "C.C. Wei",
-          "text": "C.C. Wei (Vorstandschef, TSMC) betonte am Donnerstag den technologischen Treiber der Branche: „Der KI-Boom treibt das Wachstum in den kommenden Jahren massiv an\", wovon die asiatische Halbleiterkette überproportional profitiere.",
+          "text": "(CEO, TSMC) zeigte sich zuversichtlich, der KI-Boom werde das Wachstum der kommenden Jahre massiv treiben, wovon die asiatische Halbleiterkette überproportional profitiere.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -288,46 +123,13 @@ window.W23_2026_WOCHENBERICHT = {
           "kind": "quote"
         },
         {
-          "lead": "Dan Nystedt",
-          "text": "Dan Nystedt (Analyst, Triorient Investments) erklärte am Freitag den Unterschied zur Dotcom-Blase: „Heute geht es um reales Geschäft, da Konzerne wie Alibaba und Baidu aus China massiv in Rechenleistung investieren.\"",
+          "lead": "To Lam",
+          "text": "(Staatschef Vietnams) warnte beim Shangri-La-Dialog vor eskalierenden Spannungen im Indopazifik: Wenn Vertrauen erodiere, könnten selbst defensive Maßnahmen als Provokation wahrgenommen werden.",
           "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-06-05",
-            "title": "Chipkonzerne übernehmen die Weltwirtschaft"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Bert Rürup",
-          "text": "Bert Rürup (Chefökonom) analysierte am Freitag den Strukturwandel: „Wir erleben eine stille Wirtschaftswende – weg von der Werkbank, hin zu mehr Staat und strategischer Industriepolitik gegenüber Fernost.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-06-05",
-            "title": "Der Chefökonom; Die stille Wirtschaftswende"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Frank Stocker",
-          "text": "Frank Stocker (Finanzredakteur) warnte am Mittwoch vor einer Überhitzung: „Das Ende des Börsenbooms ist in Sichtweite, da Anleger die geopolitischen Risiken im Technologie-Rennen mit China völlig ausblenden.\"",
-          "source": {
-            "outlet": "Die Welt",
-            "outletDisplay": "Die Welt",
-            "date": "2026-06-03",
-            "title": "Das Ende des Börsenbooms in Sichtweite"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Joybrato Mukherjee",
-          "text": "Joybrato Mukherjee (DAAD-Präsident) mahnte am Mittwoch in der F.A.Z. den Erhalt akademischer Brücken an: „Wer auf deutsche Einflussmöglichkeiten weltweit blickt, sollte auch auf internationale Kooperationen deutscher Hochschulen schauen\", um den Kontakt zur kommenden chinesischen Generation nicht zu verlieren.",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "Frankfurter Allgemeine Zeitung",
-            "date": "2026-06-03",
-            "title": "Deutschland verspielt seinen Einfluss"
+            "outlet": "Shangri-La-Dialog",
+            "outletDisplay": "Shangri-La-Dialog",
+            "date": "2026-05-31",
+            "title": "Keynote beim Shangri-La-Dialog"
           },
           "kind": "quote"
         }
@@ -341,7 +143,7 @@ window.W23_2026_WOCHENBERICHT = {
       "items": [
         {
           "lead": "Dramatischer Patent-Abfluss nach China",
-          "text": "Laut einer aktuellen IW-Studie sind Tausende deutsche Patente in chinesischen Besitz übergegangen; der Anteil Deutschlands an transnationalen Patentanmeldungen sank seit dem Jahr 2000 von 22 auf nur noch **15 Prozent**.",
+          "text": "Laut einer aktuellen IW-Studie sind Tausende deutsche Patente in chinesischen Besitz übergegangen; der Anteil Deutschlands an transnationalen Patentanmeldungen sank zwischen 2000 und 2022 von 22 auf nur noch 15 Prozent.",
           "source": {
             "outlet": "Spiegel",
             "outletDisplay": "Spiegel",
@@ -352,7 +154,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Chinas Dominanz bei Industrierobotern",
-          "text": "Im Jahr 2024 installierte China **295.000 neue Industrieroboter**, während Deutschland im gleichen Zeitraum lediglich auf 26.982 Einheiten kam.",
+          "text": "Im Jahr 2024 installierte China 295.000 neue Industrieroboter, während Deutschland im gleichen Zeitraum lediglich auf 26.982 Einheiten kam.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -363,7 +165,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Explosion der KI-Nutzung in China",
-          "text": "Ende 2025 nutzten bereits **47,5 Prozent** aller chinesischen Industrieunternehmen KI-Modelle in ihren Prozessen; ein Jahr zuvor waren es erst rund zehn Prozent.",
+          "text": "Ende 2025 nutzten bereits 47,5 Prozent aller chinesischen Industrieunternehmen KI-Modelle in ihren Prozessen; ein Jahr zuvor waren es erst rund zehn Prozent.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "FAZ",
@@ -374,7 +176,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Rückzug der Pharmaindustrie aus Deutschland",
-          "text": "Infolge des GKV-Gesetzes streicht Boehringer Ingelheim Investitionen von über **900 Millionen Euro** in Deutschland; der US-Konzern Eli Lilly halbiert seine geplanten Milliardeninvestitionen in Rheinland-Pfalz.",
+          "text": "Infolge des GKV-Gesetzes streicht Boehringer Ingelheim Investitionen von über 900 Millionen Euro in Deutschland; der US-Konzern Eli Lilly halbiert seine geplanten Milliardeninvestitionen in Rheinland-Pfalz.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -385,7 +187,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "China-Preisbrecher auf dem deutschen Automarkt",
-          "text": "Der MG4 EV Urban wird in Deutschland für einen „sensationellen\" Preis von **12.990 Euro** angeboten und unterbietet damit heimische Konkurrenten massiv.",
+          "text": "Der MG4 EV Urban (Listenpreis 24.990 Euro) wird über einen Hersteller-Rabatt und staatliche Förderung als Aktionspreis ab 12.990 Euro beworben und unterbietet damit heimische Konkurrenten.",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
@@ -396,7 +198,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "SK Hynix knackt Billionen-Grenze",
-          "text": "Getrieben durch den KI-Boom stieg der Börsenwert des südkoreanischen Speicherchipherstellers SK Hynix in diesem Jahr um über **200 Prozent** auf fast eine Billion US-Dollar.",
+          "text": "Getrieben durch den KI-Boom stieg der Börsenwert des südkoreanischen Speicherchipherstellers SK Hynix in diesem Jahr um über 200 Prozent auf fast eine Billion US-Dollar.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
@@ -407,7 +209,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "China als dominanter Akteur bei Antimon",
-          "text": "Die EU ist bei dem rüstungsrelevanten Rohstoff Antimon massiv abhängig; China verantwortet derzeit **60 Prozent** der weltweiten Produktion und über **70 Prozent** der Weiterverarbeitung.",
+          "text": "Die EU ist bei dem rüstungsrelevanten Rohstoff Antimon massiv abhängig; China verantwortet derzeit 60 Prozent der weltweiten Produktion und über 70 Prozent der Weiterverarbeitung.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -418,7 +220,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Abhängigkeit von US-Clouddiensten",
-          "text": "In Europa hängen **80 Prozent** aller digitalen Dienstleistungen von Anbietern aus Drittstaaten (primär USA) ab, was die EU-Kommission nun durch neue Gesetze ändern will.",
+          "text": "In Europa hängen 80 Prozent aller digitalen Dienstleistungen von Anbietern aus Drittstaaten (primär USA) ab, was die EU-Kommission nun durch neue Gesetze ändern will.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
@@ -429,7 +231,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "SAIC plant erste EU-Fabrik",
-          "text": "Der chinesische Konzern SAIC (Marke MG) investiert rund **200 Millionen Euro** in eine neue Fabrik in Galicien (Spanien), um die EU-Zollhürden zu umgehen.",
+          "text": "Der chinesische Konzern SAIC (Marke MG) investiert rund 200 Millionen Euro in eine neue Fabrik in Galicien (Spanien), um die EU-Zollhürden zu umgehen.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",

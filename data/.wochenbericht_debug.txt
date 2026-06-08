@@ -1,0 +1,355 @@
+{
+  "label": "Wochenbericht zur China-Berichterstattung – KW 23/2026",
+  "caveat": "sinngemäße Positionen aus deutschen/internationalen Medien, gegen die verlinkte Quelle geprüft; keine wörtlichen Zitate sofern nicht in Anführungszeichen.",
+  "quotes": [
+    {
+      "lead": "Jane Fraser",
+      "text": "(CEO, Citigroup) warnte sinngemäß, es wäre ein Verlust, wenn Europa seine Stärken bei Talenten und Ingenieurskunst nicht nutze, während die Welt einen stabilen Anker zwischen den USA und China suche.",
+      "source": {
+        "outlet": "Handelsblatt",
+        "outletDisplay": "handelsblatt.com",
+        "date": "2026-06-03",
+        "title": "Jane Fraser; In den USA wächst gerade eine gewisse Skepsis gegenüber KI"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "Henna Virkkunen",
+      "text": "(EU-Digitalkommissarin) zeigte sich überzeugt, Europa habe „alles, was es braucht, um eine führende Rolle zu spielen" – mit Blick auf Cloud-Technologien und KI-Chips und mehr Unabhängigkeit von US-Anbietern.",
+      "source": {
+        "outlet": "taz",
+        "outletDisplay": "taz",
+        "date": "2026-06-04",
+        "title": "Europa macht sich schlau"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "Veronika Grimm",
+      "text": "(Wirtschaftsweise) warnte, kluge Köpfe seien „die zentrale Ressource für technologischen Fortschritt"; im Wettstreit mit China drohe der Westen seinen Talentpool zu verspielen.",
+      "source": {
+        "outlet": "Handelsblatt",
+        "outletDisplay": "Handelsblatt",
+        "date": "2026-06-03",
+        "title": "Der Westen droht im Kampf mit China seinen Talentpool zu verspielen"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "Karlheinz Wex",
+      "text": "(CEO, Plansee Group) wies auf die Rohstoffabhängigkeit hin: China beherrsche bei Wolfram Abbau und Verarbeitung mit über 80 Prozent Marktanteil, und seit der Exportbeschränkung „trocknet der westliche Markt aus".",
+      "source": {
+        "outlet": "taz",
+        "outletDisplay": "taz",
+        "date": "2026-06-02",
+        "title": "Der westliche Markt trocknet aus"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "Oliver Koppel",
+      "text": "(Ökonom, Institut der deutschen Wirtschaft) warnte vor dem Know-how-Abfluss: China habe „sehr viele wertvolle Patente deutscher Unternehmen übernommen".",
+      "source": {
+        "outlet": "Spiegel",
+        "outletDisplay": "Spiegel Online",
+        "date": "2026-06-02",
+        "title": "Technologietransfer; China hat Tausende deutscher Patente übernommen"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "Zhu Shaodong",
+      "text": "(Europa-Chef, Chery) gab sich siegesgewiss: „Aktuell führen wir Chinesen die globale Autoindustrie an" – mit einem Vorsprung bei Elektroantrieben und autonomen Fahrfunktionen.",
+      "source": {
+        "outlet": "Die Welt",
+        "outletDisplay": "Die Welt",
+        "date": "2026-06-04",
+        "title": "Wir Chinesen führen die globale Autoindustrie an"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "Lars Bialkowski",
+      "text": "(Manager, Denza/BYD) erklärte, mit der Schnellladetechnik sei Denza dem Wettbewerb „sechs Jahre voraus".",
+      "source": {
+        "outlet": "Die Welt",
+        "outletDisplay": "Die Welt",
+        "date": "2026-06-05",
+        "title": "Mit Schnellladetechnik sechs Jahre voraus"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "Helmut Ahr",
+      "text": "(CEO, Horváth) sah in „Industrial AI" eine Chance für europäische Unternehmen, im Rennen mit den USA und China nicht zurückzufallen.",
+      "source": {
+        "outlet": "WirtschaftsWoche",
+        "outletDisplay": "wiwo.de",
+        "date": "2026-06-01",
+        "title": "TECH-Konferenz; Europa forscht, Amerika skaliert"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "Oliver Steil",
+      "text": "(CEO, Teamviewer) warnte davor, China bei industrieller KI zu unterschätzen: „China hat auch Daten und Prozesse"; Europa dürfe nicht annehmen, es führe dort, wo Peking das Thema längst besetzt habe.",
+      "source": {
+        "outlet": "Handelsblatt",
+        "outletDisplay": "handelsblatt.com",
+        "date": "2026-06-01",
+        "title": "Morning Briefing; Vier Szenarien für Europas Zukunft"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "C.C. Wei",
+      "text": "(CEO, TSMC) zeigte sich zuversichtlich, der KI-Boom werde das Wachstum der kommenden Jahre massiv treiben, wovon die asiatische Halbleiterkette überproportional profitiere.",
+      "source": {
+        "outlet": "Handelsblatt",
+        "outletDisplay": "handelsblatt.com",
+        "date": "2026-06-04",
+        "title": "Künstliche Intelligenz; TSMC-Chef"
+      },
+      "kind": "quote"
+    },
+    {
+      "lead": "To Lam",
+      "text": "(Staatschef Vietnams) warnte beim Shangri-La-Dialog vor eskalierenden Spannungen im Indopazifik: Wenn Vertrauen erodiere, könnten selbst defensive Maßnahmen als Provokation wahrgenommen werden.",
+      "source": {
+        "outlet": "Shangri-La-Dialog",
+        "outletDisplay": "Keynote beim Shangri-La-Dialog",
+        "date": "2026-05-31",
+        "title": "To Lam, Keynote beim Shangri-La-Dialog"
+      },
+      "kind": "quote"
+    }
+  ],
+  "facts": [
+    {
+      "lead": "Dramatischer Patent-Abfluss nach China",
+      "text": "Laut einer aktuellen IW-Studie sind Tausende deutsche Patente in chinesischen Besitz übergegangen; der Anteil Deutschlands an transnationalen Patentanmeldungen sank zwischen 2000 und 2022 von 22 auf nur noch 15 Prozent.",
+      "source": {
+        "outlet": "Spiegel",
+        "outletDisplay": "Spiegel",
+        "date": "2026-06-04",
+        "title": "Wir lassen unsere Kronjuwelen aufkaufen"
+      },
+      "kind": "fact"
+    },
+    {
+      "lead": "Chinas Dominanz bei Industrierobotern",
+      "text": "Im Jahr 2024 installierte China 295.000 neue Industrieroboter, während Deutschland im gleichen Zeitraum lediglich auf 26.982 Einheiten kam.",
+      "source": {
+        "outlet": "FAZ",
+        "outletDisplay": "faz.net",
+        "date": "2026-06-01",
+        "title": "Der zweite Schock heißt KI - diesmal fehlt das Netz"
+      },
+      "kind": "fact"
+    },
+    {
+      "lead": "Explosion der KI-Nutzung in China",
+      "text": "Ende 2025 nutzten bereits 47,5 Prozent aller chinesischen Industrieunternehmen KI-Modelle in ihren Prozessen; ein Jahr zuvor waren es erst rund zehn Prozent.",
+      "source": {
+        "outlet": "FAZ",
+        "outletDisplay": "FAZ",
+        "date": "2026-06-03",
+        "title": "KI-PAPERS: Das erste wirklich offene Weltklassemodell für Robotik"
+      },
+      "kind": "fact"
+    },
+    {
+      "lead": "Rückzug der Pharmaindustrie aus Deutschland",
+      "text": "Infolge des GKV-Gesetzes streicht Boehringer Ingelheim Investitionen von über 900 Millionen Euro in Deutschland; der US-Konzern Eli Lilly halbiert seine geplanten Milliardeninvestitionen in Rheinland-Pfalz.",
+      "source": {
+        "outlet": "Handelsblatt",
+        "outletDisplay": "Handelsblatt",
+        "date": "2026-06-05",
+        "title": "GESUNDHEITSPOLITIK; Die Quittung kommt"
+      },
+      "kind": "fact"
+    },
+    {
+      "lead": "China-Preisbrecher auf dem deutschen Automarkt",
+      "text": "Der MG4 EV Urban (Listenpreis 24.990 Euro) wird über einen Hersteller-Rabatt und staatliche Förderung als Aktionspreis ab 12.990 Euro beworben und unterbietet damit heimische Konkurrenten.",
+      "source": {
+        "outlet": "DIE ZEIT",
+        "outletDisplay": "zeit.de",
+        "date": "2026-06-03",
+        "title": "So fährt der Preisbrecher aus China; MG4 EV Urban für sensationelle 12.990 Euro zu haben"
+      },
+      "kind": "fact"
+    },
+    {
+      "lead": "SK Hynix knackt Billionen-Grenze",
+      "text": "Getrieben durch den KI-Boom stieg der Börsenwert des südkoreanischen Speicherchipherstellers SK Hynix in diesem Jahr um über 200 Prozent auf fast eine Billion US-Dollar.",
+      "source": {
+        "outlet": "FAZ",
+        "outletDisplay": "Frankfurter Allgemeine Zeitung",
+        "date": "2026-06-02",
+        "title": "Die glorreichen Sieben sind nun zwölf"
+      },
+      "kind": "fact"
+    },
+    {
+      "lead": "China als dominanter Akteur bei Antimon",
+      "text": "Die EU ist bei dem rüstungsrelevanten Rohstoff Antimon massiv abhängig; China verantwortet derzeit 60 Prozent der weltweiten Produktion und über 70 Prozent der Weiterverarbeitung.",
+      "source": {
+        "outlet": "Handelsblatt",
+        "outletDisplay": "Handelsblatt",
+        "date": "2026-06-03",
+        "title": "SLOWAKEI; Antimon-Projekt steht auf der Kippe"
+      },
+      "kind": "fact"
+    },
+    {
+      "lead": "Abhängigkeit von US-Clouddiensten",
+      "text": "In Europa hängen 80 Prozent aller digitalen Dienstleistungen von Anbietern aus Drittstaaten (primär USA) ab, was die EU-Kommission nun durch neue Gesetze ändern will.",
+      "source": {
+        "outlet": "FAZ",
+        "outletDisplay": "Frankfurter Allgemeine Zeitung",
+        "date": "2026-06-05",
+        "title": "Wie die EU unabhängig von US-Clouds werden soll"
+      },
+      "kind": "fact"
+    },
+    {
+      "lead": "SAIC plant erste EU-Fabrik",
+      "text": "Der chinesische Konzern SAIC (Marke MG) investiert rund 200 Millionen Euro in eine neue Fabrik in Galicien (Spanien), um die EU-Zollhürden zu umgehen.",
+      "source": {
+        "outlet": "Handelsblatt",
+        "outletDisplay": "handelsblatt.com",
+        "date": "2026-06-01",
+        "title": "Autoindustrie; Chinesischer Autobauer SAIC plant erste EU-Fabrik in Spanien"
+      },
+      "kind": "fact"
+    }
+  ],
+  "themes": [
+    {
+      "title": "Das diplomatische Desaster bei der UN-Sicherheitsratswahl und der Verlust des Status als „Mittelmacht"",
+      "text": "Die Berichterstattung dieser Woche ist geprägt vom Schock über das Scheitern Deutschlands bei der Wahl zum nichtständigen Sitz im UN-Sicherheitsrat. Medien analysieren dies als „Quittung" für eine zu ehrgeizige, aber in der Umsetzung mangelhafte Außenpolitik. Die Diskussion fokussiert sich auf das bröckelnde Selbstbild einer moralischen Führungsmacht und die Erkenntnis, dass Deutschland ohne strategische Allianzen zunehmend zum „Scheinriesen" zwischen den USA und China degradiert wird.",
+      "sources": [
+        {
+          "outlet": "Handelsblatt",
+          "outletDisplay": "handelsblatt.com",
+          "date": "2026-06-03",
+          "title": "UN-Sicherheitsrat; Wie es zu Deutschlands historischer Niederlage kam"
+        },
+        {
+          "outlet": "Handelsblatt",
+          "outletDisplay": "handelsblatt.com",
+          "date": "2026-06-04",
+          "title": "Kommentar; UN-Schlappe entblößt Deutschlands Rolle als Scheinriese"
+        },
+        {
+          "outlet": "WirtschaftsWoche",
+          "outletDisplay": "wiwo.de",
+          "date": "2026-06-04",
+          "title": "Geopolitischer Einfluss; Warum Deutschland schon am Sicherheitsrat scheitert"
+        }
+      ],
+      "kind": "theme"
+    },
+    {
+      "title": "Der „Pharma-Exodus" als Fanal für die Erosion des Hightech-Standorts",
+      "text": "Ein zentrales Thema ist die Absage massiver Investitionen durch Boehringer Ingelheim und Eli Lilly. In der Debatte wird dies als direkte Folge des GKV-Gesetzes und einer verfehlten Industriepolitik gewertet. Während Merz eine „Hightechagenda" proklamiert, ziehen forschungsstarke Konzerne Kapital aus Deutschland ab. Der Kontrast zu China, das seine Gesundheitsindustrie als „nationale Sicherheit" behandelt und massiv subventioniert, wird als Alarmsignal für eine schleichende Deindustrialisierung wahrgenommen.",
+      "sources": [
+        {
+          "outlet": "Handelsblatt",
+          "outletDisplay": "Handelsblatt",
+          "date": "2026-06-05",
+          "title": "GESUNDHEITSPOLITIK; Die Quittung kommt"
+        },
+        {
+          "outlet": "Handelsblatt",
+          "outletDisplay": "Handelsblatt",
+          "date": "2026-06-05",
+          "title": "STANDORT DEUTSCHLAND; Boehringer Ingelheim – 900 Millionen Euro wandern ab"
+        },
+        {
+          "outlet": "FAZ",
+          "outletDisplay": "FAZ",
+          "date": "2026-06-03",
+          "title": "Wegen GKV-Gesetz: Boehringer Ingelheim und Eli Lilly stoppen Millioneninvestitionen in Deutschland"
+        }
+      ],
+      "kind": "theme"
+    },
+    {
+      "title": "Das „3,5-Prozent-Diktat" der USA und die maritime Aufrüstung im Indopazifik",
+      "text": "Nach dem Shangri-La-Dialog in Singapur dominiert die Forderung der USA nach einer massiven Erhöhung der europäischen Verteidigungsausgaben auf 3,5 % des BIP die Sicherheitsdebatte. Es herrscht Unbehagen über Trumps transaktionales Verhältnis zur NATO und die maritime Expansionspolitik Chinas. In Deutschland wird kontrovers diskutiert, ob man sich an Marinemissionen zur Sicherung der Handelswege beteiligen muss oder ob dies die militärische Überforderung Deutschlands angesichts der Bedrohung durch Russland und China weiter verschärft.",
+      "sources": [
+        {
+          "outlet": "FAZ",
+          "outletDisplay": "faz.net",
+          "date": "2026-06-04",
+          "title": "SHANGRI-LA-DIALOG; Amerika an Asien: „Aufrüsten!""
+        },
+        {
+          "outlet": "Spiegel",
+          "outletDisplay": "Spiegel",
+          "date": "2026-05-30",
+          "title": "US-Verteidigungsminister in Südostasien: Warum sich Hegseth in Singapur plötzlich »maßvoll« und »wohlüberlegt« gibt"
+        },
+        {
+          "outlet": "FAZ",
+          "outletDisplay": "FAZ",
+          "date": "2026-05-31",
+          "title": "Hegseth in Singapur: Lob für Asien, Schelte für Europa"
+        }
+      ],
+      "kind": "theme"
+    },
+    {
+      "title": "Der schleichende Ausverkauf der „Innovation made in Germany" durch Patent-Abwanderung",
+      "text": "Ein neues Eskalationsniveau in der Know-how-Debatte markiert eine IW-Studie zum Technologietransfer. Das Thema fokussiert sich darauf, dass China hochselektiv deutsche Patente übernimmt, ohne dass die Politik wirksame Abwehrmechanismen nutzt. Es wird gewarnt, dass Deutschland zur „verlängerten Innovationswerkbank" Chinas degradiert wird, während die Nutzungsrechte für zukunftsrelevante Erfindungen in den Bereichen Maschinenbau und Elektroindustrie massiv nach Fernost abfließen.",
+      "sources": [
+        {
+          "outlet": "Spiegel",
+          "outletDisplay": "Spiegel Online",
+          "date": "2026-06-02",
+          "title": "Technologietransfer; China hat Tausende deutscher Patente übernommen"
+        },
+        {
+          "outlet": "Spiegel",
+          "outletDisplay": "Spiegel Plus",
+          "date": "2026-06-04",
+          "title": "IW-Ökonom Oliver Koppel; „Wir werden zur verlängerten Innovationswerkbank Chinas""
+        },
+        {
+          "outlet": "Spiegel",
+          "outletDisplay": "Spiegel",
+          "date": "2026-06-04",
+          "title": "Wir lassen unsere Kronjuwelen aufkaufen"
+        }
+      ],
+      "kind": "theme"
+    },
+    {
+      "title": "Digitale Souveränität und die Angst vor dem US-chinesischen „Kill-Switch"",
+      "text": "Die Veröffentlichung neuer Digitalstrategien der EU-Kommission löst eine Debatte über die Abhängigkeit von US-Cloud-Anbietern und chinesischen Halbleitern aus. Das Thema wird als existenzielle Sicherheitsfrage gerahmt: Ein US-Präsident oder die Pekinger Führung könnten Europa jederzeit digital „lahmlegen". Die Diskussion dreht sich um den Aufbau eigener KI-Rechenzentren und Gesetze, die europäische Anbieter bevorzugen, um dem technologischen Zangengriff der Supermächte zu entkommen.",
+      "sources": [
+        {
+          "outlet": "DIE ZEIT",
+          "outletDisplay": "zeit.de",
+          "date": "2026-06-03",
+          "title": "Souveränität der EU; So will die EU Donald Trumps »Kill-Switch« entkommen"
+        },
+        {
+          "outlet": "Handelsblatt",
+          "outletDisplay": "handelsblatt.com",
+          "date": "2026-06-02",
+          "title": "Halbleiter; Merz setzt auf digitale Souveränität mit eigenen Rechenzentren"
+        },
+        {
+          "outlet": "DIE ZEIT",
+          "outletDisplay": "zeit.de",
+          "date": "2026-06-03",
+          "title": "Digitale Infrastruktur; EU will unabhängiger von USA und China werden"
+        }
+      ],
+      "kind": "theme"
+    }
+  ]
+}
