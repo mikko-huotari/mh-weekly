@@ -83,7 +83,13 @@ window.W23_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**EU moves to widen the China toolkit beyond trade defence**: Brussels is [set to join the US-led \"Pax Silica\" chip alliance](https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race) to counter China's AI ambitions, while sanctions envoy David O'Sullivan [flagged China as the central obstacle](https://de.euronews.com/my-europe/2026/06/03/osullivan-china-eu-sanktionen-russland) to enforcing Russia sanctions and Chinese firms enabling Moscow are [next in line for EU listings](https://www.politico.eu/article/china-russia-firms-that-help-are-next-for-eu-sanctions/), with the Eastern Europe/Central Asia working group [convening 8 June](https://data.consilium.europa.eu/doc/document/CM-3155-2026-INIT/en/pdf)."
+              "note": "**EU moves to widen the China toolkit beyond trade defence**: Brussels is [set to join the US-led \"Pax Silica\" chip alliance](https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race) to counter China's AI ambitions, while sanctions envoy David O'Sullivan [called China a \"very big problem\"](https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews) for enforcing Russia sanctions. An EEAS draft would [add four Chinese firms](https://www.politico.eu/article/china-russia-firms-that-help-are-next-for-eu-sanctions/) (shadow-fleet, military chemicals, drone components) at the 15 June Foreign Affairs Council - after Beijing retaliated against the 20th sanctions package by banning seven European defence firms from Chinese-made products."
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Von der Leyen seeks a Council mandate as the goods deficit hits €360bn and member states split**: With the EU-China goods deficit widening to €360 billion in 2025 (from €312bn in 2024), von der Leyen is [gearing up](https://www.politico.eu/article/von-der-leyen-gears-up-fight-china-trade-ties) to win backing for new anti-subsidy tools at the 18-19 June European Council, with overcapacity also on the G7 agenda (15-17 June); France pushes for tougher safeguard probes while a Germany-led group - and Spain, which [disavowed the French position paper](https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses) - urge caution."
             },
             {
               "outlet": "",
@@ -1778,118 +1784,6 @@ window.W23_2026 = {
             [
               "German reluctance and unused instruments constrain European response",
               "Berlin declined a France-led push for tougher trade defence; the EU's anti-coercion instrument has never been deployed despite repeated Chinese economic pressure."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Politico",
-          "author": "",
-          "title": "Von der Leyen gears up for fight over China trade ties – POLITICO",
-          "date": "2026-06-01",
-          "url": "https://www.politico.eu/article/von-der-leyen-gears-up-fight-china-trade-ties",
-          "bullets": [
-            [
-              "Von der Leyen seeks commissioner backing for new anti-subsidy trade tools",
-              "The EU goods deficit with China widened to €360 billion in 2025 from €312 billion in 2024, according to Politico."
-            ],
-            [
-              "Germany and Spain resist French-led push for safeguard investigations",
-              "Berlin favors a \"balanced approach\" while Madrid publicly disavowed the French position paper, exposing divisions among major EU economies."
-            ],
-            [
-              "EV tariffs failed as producers pivoted to duty-free plug-in hybrids",
-              "The experience is cited as evidence that existing tools are insufficient, with specific new measures expected at the September State of the Union address."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Politico",
-          "author": "",
-          "title": "EU trade chief wants to emulate US intensity in talks with China",
-          "date": "2026-06-04",
-          "url": "https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china",
-          "bullets": [
-            [
-              "EU-China goods deficit hit €360bn, widening further in Q1 2026",
-              "Šefčovič called for trade talks matching the intensity of the six-round U.S.-China process that preceded the Trump-Xi summit."
-            ],
-            [
-              "EU member states divided on China response as June multilateral summits approach",
-              "France backs tougher trade probes; a Germany-led coalition urges caution; the European Council (June 18-19) and G7 (June 15-17) will both address Chinese overcapacity."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "EU Prepares Warning on Trade Risks as Tensions With China Escalate - Bloomberg",
-          "date": "2026-06-03",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/left-with-few-choices-eu-braces-for-a-trade-fight-with-china",
-          "bullets": [
-            [
-              "EU Commission privately accepts China retaliation as likely",
-              "Officials at a closed EC meeting last week agreed to warn the European public about increased trade frictions, according to people familiar with the talks."
-            ],
-            [
-              "Germany signals openness to tougher trade instruments",
-              "Berlin is open to discussing an overcapacity measure, and EU leaders will assess a common mandate for von der Leyen at a Brussels summit later in June."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Euronews",
-          "author": "",
-          "title": "China is a ‘very big problem’ for EU sanctions against Russia, O’Sullivan tells Euronews",
-          "date": "2026-06-03",
-          "url": "https://www.euronews.com/my-europe/2026/06/03/china-is-a-very-big-problem-for-eu-sanctions-against-russia-osullivan-tells-euronews",
-          "bullets": [
-            [
-              "O'Sullivan calls China a \"very big problem\" for EU Russia sanctions",
-              "The EU sanctions envoy said China systematically backfills Russia's embargoed supply chains - including drone electronics - with no sign of abating."
-            ],
-            [
-              "China retaliates against EU company blacklistings with mirror bans",
-              "Following the 20th package listing Chinese firms for military supply, Beijing banned seven European defence companies from receiving Chinese-made products."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Politico",
-          "author": "",
-          "title": "Chinese firms that help Russia are next for EU sanctions",
-          "date": "2026-06-03",
-          "url": "https://www.politico.eu/article/china-russia-firms-that-help-are-next-for-eu-sanctions",
-          "bullets": [
-            [
-              "EU proposes sanctioning four Chinese firms over Russia support",
-              "The EEAS draft targets companies aiding Russia's shadow fleet, military chemicals, and drone components, for adoption at the June 15 foreign ministers meeting."
-            ],
-            [
-              "Brussels doubles down despite Beijing's \"consequences\" warning",
-              "Trade Commissioner Šefčovič meets Chinese envoy Li Chenggang in Paris on Tuesday as the EU continues targeting China-based Russia enablers."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Politico",
-          "author": "",
-          "title": "Spain distances itself from call for EU to get tougher on China – POLITICO",
-          "date": "2026-06-01",
-          "url": "https://www.politico.eu/article/spain-withdraws-support-eu-china-trade-defenses",
-          "bullets": [
-            [
-              "Spain withdrew support for a French-led EU trade defense paper",
-              "Economy Minister Cuerpo said Madrid had not specifically backed the document calling for stronger investigative tools against Chinese exports."
-            ],
-            [
-              "The reversal revealed EU member-state divisions over China trade policy",
-              "France, Belgium, the Netherlands and Lithuania favor tougher defenses; the Czech Republic, Germany and Slovakia remain cautious about a confrontational approach, the article reports."
             ]
           ],
           "related": []
