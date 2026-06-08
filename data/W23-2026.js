@@ -55,6 +55,12 @@ window.W23_2026 = {
               "date": "",
               "url": "",
               "note": "**IW analysis flags large-scale Chinese takeover of German patents**: A Cologne Institute for Economic Research (IW) evaluation found Chinese entities now [own more than 11,000 German-developed patents](https://www.reuters.com/world/china/china-owns-more-than-11000-german-developed-patents-iw-study-shows-2026-06-02), reinforcing concerns in Berlin about technology transfer and the erosion of Germany's industrial IP base."
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Berlin's China trade-defence position is shifting ahead of the EU summit**: Reiche's economy ministry has convened department heads from the Chancellery, finance and foreign ministries to discuss sharper trade-defence instruments against China, with government circles signalling Berlin is now \"open to discussing an instrument for overcapacity\" as Merz takes a more pessimistic line - a bid by the ministry to regain a shaping role after Brussels and Paris pushed for a tougher course. EVP leader Manfred Weber [warned in Bild](https://www.bild.de/politik/ausland-und-internationales/eu-und-china-vor-handelskampf-weber-fordert-harten-kurs-gegen-peking-6a22d3ad8d84dbd8a4ed6037): \"either we defend ourselves or China flattens parts of our industry.\""
             }
           ]
         },
@@ -678,10 +684,15 @@ window.W23_2026 = {
             ],
             [
               "Rubio marked June 4 by challenging Beijing's censorship",
-              "The US Secretary of State said \"no amount of censorship can erase the past.\""
+              "The US Secretary of State said \"no amount of censorship can erase the past,\" as Trump touted warming ties with Xi."
             ]
           ],
-          "related": []
+          "related": [
+            {
+              "text": "Reuters",
+              "url": "https://www.reuters.com/world/china/rubio-says-china-cannot-censor-memory-tiananmen-square-crackdown-2026-06-03"
+            }
+          ]
         },
         {
           "outlet": "HKFP",
@@ -715,24 +726,6 @@ window.W23_2026 = {
             [
               "Overseas archives preserving Tiananmen records face hacking and Chinese government harassment",
               "China Unofficial Archives, a 2023 US non-profit, reports repeated cyberattacks and that 80% of visitors navigate its Chinese-language version."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "Rubio says China cannot erase memories of Tiananmen Square crackdown",
-          "date": "2026-06-03",
-          "url": "https://www.reuters.com/world/china/rubio-says-china-cannot-censor-memory-tiananmen-square-crackdown-2026-06-03",
-          "bullets": [
-            [
-              "Rubio condemned CCP censorship ahead of June 4 anniversary",
-              "His statement said \"no amount of censorship can erase the past,\" in keeping with the standard practice of the top U.S. diplomat marking the date."
-            ],
-            [
-              "Statement came as Trump touted warming ties with Xi",
-              "Reuters notes the remarks reassure pro-democracy advocates at a time when Trump met Xi in Beijing last month and repeatedly praised their personal relationship."
             ]
           ],
           "related": []
@@ -795,27 +788,18 @@ window.W23_2026 = {
             [
               "Xi's \"turn the blade inward\" drive claims successive disciplinary officials",
               "Li's successor Wang Huimin was indicted on bribery charges in April 2025; Li Gang, disciplinary head at the Central Organisation Department, was sentenced to 15 years in December 2025."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "RFI",
-          "author": "",
-          "title": "Why have Wang Qishan's anti-corruption enforcers been all but wiped out?",
-          "date": "2026-06-03",
-          "url": "https://www.rfi.fr/cn/中国/20260603-王岐山手下打虎将何以近乎覆灭",
-          "bullets": [
-            [
-              "Wang Qishan's CCDI-era enforcers falling in succession",
-              "The commentator argues Xi is systematically dismantling Wang's anti-corruption network, using disciplinary tools Wang himself once wielded."
             ],
             [
-              "Wang's secretary Li Xiaohong named for investigation",
-              "Li ran Wang's Central Inspection Work Leading Group office until 2017, becoming the second Wang secretary to fall after Dong Hong in 2022."
+              "Li was a Wang Qishan lieutenant - part of a wider dismantling of the former anti-graft tsar's network",
+              "RFI argues Xi is systematically taking down Wang's CCDI-era enforcers using the disciplinary tools Wang once wielded; Li ran Wang's Central Inspection Work Leading Group office until 2017, the second Wang secretary to fall after Dong Hong in 2022."
             ]
           ],
-          "related": []
+          "related": [
+            {
+              "text": "RFI",
+              "url": "https://www.rfi.fr/cn/中国/20260603-王岐山手下打虎将何以近乎覆灭"
+            }
+          ]
         },
         {
           "outlet": "SCMP",
@@ -921,7 +905,16 @@ window.W23_2026 = {
               "Republican lawmakers are advancing the AI OVERWATCH Act, which would give Congress (House Foreign Affairs and Senate Banking committees) authority to block chip-export licenses via joint resolution."
             ]
           ],
-          "related": []
+          "related": [
+            {
+              "text": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-s-ai-chips-sought-by-chinese-labs-with-ties-to-military"
+            },
+            {
+              "text": "Reuters",
+              "url": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31"
+            }
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -944,33 +937,6 @@ window.W23_2026 = {
             ]
           ],
           "related": []
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "Nvidia’s H200 AI Chips Targeted by China’s Defense-Focused Universities - Bloomberg",
-          "date": "2026-06-02",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-s-ai-chips-sought-by-chinese-labs-with-ties-to-military",
-          "bullets": [
-            [
-              "Defense-linked Chinese universities sought NVIDIA H200 chips",
-              "Bloomberg found procurement records showing at least seven PLA-linked universities, including Beihang and Northwestern Polytechnical, pursuing H200 computing access despite Entity List designations."
-            ],
-            [
-              "Sanctioned institutions already operate substantial NVIDIA hardware",
-              "Public records show Beijing University of Posts and Telecommunications runs 144 A800 chips; Harbin Institute has deployed H100s and sought H20 access in 2025."
-            ],
-            [
-              "A January Commerce rule formalized H200 buyer restrictions",
-              "The regulation requires firms seeking U.S. export licenses to confirm the chips will not reach a Chinese military end use or end user, including nuclear, missile, chemical or biological weapons programs."
-            ]
-          ],
-          "related": [
-            {
-              "text": "Reuters: US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
-              "url": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31"
-            }
-          ]
         },
         {
           "outlet": "FT",
@@ -1973,31 +1939,9 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "Hegseth says U.S. needs more from Asian allies to secure balance against China",
-          "date": "2026-06-01",
-          "url": "https://www.wsj.com/world/china/hegseth-says-u-s-needs-more-from-asian-allies-to-secure-balance-against-china-ab9c79f9",
-          "bullets": [
-            [
-              "Hegseth moderated US rhetoric on China at Shangri-La",
-              "He omitted references to \"Communist China\" and Taiwan from his speech, saying bilateral ties are \"better than they have been in many years.\""
-            ],
-            [
-              "ISEAS survey ranks US leadership as top Southeast Asian concern",
-              "A January-February poll found US leadership under Trump now surpasses South China Sea tensions as the leading geopolitical worry among regional thought leaders."
-            ],
-            [
-              "China again sent a low-level Shangri-La delegation",
-              "Beijing's top delegate was a major general (the lowest PLA general-officer rank) - the same level as 2025 - reflecting its view of the forum as Western-dominated."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Bloomberg",
           "author": "",
-          "title": "Hegseth Seeks to Convince Allies Silence Is Best on Taiwan - Bloomberg",
+          "title": "Hegseth Seeks to Convince Allies Silence Is Best on Taiwan",
           "date": "2026-06-01",
           "url": "https://www.bloomberg.com/news/articles/2026-05-31/hegseth-s-silence-on-taiwan-is-exactly-what-xi-jinping-wants",
           "bullets": [
@@ -2010,33 +1954,20 @@ window.W23_2026 = {
               "Hegseth sidestepped questions on the $14 billion deal after Trump called it a \"bargaining chip\" following his Beijing meeting with Xi."
             ],
             [
-              "Japan and Philippines issued sharper China criticism than Washington",
-              "Defense Minister Koizumi called Beijing's \"new militarism\" accusations \"strange,\" while Philippine counterpart Teodoro grouped Taiwan into a regional \"convergence endeavor.\""
+              "US strategy documents also dropped China and Taiwan references",
+              "The National Security Strategy removed China as America's top threat and the National Defense Strategy made no explicit Taiwan reference; Japan and the Philippines issued sharper China criticism than Washington, with Koizumi questioning the reliability of US pledges."
             ]
           ],
-          "related": []
-        },
-        {
-          "outlet": "Politico",
-          "author": "",
-          "title": "Hegseth tempers China criticism at Asia forum",
-          "date": "2026-06-01",
-          "url": "https://www.politico.com/news/2026/05/29/hegseth-taiwan-shangri-la-allies-speech-00943588",
-          "bullets": [
-            [
-              "Hegseth omitted Taiwan from Shangri-La Dialogue address",
-              "Breaking with three predecessors' precedent, the Pentagon chief made no mention of the island while calling for \"drama-free\" US-China ties based on \"fairness and reciprocity.\""
-            ],
-            [
-              "US strategy documents dropped China and Taiwan references",
-              "The National Security Strategy removed China as America's top threat and the National Defense Strategy made no explicit Taiwan reference, the article reports."
-            ],
-            [
-              "Japanese defense minister questioned reliability of US security pledges",
-              "Koizumi said he feared \"some countries might underestimate the U.S. commitment\" after Hegseth gave no explanation for the paused $14 billion Taiwan arms sale."
-            ]
-          ],
-          "related": []
+          "related": [
+            {
+              "text": "WSJ",
+              "url": "https://www.wsj.com/world/china/hegseth-says-u-s-needs-more-from-asian-allies-to-secure-balance-against-china-ab9c79f9"
+            },
+            {
+              "text": "Politico",
+              "url": "https://www.politico.com/news/2026/05/29/hegseth-taiwan-shangri-la-allies-speech-00943588"
+            }
+          ]
         },
         {
           "outlet": "Diplomat",
