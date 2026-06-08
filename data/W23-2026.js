@@ -134,52 +134,36 @@ window.W23_2026 = {
               "bullets": [
                 [
                   "",
-                  "[MERICS podcast](https://merics.org/en/podcast/chinese-fdi-europe-reaches-7-year-high-gregor-williams-and-andreas-mischer): Gregor Williams and Andreas Mischer discuss the new Rhodium Group–MERICS report on Chinese FDI in Europe reaching a seven-year high."
+                  "[MERICS podcast](https://merics.org/en/podcast/chinese-fdi-europe-reaches-7-year-high-gregor-williams-and-andreas-mischer): Chinese FDI in Europe reaches a seven-year high"
+                ],
+                [
+                  "",
+                  "Gregor Williams and Andreas Mischer discuss the new Rhodium Group–MERICS joint report on Chinese investment in Europe."
                 ]
               ]
             },
             {
-              "outlet": "Brain-computer interfaces",
+              "outlet": "MERICS",
               "title": "",
               "date": "",
-              "url": "https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us",
+              "url": "",
               "bullets": [
+                [
+                  "",
+                  "MERICS comments: China tech and industrial policy"
+                ],
                 [
                   "",
                   "[Brain-computer interfaces](https://merics.org/en/comment/chinas-swift-moves-brain-computer-interfaces-challenge-europe-and-us): what China's first-mover regulatory approval means for global competitors."
-                ]
-              ]
-            },
-            {
-              "outlet": "AI competition",
-              "title": "",
-              "date": "",
-              "url": "https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens",
-              "bullets": [
+                ],
                 [
                   "",
                   "[AI competition](https://merics.org/en/comment/chinas-ai-competition-strategy-wide-dispersion-cheap-tokens): how China is shaping it through scale and low-cost deployment."
-                ]
-              ]
-            },
-            {
-              "outlet": "AI memory shortage",
-              "title": "",
-              "date": "",
-              "url": "https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips",
-              "bullets": [
+                ],
                 [
                   "",
                   "[AI memory shortage](https://merics.org/en/comment/china-poised-gain-global-memory-makers-pivot-ai-chips): how Chinese chipmakers may benefit."
-                ]
-              ]
-            },
-            {
-              "outlet": "XPeng in Europe",
-              "title": "",
-              "date": "",
-              "url": "https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence",
-              "bullets": [
+                ],
                 [
                   "",
                   "[XPeng in Europe](https://merics.org/en/comment/xpeng-xiaopengqiche-pushes-increase-european-manufacturing-presence): will its planned investments boost European electric-car competitiveness?"
@@ -194,7 +178,11 @@ window.W23_2026 = {
               "bullets": [
                 [
                   "",
-                  "[MERICS China Debates](https://merics.org/en/comment/chinese-experts-urge-beijing-push-past-obstacles-unified-national-market): Alexander Davey on the political economy behind Beijing's unified-national-market push, as the 15th Five-Year Plan calls to \"eliminate local protectionism and market segmentation.\""
+                  "[MERICS China Debates](https://merics.org/en/comment/chinese-experts-urge-beijing-push-past-obstacles-unified-national-market): Chinese experts on the unified national market"
+                ],
+                [
+                  "",
+                  "Alexander Davey examines the political economy behind Beijing's push, as the 15th Five-Year Plan calls on all levels of government to \"eliminate local protectionism and market segmentation.\""
                 ]
               ]
             },
@@ -206,7 +194,11 @@ window.W23_2026 = {
               "bullets": [
                 [
                   "",
-                  "[China Tech Observatory](https://mericseu.substack.com/p/merics-china-tech-observatory-chinas): how Beijing is orchestrating a push for future industries."
+                  "[China Tech Observatory](https://mericseu.substack.com/p/merics-china-tech-observatory-chinas): how Beijing is orchestrating a push for future industries"
+                ],
+                [
+                  "",
+                  "The latest issue of the MERICS tech newsletter."
                 ]
               ]
             },
@@ -218,7 +210,15 @@ window.W23_2026 = {
               "bullets": [
                 [
                   "",
-                  "[Soapbox × MERICS, Issue 250](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product): \"The EU cannot chase China one product at a time\" - when the EU closes one tariff door, Chinese supply reappears one step earlier in the chain; also hybrids, crude oil, demographics, factory hiring."
+                  "[Soapbox × MERICS, Issue 250](https://soapboxtrade.substack.com/p/the-eu-cannot-chase-china-one-product): \"The EU cannot chase China one product at a time\""
+                ],
+                [
+                  "",
+                  "When the EU closes one tariff door, Chinese supply reappears one step earlier in the chain."
+                ],
+                [
+                  "",
+                  "Also covers the hybrid-driven EU car-export boom, crude-oil supply shifts, demographics, and weak factory hiring."
                 ]
               ]
             }

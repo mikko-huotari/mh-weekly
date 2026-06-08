@@ -444,23 +444,32 @@ def parse_research_section(text: str) -> dict | None:
     groups = []
     current_label = None
     current_items: list[dict] = []
+    current_item = None
     for line in body.splitlines():
+        if not line.strip():
+            continue
+        indent = len(line) - len(line.lstrip())
         ls = line.strip()
         if re.fullmatch(r"\*\*[^*]+\*\*", ls):
             if current_label and current_items:
                 groups.append({"label": current_label, "items": current_items})
             current_label = ls.strip("*").strip()
             current_items = []
-        elif ls.startswith("- "):
+            current_item = None
+        elif ls.startswith("- ") and indent == 0:
             content = ls[2:].strip()
             link = INLINE_LINK_RE.search(content)
             url = link.group("url") if link else ""
             outlet = (link.group("text") if link else "MERICS")[:40]
             note = content  # keep [text](url) markdown so the link renders in the bullet
-            current_items.append({
+            current_item = {
                 "outlet": outlet, "title": "", "date": "", "url": url,
                 "bullets": [["", note]],
-            })
+            }
+            current_items.append(current_item)
+        elif ls.startswith("- ") and indent > 0 and current_item is not None:
+            # Indented sub-bullet: nest under the preceding publication item.
+            current_item["bullets"].append(["", ls[2:].strip()])
     if current_label and current_items:
         groups.append({"label": current_label, "items": current_items})
 
