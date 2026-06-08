@@ -1348,7 +1348,10 @@
     #print-root .entry { margin: 0 0 4.5mm; }
     #print-root .entry-title-link .arrow { display: none; }
     #print-root .entry-tags, #print-root .filter-bar, #print-root .empty-state { display: none !important; }
-    #print-root a { color: #111; text-decoration: none; }
+    /* Keep <a href> clickable in the printed PDF and visually distinct.
+       Title link in MERICS red; in-bullet links underlined in body color. */
+    #print-root a { color: #111; text-decoration: underline; text-decoration-thickness: .5pt; text-underline-offset: 1.5pt; }
+    #print-root .entry-title-link, #print-root .entry-title-link:visited { color: var(--merics-red); text-decoration: underline; text-decoration-thickness: .6pt; text-underline-offset: 2pt; }
     #print-root img { max-width: 100%; height: auto; }
 
     /* ---- Density (Safe single-column) + outlet badges that print ---- */
