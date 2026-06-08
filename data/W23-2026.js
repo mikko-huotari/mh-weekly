@@ -84,6 +84,24 @@ window.W23_2026 = {
               "date": "",
               "url": "",
               "note": "**MEP Eroglu returns from Beijing demanding reciprocity**: Renew Europe's Engin Eroglu, back from a China visit, [argued](https://x.com/EnginEroglu_FW/status/2062259697865076801) that \"every rule that applies to European companies operating in China should also apply to Chinese companies operating in Europe\", aligning Parliament voices with Sefcovic's level-playing-field framing."
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**EU Parliament shields its own from the Huawei graft probe, blunting telecom hawkishness**: The Legal Affairs Committee voted to maintain the immunity of four MEPs, [blocking Belgian prosecutors](https://www.politico.eu/article/eu-lawmakers-vote-shield-peers-huawei-scandal-probe/) investigating whether Huawei-linked lobbyists paid lawmakers to co-sign a letter backing the firm's 5G rollout - as Brussels struggles to turn its non-binding anti-Huawei recommendation into law against German and Spanish pushback."
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**The Commission's \"technological sovereignty\" package is an autonomy bid, not US alignment**: Brussels [unveiled a four-part package](http://www.xinhuanet.com/world/20260603/09cda3799e144166971c307e67fa2b93/c.html) - a Cloud and AI Development Act (tripling EU data-centre capacity), a Chip Act 2.0, an Open Source Strategy and an energy-sector AI roadmap - framed to widen European choice in core technologies, distinct from integration into US semiconductor arrangements."
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Lammy's Beijing trip caps a European normalisation wave**: Foreign Secretary David Lammy co-hosted the 11th China-UK Strategic Dialogue with Wang Yi on 1-3 June, following recent visits by leaders from Finland, Ireland, Germany, Spain and Serbia; [21st Century Business Herald](https://www.21jingji.com/article/20260601/herald/dea88a6cbd12cc8a61023ab4d2fa3c23.html) cited 2025 Chinese investment in the EU27-plus-UK at EUR168bn (up 67% y/y), framing the revival as step-by-step normalisation."
             }
           ]
         },
@@ -494,6 +512,42 @@ window.W23_2026 = {
       "label": "Politics and society",
       "items": [
         {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "US citizen and journalist charged with acting as Chinese agent",
+          "date": "2026-06-05",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3356019/us-citizen-and-journalist-charged-acting-chinese-agent",
+          "bullets": [
+            [
+              "MSS ran a Chinese-state-media veteran as a paid US-based collector",
+              "Thomas Weir Pauken II (alias Tom McGregor), 50, a former Xinhua/CGTN editor, was charged in the Eastern District of Virginia with acting as a foreign agent under Ministry of State Security direction from 2019 to February 2026."
+            ],
+            [
+              "The operation paid roughly $100,000 plus per-trip expenses",
+              "he allegedly collected about $100,000 and $7,500 per trip via his wife's account and faces up to 10 years, with sentencing set for 1 September 2026."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Caixin",
+          "author": "",
+          "title": "Two \"tigers\" fall as Chongqing mayor Hu Henghua is removed from office",
+          "date": "2026-06-01",
+          "url": "https://china.caixin.com/2026-06-01/102449606.html",
+          "bullets": [
+            [
+              "A sitting megacity mayor is formally stripped of office as the sweep widens",
+              "Hu Henghua was removed as Chongqing mayor and as a city People's Congress deputy, following his March investigation for serious discipline and law violations."
+            ],
+            [
+              "Two more \"tigers\" fell in the same week",
+              "Jiangxi United Front chief Li Wei was placed under investigation on 27 May and former China Huaneng chief accountant Wang Yihua was announced under probe; 28 centrally-managed cadres were investigated in the first five months of 2026."
+            ]
+          ],
+          "related": []
+        },
+        {
           "outlet": "NYT",
           "author": "",
           "title": "China Aims A.I. at Predicting Who Could Pose a Political Risk - The New York Times",
@@ -778,6 +832,42 @@ window.W23_2026 = {
       "label": "Geoeconomics — tech & innovation",
       "items": [
         {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "China orders central state-owned enterprises to double spending on basic research",
+          "date": "2026-06-04",
+          "url": "https://www.scmp.com/economy/china-economy/article/3355966/china-orders-central-state-owned-enterprises-double-spending-basic-research",
+          "bullets": [
+            [
+              "Beijing conscripts state champions as long-term R&D investors",
+              "SASAC ordered central SOEs to double basic-research spending by 2030 and become \"globally influential\" technology sources across 20 cutting-edge fields by 2035."
+            ],
+            [
+              "Executive metrics rewired to shield managers from research losses",
+              "the directive revises executive evaluation to excuse balance-sheet losses incurred pursuing basic research, shifting national-lab reviews to long-term, milestone-based assessment."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Xinhua",
+          "author": "",
+          "title": "China's WeRide to launch commercial robotaxi pilot service in Madrid",
+          "date": "2026-06-03",
+          "url": "https://english.news.cn/20260603/4ddb250ab4b942d8acc9536ed5f7ee1a/c.html",
+          "bullets": [
+            [
+              "WeRide deepens its European footprint via the Uber stack",
+              "WeRide partnered with Uber and Spanish operator AVOMO to launch Spain's first public commercial robotaxi pilot in Madrid, bookable through the Uber app, expected later in 2026."
+            ],
+            [
+              "Regulatory accommodation lets Chinese AV tech scale onto Western roads",
+              "safety operators stay in the vehicles per Spanish rules; CEO Han Xu called Spain WeRide's fifth European market."
+            ]
+          ],
+          "related": []
+        },
+        {
           "outlet": "FT",
           "author": "",
           "title": "The China-US tech truce is fragile",
@@ -954,6 +1044,78 @@ window.W23_2026 = {
       "short": "Geoecon · Trade",
       "label": "Geoeconomics — trade, finance & industrial policy",
       "items": [
+        {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "US' Bessent says China eyeing more Boeing purchases ahead of Xi visit",
+          "date": "2026-06-04",
+          "url": "https://www.scmp.com/news/china/article/3355886/us-bessent-says-china-eyeing-more-boeing-purchases-ahead-xi-visit",
+          "bullets": [
+            [
+              "Beijing converts diplomatic goodwill into commercial leverage",
+              "Boeing signed three cooperation agreements at the MRO Greater China exhibition in Beijing on 4 June (with CETC Avionics, HNA Technic and Wuhan Hangda), projecting China's aviation-services market at $825 billion through 2044."
+            ],
+            [
+              "Aircraft orders staged as a chip for the September summit",
+              "Treasury Secretary Scott Bessent said China is \"very interested\" in more Boeing purchases beyond the 200 aircraft committed during Trump's Beijing visit, with analysts estimating 500-550 more jets possible if C919 supply-chain assurances are secured."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Yicai",
+          "author": "",
+          "title": "Chinese shipbuilder lands order for 12 VLCCs worth nearly $1.5 billion from Greece's Dynacom",
+          "date": "2026-06-03",
+          "url": "https://www.yicaiglobal.com/news/chinese-shipbuilder-lands-order-for-12-vlccs-worth-nearly-usd15-billion-from-greeces-dynacom",
+          "bullets": [
+            [
+              "Chinese yards keep capturing high-value tanker tonnage from European owners",
+              "Hudong-Zhonghua Shipbuilding (China State Shipbuilding) signed a near-CNY10 billion ($1.5 billion) deal to build 12 very large crude carriers of 307,000 dwt each for Greece's Dynacom Tankers, with construction likely from October 2027."
+            ],
+            [
+              "Yuan settlement advances alongside the order book",
+              "the yard plans partial settlement in yuan to hedge exchange-rate risk, building on a 2021 contract that supplied Dynacom two FSRUs."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "Japan's local banks flee China for Singapore, India as supply chains shift",
+          "date": "2026-06-03",
+          "url": "https://asia.nikkei.com/business/finance/japan-s-local-banks-flee-china-for-singapore-india-as-supply-chains-shift",
+          "bullets": [
+            [
+              "Japanese regional banks track their manufacturing clients out of China",
+              "the number of Japanese regional-bank branches in China fell 20% over five years as rising labor costs and struggling Japanese manufacturers cut demand for local services."
+            ],
+            [
+              "Relocation follows the supply-chain pivot to South and Southeast Asia",
+              "Bank of Kyoto closed its Dalian office and consolidated into Shanghai, with banks redirecting presence toward Singapore and India."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "author": "",
+          "title": "How China's wealthy move money overseas despite a strict annual $50,000 limit",
+          "date": "2026-06-02",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-02/how-china-s-wealthy-move-money-overseas-despite-a-strict-annual-50-000-limit",
+          "bullets": [
+            [
+              "Capital controls strain as wealthy households seek offshore footholds",
+              "despite SAFE's $50,000 per-person annual forex quota, households, institutions and firms moved a record ~$807 billion out of China last year (Institute of International Finance estimate), driven by economic-outlook worries and Xi's inequality drive."
+            ],
+            [
+              "Evasion channels persist faster than enforcement closes them",
+              "methods include hawala-style matching networks, \"smurfing\" across multiple quotas, trade misinvoicing, and shifts into QDII and offshore trusts and insurance."
+            ]
+          ],
+          "related": []
+        },
         {
           "outlet": "WSJ",
           "author": "",
@@ -1634,6 +1796,42 @@ window.W23_2026 = {
       "short": "Responses",
       "label": "Strategic implications and responses",
       "items": [
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "US proposes new tariffs on China, EU over forced labor",
+          "date": "2026-06-02",
+          "url": "https://www.wsj.com/economy/trade/u-s-proposes-at-least-10-tariffs-on-trading-partners-after-probe-into-forced-labor-511511f5",
+          "bullets": [
+            [
+              "Washington weaponizes forced-labor enforcement as a broad tariff instrument",
+              "a Section 301 probe found 60 economies failed to enforce bans on forced-labor imports, prompting proposed levies of 10% on 16 partners (incl. the EU, Canada, Mexico, Taiwan, UK) and 12.5% on 44 others, among them China, Japan, India and South Korea."
+            ],
+            [
+              "Calibrated to spare strategically sensitive supply chains",
+              "the duties would not take effect immediately (hearings begin 7 July), and the administration pre-exempted aircraft parts, food, and rare-earth minerals critical to phones and cars."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Euronews",
+          "author": "",
+          "title": "Half of Belgium sees the US as a bigger adversary than China",
+          "date": "2026-06-02",
+          "url": "https://www.euronews.com/2026/06/02/half-of-belgium-sees-us-as-a-rival-survey-reveals",
+          "bullets": [
+            [
+              "Transatlantic trust has eroded faster than threat perceptions of Beijing",
+              "the annual \"De Stemming\" survey (U. Antwerp/ULB, March 2026) found over 50% of Belgians view the US as an adversary versus 40-44% for China, with only 10% still seeing the US as an ally."
+            ],
+            [
+              "Opinion hardens toward strategic autonomy while staying in NATO",
+              "over 80% back European military independence and ~90% oppose US interference, even as 80% want Belgium to remain in NATO and nearly 60% judge a Chinese attack on Taiwan likely."
+            ]
+          ],
+          "related": []
+        },
         {
           "outlet": "House Select Committee on the CCP",
           "author": "",
