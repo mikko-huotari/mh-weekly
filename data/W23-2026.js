@@ -1946,24 +1946,6 @@ window.W23_2026 = {
         {
           "outlet": "Caixin Global",
           "author": "",
-          "title": "Shein fined $26 million by French watchdog for consumer violations",
-          "date": "2026-06-03",
-          "url": "https://www.caixinglobal.com/2026-06-04/shein-fined-26-million-by-french-watchdog-for-consumer-violations-102450732.html",
-          "bullets": [
-            [
-              "French regulator fines Shein €22.5 million for consumer violations",
-              "France's DGCCRF penalised the fast-fashion platform over non-compliant return policies, product information disclosure, and order confirmation processes."
-            ],
-            [
-              "Fine covers both consumer protection and environmental rule breaches",
-              "The combined penalty - announced 4 June 2026 - marks one of the largest regulatory actions against a Chinese e-commerce operator in the EU."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Caixin Global",
-          "author": "",
           "title": "China arms itself with new outbound investment rules",
           "date": "2026-06-01",
           "url": "https://www.caixinglobal.com/2026-06-02/caixin-explains-china-arms-itself-with-new-outbound-investment-rules-102449944.html",
@@ -1975,46 +1957,6 @@ window.W23_2026 = {
             [
               "Oversight of overseas technology and data transfers tightened under national security framing",
               "The regulations require tighter controls on cross-border transfers of domestic technology and data, extending the security screening logic from inbound to outbound investment flows."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "21st Century Business Herald",
-          "author": "",
-          "title": "Exclusive: China will counter if the EU pushes ahead with its “overcapacity” tool",
-          "date": "2026-05-29",
-          "url": "https://www.21jingji.com/article/20260529/herald/cee3ac3b3d238a38de470a839961c7c3.html",
-          "bullets": [
-            [
-              "EU's resilience tool described as a China-targeted protectionist instrument",
-              "The article argues the mechanism reflects lobbying by traditional industries and Europe's industrial decline rather than neutral trade policy."
-            ],
-            [
-              "China could launch anti-discrimination and supply chain security investigations in response",
-              "According to the article, Beijing would take comprehensive countermeasures if Chinese interests are harmed by the EU tool advancing."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "21st Century Business Herald",
-          "author": "",
-          "title": "Suspending tariffs is not enough: Will the EU still insist on a “carbon tax” amid the fertilizer supply crisis?",
-          "date": "2026-05-29",
-          "url": "https://www.21jingji.com/article/20260529/herald/fd3fce1eeb07070178d22da2b8934566.html",
-          "bullets": [
-            [
-              "Hormuz disruption drove up fertilizer costs, prompting EU to suspend nitrogen import tariffs",
-              "The EU lifted tariffs on urea and ammonia for one year from May 23, saving importers approximately €60 million, according to the article."
-            ],
-            [
-              "Italy called the tariff relief insufficient at the EU Agriculture and Fisheries Council",
-              "Minister Lollobrigida said the one-year suspension did not adequately address the fertilizer supply crisis at the May 26 ministerial meeting."
-            ],
-            [
-              "CBAM and ETS tightening risks compounding fertilizer and food price pressures",
-              "The article reports that faster implementation of EU carbon border and emissions trading mechanisms could raise agricultural input costs and worsen food security."
             ]
           ],
           "related": []
@@ -2051,24 +1993,6 @@ window.W23_2026 = {
             [
               "Green energy transition for AI data centers is not feasible in the near term",
               "David Fishman of Lantau Group told Yicai that China's AI computing boom \"can't make it a green revolution.\""
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "21st Century Business Herald",
-          "author": "",
-          "title": "China’s autonomous driving technology has broad prospects in Europe",
-          "date": "2026-06-03",
-          "url": "https://www.21jingji.com/article/20260603/abe69e632a668807294a7381abbe47a4.html",
-          "bullets": [
-            [
-              "Catalonia's industry minister pitched the region as a Chinese investment gateway to Europe",
-              "Miquel Sàmper said Chinese companies should treat Catalonia as a long-term strategic partner, not merely a market, highlighting electric mobility, autonomous driving, and batteries as priority sectors."
-            ],
-            [
-              "Catalonia's 2026 - 2030 strategy targets €5 billion in industrial investment and 600 foreign projects",
-              "The regional government aims to create 45,000 jobs through the plan, with green energy and advanced manufacturing among the named cooperation areas."
             ]
           ],
           "related": []
@@ -2130,6 +2054,24 @@ window.W23_2026 = {
             ]
           ],
           "related": []
+        },
+        {
+          "outlet": "MFA 外交部 (Wang Yi 王毅)",
+          "author": "",
+          "title": "Wang Yi visits Canada; says Canadian exports to China could double by 2030 · 王毅访问加拿大",
+          "date": "2026-06-01",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/wjbzhd/202606/t20260601_11922088.html",
+          "bullets": [
+            [
+              "Beijing courts Ottawa with a doubling-of-exports pledge",
+              "On a rare visit, Wang Yi met Canadian Foreign Minister Anita Anand (29 May) and PM Mark Carney, saying Canada could \"far surpass\" its 50%-by-2030 export-growth goal - suggesting exports to China could rise by 100%."
+            ],
+            [
+              "MFA readout frames warmer ties as mutually beneficial",
+              "The official readout (published 1 June) said better China-Canada relations meet \"the expectations of all parties,\" with \"no clash of fundamental interests\" and \"enormous room for cooperation.\""
+            ]
+          ],
+          "related": []
         }
       ]
     },
@@ -2140,9 +2082,88 @@ window.W23_2026 = {
       "label": "Chinese thinking",
       "items": [
         {
-          "outlet": "Tsinghua CISS - Center for International Security and Strategy",
+          "outlet": "Aisixiang 爱思想",
+          "author": "Zhang Jian · 张健",
+          "title": "New dynamics in US-China-EU-Russia interaction and their geopolitical impact · 中美欧俄互动新态势及其地缘政治影响",
+          "date": "2026-05-31",
+          "url": "https://www.aisixiang.com/data/176743.html",
+          "bullets": [
+            [
+              "CICIR scholar frames the four-way great-power interaction as the structuring axis of the emerging order",
+              "relevant to how Beijing reads the EU's position between Washington and Moscow."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Aisixiang 爱思想",
+          "author": "Xi Jinping · 习近平",
+          "title": "Forward-looking layout and development of future industries · 前瞻布局和发展未来产业",
+          "date": "2026-05-31",
+          "url": "https://www.aisixiang.com/data/176750.html",
+          "bullets": [
+            [
+              "Sets the authoritative line on future-industries industrial policy",
+              "the week's other Aisixiang pieces elaborate it."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Aisixiang 爱思想",
+          "author": "Yin Hejun · 阴和俊",
+          "title": "Leading future-industry development through high-level S&T self-reliance · 以高水平科技自立自强引领未来产业发展",
+          "date": "2026-06-01",
+          "url": "https://www.aisixiang.com/data/176784.html",
+          "bullets": [
+            [
+              "The S&T minister operationalizes Xi's line",
+              "self-reliance as the lever for future industries."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Aisixiang 爱思想",
+          "author": "Zhang Rui & Yue Fengli · 张锐、岳锋利",
+          "title": "Trump's obsession with \"energy dominance of the world\" and its limits · 特朗普\"以能源主导世界\"的执念与限度",
+          "date": "2026-06-01",
+          "url": "https://www.aisixiang.com/data/176766.html",
+          "bullets": [],
+          "related": []
+        },
+        {
+          "outlet": "Aisixiang 爱思想",
+          "author": "Zhang Zhongxiang · 张忠祥",
+          "title": "Achievements, challenges and prospects of China-Africa economic and trade cooperation in the new era · 新时代中非经贸合作的成就、挑战与前景",
+          "date": "2026-06-01",
+          "url": "https://www.aisixiang.com/data/176810.html",
+          "bullets": [
+            [
+              "Global-China / Africa angle",
+              "a counterpoint to Western framings of BRI fatigue."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Aisixiang 爱思想",
+          "author": "Chi Fulin · 迟福林",
+          "title": "The 15th Five-Year-Plan period should accelerate building a consumption powerhouse · \"十五五\"时期应在加快建设消费强国上发力",
+          "date": "2026-06-04",
+          "url": "https://www.aisixiang.com/data/176988.html",
+          "bullets": [
+            [
+              "A prominent reform economist ties the next Five-Year Plan to a consumption-led model",
+              "the domestic-demand debate."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Tsinghua CISS",
           "author": "",
-          "title": "CISS专家参加香格里拉对话会并接受多家媒体采访 2026年5月29日至31日，第23届香格里拉对话会在新加坡举行，引发国内外舆论高度关注。清华大学战略与安全研究中心（CISS）主任达巍、副主任肖茜、研究专员周波受邀参会。参会之余，CISS专家就中美关系、亚太安全等议题，接受了多家国（境）内外主流媒体采访或刊文，对国际社会普遍关心的热点问题作出了解读。",
+          "title": "CISS experts at the 23rd Shangri-La Dialogue · CISS专家参加香格里拉对话会",
           "date": "2026-05-29",
           "url": "https://ciss.tsinghua.edu.cn/info/yw/9314",
           "bullets": [
@@ -2177,8 +2198,8 @@ window.W23_2026 = {
         },
         {
           "outlet": "guancha.cn",
-          "author": "",
-          "title": "周波：4次提到“六字箴言”，只字未提台湾，美国在释放什么信号？",
+          "author": "Zhou Bo · 周波",
+          "title": "Hegseth cited a \"six-character mantra\" four times but never mentioned Taiwan - what is the US signalling? · 4次提到\"六字箴言\"，只字未提台湾",
           "date": "2026-06-01",
           "url": "https://www.guancha.cn/ZhouBo3/2026_06_01_818991_s.shtml",
           "bullets": [
@@ -2212,24 +2233,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "East is Read",
-          "author": "",
-          "title": "A Chinese Diplomat’s Account of Kyiv’s First Night at War",
-          "date": "2026-06-05",
-          "url": "https://www.eastisread.com/p/a-chinese-diplomats-account-of-kyivs",
-          "bullets": [
-            [
-              "Chinese diplomat Ding Jianwei offers firsthand account of Kyiv on the invasion's opening night",
-              "East is Read publishes what it describes as a rare personal narrative by a Chinese official who was present in Ukraine when Russia's attack began on 24 February 2022."
-            ],
-            [
-              "Account frames Kyiv's survival as contingent on fragile, chance circumstances",
-              "Ding depicts the capital's early-war trajectory as dependent on precarious contingencies rather than as a foregone outcome."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "guancha.cn",
           "author": "",
           "title": "EU seeks trade confrontation but summit avoids mentioning “China” to avoid Beijing’s attention",
@@ -2252,9 +2255,9 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "CASS IES - Institute of European Studies",
+          "outlet": "CASS Institute of European Studies",
           "author": "",
-          "title": "2026-06-02 欧洲所举行调研心得分享会，三位学者分享欧洲前沿观察 欧洲所举行调研心得分享会，三位学者分享欧洲前沿观察",
+          "title": "Three scholars share Europe-fieldwork observations · 欧洲所举行调研心得分享会",
           "date": "2026-06-02",
           "url": "http://ies.cass.cn/cn/exchange/home/202606/t20260602_6002545.shtml",
           "bullets": [
@@ -2268,24 +2271,6 @@ window.W23_2026 = {
             ]
           ],
           "related": []
-        },
-        {
-          "outlet": "CASS IES - Institute of European Studies",
-          "author": "",
-          "title": "社科要闻 | 学习贯彻习近平总书记在文化传承发展座谈会上重要讲话精神座谈会在京召开",
-          "date": "2026-06-02",
-          "url": "http://ies.cass.cn/cn/news/cass/202606/t20260602_6007636.shtml",
-          "bullets": [
-            [
-              "CASS held a Beijing symposium to study Xi Jinping's cultural inheritance speech",
-              "The June 2026 session formally tasked academy members with studying and implementing directives from Xi's Cultural Inheritance and Development forum address."
-            ],
-            [
-              "The event follows the standard \"study and implement\" format applied to major leadership addresses",
-              "CASS's Institute of European Studies organised the session and reported it through the academy's official news bulletin."
-            ]
-          ],
-          "related": []
         }
       ]
     },
@@ -2295,24 +2280,6 @@ window.W23_2026 = {
       "short": "CN ↔ EU/GER",
       "label": "CN coverage of EU/GER",
       "items": [
-        {
-          "outlet": "Sinocism",
-          "author": "Yuyuan Tantian · 玉渊谭天",
-          "title": "If the EU Insists on Pushing an Overcapacity Tool, China Will Surely Retaliate",
-          "date": "2026-05-29",
-          "url": "https://sinocism.notion.site/Yuyuan-Tantian-If-the-EU-Insists-on-Pushing-an-Overcapacity-Tool-China-Will-Surely-Retaliate-36f84ece41d781208c8ac388e736dba0",
-          "bullets": [
-            [
-              "Yuyuan Tantian [玉渊谭天] warns EU that Chinese retaliation is certain if it advances an overcapacity trade tool",
-              "The CCTV state media commentary account stated that China will \"surely retaliate\" should the EU insist on pushing the proposed instrument, published 2026-05-29."
-            ],
-            [
-              "The warning frames retaliation as conditional on EU persistence",
-              "Beijing's state media positions the overcapacity tool as a clear red line while leaving room for de-escalation if the EU reverses course, according to the article title."
-            ]
-          ],
-          "related": []
-        },
         {
           "outlet": "Global Times",
           "author": "",
@@ -2577,6 +2544,42 @@ window.W23_2026 = {
             [
               "NATO expansion and missile defense deployments ended the Russia-West honeymoon",
               "Russia's \"Greater Europe\" vision and the West's NATO-centred approach diverged irreparably, the article reports."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Caixin Global",
+          "author": "",
+          "title": "Shein fined $26 million by French watchdog for consumer violations",
+          "date": "2026-06-03",
+          "url": "https://www.caixinglobal.com/2026-06-04/shein-fined-26-million-by-french-watchdog-for-consumer-violations-102450732.html",
+          "bullets": [
+            [
+              "French regulator fines Shein €22.5 million for consumer violations",
+              "France's DGCCRF penalised the fast-fashion platform over non-compliant return policies, product information disclosure, and order confirmation processes."
+            ],
+            [
+              "Fine covers both consumer protection and environmental rule breaches",
+              "The combined penalty - announced 4 June 2026 - marks one of the largest regulatory actions against a Chinese e-commerce operator in the EU."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "21st Century Business Herald",
+          "author": "",
+          "title": "China’s autonomous driving technology has broad prospects in Europe",
+          "date": "2026-06-03",
+          "url": "https://www.21jingji.com/article/20260603/abe69e632a668807294a7381abbe47a4.html",
+          "bullets": [
+            [
+              "Catalonia's industry minister pitched the region as a Chinese investment gateway to Europe",
+              "Miquel Sàmper said Chinese companies should treat Catalonia as a long-term strategic partner, not merely a market, highlighting electric mobility, autonomous driving, and batteries as priority sectors."
+            ],
+            [
+              "Catalonia's 2026 - 2030 strategy targets €5 billion in industrial investment and 600 foreign projects",
+              "The regional government aims to create 45,000 jobs through the plan, with green energy and advanced manufacturing among the named cooperation areas."
             ]
           ],
           "related": []
