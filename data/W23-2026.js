@@ -103,7 +103,7 @@ window.W23_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Lammy's Beijing trip caps a European normalisation wave**: Foreign Secretary David Lammy co-hosted the 11th China-UK Strategic Dialogue with Wang Yi on 1-3 June, following recent visits by leaders from Finland, Ireland, Germany, Spain and Serbia; [21st Century Business Herald](https://www.21jingji.com/article/20260601/herald/dea88a6cbd12cc8a61023ab4d2fa3c23.html) cited 2025 Chinese investment in the EU27-plus-UK at EUR168bn (up 67% y/y), framing the revival as step-by-step normalisation."
+              "note": "**Lammy's Beijing trip caps a European normalisation wave**: Foreign Secretary David Lammy co-hosted the 11th China-UK Strategic Dialogue with Wang Yi on 1-3 June, following recent visits by leaders from Finland, Ireland, Germany, Spain and Serbia that Chinese media such as [21st Century Business Herald](https://www.21jingji.com/article/20260601/herald/dea88a6cbd12cc8a61023ab4d2fa3c23.html) frame as a step-by-step normalisation of relations."
             },
             {
               "outlet": "",
@@ -2308,36 +2308,12 @@ window.W23_2026 = {
           "url": "https://www.aisixiang.com/data/176743.html",
           "bullets": [
             [
-              "CICIR scholar frames the four-way great-power interaction as the structuring axis of the emerging order",
-              "relevant to how Beijing reads the EU's position between Washington and Moscow."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Aisixiang 爱思想",
-          "author": "Xi Jinping · 习近平",
-          "title": "Forward-looking layout and development of future industries · 前瞻布局和发展未来产业",
-          "date": "2026-05-31",
-          "url": "https://www.aisixiang.com/data/176750.html",
-          "bullets": [
+              "Beijing reads Europe as the loser of the four-power reshuffle, squeezed by a hostile Washington and an unreconciled Moscow",
+              "Zhang (CICIR) argues the Biden-era transatlantic bloc against China and Russia has dissolved under Trump's second term, leaving the EU at post-1945 lows with both the US and Russia and pushing it toward a more pragmatic China policy – with Starmer and Merz reaffirming \"strategic partnership\" over the \"triple positioning.\""
+            ],
             [
-              "Sets the authoritative line on future-industries industrial policy",
-              "the week's other Aisixiang pieces elaborate it."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Aisixiang 爱思想",
-          "author": "Yin Hejun · 阴和俊",
-          "title": "Leading future-industry development through high-level S&T self-reliance · 以高水平科技自立自强引领未来产业发展",
-          "date": "2026-06-01",
-          "url": "https://www.aisixiang.com/data/176784.html",
-          "bullets": [
-            [
-              "The S&T minister operationalizes Xi's line",
-              "self-reliance as the lever for future industries."
+              "China casts itself as the connecting node whose room for maneuver widens as all three other powers now need Beijing",
+              "Zhang holds that US-China confrontation stabilised after the Busan summit and Trump's May 2026 state visit, US-EU coordination on China has collapsed, and Washington's \"reverse Kissinger\" bid to split China from Russia has failed."
             ]
           ],
           "related": []
@@ -2348,7 +2324,16 @@ window.W23_2026 = {
           "title": "Trump's obsession with 'energy dominance of the world' and its limits · 特朗普'以能源主导世界'的执念与限度",
           "date": "2026-06-01",
           "url": "https://www.aisixiang.com/data/176766.html",
-          "bullets": [],
+          "bullets": [
+            [
+              "Energy statecraft read as a tiered coercion matrix, not a market policy",
+              "the authors cast Trump's \"energy dominance\" as a deliberate sorting of states by alignment and import dependence – pressuring allies (the EU at a claimed $350bn/year, Japan and Korea into Alaska LNG co-investment) to overbuy US supply while weaponizing sanctions against Iran and Venezuela."
+            ],
+            [
+              "The strategy is bounded by cost structures and a renewable transition it cannot reverse",
+              "US shale needs roughly $65/barrel breakeven against OPEC output at half that, a projected 2030 LNG glut undercuts export leverage, and wind and solar already beat fossil generation while 28 states' renewable portfolio standards blunt any federal rollback."
+            ]
+          ],
           "related": []
         },
         {
@@ -2359,8 +2344,12 @@ window.W23_2026 = {
           "url": "https://www.aisixiang.com/data/176810.html",
           "bullets": [
             [
-              "Global-China / Africa angle",
-              "a counterpoint to Western framings of BRI fatigue."
+              "Beijing reframes BRI-era ties as a durable structural fact, not a fading project",
+              "the author marshals 17 consecutive years of China holding Africa's top trading-partner slot and trade growth from $10.67bn in 2000 to $348bn in 2025 to cast economic cooperation as the entrenched foundation of the relationship."
+            ],
+            [
+              "Chinese analysts locate the binding constraints in African agency and Western competition, not Chinese retrenchment",
+              "Zhang names resource nationalism, Sahel and Great Lakes instability, and US-EU \"debt-trap\" framing plus critical-mineral rivalry as the core threats, prescribing zero-tariff access for 53 African states, digital and AI partnerships, and green-mineral investment."
             ]
           ],
           "related": []
@@ -2373,8 +2362,12 @@ window.W23_2026 = {
           "url": "https://www.aisixiang.com/data/176988.html",
           "bullets": [
             [
-              "A prominent reform economist ties the next Five-Year Plan to a consumption-led model",
-              "the domestic-demand debate."
+              "A leading reform economist reframes the next Five-Year Plan as the decisive window to turn China from \"consumption giant\" into \"consumption powerhouse\"",
+              "Chi argues the 15th FYP (2026-2030) must make domestic demand the primary growth engine, targeting a residential consumption rate near 45% and a 60% final-consumption contribution to GDP growth by 2030."
+            ],
+            [
+              "The proposal quantifies the demand-side deficit and prescribes a state-led \"investing in people\" buildout",
+              "Chi flags that China holds 28% of global manufacturing but only 12.98% of global consumption, and calls for 80-100 trillion yuan across farmer urbanization, public-service equalization, and urban infrastructure, plus raising labor's income share from 50% to over 55% by 2030."
             ]
           ],
           "related": []
