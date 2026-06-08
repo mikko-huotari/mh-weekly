@@ -2085,7 +2085,7 @@ window.W23_2026 = {
         {
           "outlet": "CAC 国家网信办",
           "author": "",
-          "title": "Interim Measures for AI Anthropomorphic Interactive Services - \"small, fast, flexible\" legislation · 人工智能拟人化互动服务管理办法",
+          "title": "Interim Measures for AI Anthropomorphic Interactive Services - 'small, fast, flexible' legislation · 人工智能拟人化互动服务管理办法",
           "date": "2026-06-03",
           "url": "https://www.cac.gov.cn/2026-06/03/c_1782142434783056.htm",
           "bullets": [
@@ -2103,7 +2103,7 @@ window.W23_2026 = {
         {
           "outlet": "State Council 国务院",
           "author": "",
-          "title": "15th Five-Year Plan for Agricultural and Rural Modernization · \"十五五\"农业农村现代化规划",
+          "title": "15th Five-Year Plan for Agricultural and Rural Modernization · '十五五'农业农村现代化规划",
           "date": "2026-06-02",
           "url": "https://english.news.cn/20260602/510f777c04744495a73a84cd2cf98f85/c.html",
           "bullets": [
@@ -2183,7 +2183,7 @@ window.W23_2026 = {
         {
           "outlet": "Jiemian",
           "author": "",
-          "title": "10 trillion: China is becoming an AI \"infrastructure maniac\"",
+          "title": "10 trillion: China is becoming an AI 'infrastructure maniac'",
           "date": "2026-06-02",
           "url": "https://www.jiemian.com/article/14519813.html",
           "bullets": [
@@ -2345,7 +2345,7 @@ window.W23_2026 = {
         {
           "outlet": "Aisixiang 爱思想",
           "author": "Zhang Rui & Yue Fengli · 张锐、岳锋利",
-          "title": "Trump's obsession with \"energy dominance of the world\" and its limits · 特朗普\"以能源主导世界\"的执念与限度",
+          "title": "Trump's obsession with 'energy dominance of the world' and its limits · 特朗普'以能源主导世界'的执念与限度",
           "date": "2026-06-01",
           "url": "https://www.aisixiang.com/data/176766.html",
           "bullets": [],
@@ -2368,7 +2368,7 @@ window.W23_2026 = {
         {
           "outlet": "Aisixiang 爱思想",
           "author": "Chi Fulin · 迟福林",
-          "title": "The 15th Five-Year-Plan period should accelerate building a consumption powerhouse · \"十五五\"时期应在加快建设消费强国上发力",
+          "title": "The 15th Five-Year-Plan period should accelerate building a consumption powerhouse · '十五五'时期应在加快建设消费强国上发力",
           "date": "2026-06-04",
           "url": "https://www.aisixiang.com/data/176988.html",
           "bullets": [
@@ -2418,7 +2418,7 @@ window.W23_2026 = {
         {
           "outlet": "guancha.cn",
           "author": "Zhou Bo · 周波",
-          "title": "Hegseth cited a \"six-character mantra\" four times but never mentioned Taiwan - what is the US signalling? · 4次提到\"六字箴言\"，只字未提台湾",
+          "title": "Hegseth cited a 'six-character mantra' four times but never mentioned Taiwan - what is the US signalling? · 4次提到'六字箴言'，只字未提台湾",
           "date": "2026-06-01",
           "url": "https://www.guancha.cn/ZhouBo3/2026_06_01_818991_s.shtml",
           "bullets": [
@@ -2454,7 +2454,7 @@ window.W23_2026 = {
         {
           "outlet": "guancha.cn",
           "author": "",
-          "title": "EU seeks trade confrontation but summit avoids mentioning “China” to avoid Beijing’s attention",
+          "title": "EU seeks trade confrontation but summit avoids mentioning 'China' to avoid Beijing’s attention",
           "date": "2026-06-02",
           "url": "https://www.guancha.cn/internation/2026_06_02_819207.shtml?s=zwyzxw",
           "bullets": [
@@ -2752,7 +2752,7 @@ window.W23_2026 = {
         {
           "outlet": "china.com.cn",
           "author": "",
-          "title": "Why has the vision of a \"greater Europe\" repeatedly veered onto historical crossroads?",
+          "title": "Why has the vision of a 'greater Europe' repeatedly veered onto historical crossroads?",
           "date": "2026-06-02",
           "url": "http://www.china.com.cn/opinion2020/2026-06/02/content_118526780.shtml",
           "bullets": [
