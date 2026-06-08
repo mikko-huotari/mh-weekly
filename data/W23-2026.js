@@ -8,11 +8,14 @@ window.W23_2026 = {
   "dateRange": "1 – 7 Jun 2026",
   "pdf": "pdfs/W23-2026.pdf",
   "spotlight": {
-    "title": "Spotlight",
-    "intro": "",
+    "title": "Spotlight: The EU edges toward a structural China trade instrument",
+    "intro": "This week marked a visible shift in Brussels from case-by-case trade defence toward a standing instrument to manage dependencies on China. Ahead of a 29 May orientation debate and the 11 June Trade Policy Committee, EU trade chief Maroš Šefčovič [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, while DG Trade's Denis Redonnet [warned](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) that \"traditional trade instruments will inevitably, at some point, reach their limit.\" Beijing pre-empted the move, with the commerce ministry vowing to [\"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) any new discriminatory tools.",
     "items": [
       {
-        "note": "4th June"
+        "note": "**The case rests on a structural reading of the trade relationship, not a single product fight**: A record EU-China goods deficit and an [OECD finding](https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html) that Chinese firms received three-to-eight times more state support than OECD peers underpin the argument that case-by-case tariffs cannot keep pace; as the Soapbox Trade x MERICS analysis shows, when the EU closes one tariff door - on finished steel - Chinese supply simply shifts one step earlier in the chain, into semi-finished slabs."
+      },
+      {
+        "note": "**Member states remain split on how far to go**: Even as the Commission readies new instruments, capitals diverge - Spain, courting SAIC's first EU plant in Galicia, has distanced itself from calls for a tougher line, illustrating why a structural instrument is being framed as the way to bind a fragmented bloc to a common China policy."
       }
     ],
     "table": null,
@@ -20,11 +23,14 @@ window.W23_2026 = {
   },
   "spotlights": [
     {
-      "title": "Spotlight",
-      "intro": "",
+      "title": "Spotlight: The EU edges toward a structural China trade instrument",
+      "intro": "This week marked a visible shift in Brussels from case-by-case trade defence toward a standing instrument to manage dependencies on China. Ahead of a 29 May orientation debate and the 11 June Trade Policy Committee, EU trade chief Maroš Šefčovič [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, while DG Trade's Denis Redonnet [warned](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) that \"traditional trade instruments will inevitably, at some point, reach their limit.\" Beijing pre-empted the move, with the commerce ministry vowing to [\"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) any new discriminatory tools.",
       "items": [
         {
-          "note": "4th June"
+          "note": "**The case rests on a structural reading of the trade relationship, not a single product fight**: A record EU-China goods deficit and an [OECD finding](https://www.oecd.org/en/about/news/press-releases/2026/06/industrial-subsidies-reach-highest-levels-since-the-global-financial-crisis-says-oecd.html) that Chinese firms received three-to-eight times more state support than OECD peers underpin the argument that case-by-case tariffs cannot keep pace; as the Soapbox Trade x MERICS analysis shows, when the EU closes one tariff door - on finished steel - Chinese supply simply shifts one step earlier in the chain, into semi-finished slabs."
+        },
+        {
+          "note": "**Member states remain split on how far to go**: Even as the Commission readies new instruments, capitals diverge - Spain, courting SAIC's first EU plant in Galicia, has distanced itself from calls for a tougher line, illustrating why a structural instrument is being framed as the way to bind a fragmented bloc to a common China policy."
         }
       ],
       "table": null,
@@ -36,145 +42,77 @@ window.W23_2026 = {
       "label": "German China policy in context",
       "groups": [
         {
-          "label": "",
+          "label": "Germany",
           "items": [
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "Germany"
+              "note": "**German Chief of Defence criticizes Beijing's absence from Shangri-La Dialogue**: At the Singapore security forum, Germany's Chief of Defence General Carsten Breuer said China was [\"losing a chance\"](https://www.cnbc.com/2026/05/30/germany-china-shangri-la-dialogue-defense-minister.html), calling Beijing's decision to skip the forum for a second year - sending only a lower-level delegation after Defence Minister Dong Jun stayed away - \"dangerous\" in today's security environment."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[China is 'losing a chance' by not being at the Shangri-La Dialogue](https://www.cnbc.com/2026/05/30/germany-china-shangri-la-dialogue-defense-minister.html)"
+              "note": "**IW analysis flags large-scale Chinese takeover of German patents**: A Cologne Institute for Economic Research (IW) evaluation found Chinese entities now [own more than 11,000 German-developed patents](https://www.reuters.com/world/china/china-owns-more-than-11000-german-developed-patents-iw-study-shows-2026-06-02), reinforcing concerns in Berlin about technology transfer and the erosion of Germany's industrial IP base."
+            }
+          ]
+        },
+        {
+          "label": "EU institutional",
+          "items": [
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Sefcovic pushes a more assertive China posture ahead of Council debate**: Ahead of an orientation debate, the EU trade chief [called for a \"dedicated instrument\"](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says) to unwind dependencies and said he wants to [emulate US intensity](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/) in talks with Beijing, [meeting China's envoy](https://www.euronews.com/my-europe/2026/06/03/eu-trade-chief-to-meet-china-envoy-amid-heated-trade-tensions) as the Commission [weighs supply-chain diversification rules](https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/). DG Trade's Denis Redonnet [hinted at a new anti-China trade weapon](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/), warning that \"traditional trade instruments will inevitably, at some point, reach their limit\"."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "China hat Tausende deutsche Patente übernommen - IW-Auswertung - DER SPIEGEL"
+              "note": "**Beijing warns it will \"resolutely counteract\" any new EU trade tools**: China's commerce ministry [said it would \"resolutely counteract\"](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) if Brussels \"insists on unilaterally introducing new trade tools and imposing discriminatory restrictions\", pre-empting the 11 June Trade Policy Committee [agenda](https://data.consilium.europa.eu/doc/document/CM-3147-2026-INIT/en/pdf)."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "EU institutional"
+              "note": "**EU moves to widen the China toolkit beyond trade defence**: Brussels is [set to join the US-led \"Pax Silica\" chip alliance](https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race) to counter China's AI ambitions, while sanctions envoy David O'Sullivan [flagged China as the central obstacle](https://de.euronews.com/my-europe/2026/06/03/osullivan-china-eu-sanktionen-russland) to enforcing Russia sanctions and Chinese firms enabling Moscow are [next in line for EU listings](https://www.politico.eu/article/china-russia-firms-that-help-are-next-for-eu-sanctions/), with the Eastern Europe/Central Asia working group [convening 8 June](https://data.consilium.europa.eu/doc/document/CM-3155-2026-INIT/en/pdf)."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "Sefcovic"
+              "note": "**MEP Eroglu returns from Beijing demanding reciprocity**: Renew Europe's Engin Eroglu, back from a China visit, [argued](https://x.com/EnginEroglu_FW/status/2062259697865076801) that \"every rule that applies to European companies operating in China should also apply to Chinese companies operating in Europe\", aligning Parliament voices with Sefcovic's level-playing-field framing."
+            }
+          ]
+        },
+        {
+          "label": "EU member states and European neighborhood",
+          "items": [
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Finland blocks Chinese property buys near defence sites, citing security risk**: Helsinki's defence ministry rejected 14 land transactions after determining a Chinese corporate network had targeted ten parcels adjacent to defence, security-of-supply and critical-infrastructure assets with [no plausible commercial rationale](https://yle.fi/a/74-20229992), the latest northern-European screening case to treat opaque PRC-linked acquirers as a security rather than an FDI question."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[EU trade chief to meet China envoy amid heated trade tensions | Euronews](https://www.euronews.com/my-europe/2026/06/03/eu-trade-chief-to-meet-china-envoy-amid-heated-trade-tensions)"
+              "note": "**SAIC moves to anchor its first EU assembly plant in Spain**: The Shanghai-based state-owned carmaker [plans to site its first European factory in Galicia](https://www.reuters.com/world/china/chinas-saic-plans-build-first-eu-car-plant-spains-galicia-2026-06-01/) - a €200 million plant in Ferrol slated to build 120,000 MG electric vehicles a year and create 2,300 jobs from 2028 - converting tariff exposure on EVs into local production inside the bloc and giving Madrid a stake in defending Chinese investment against tighter EU instruments."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[EU needs a ‘dedicated instrument’ to unwind China dependencies, trade chief says | South China Morning Post](https://www.scmp.com/news/china/diplomacy/article/3356159/eu-needs-dedicated-instrument-unwind-china-dependencies-trade-chief-says)"
+              "note": "**Czech-Taiwan business delegation draws Beijing protest**: Senate President Miloš Vystrčil of the opposition ODS is leading a business mission to Taipei, prompting Beijing to [denounce the visit](https://www.reuters.com/world/china/china-criticizes-czech-senate-presidents-trip-taiwan-2026-05-31/) and reopening the Prague-Beijing friction line that has run through Czech parliamentary diplomacy since 2020."
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "[EU trade chief wants to emulate US intensity in talks with China – POLITICO](https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-donald-trump-to-emulate-us-intensity-china/)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[EU weighs rules to cut reliance on China through broader supply chains | Reuters](https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05/)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Brussels hints at new anti-China trade weapon | Euractiv](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) Denis Redonnet: “traditional trade instruments will inevitably, at some point, reach their limit”"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[商务部新闻发言人就欧委会开展对华关系讨论答记者问](https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_1fa91222a51a421fa4fbd4735cec12da.html) “If the EU insists on unilaterally introducing new trade tools and imposing discriminatory restrictions, China will resolutely counteract and take effective measures to safeguard its interests.”"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[The EU is set to join US-led chip alliance 'Pax Silica' to counter China's AI race | Euronews](https://www.euronews.com/my-europe/2026/06/01/the-eu-is-set-to-join-us-led-chip-alliance-pax-silica-to-counter-chinas-ai-race)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Chinese firms that help Russia are next for EU sanctions – POLITICO](https://www.politico.eu/article/china-russia-firms-that-help-are-next-for-eu-sanctions/)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[O'Sullivan: China bleibt großes Problem für EU-Sanktionen gegen Russland | Euronews](https://de.euronews.com/my-europe/2026/06/03/osullivan-china-eu-sanktionen-russland)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Engin Eroglu auf X: Back from #China.](https://x.com/EnginEroglu_FW/status/2062259697865076801) “First, we need a genuine level playing field. Every rule that applies to European companies operating in China should also apply to Chinese companies operating in Europe.”"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Council of the European Union - Trade Policy Committee - Agenda 11 June](https://data.consilium.europa.eu/doc/document/CM-3147-2026-INIT/en/pdf)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Council of the European Union - Eastern Europe and Central Asia Working Group - Agenda 8 June](https://data.consilium.europa.eu/doc/document/CM-3155-2026-INIT/en/pdf)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "EU member states and European neighborhood"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Häkkänen: Chinese corporate network tried to buy properties critical to national security | Yle](https://yle.fi/a/74-20229992) Finland's defence ministry blocked 14 property sales; a Chinese corporate network had sought ten sites near defence, security-of-supply and critical-infrastructure assets, with \"no logical business justification.\""
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[China's SAIC plans to build first EU car plant in Spain's Galicia | Reuters](https://www.reuters.com/world/china/chinas-saic-plans-build-first-eu-car-plant-spains-galicia-2026-06-01/)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[China criticizes Czech Senate President's trip to Taiwan | Reuters](https://www.reuters.com/world/china/china-criticizes-czech-senate-presidents-trip-taiwan-2026-05-31/) Vystrcil, from the opposition centre-right ODS party, is leading a business delegation on a visit to Taiwan."
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[EU Moves to Revive Expansion Process as Russia, China Gain Influence - Bloomberg](https://www.bloomberg.com/news/articles/2026-06-05/eu-pushes-to-end-expansion-deadlock-to-curb-russia-and-china)"
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "[Exclusive: Serbian President Vucic Says China Is Eclipsing Europe - Bloomberg](https://www.bloomberg.com/news/articles/2026-06-02/exclusive-serbian-president-vucic-says-china-is-eclipsing-europe)"
+              "note": "**Brussels pushes enlargement as a counter to Russian and Chinese inroads in the neighbourhood**: The Commission is [moving to unblock the accession process](https://www.bloomberg.com/news/articles/2026-06-05/eu-pushes-to-end-expansion-deadlock-to-curb-russia-and-china) explicitly to limit Moscow's and Beijing's leverage in the Western Balkans and eastern partners, even as Serbian President Aleksandar Vučić [told Bloomberg that China is \"eclipsing\" Europe](https://www.bloomberg.com/news/articles/2026-06-02/exclusive-serbian-president-vucic-says-china-is-eclipsing-europe) - a candidate-state framing that underscores why enlargement is now being recast as a geoeconomic instrument."
             }
           ]
         }
@@ -879,10 +817,175 @@ window.W23_2026 = {
       ]
     },
     {
-      "number": "3",
-      "slug": "geoecon",
-      "short": "Geoecon",
-      "label": "Geoeconomics: trade, tech, finance, investment",
+      "number": "3a",
+      "slug": "tech",
+      "short": "Geoecon · Tech",
+      "label": "Geoeconomics — tech & innovation",
+      "items": [
+        {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "China team drafts ‘comprehensive’ sanctions list targeting US, allies on 63 tech sectors",
+          "date": "2026-06-02",
+          "url": "https://www.scmp.com/news/china/science/article/3355495/china-team-drafts-comprehensive-sanctions-list-targeting-us-allies-63-tech-sectors",
+          "bullets": [
+            [
+              "CAS study proposes China's first export restriction framework",
+              "A March paper in the Bulletin of the Chinese Academy of Sciences outlined criteria for identifying technologies that may warrant outflow restrictions to keep them from foreign hands."
+            ],
+            [
+              "Proposed list spans 63 technologies China views as globally competitive",
+              "The framework covers sectors where China holds strategic advantages, shifting its posture from export control target to potential restrictor of critical technologies."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "China's BYD, SAIC Motor eye EVs with all-solid-state batteries in 2027",
+          "date": "2026-06-02",
+          "url": "https://asia.nikkei.com/business/technology/china-s-byd-saic-motor-eye-evs-with-all-solid-state-batteries-in-2027",
+          "bullets": [
+            [
+              "SAIC and BYD target 2027 EV launches with all-solid-state batteries",
+              "SAIC partnered with startup Qingtao Energy to prototype the \"Guangqi\" battery in March; BYD, which began ASSB research in 2013, aims for large-scale production by 2030."
+            ],
+            [
+              "Chinese firms use semi-solid batteries as a commercial bridge",
+              "Unlike Japanese rivals, Chinese manufacturers are deploying semi-solid batteries - reducing liquid electrolyte to 5% - in production vehicles now, leveraging China's 16-million-unit annual EV market to compress adoption cycles."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "NYT",
+          "author": "",
+          "title": "Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times",
+          "date": "2026-06-01",
+          "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html",
+          "bullets": [
+            [
+              "PLA procurement records show 500-plus Nvidia chip acquisition attempts",
+              "Wirescreen's analysis of 3,800 records found every major military branch sought controlled U.S. chips from 2019 to 2025."
+            ],
+            [
+              "Export controls slowed but did not stop PLA acquisition",
+              "China's military adapted within roughly one year by using shell companies and new procurement channels to circumvent U.S. restrictions, according to the report."
+            ],
+            [
+              "Congressional scrutiny of chip exports intensifies",
+              "Republican lawmakers are advancing the AI OVERWATCH Act, which would give Congress (House Foreign Affairs and Senate Banking committees) authority to block chip-export licenses via joint resolution."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Straits Times",
+          "author": "",
+          "title": "DeepSeek slated to draw $9.5 billion in first fundraising, sources say",
+          "date": "2026-06-03",
+          "url": "https://www.straitstimes.com/business/companies-markets/deepseek-slated-to-draw-9-5-billion-in-first-fundraising-sources-say",
+          "bullets": [
+            [
+              "DeepSeek set to raise 50 billion yuan in first-ever funding round",
+              "Tencent, CATL, and China's national AI fund are among fewer than 10 investors, valuing the start-up at up to 400 billion yuan, per Reuters sources. (Headline S$9.5bn ≈ US$7.4bn.)"
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "FT",
+          "author": "",
+          "title": "Tencent moves closer to launching AI agent for China’s most-used app",
+          "date": "2026-06-02",
+          "url": "https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6",
+          "bullets": [
+            [
+              "Tencent testing WeChat AI agent for mini-app task completion",
+              "Compliance filing is planned for as early as this month, with a phased public rollout to follow, according to two people familiar with the plan."
+            ],
+            [
+              "Nvidia export ban constrains compute capacity for a full rollout",
+              "Sources say Tencent \"was too conservative to stock up\" on Nvidia chips before US restrictions, and domestic semiconductor supply remains tight."
+            ],
+            [
+              "Alibaba's Qwen and ByteDance's Doubao already offer agentic functions",
+              "Both rivals' user bases are growing rapidly despite WeChat's 1.4bn MAU advantage, putting pressure on Tencent to accelerate its timeline."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "FT",
+          "author": "",
+          "title": "The China-US tech truce is fragile",
+          "date": "2026-06-02",
+          "url": "https://www.ft.com/content/7344ae89-6104-4b3f-a86b-18c7348830de",
+          "bullets": [
+            [
+              "Beijing unveiled regulations penalising corporate compliance with third-party sanctions",
+              "The rules, announced ahead of the Trump-Xi summit, give China a tool to pressure multinationals in future supply chain disputes, the article reports."
+            ],
+            [
+              "Congress advanced export control bills restricting chipmaker access to China",
+              "The Match Act would close loopholes allowing US allies to sell chipmaking equipment to China on terms more favourable than those available to US companies."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Trivium",
+          "author": "",
+          "title": "Top academician pours cold water on future industries",
+          "date": "2026-06-02",
+          "url": "https://triviumchina.com/2026/06/02/top-academician-pours-cold-water-on-future-industries",
+          "bullets": [
+            [
+              "Senior academician warns China's future-industry parks outpace scientific foundations",
+              "Zhang Jun, writing in Qiushi on May 30, argued local governments are rushing to develop humanoid robots and brain-computer interfaces before technologies can support reliable mass production."
+            ],
+            [
+              "Zhang's critique ran in the same Qiushi issue as Xi Jinping's future-industry remarks",
+              "The newsletter argues this placement marks his criticism as part of the authorized reading of Xi's line, not external skepticism."
+            ]
+          ],
+          "related": []
+        },
+        {
+          "outlet": "Bloomberg",
+          "author": "",
+          "title": "Nvidia’s H200 AI Chips Targeted by China’s Defense-Focused Universities - Bloomberg",
+          "date": "2026-06-02",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-s-ai-chips-sought-by-chinese-labs-with-ties-to-military",
+          "bullets": [
+            [
+              "Defense-linked Chinese universities sought NVIDIA H200 chips",
+              "Bloomberg found procurement records showing at least seven PLA-linked universities, including Beihang and Northwestern Polytechnical, pursuing H200 computing access despite Entity List designations."
+            ],
+            [
+              "Sanctioned institutions already operate substantial NVIDIA hardware",
+              "Public records show Beijing University of Posts and Telecommunications runs 144 A800 chips; Harbin Institute has deployed H100s and sought H20 access in 2025."
+            ],
+            [
+              "A January Commerce rule formalized H200 buyer restrictions",
+              "The regulation requires firms seeking U.S. export licenses to confirm the chips will not reach a Chinese military end use or end user, including nuclear, missile, chemical or biological weapons programs."
+            ]
+          ],
+          "related": [
+            {
+              "text": "Reuters: US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
+              "url": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3b",
+      "slug": "trade",
+      "short": "Geoecon · Trade",
+      "label": "Geoeconomics — trade, finance & industrial policy",
       "items": [
         {
           "outlet": "Reuters",
@@ -907,24 +1010,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "SCMP",
-          "author": "",
-          "title": "China team drafts ‘comprehensive’ sanctions list targeting US, allies on 63 tech sectors",
-          "date": "2026-06-02",
-          "url": "https://www.scmp.com/news/china/science/article/3355495/china-team-drafts-comprehensive-sanctions-list-targeting-us-allies-63-tech-sectors",
-          "bullets": [
-            [
-              "CAS study proposes China's first export restriction framework",
-              "A March paper in the Bulletin of the Chinese Academy of Sciences outlined criteria for identifying technologies that may warrant outflow restrictions to keep them from foreign hands."
-            ],
-            [
-              "Proposed list spans 63 technologies China views as globally competitive",
-              "The framework covers sectors where China holds strategic advantages, shifting its posture from export control target to potential restrictor of critical technologies."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Bloomberg",
           "author": "",
           "title": "China tightens outbound investment rules with eye on security",
@@ -943,25 +1028,7 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "China's BYD, SAIC Motor eye EVs with all-solid-state batteries in 2027",
-          "date": "2026-06-02",
-          "url": "https://asia.nikkei.com/business/technology/china-s-byd-saic-motor-eye-evs-with-all-solid-state-batteries-in-2027",
-          "bullets": [
-            [
-              "SAIC and BYD target 2027 EV launches with all-solid-state batteries",
-              "SAIC partnered with startup Qingtao Energy to prototype the \"Guangqi\" battery in March; BYD, which began ASSB research in 2013, aims for large-scale production by 2030."
-            ],
-            [
-              "Chinese firms use semi-solid batteries as a commercial bridge",
-              "Unlike Japanese rivals, Chinese manufacturers are deploying semi-solid batteries - reducing liquid electrolyte to 5% - in production vehicles now, leveraging China's 16-million-unit annual EV market to compress adoption cycles."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Northafricapost",
+          "outlet": "North Africa Post",
           "author": "",
           "title": "China’s growing investment in Morocco sparks EU’s concerns",
           "date": "2026-06-01",
@@ -1023,42 +1090,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "NYT",
-          "author": "",
-          "title": "Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times",
-          "date": "2026-06-01",
-          "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html",
-          "bullets": [
-            [
-              "PLA procurement records show 500-plus Nvidia chip acquisition attempts",
-              "Wirescreen's analysis of 3,800 records found every major military branch sought controlled U.S. chips from 2019 to 2025."
-            ],
-            [
-              "Export controls slowed but did not stop PLA acquisition",
-              "China's military adapted within roughly one year by using shell companies and new procurement channels to circumvent U.S. restrictions, according to the report."
-            ],
-            [
-              "Congressional scrutiny of chip exports intensifies",
-              "Republican lawmakers are advancing the AI OVERWATCH Act, which would give Congress (House Foreign Affairs and Senate Banking committees) authority to block chip-export licenses via joint resolution."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Straits Times",
-          "author": "",
-          "title": "DeepSeek slated to draw $9.5 billion in first fundraising, sources say",
-          "date": "2026-06-03",
-          "url": "https://www.straitstimes.com/business/companies-markets/deepseek-slated-to-draw-9-5-billion-in-first-fundraising-sources-say",
-          "bullets": [
-            [
-              "DeepSeek set to raise 50 billion yuan in first-ever funding round",
-              "Tencent, CATL, and China's national AI fund are among fewer than 10 investors, valuing the start-up at up to 400 billion yuan, per Reuters sources. (Headline S$9.5bn ≈ US$7.4bn.)"
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Trivium",
           "author": "",
           "title": "State Council tightens control over outbound investment",
@@ -1077,46 +1108,6 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "FT",
-          "author": "",
-          "title": "Tencent moves closer to launching AI agent for China’s most-used app",
-          "date": "2026-06-02",
-          "url": "https://www.ft.com/content/0030504e-6f65-445c-9379-7b75924051c6",
-          "bullets": [
-            [
-              "Tencent testing WeChat AI agent for mini-app task completion",
-              "Compliance filing is planned for as early as this month, with a phased public rollout to follow, according to two people familiar with the plan."
-            ],
-            [
-              "Nvidia export ban constrains compute capacity for a full rollout",
-              "Sources say Tencent \"was too conservative to stock up\" on Nvidia chips before US restrictions, and domestic semiconductor supply remains tight."
-            ],
-            [
-              "Alibaba's Qwen and ByteDance's Doubao already offer agentic functions",
-              "Both rivals' user bases are growing rapidly despite WeChat's 1.4bn MAU advantage, putting pressure on Tencent to accelerate its timeline."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "FT",
-          "author": "",
-          "title": "The China-US tech truce is fragile",
-          "date": "2026-06-02",
-          "url": "https://www.ft.com/content/7344ae89-6104-4b3f-a86b-18c7348830de",
-          "bullets": [
-            [
-              "Beijing unveiled regulations penalising corporate compliance with third-party sanctions",
-              "The rules, announced ahead of the Trump-Xi summit, give China a tool to pressure multinationals in future supply chain disputes, the article reports."
-            ],
-            [
-              "Congress advanced export control bills restricting chipmaker access to China",
-              "The Match Act would close loopholes allowing US allies to sell chipmaking equipment to China on terms more favourable than those available to US companies."
-            ]
-          ],
-          "related": []
-        },
-        {
           "outlet": "Soapbox Trade",
           "author": "",
           "title": "The EU cannot chase China one product at a time",
@@ -1130,46 +1121,6 @@ window.W23_2026 = {
             [
               "New EU steel regime from July 2026 introduces \"melt and pour\" traceability",
               "The rule tracks steel to its country of first production, targeting Chinese slabs re-exported to the EU via Turkey or Indonesia."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Trivium",
-          "author": "",
-          "title": "Top academician pours cold water on future industries",
-          "date": "2026-06-02",
-          "url": "https://triviumchina.com/2026/06/02/top-academician-pours-cold-water-on-future-industries",
-          "bullets": [
-            [
-              "Senior academician warns China's future-industry parks outpace scientific foundations",
-              "Zhang Jun, writing in Qiushi on May 30, argued local governments are rushing to develop humanoid robots and brain-computer interfaces before technologies can support reliable mass production."
-            ],
-            [
-              "Zhang's critique ran in the same Qiushi issue as Xi Jinping's future-industry remarks",
-              "The newsletter argues this placement marks his criticism as part of the authorized reading of Xi's line, not external skepticism."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "China owns more than 11,000 German-developed patents, IW study shows | Reuters",
-          "date": "2026-06-02",
-          "url": "https://www.reuters.com/world/china/china-owns-more-than-11000-german-developed-patents-iw-study-shows-2026-06-02",
-          "bullets": [
-            [
-              "China acquired over 11,300 German-developed patents in two decades",
-              "An IW Cologne study commissioned by the Bertelsmann Foundation found nearly one in three German inventions is now foreign-owned."
-            ],
-            [
-              "IW expert flags strategic asymmetry in China's German patent acquisitions",
-              "Beijing directed Western acquisitions while keeping its own market closed, which the study describes as \"an imbalance.\""
-            ],
-            [
-              "Germany slipped from third to sixth globally in R&D spending between 2000 and 2021",
-              "China's R&D outlays increased twentyfold over the same period, erasing Germany's former double lead."
             ]
           ],
           "related": []
@@ -1199,24 +1150,6 @@ window.W23_2026 = {
         {
           "outlet": "Reuters",
           "author": "",
-          "title": "China's SAIC plans to build first EU car plant in Spain's Galicia",
-          "date": "2026-06-02",
-          "url": "https://www.reuters.com/world/china/chinas-saic-plans-build-first-eu-car-plant-spains-galicia-2026-06-01",
-          "bullets": [
-            [
-              "SAIC to build first EU factory in Spain's Galicia",
-              "The €200 million plant in Ferrol will produce 120,000 MG electric vehicles annually, creating 2,300 jobs, from 2028."
-            ],
-            [
-              "Local production designed to bypass EU import tariffs",
-              "By manufacturing inside the EU, SAIC avoids Brussels' punitive tariffs on Chinese-made electric vehicles, the article reports."
-            ]
-          ],
-          "related": []
-        },
-        {
-          "outlet": "Reuters",
-          "author": "",
           "title": "Indian steelmakers grapple with resurgence of cheap Chinese imports | Reuters",
           "date": "2026-06-01",
           "url": "https://www.reuters.com/world/china/indian-steelmakers-grapple-with-resurgence-cheap-chinese-imports-2026-06-01",
@@ -1233,7 +1166,7 @@ window.W23_2026 = {
           "related": []
         },
         {
-          "outlet": "Oecd",
+          "outlet": "OECD",
           "author": "",
           "title": "Industrial subsidies reach highest levels since the global financial crisis, says OECD - OECD",
           "date": "2026-06-01",
@@ -1260,33 +1193,6 @@ window.W23_2026 = {
             {
               "text": "Euronews: China's state subsidies up to eight times more than OECD's, report says",
               "url": "https://www.euronews.com/my-europe/2026/06/01/chinas-state-subsidies-up-to-eight-times-more-than-oecds-report-says"
-            }
-          ]
-        },
-        {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "Nvidia’s H200 AI Chips Targeted by China’s Defense-Focused Universities - Bloomberg",
-          "date": "2026-06-02",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-s-ai-chips-sought-by-chinese-labs-with-ties-to-military",
-          "bullets": [
-            [
-              "Defense-linked Chinese universities sought NVIDIA H200 chips",
-              "Bloomberg found procurement records showing at least seven PLA-linked universities, including Beihang and Northwestern Polytechnical, pursuing H200 computing access despite Entity List designations."
-            ],
-            [
-              "Sanctioned institutions already operate substantial NVIDIA hardware",
-              "Public records show Beijing University of Posts and Telecommunications runs 144 A800 chips; Harbin Institute has deployed H100s and sought H20 access in 2025."
-            ],
-            [
-              "A January Commerce rule formalized H200 buyer restrictions",
-              "The regulation requires firms seeking U.S. export licenses to confirm the chips will not reach a Chinese military end use or end user, including nuclear, missile, chemical or biological weapons programs."
-            ]
-          ],
-          "related": [
-            {
-              "text": "Reuters: US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
-              "url": "https://www.reuters.com/world/china/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-2026-05-31"
             }
           ]
         }
@@ -1656,7 +1562,7 @@ window.W23_2026 = {
           ]
         },
         {
-          "outlet": "Com",
+          "outlet": "China News",
           "author": "",
           "title": "World mayors gather in Beijing to explore new opportunities for China-Africa cooperation",
           "date": "2026-06-04",
