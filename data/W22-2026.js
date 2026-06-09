@@ -9,6 +9,7 @@ window.W22_2026 = {
   "pdf": "pdfs/W22-2026.pdf",
   "spotlight": {
     "title": "Spotlight: China builds its outbound techno-economic restriction toolkit",
+    "short": null,
     "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
     "items": [
       {
@@ -110,6 +111,7 @@ window.W22_2026 = {
   "spotlights": [
     {
       "title": "Spotlight: China builds its outbound techno-economic restriction toolkit",
+      "short": null,
       "intro": "Two threads in spring 2026 show China building the legal and analytical machinery to govern – and where useful restrict – the outward flow of its capital and technology. Together, the executive regulations and the academic groundwork point to a maturing Chinese capacity to manage outbound flows as an instrument of statecraft – defensive in stated intent, but extending Beijing's reach over what, and who, leaves the country.",
       "items": [
         {
@@ -212,6 +214,7 @@ window.W22_2026 = {
   "contextSections": [
     {
       "label": "German China policy in context",
+      "short": "German China policy",
       "groups": [
         {
           "label": "Federal government – Reiche's China trip (27–29 May 2026)",
@@ -437,6 +440,54 @@ window.W22_2026 = {
                 [
                   "",
                   "[New York Times](https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html) quoted both Rebecca Arcesati and the MERICS × Soapbox newsletter."
+                ]
+              ]
+            },
+            {
+              "outlet": "The New York Times",
+              "title": "",
+              "date": "",
+              "url": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html",
+              "bullets": [
+                [
+                  "",
+                  "[The New York Times](https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html) quoted Wendy Chang on China's access to Nvidia chips."
+                ]
+              ]
+            },
+            {
+              "outlet": "KrASIA",
+              "title": "",
+              "date": "",
+              "url": "https://kr-asia.com/chinas-investment-in-europe-hits-seven-year-high-still-far-from-peak",
+              "bullets": [
+                [
+                  "",
+                  "[KrASIA](https://kr-asia.com/chinas-investment-in-europe-hits-seven-year-high-still-far-from-peak) quoted Andreas Mischer on ensuring Chinese investment in Europe creates local value and spillovers."
+                ]
+              ]
+            },
+            {
+              "outlet": "Handelsblatt",
+              "title": "",
+              "date": "",
+              "url": "https://www.handelsblatt.com/politik/international/greentech-wie-china-vom-iran-krieg-profitiert/100227022.html",
+              "bullets": [
+                [
+                  "",
+                  "[Handelsblatt](https://www.handelsblatt.com/politik/international/greentech-wie-china-vom-iran-krieg-profitiert/100227022.html) quoted Alexander Brown on how Trump's trade policies indirectly benefit China."
+                ]
+              ]
+            },
+            {
+              "outlet": "MarketWatch",
+              "title": "",
+              "date": "",
+              "url": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f",
+              "bullets": [
+                [
+                  "",
+                  "[MarketWatch](https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f) cited a MERICS report that China produced nearly 13,000 humanoids in 2025."
                 ]
               ]
             }

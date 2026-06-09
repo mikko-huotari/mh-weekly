@@ -247,6 +247,18 @@ window.W23_2026 = {
                   "[The Diplomat](https://thediplomat.com/2026/06/the-eus-new-economic-security-tools-and-chinas-countermeasure-calculus/) cited the MERICS × Soapbox newsletter on the EU's new economic-security tools."
                 ]
               ]
+            },
+            {
+              "outlet": "Fortune",
+              "title": "",
+              "date": "",
+              "url": "https://fortune.com/2026/06/06/chinese-humanoid-robots-global-market-sales-performative-functional/",
+              "bullets": [
+                [
+                  "",
+                  "[Fortune](https://fortune.com/2026/06/06/chinese-humanoid-robots-global-market-sales-performative-functional/) cited a MERICS report that China's humanoid robots remain too expensive for widespread deployment."
+                ]
+              ]
             }
           ]
         }
