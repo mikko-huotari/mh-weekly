@@ -329,6 +329,7 @@ def parse_context_section(text: str) -> dict | None:
 
     return {
         "label": "German China policy in context",
+        "short": "German China policy",
         "groups": groups,
     }
 
@@ -518,6 +519,12 @@ def _split_spotlight_subsection(body: str) -> tuple[list[str], list[dict], dict 
 
 def _parse_one_spotlight(title: str, body: str) -> dict:
     """Parse a single (already-sliced) Spotlight body into its dict."""
+    # Optional short chip label via `<!-- tab: ... -->` in the heading; without
+    # it render.js auto-derives one (often badly for long titles). Strip the
+    # comment from the displayed title.
+    _mtab = re.search(r"<!--\s*tab:\s*(.+?)\s*-->", title)
+    short = _mtab.group(1).strip() if _mtab else None
+    title = re.sub(r"<!--.*?-->", "", title).strip()
     # Split off the trailing `Sources:` block (sits inside the Spotlight section
     # but is a flat link list, not part of any H3 sub-section).
     sources_items: list[dict] = []
@@ -564,6 +571,7 @@ def _parse_one_spotlight(title: str, body: str) -> dict:
 
     return {
         "title": title,
+        "short": short,
         "intro": " ".join(intro_parts).strip(),
         "items": items,
         "table": table,

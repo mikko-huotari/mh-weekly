@@ -136,11 +136,11 @@
       const n = single ? "Spotlight" : `Spotlight ${i + 1}`;
       chips.push({
         sub: i === 0 ? "hl-spotlight" : `hl-spotlight-${i + 1}`,
-        label: (!single && acc) ? `${n}: ${acc}` : n,
+        label: s.short || ((!single && acc) ? `${n}: ${acc}` : n),
       });
     });
     (w.contextSections || []).forEach(sec => {
-      chips.push({ sub: "hl-" + slugify(sec.label), label: sec.label });
+      chips.push({ sub: "hl-" + slugify(sec.label), label: sec.short || sec.label });
     });
     return chips;
   }
