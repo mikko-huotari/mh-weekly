@@ -855,6 +855,14 @@ def main() -> None:
     out = DATA_DIR / f"{week_id}.js"
     write_data_file(week_id, payload, out)
 
+    # Auto-tag entries against the controlled vocabulary (data/tags.js) so every
+    # build carries the filter tags by default — the step lost in the W21 migration.
+    try:
+        import subprocess
+        subprocess.run([sys.executable, str(Path(__file__).resolve().parent / "tag_week.py"), week_id], check=False)
+    except Exception as e:
+        print(f"  WARN: auto-tagging skipped ({e})")
+
     counts = {
         "context": len(context["groups"][0]["items"]) if context else 0,
         "research_groups": len(research["groups"]) if research else 0,

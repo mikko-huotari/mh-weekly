@@ -17,19 +17,38 @@ window.W21_2026 = {
         "intro": "",
         "items": [
           {
-            "note": "**New formulations in the 2026 joint texts.** The *Multipolar World* declaration adds language against \"hybrid wars\" and \"proxy wars,\" and the main bilateral statement carries \"elimination of the root causes\" (消除乌克兰危机根源) of the Ukraine crisis – a more explicit endorsement of Moscow's framing than in 2025. Both texts keep \"polycentricity\" as the shared order-building term, rendered to each side's doctrine (*полицентричность* / 多极化)."
+            "note": "**New formulations in the 2026 joint texts.** The *Multipolar World* declaration adds language against \"hybrid wars\" and \"proxy wars,\" and the main bilateral statement carries \"elimination of the root causes\" (消除乌克兰危机根源) of the Ukraine crisis – a more explicit endorsement of Moscow's framing than in 2025. Both texts keep \"polycentricity\" as the shared order-building term, rendered to each side's doctrine (*полицентричность* / 多极化).",
+            "tags": [
+              "ru-cn"
+            ]
           },
           {
-            "note": "**Power of Siberia 2 again not signed.** Price, financing and timeline remain open, and the summit produced no construction start despite years of Russian pushing. With slowing gas-demand growth, ample Central Asian and LNG supply, and access to alternative supplies and benchmark pricing, Beijing has little reason to take Russian gas on Moscow's terms – the clearest marker of the partnership's asymmetry."
+            "note": "**Power of Siberia 2 again not signed.** Price, financing and timeline remain open, and the summit produced no construction start despite years of Russian pushing. With slowing gas-demand growth, ample Central Asian and LNG supply, and access to alternative supplies and benchmark pricing, Beijing has little reason to take Russian gas on Moscow's terms – the clearest marker of the partnership's asymmetry.",
+            "tags": [
+              "ru-cn",
+              "energy",
+              "macro",
+              "diplomacy"
+            ]
           },
           {
-            "note": "**Taiwan formula softened in the text.** The 2026 declaration refers to Taiwan as \"China's territory\" (中国领土); the 2024 and 2025 declarations used \"an inalienable part of the PRC\" (中华人民共和国不可分割的一部分) – a downgrade in specificity. Taiwan did not feature in the post-summit remarks."
+            "note": "**Taiwan formula softened in the text.** The 2026 declaration refers to Taiwan as \"China's territory\" (中国领土); the 2024 and 2025 declarations used \"an inalienable part of the PRC\" (中华人民共和国不可分割的一部分) – a downgrade in specificity. Taiwan did not feature in the post-summit remarks.",
+            "tags": [
+              "twn",
+              "diplomacy"
+            ]
           },
           {
-            "note": "**No renewed Strategic Stability statement; AUKUS opposition retained.** The standalone *Joint Statement on Global Strategic Stability* (May 2025) was not repeated in 2026. Opposition to AUKUS was kept: the Chinese text names and criticizes the \"AUKUS alliance\" (奥库斯联盟) for driving an \"Asia-Pacific version of NATO\" and undermining ASEAN-centric regional architectures."
+            "note": "**No renewed Strategic Stability statement; AUKUS opposition retained.** The standalone *Joint Statement on Global Strategic Stability* (May 2025) was not repeated in 2026. Opposition to AUKUS was kept: the Chinese text names and criticizes the \"AUKUS alliance\" (奥库斯联盟) for driving an \"Asia-Pacific version of NATO\" and undermining ASEAN-centric regional architectures.",
+            "tags": [
+              "sea"
+            ]
           },
           {
-            "note": "**2001 Treaty extended; \"no limits\" still absent.** The 2026 statement title invokes the 2001 Treaty of Good-Neighborliness (睦邻友好), extended at the summit. The 2022 \"no limits, no forbidden areas\" formula has not appeared in any joint declaration since."
+            "note": "**2001 Treaty extended; \"no limits\" still absent.** The 2026 statement title invokes the 2001 Treaty of Good-Neighborliness (睦邻友好), extended at the summit. The 2022 \"no limits, no forbidden areas\" formula has not appeared in any joint declaration since.",
+            "tags": [
+              "diplomacy"
+            ]
           }
         ]
       },
@@ -38,37 +57,76 @@ window.W21_2026 = {
         "intro": "",
         "items": [
           {
-            "note": "[Kremlin – Russia-China talks](http://en.kremlin.ru/events/president/news/79782) (2026-05-20)"
+            "note": "[Kremlin – Russia-China talks](http://en.kremlin.ru/events/president/news/79782) (2026-05-20)",
+            "tags": [
+              "ru-cn"
+            ]
           },
           {
-            "note": "[MFA – Joint press conference readout](https://www.fmprc.gov.cn/zyxw/202605/t20260520_11914356.shtml) (2026-05-20)"
+            "note": "[MFA – Joint press conference readout](https://www.fmprc.gov.cn/zyxw/202605/t20260520_11914356.shtml) (2026-05-20)",
+            "tags": [
+              "ru-cn",
+              "diplomacy"
+            ]
           },
           {
-            "note": "[FT Opinion – Gabuev: Beijing's unlikely bet on Russia may yet pay off](https://www.ft.com/content/efcb5fec-3a84-41b0-a52d-2861799928a2) (2026-05-22)"
+            "note": "[FT Opinion – Gabuev: Beijing's unlikely bet on Russia may yet pay off](https://www.ft.com/content/efcb5fec-3a84-41b0-a52d-2861799928a2) (2026-05-22)",
+            "tags": [
+              "ru-cn"
+            ]
           },
           {
-            "note": "[Carnegie Politika podcast – Gabuev hosts, Yanmei Xie (MERICS) guest: After Putin's Visit to China, What Next?](https://carnegieendowment.org/russia-eurasia/podcasts/carnegie-politika-podcast/china-russia-visit-conclusion) (2026-05-24)"
+            "note": "[Carnegie Politika podcast – Gabuev hosts, Yanmei Xie (MERICS) guest: After Putin's Visit to China, What Next?](https://carnegieendowment.org/russia-eurasia/podcasts/carnegie-politika-podcast/china-russia-visit-conclusion) (2026-05-24)",
+            "tags": [
+              "de-cn",
+              "ru-cn"
+            ]
           },
           {
-            "note": "[Foreign Policy – No Limits, No Good Options](https://foreignpolicy.com/2026/05/22/russia-china-meeting-xi-putin-gas-oil-asymmetry/) (2026-05-22)"
+            "note": "[Foreign Policy – No Limits, No Good Options](https://foreignpolicy.com/2026/05/22/russia-china-meeting-xi-putin-gas-oil-asymmetry/) (2026-05-22)",
+            "tags": [
+              "ru-cn",
+              "energy"
+            ]
           },
           {
-            "note": "[The Economist – How China quietly helps Russia in Ukraine](https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine) (2026-05-20)"
+            "note": "[The Economist – How China quietly helps Russia in Ukraine](https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine) (2026-05-20)",
+            "tags": [
+              "ru-cn"
+            ]
           },
           {
-            "note": "[Chatham House – Strategic duo endures, limits are clear](https://www.chathamhouse.org/2026/05/china-and-russias-strategic-duo-endures-its-limits-are-clear) (2026-05-21)"
+            "note": "[Chatham House – Strategic duo endures, limits are clear](https://www.chathamhouse.org/2026/05/china-and-russias-strategic-duo-endures-its-limits-are-clear) (2026-05-21)",
+            "tags": [
+              "ru-cn",
+              "diplomacy"
+            ]
           },
           {
-            "note": "[FT – Xi 'law of the jungle' at Putin summit](https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece) (2026-05-20)"
+            "note": "[FT – Xi 'law of the jungle' at Putin summit](https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece) (2026-05-20)",
+            "tags": [
+              "ru-cn",
+              "diplomacy"
+            ]
           },
           {
-            "note": "[Reuters – Russians covertly trained by China](https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/) (2026-05-19)"
+            "note": "[Reuters – Russians covertly trained by China](https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/) (2026-05-19)",
+            "tags": [
+              "aerospace"
+            ]
           },
           {
-            "note": "[WaPo – Putin fails to secure PS-2 approval](https://www.washingtonpost.com/world/2026/05/20/putin-fails-secure-xi-approval-power-siberia-2-pipeline/) (2026-05-20)"
+            "note": "[WaPo – Putin fails to secure PS-2 approval](https://www.washingtonpost.com/world/2026/05/20/putin-fails-secure-xi-approval-power-siberia-2-pipeline/) (2026-05-20)",
+            "tags": [
+              "ru-cn"
+            ]
           },
           {
-            "note": "[NYT – As a weakened Putin follows Trump to Beijing, Iran war offers an opening](https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html) (2026-05-19)"
+            "note": "[NYT – As a weakened Putin follows Trump to Beijing, Iran war offers an opening](https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html) (2026-05-19)",
+            "tags": [
+              "mid-east",
+              "ru-cn"
+            ]
           }
         ]
       }
@@ -182,49 +240,85 @@ window.W21_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Federal Economic Minister Katharina Reiche visits China amid shifting German trade stance**: Reiche will [visit China](https://www.fmprc.gov.cn) from May 26 to 29, as sluggish domestic growth and job losses from the \"second China shock\" prompt [some German voices](https://www.politico.eu/article/eu-germany-trade-china-industry/) to expect Berlin to support, rather than block, more assertive EU trade defense measures."
+              "note": "**Federal Economic Minister Katharina Reiche visits China amid shifting German trade stance**: Reiche will [visit China](https://www.fmprc.gov.cn) from May 26 to 29, as sluggish domestic growth and job losses from the \"second China shock\" prompt [some German voices](https://www.politico.eu/article/eu-germany-trade-china-industry/) to expect Berlin to support, rather than block, more assertive EU trade defense measures.",
+              "tags": [
+                "de-cn",
+                "macro",
+                "trade"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**China overtakes the United States as Germany's top foreign investor**: Propelled by firms expanding manufacturing footprints abroad to circumvent trade barriers, Chinese direct investment in Germany [surpassed US levels](https://www.scmp.com/economy/china-economy/article/3354505/its-firms-look-overseas-china-overtakes-us-become-top-foreign-investor-germany) as corporate interest shifts toward localized European operations."
+              "note": "**China overtakes the United States as Germany's top foreign investor**: Propelled by firms expanding manufacturing footprints abroad to circumvent trade barriers, Chinese direct investment in Germany [surpassed US levels](https://www.scmp.com/economy/china-economy/article/3354505/its-firms-look-overseas-china-overtakes-us-become-top-foreign-investor-germany) as corporate interest shifts toward localized European operations.",
+              "tags": [
+                "de-cn",
+                "trade",
+                "investment"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Volkswagen denies partnership talks with Chinese manufacturers**: Seeking to calm rising worker anxiety over structural overcapacity in domestic plants, the [Volkswagen CEO](https://www.reuters.com/world/china/volkswagen-not-talks-with-chinese-manufacturers-ceo-says-2026-05-20/) ruled out near-term production sharing or manufacturing agreements with Chinese EV firms in Germany."
+              "note": "**Volkswagen denies partnership talks with Chinese manufacturers**: Seeking to calm rising worker anxiety over structural overcapacity in domestic plants, the [Volkswagen CEO](https://www.reuters.com/world/china/volkswagen-not-talks-with-chinese-manufacturers-ceo-says-2026-05-20/) ruled out near-term production sharing or manufacturing agreements with Chinese EV firms in Germany.",
+              "tags": [
+                "de-cn",
+                "auto",
+                "industrial-policy",
+                "pla"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Federal prosecutors arrest married German couple for espionage**: The suspects allegedly [cultivated contacts with German university scientists](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-20-05-2026.html) to covertly transfer dual-use high-tech research to a Chinese intelligence agency, leading to their arrest by [federal prosecutors](https://www.reuters.com/world/china/germany-arrests-married-couple-suspicion-spying-china-2026-05-20/)."
+              "note": "**Federal prosecutors arrest married German couple for espionage**: The suspects allegedly [cultivated contacts with German university scientists](https://www.generalbundesanwalt.de/SharedDocs/Pressemitteilungen/DE/2026/Pressemitteilung-vom-20-05-2026.html) to covertly transfer dual-use high-tech research to a Chinese intelligence agency, leading to their arrest by [federal prosecutors](https://www.reuters.com/world/china/germany-arrests-married-couple-suspicion-spying-china-2026-05-20/).",
+              "tags": [
+                "de-cn",
+                "security",
+                "espionage"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Chinese embassy pressures TU Berlin over Uyghur event**: The Chinese embassy and a Chinese academic association [cooperated to pressure student organizers](https://taz.de/Diskussion-an-der-TU-Berlin/!6180523/) ahead of an information session on Xinjiang, fueling wider concern over Chinese [extra-territorial academic influence](https://www.tagesspiegel.de/wissen/wegen-veranstaltung-uber-die-unterdruckung-der-uiguren-chinas-botschaft-setzt-tu-berlin-unter-druck-15626267.html) in Germany."
+              "note": "**Chinese embassy pressures TU Berlin over Uyghur event**: The Chinese embassy and a Chinese academic association [cooperated to pressure student organizers](https://taz.de/Diskussion-an-der-TU-Berlin/!6180523/) ahead of an information session on Xinjiang, fueling wider concern over Chinese [extra-territorial academic influence](https://www.tagesspiegel.de/wissen/wegen-veranstaltung-uber-die-unterdruckung-der-uiguren-chinas-botschaft-setzt-tu-berlin-unter-druck-15626267.html) in Germany.",
+              "tags": [
+                "de-cn",
+                "cn-discourse",
+                "human-rights"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Bonn seeks to expand cooperation with Chengdu into robotics**: During a bilateral municipal exchange, [Bonn Deputy Mayor Ursula Sautter](https://global.chinadaily.com.cn/a/202605/16/WS6a07a5f0a310d6866eb48ed5.html) proposed broadening ties with Chengdu beyond cultural exchange to include collaborative robotics research."
+              "note": "**Bonn seeks to expand cooperation with Chengdu into robotics**: During a bilateral municipal exchange, [Bonn Deputy Mayor Ursula Sautter](https://global.chinadaily.com.cn/a/202605/16/WS6a07a5f0a310d6866eb48ed5.html) proposed broadening ties with Chengdu beyond cultural exchange to include collaborative robotics research.",
+              "tags": [
+                "robotics"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Centre for European Reform warns against German complacency on industrial competition**: A new policy brief argues that [Germany's slow response to Chinese economic pressure](https://www.cer.eu/publications/archive/policy-brief/2026/china-shock-20-cost-germanys-complacency) risks compounding the damage of the \"second China shock\" on domestic manufacturing."
+              "note": "**Centre for European Reform warns against German complacency on industrial competition**: A new policy brief argues that [Germany's slow response to Chinese economic pressure](https://www.cer.eu/publications/archive/policy-brief/2026/china-shock-20-cost-germanys-complacency) risks compounding the damage of the \"second China shock\" on domestic manufacturing.",
+              "tags": [
+                "de-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Deutsche Bank outlines case for stronger European trade defenses**: A research paper analyzes the necessity of [stepping up trade defenses](https://www.dbresearch.com/PROD/IE-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000628484&rwnode=REPORT) to shield European markets from Chinese industrial overcapacity while minimizing retaliatory fallout."
+              "note": "**Deutsche Bank outlines case for stronger European trade defenses**: A research paper analyzes the necessity of [stepping up trade defenses](https://www.dbresearch.com/PROD/IE-PROD/PDFVIEWER.calias?pdfViewerPdfUrl=PROD0000000000628484&rwnode=REPORT) to shield European markets from Chinese industrial overcapacity while minimizing retaliatory fallout.",
+              "tags": [
+                "trade",
+                "industrial-policy"
+              ]
             }
           ]
         },
@@ -235,91 +329,155 @@ window.W21_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Commission President Ursula von der Leyen convenes discussions on assertive trade tools**: Ahead of presenting options to EU leaders, the College of Commissioners is set to [debate more aggressive trade defences](https://www.politico.eu/article/eu-germany-trade-china-industry/) to counter subsidised competition, amid shifting political consent from Member States."
+              "note": "**Commission President Ursula von der Leyen convenes discussions on assertive trade tools**: Ahead of presenting options to EU leaders, the College of Commissioners is set to [debate more aggressive trade defences](https://www.politico.eu/article/eu-germany-trade-china-industry/) to counter subsidised competition, amid shifting political consent from Member States.",
+              "tags": [
+                "eu-cn",
+                "de-cn",
+                "trade"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**European Commission pressures automakers to diversify chip supply chains**: Responding to the Nexperia crisis, EU policymakers are drafting a [second Chips Act](https://www.euronews.com/my-europe/2026/05/21/european-carmakers-face-eu-pressure-to-diversify-chip-suppliers) to enforce stricter raw-material and component diversification thresholds."
+              "note": "**European Commission pressures automakers to diversify chip supply chains**: Responding to the Nexperia crisis, EU policymakers are drafting a [second Chips Act](https://www.euronews.com/my-europe/2026/05/21/european-carmakers-face-eu-pressure-to-diversify-chip-suppliers) to enforce stricter raw-material and component diversification thresholds.",
+              "tags": [
+                "eu-cn",
+                "semcon",
+                "auto",
+                "supply-chain"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**European Union moves to establish stockpiles of tungsten and rare earths**: To reduce strategic dependence on Chinese supply chains, the EU has [shortlisted key raw materials](https://www.reuters.com/world/china/eu-shortlists-tungsten-rare-earths-first-stockpile-curb-china-reliance-2026-05-20/) for its first-ever centralized physical stockpile program."
+              "note": "**European Union moves to establish stockpiles of tungsten and rare earths**: To reduce strategic dependence on Chinese supply chains, the EU has [shortlisted key raw materials](https://www.reuters.com/world/china/eu-shortlists-tungsten-rare-earths-first-stockpile-curb-china-reliance-2026-05-20/) for its first-ever centralized physical stockpile program.",
+              "tags": [
+                "eu-cn",
+                "rare-earths",
+                "supply-chain"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Commission proposes temporary sanctions reprieve for a Chinese chipmaker**: The EU executive [suggested a carve-out](https://www.reuters.com/world/china/european-commission-proposes-russia-sanctions-reprieve-dealings-with-chinese-2026-05-22/) for blacklisted Yangjie Technology to prevent immediate disruption to European automotive manufacturers who rely on its components."
+              "note": "**Commission proposes temporary sanctions reprieve for a Chinese chipmaker**: The EU executive [suggested a carve-out](https://www.reuters.com/world/china/european-commission-proposes-russia-sanctions-reprieve-dealings-with-chinese-2026-05-22/) for blacklisted Yangjie Technology to prevent immediate disruption to European automotive manufacturers who rely on its components.",
+              "tags": [
+                "ru-cn",
+                "auto",
+                "sanctions"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**European Parliament adopts tighter foreign investment screening framework**: The newly approved rules aim to [enhance coordination across member states](https://www.europarl.europa.eu/news/en/press-room/20260513IPR43304/protecting-eu-strategic-sectors-from-risky-foreign-investments) and [standardise security reviews](https://www.reuters.com/business/aerospace-defense/european-parliament-approves-new-eu-foreign-investment-rules-2026-05-19/) to defend critical industrial sectors from hostile acquisitions."
+              "note": "**European Parliament adopts tighter foreign investment screening framework**: The newly approved rules aim to [enhance coordination across member states](https://www.europarl.europa.eu/news/en/press-room/20260513IPR43304/protecting-eu-strategic-sectors-from-risky-foreign-investments) and [standardise security reviews](https://www.reuters.com/business/aerospace-defense/european-parliament-approves-new-eu-foreign-investment-rules-2026-05-19/) to defend critical industrial sectors from hostile acquisitions.",
+              "tags": [
+                "aerospace",
+                "investment-screening",
+                "investment"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**MEPs vote to slash steel quotas and double tariffs**: In a decisive move to protect domestic mills, the Parliament [slashed import quotas by 47 percent](https://www.europarl.europa.eu/news/en/press-room/20260513IPR43305/steel-overcapacity-meps-approve-new-measures-to-protect-eu-steel-market) and [approved a 50 percent tariff limit](https://www.faz.net/aktuell/wirtschaft/europaeische-union-hohe-zoelle-sollen-stahlbranche-schuetzen-200846124.html) above that threshold."
+              "note": "**MEPs vote to slash steel quotas and double tariffs**: In a decisive move to protect domestic mills, the Parliament [slashed import quotas by 47 percent](https://www.europarl.europa.eu/news/en/press-room/20260513IPR43305/steel-overcapacity-meps-approve-new-measures-to-protect-eu-steel-market) and [approved a 50 percent tariff limit](https://www.faz.net/aktuell/wirtschaft/europaeische-union-hohe-zoelle-sollen-stahlbranche-schuetzen-200846124.html) above that threshold.",
+              "tags": [
+                "trade",
+                "industrial-policy"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**High Representative Kaja Kallas likens Chinese industrial policy to a cancer**: Kallas argued that European leaders must [choose \"chemotherapy\" over \"morphine\"](https://x.com/fbermingham/status/2056985411264680090) by implementing painful structural trade countermeasures rather than temporary relief."
+              "note": "**High Representative Kaja Kallas likens Chinese industrial policy to a cancer**: Kallas argued that European leaders must [choose \"chemotherapy\" over \"morphine\"](https://x.com/fbermingham/status/2056985411264680090) by implementing painful structural trade countermeasures rather than temporary relief.",
+              "tags": [
+                "trade",
+                "industrial-policy"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Kallas warns of a \"divide-and-conquer\" strategy targeting the EU**: The foreign policy chief cautioned that [the US, China, and Russia prefer a fragmented Europe](https://www.politico.eu/article/us-china-and-russia-prefer-a-divided-europe-kallas-warns/) to dilute its collective economic and political power."
+              "note": "**Kallas warns of a \"divide-and-conquer\" strategy targeting the EU**: The foreign policy chief cautioned that [the US, China, and Russia prefer a fragmented Europe](https://www.politico.eu/article/us-china-and-russia-prefer-a-divided-europe-kallas-warns/) to dilute its collective economic and political power.",
+              "tags": [
+                "us-cn",
+                "ru-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**EEAS reviews Global Gateway funding rules to restrict Chinese competitors**: Commenting on development projects, Kallas signaled that the EU must [protect its infrastructure funds](https://www.eeas.europa.eu/eeas/foreign-affairs-council-development-press-remarks-high-representative-kallas-upon-arrival-0_en) from being won by subsidized non-EU competitors."
+              "note": "**EEAS reviews Global Gateway funding rules to restrict Chinese competitors**: Commenting on development projects, Kallas signaled that the EU must [protect its infrastructure funds](https://www.eeas.europa.eu/eeas/foreign-affairs-council-development-press-remarks-high-representative-kallas-upon-arrival-0_en) from being won by subsidized non-EU competitors.",
+              "tags": [
+                "eu-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**French President Emmanuel Macron calls for US-style trade powers**: Macron advocated for [a European equivalent of Section 301](https://www.politico.eu/article/emmanuel-macron-eu-section-301-strategic-sectors/) to allow unilateral investigations and retaliatory tariffs against unfair commercial practices in strategic sectors."
+              "note": "**French President Emmanuel Macron calls for US-style trade powers**: Macron advocated for [a European equivalent of Section 301](https://www.politico.eu/article/emmanuel-macron-eu-section-301-strategic-sectors/) to allow unilateral investigations and retaliatory tariffs against unfair commercial practices in strategic sectors.",
+              "tags": [
+                "trade",
+                "export-controls"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**European Parliament delegation prepares first China visit since 2018**: Lawmakers will [travel to China](https://www.europarl.europa.eu/news/en/press-room/20260522IPR43802/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm) for the 43rd Inter-Parliamentary Meeting to resume direct dialogue with counterparts in Beijing."
+              "note": "**European Parliament delegation prepares first China visit since 2018**: Lawmakers will [travel to China](https://www.europarl.europa.eu/news/en/press-room/20260522IPR43802/meps-to-visit-china-for-the-43rd-inter-parliamentary-meeting-ipm) for the 43rd Inter-Parliamentary Meeting to resume direct dialogue with counterparts in Beijing.",
+              "tags": [
+                "eu-cn",
+                "de-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Finnish intelligence chief warns of irreversible European tech reliance**: Juha Martelius cautioned that Europe risks [losing economic sovereignty](https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/) to the United States and China due to deeply entrenched dependencies on foreign software and hardware."
+              "note": "**Finnish intelligence chief warns of irreversible European tech reliance**: Juha Martelius cautioned that Europe risks [losing economic sovereignty](https://www.politico.eu/article/europe-tech-dependent-us-china-fully-sovereign-finnish-intel-chief/) to the United States and China due to deeply entrenched dependencies on foreign software and hardware.",
+              "tags": [
+                "us-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Chinese investors in Hungary scramble to adapt to political shifts**: Firms are racing to [renegotiate investment terms](https://www.scmp.com/economy/article/3354060/chinese-companies-hungary-scramble-adjust-post-orban-era) and secure guarantees ahead of a potential transition to a post-Orbán administration."
+              "note": "**Chinese investors in Hungary scramble to adapt to political shifts**: Firms are racing to [renegotiate investment terms](https://www.scmp.com/economy/article/3354060/chinese-companies-hungary-scramble-adjust-post-orban-era) and secure guarantees ahead of a potential transition to a post-Orbán administration.",
+              "tags": [
+                "investment"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Serbian President Aleksandar Vučić visits China to deepen bilateral ties**: Vučić led a delegation to Beijing from May 24 to 28, [reaffirming Belgrade's strategic partnership](https://www.fmprc.gov.cn/eng/xw/wsrc/202605/t20260520_11914028.html) with China."
+              "note": "**Serbian President Aleksandar Vučić visits China to deepen bilateral ties**: Vučić led a delegation to Beijing from May 24 to 28, [reaffirming Belgrade's strategic partnership](https://www.fmprc.gov.cn/eng/xw/wsrc/202605/t20260520_11914028.html) with China.",
+              "tags": [
+                "eu-cn",
+                "de-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Moldovan Foreign Minister Mihai Popșoi visits Beijing to discuss trade cooperation**: Popșoi traveled to China from May 21 to 25 to [negotiate agricultural exports and investment agreements](https://www.fmprc.gov.cn/eng/xw/wsrc/202605/t20260519_11913249.html)."
+              "note": "**Moldovan Foreign Minister Mihai Popșoi visits Beijing to discuss trade cooperation**: Popșoi traveled to China from May 21 to 25 to [negotiate agricultural exports and investment agreements](https://www.fmprc.gov.cn/eng/xw/wsrc/202605/t20260519_11913249.html).",
+              "tags": [
+                "trade",
+                "investment",
+                "diplomacy"
+              ]
             }
           ]
         }
@@ -363,6 +521,12 @@ window.W21_2026 = {
                   "",
                   "Beijing's focus on building domestic industrial capacity and keeping core technologies at home will continue to weigh on outbound FDI."
                 ]
+              ],
+              "tags": [
+                "de-cn",
+                "uk-cn",
+                "auto",
+                "investment"
               ]
             },
             {
@@ -387,6 +551,19 @@ window.W21_2026 = {
                   "",
                   "**Beijing undermines the EU foreign-subsidy investigation by banning data sharing** (Altynay Junusova): Blocking Chinese firms from sharing data with EU investigators turns claims to extraterritorial jurisdiction into a trade problem; the open question is whether Brussels will restrict market access for non-cooperating firms."
                 ]
+              ],
+              "tags": [
+                "us-cn",
+                "eu-cn",
+                "de-cn",
+                "hk",
+                "ru-cn",
+                "energy",
+                "macro",
+                "trade",
+                "investment",
+                "diplomacy",
+                "human-rights"
               ]
             },
             {
@@ -399,6 +576,13 @@ window.W21_2026 = {
                   "",
                   "Claudia Wessling, Bernhard Bartsch and Mikko Huotari on the Xi–Trump and Xi–Putin meetings, China's April economic data, the mood among German firms in China, and Chinese investment in Europe reaching its highest level since 2018."
                 ]
+              ],
+              "tags": [
+                "us-cn",
+                "de-cn",
+                "ru-cn",
+                "investment",
+                "diplomacy"
               ]
             },
             {
@@ -411,6 +595,13 @@ window.W21_2026 = {
                   "",
                   "On China's January–April trade data: the surplus eases but still runs at trillion-dollar scale, import growth does not look consumer-led, energy lifts prices but not demand, and the surplus with Africa jumps nearly 50%."
                 ]
+              ],
+              "tags": [
+                "de-cn",
+                "afr",
+                "energy",
+                "macro",
+                "trade"
               ]
             }
           ]
@@ -428,6 +619,10 @@ window.W21_2026 = {
                   "",
                   "The [UK Parliament](https://committees.parliament.uk/event/26988) invited Grzegorz Stec for a hearing on the risks of economic engagement with China – competition, economic coercion, supply-chain risks and investment security."
                 ]
+              ],
+              "tags": [
+                "uk-cn",
+                "investment"
               ]
             }
           ]
@@ -445,6 +640,9 @@ window.W21_2026 = {
                   "",
                   "[ZDF heute](https://www.zdfheute.de/video/zdf-morgenmagazin/zdf-morgenmagazin-huotari-china-usa-100.html) interviewed Mikko Huotari on China's warning against \"interference in the Taiwan conflict\"."
                 ]
+              ],
+              "tags": [
+                "twn"
               ]
             },
             {
@@ -457,6 +655,10 @@ window.W21_2026 = {
                   "",
                   "[Deutsche Welle](https://www.dw.com/en/trump-putin-or-xi-who-really-runs-the-world/video-77237965) ([GER](https://www.dw.com/de/erst-trump-dann-putin-china-das-neue-zentrum-der-weltpolitik/video-77237962)) invited Bernhard Bartsch on the recent high-level meetings in Beijing."
                 ]
+              ],
+              "tags": [
+                "us-cn",
+                "ru-cn"
               ]
             },
             {
@@ -469,6 +671,10 @@ window.W21_2026 = {
                   "",
                   "[ZDF heute](https://www.zdfheute.de/politik/ausland/russland-china-putin-xi-geopolitik-seiwert-100.html) interviewed Eva Seiwert on the Xi–Trump meeting, which she read as business as usual – Putin's 25th visit underscoring how established relations have become."
                 ]
+              ],
+              "tags": [
+                "us-cn",
+                "ru-cn"
               ]
             },
             {
@@ -481,6 +687,10 @@ window.W21_2026 = {
                   "",
                   "[Deutsche Welle](https://www.dw.com/en/chinas-moment-putin-heads-to-beijing-after-trump-courts-xi/a-77200122) and [Nikkei Asia](https://asia.nikkei.com/politics/international-relations/xi-and-putin-back-shared-multipolar-vision-in-beijing-after-trump-visit) interviewed Claus Soong on the Putin–Xi meeting."
                 ]
+              ],
+              "tags": [
+                "us-cn",
+                "ru-cn"
               ]
             },
             {
@@ -493,6 +703,9 @@ window.W21_2026 = {
                   "",
                   "[Tagesschau](https://www.tagesschau.de/ausland/asien/putin-china-xi-100.html) quoted Bernhard Bartsch on the Xi–Putin meeting."
                 ]
+              ],
+              "tags": [
+                "ru-cn"
               ]
             },
             {
@@ -505,6 +718,9 @@ window.W21_2026 = {
                   "",
                   "[Carnegie Politika Podcast](https://carnegieendowment.org/russia-eurasia/podcasts/carnegie-politika-podcast/china-russia-visit-conclusion) interviewed Yanmei Xie on Putin's visit to China."
                 ]
+              ],
+              "tags": [
+                "ru-cn"
               ]
             },
             {
@@ -517,6 +733,11 @@ window.W21_2026 = {
                   "",
                   "[Tagesschau](https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-handel-china-usa-100.html), [Reuters](https://www.reuters.com/world/china/chinese-greenfield-investment-europe-reaches-new-record-newspaper-reports-2026-05-18/), [Nikkei Asia](https://asia.nikkei.com/economy/china-s-investment-in-europe-hits-7-year-high-still-far-from-peak), [Handelsblatt](https://www.handelsblatt.com/politik/international/handelskonflikt-china-bautin-europa-so-viele-fabriken-wie-nie-zuvor/100225865.html) and [SCMP](https://www.scmp.com/economy/china-economy/article/3354235/chinese-investment-europe-surges-7-year-high-despite-rising-trade-tensions) quoted Andreas Mischer and the new joint report with Rhodium Group on Chinese investment in Europe."
                 ]
+              ],
+              "tags": [
+                "de-cn",
+                "trade",
+                "investment"
               ]
             },
             {
@@ -529,6 +750,10 @@ window.W21_2026 = {
                   "",
                   "[The New York Times](https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html) quoted Wendy Chang on Beijing's rejection of NVIDIA's H200 chips."
                 ]
+              ],
+              "tags": [
+                "semcon",
+                "ai"
               ]
             }
           ]
@@ -557,6 +782,9 @@ window.W21_2026 = {
               "Fixed-asset investment contracted 1.6% year-to-date through April",
               "The reading reversed the prior month's 1.7% gain and came in sharply below analyst forecasts of continued expansion."
             ]
+          ],
+          "tags": [
+            "investment"
           ]
         },
         {
@@ -573,6 +801,11 @@ window.W21_2026 = {
               "PBOC rate cuts seen as unlikely given mainland economic resilience",
               "China's new energy technology and energy reserves reduce sensitivity to external shocks, supporting banks, an OCBC economist told SCMP."
             ]
+          ],
+          "tags": [
+            "energy",
+            "macro",
+            "property"
           ]
         },
         {
@@ -589,6 +822,10 @@ window.W21_2026 = {
               "At least 16 cities eased property restrictions following a Politburo directive",
               "Measures include relaxed homebuying eligibility in Shenzhen and expanded mortgage subsidies in Guangzhou, according to Citigroup."
             ]
+          ],
+          "tags": [
+            "property",
+            "ideology"
           ]
         },
         {
@@ -609,6 +846,12 @@ window.W21_2026 = {
               "Beijing treats wartime price jumps as an excuse to do less",
               "Unlike Japan's 2023 subsidies and tax breaks, Chinese officials are reluctant to cut rates or expand fiscal stimulus, the article argues."
             ]
+          ],
+          "tags": [
+            "jp-cn",
+            "ai",
+            "energy",
+            "macro"
           ]
         },
         {
@@ -629,6 +872,10 @@ window.W21_2026 = {
               "Sector approaches the government's 45 million ton annual capacity ceiling",
               "Smelters are running up to 3% above nameplate capacity through technological upgrades to maximise profits before hitting the 2017-era regulatory limit."
             ]
+          ],
+          "tags": [
+            "mid-east",
+            "macro"
           ]
         },
         {
@@ -649,6 +896,10 @@ window.W21_2026 = {
               "Founder's core technical predictions arrived five years ahead of market readiness",
               "Huang identified humanoid form and sub-1,000 yuan joints in 2020; both arguments drew investment and applause only after 2024, when competitors had working prototypes."
             ]
+          ],
+          "tags": [
+            "robotics",
+            "investment"
           ]
         },
         {
@@ -669,6 +920,9 @@ window.W21_2026 = {
               "Main driver is negative age stereotypes, not productivity decline",
               "The study finds employers view post-35 workers as less healthy, less proactive, and slower to adopt technology, prior to assessing individual performance."
             ]
+          ],
+          "tags": [
+            "macro"
           ]
         },
         {
@@ -689,6 +943,10 @@ window.W21_2026 = {
               "Policy framed as part of China's unified national market agenda",
               "Workers may now enrol in social insurance where employed, ending a hukou-based exclusion that blocked access to pensions and medical coverage."
             ]
+          ],
+          "tags": [
+            "ideology",
+            "diplomacy"
           ]
         },
         {
@@ -713,6 +971,13 @@ window.W21_2026 = {
               "Mega-city uptake identified as the key test",
               "EIU's Zhang noted smaller cities already implement similar policies; whether Beijing and Shanghai follow is the pivotal open question."
             ]
+          ],
+          "tags": [
+            "macro",
+            "property",
+            "society",
+            "ideology",
+            "diplomacy"
           ]
         },
         {
@@ -733,6 +998,9 @@ window.W21_2026 = {
               "Author warns cities will game new population-linked land-quota incentives",
               "China's track record of manipulating central incentive structures suggests local governments will manufacture inflated inflow figures to secure fiscal transfers and construction land."
             ]
+          ],
+          "tags": [
+            "macro"
           ]
         }
       ]
@@ -761,6 +1029,10 @@ window.W21_2026 = {
               "He Weidong identified as the test for a Politburo-level sentence",
               "The author argues applying the same penalty to a sitting Politburo member would be historically unprecedented but risks losing the princeling network cooperation Xi still needs."
             ]
+          ],
+          "tags": [
+            "ideology",
+            "corruption"
           ]
         },
         {
@@ -781,6 +1053,9 @@ window.W21_2026 = {
               "Author questions whether crackdown will reduce elite advantage",
               "The campaign may block middle-class students from advancement without dismantling the informal connections that benefit well-connected party families, the article argues."
             ]
+          ],
+          "tags": [
+            "corruption"
           ]
         },
         {
@@ -797,6 +1072,14 @@ window.W21_2026 = {
               "Plan targets six regulatory domains for accelerated rulemaking",
               "The work plan lists data, computing power, algorithms, property rights, cybersecurity, and supply chains as areas for faster legislation."
             ]
+          ],
+          "tags": [
+            "ai",
+            "property",
+            "ideology",
+            "supply-chain",
+            "pla",
+            "diplomacy"
           ]
         },
         {
@@ -817,6 +1100,9 @@ window.W21_2026 = {
               "Author disputes Chinese AI adoption as state-directed and strategic",
               "Bottom-up fear, not policy coordination, drives adoption - generating frenzies prone to scams and oversupply outside the state agenda, the author argues."
             ]
+          ],
+          "tags": [
+            "ai"
           ]
         },
         {
@@ -837,6 +1123,11 @@ window.W21_2026 = {
               "Cross-lingual favorability bias extends to Russia and North Korea",
               "Audit studies found the same language-dependent pro-government response pattern for Russian and North Korean institutions as for Chinese ones."
             ]
+          ],
+          "tags": [
+            "ru-cn",
+            "ai",
+            "propaganda"
           ]
         },
         {
@@ -853,6 +1144,10 @@ window.W21_2026 = {
               "Shanghai's largest case involved over 100 drones",
               "Police identified a 40-year-old man who developed restriction-bypass software from 2022 and marketed it via e-commerce platforms."
             ]
+          ],
+          "tags": [
+            "mil-tech",
+            "security"
           ]
         },
         {
@@ -873,6 +1168,12 @@ window.W21_2026 = {
               "State Council ordered investigation; management reportedly detained",
               "Officials promised \"severe punishment\" for those found responsible, and Tongzhou Group suspended production at all four of its mines following the blast."
             ]
+          ],
+          "tags": [
+            "energy",
+            "ideology",
+            "pla",
+            "diplomacy"
           ]
         }
       ]
@@ -897,6 +1198,12 @@ window.W21_2026 = {
               "Chinese models surpassed US rivals on OpenRouter by late February 2026",
               "Platform data show Chinese models at 61% of weekly token consumption, with US firms identified as the heaviest users in agentic workflows."
             ]
+          ],
+          "tags": [
+            "semcon",
+            "ai",
+            "macro",
+            "pla"
           ]
         },
         {
@@ -913,6 +1220,13 @@ window.W21_2026 = {
               "Trump-Xi summit produced no concrete chip access commitments",
               "Huang said he expects China's market to open \"over time\" while Trump said H200 chips \"came up\" in Beijing talks without elaborating further."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "semcon",
+            "ai",
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -929,6 +1243,10 @@ window.W21_2026 = {
               "CXMT claims 7.67% global market share as PC makers qualify its chips",
               "HP, Dell, Asus and Acer are open to sourcing from CXMT amid memory shortages, with the company now ranked fourth globally by Omdia."
             ]
+          ],
+          "tags": [
+            "semcon",
+            "markets"
           ]
         },
         {
@@ -949,6 +1267,10 @@ window.W21_2026 = {
               "Authors argue no single country can absorb WuXi's multi-layer role",
               "India leads in small-molecule generics but not complex biologics; South Korea's Samsung Biologics covers biologics but not chemistry services."
             ]
+          ],
+          "tags": [
+            "india-cn",
+            "bio-pharma"
           ]
         },
         {
@@ -965,6 +1287,12 @@ window.W21_2026 = {
               "Taiwan's first smuggling prosecution signals shift under President Lai",
               "Taipei used domestic fraud statutes rather than US-style chip export restrictions to target the diversion of AI hardware to China."
             ]
+          ],
+          "tags": [
+            "twn",
+            "semcon",
+            "ai",
+            "trade"
           ]
         },
         {
@@ -985,6 +1313,11 @@ window.W21_2026 = {
               "Over 600 million Chinese have used agentic apps, but monetisation remains unresolved",
               "A ByteDance-ZTE AI smartphone failed after Alibaba and Tencent blocked its access to their payment platforms."
             ]
+          ],
+          "tags": [
+            "ai",
+            "macro",
+            "investment"
           ]
         },
         {
@@ -1001,6 +1334,11 @@ window.W21_2026 = {
               "Analysts expect FSD entry to accelerate Chinese automakers' autonomous driving development",
               "Only XPeng is assessed as close to Tesla's capability level, with broader competition anticipated."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "auto",
+            "diplomacy"
           ]
         },
         {
@@ -1017,6 +1355,11 @@ window.W21_2026 = {
               "Governance and data security named as conditions for cooperation",
               "Multiple participants called for regulatory guardrails on AI, with Spain's Labour Minister and French chamber president stressing algorithm oversight and data protection as prerequisites for deeper engagement."
             ]
+          ],
+          "tags": [
+            "uk-cn",
+            "ai",
+            "auto"
           ]
         }
       ]
@@ -1045,6 +1388,12 @@ window.W21_2026 = {
               "EU's main legislative tools against import dependence not in force before 2027",
               "The Industrial Accelerator Act and updated Cyber Security Act leave Brussels without effective remedies for the current import surge, the article reports."
             ]
+          ],
+          "tags": [
+            "eu-cn",
+            "de-cn",
+            "trade",
+            "cyber"
           ]
         },
         {
@@ -1065,6 +1414,14 @@ window.W21_2026 = {
               "Beijing ordered Chinese entities not to cooperate with EU's FSR probe into Nuctech",
               "China cited new economic security powers introduced last month, calling the investigation an illegitimate assertion of extraterritorial jurisdiction; the Commission rejected the characterisation."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "eu-cn",
+            "jp-cn",
+            "trade",
+            "investment",
+            "diplomacy"
           ]
         },
         {
@@ -1081,6 +1438,14 @@ window.W21_2026 = {
               "EU-China trade deficit hit €360bn in 2025 with further widening forecast",
               "Germany's bilateral shortfall doubled to $25bn last year as Brussels cites China's 30% global production share against just 13% consumption."
             ]
+          ],
+          "tags": [
+            "eu-cn",
+            "de-cn",
+            "bio-pharma",
+            "macro",
+            "trade",
+            "industrial-policy"
           ]
         },
         {
@@ -1101,6 +1466,12 @@ window.W21_2026 = {
               "Newly announced transactions fell sharply to €5.2bn versus €16.9bn in 2023",
               "The report attributes subdued pipeline activity to Beijing's focus on domestic capacity retention, an undervalued yuan, and weak profit margins at home."
             ]
+          ],
+          "tags": [
+            "de-cn",
+            "auto",
+            "investment",
+            "supply-chain"
           ]
         },
         {
@@ -1117,6 +1488,11 @@ window.W21_2026 = {
               "Deal expands existing Stellantis-Dongfeng ties beyond China",
               "A separate agreement signed last week already has Dongfeng manufacturing Jeep and Peugeot models in China; Dongfeng retains a small equity stake in Stellantis from the earlier PSA partnership."
             ]
+          ],
+          "tags": [
+            "auto",
+            "markets",
+            "pla"
           ]
         },
         {
@@ -1133,6 +1509,11 @@ window.W21_2026 = {
               "Localisation raises cost and compliance risks alongside tariff benefits",
               "Citigroup's European autos analyst notes Chinese firms will face expensive European labour and mandatory local content rules once operating on the continent."
             ]
+          ],
+          "tags": [
+            "auto",
+            "trade",
+            "pla"
           ]
         },
         {
@@ -1149,6 +1530,11 @@ window.W21_2026 = {
               "CEO frames withdrawal as strategic pivot away from expansion-era projects",
               "President Kishida described the e-axle market as a \"red ocean,\" signalling a shift from growth to structural reform."
             ]
+          ],
+          "tags": [
+            "jp-cn",
+            "auto",
+            "macro"
           ]
         },
         {
@@ -1165,6 +1551,10 @@ window.W21_2026 = {
               "Nissan CEO targets up to 300,000 annual exports from China",
               "Initial shipments of the N7 EV sedan and Frontier Pro pickup are bound for Latin America, with Canada a potential addition."
             ]
+          ],
+          "tags": [
+            "latam",
+            "auto"
           ]
         },
         {
@@ -1181,6 +1571,11 @@ window.W21_2026 = {
               "NTN targets a fivefold increase in global production capacity by 2035",
               "The Shanghai expansion complements existing Japanese mass production in Iwata, Shizuoka, launched last year."
             ]
+          ],
+          "tags": [
+            "jp-cn",
+            "auto",
+            "pla"
           ]
         },
         {
@@ -1197,6 +1592,14 @@ window.W21_2026 = {
               "Multiple US restrictions enacted despite summit diplomacy",
               "The USITC launched a PNTR revocation probe, Treasury restricted AI/quantum/semiconductor investment, and nine Chinese firms were blacklisted days before the Beijing meeting."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "semcon",
+            "ai",
+            "trade",
+            "investment",
+            "diplomacy"
           ]
         },
         {
@@ -1213,6 +1616,12 @@ window.W21_2026 = {
               "Agricultural products included in principle; Boeing deal confirmed",
               "Beijing confirmed a 200-aircraft Boeing purchase and said farm goods will be part of the reciprocal tariff framework, while not addressing the $17bn in annual US agricultural purchases cited by Washington."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "aerospace",
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -1233,6 +1642,12 @@ window.W21_2026 = {
               "Indictment unsealed days after Trump-Xi Beijing summit",
               "The January 2026 filing was made public less than a week after Trump's first presidential visit to China since 2017, which both sides framed as a trade reset."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "trade",
+            "maritime",
+            "diplomacy"
           ]
         },
         {
@@ -1253,6 +1668,10 @@ window.W21_2026 = {
               "Dollar dominance gives the US financial leverage China cannot replicate",
               "The author argues US control of the global financial network enables persistently large twin deficits and the power to cut rivals off from the payment system."
             ]
+          ],
+          "tags": [
+            "trade",
+            "industrial-policy"
           ]
         },
         {
@@ -1273,6 +1692,15 @@ window.W21_2026 = {
               "Renminbi's global oil trade share remains in the single digits despite the surge",
               "FT calculations and analyst estimates put the Chinese currency at 3-8% of global oil trade, against the dollar's roughly 80%."
             ]
+          ],
+          "tags": [
+            "india-cn",
+            "mid-east",
+            "ru-cn",
+            "energy",
+            "trade",
+            "sanctions",
+            "propaganda"
           ]
         },
         {
@@ -1293,6 +1721,10 @@ window.W21_2026 = {
               "Renminbi undervaluation identified as a potential amplifying factor",
               "Macro indicators on wages, productivity, and exchange rates suggest currency distortions contribute to China's dominance, potentially foreclosing the traditional manufacturing-led development path for poorer economies."
             ]
+          ],
+          "tags": [
+            "macro",
+            "trade"
           ]
         },
         {
@@ -1309,6 +1741,12 @@ window.W21_2026 = {
               "Iran war energy shock compounds bilateral economic fragility",
               "Asia's energy price spike suppresses Chinese consumption recovery while US inflation erodes real wages, the article reports."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "mid-east",
+            "energy",
+            "macro"
           ]
         },
         {
@@ -1325,6 +1763,12 @@ window.W21_2026 = {
               "Australian government action on Chinese rare earth holdings opened direct Taiwan investment talks",
               "Canberra's divestment cleared the path for non-Chinese critical mineral capital in the Western Australian project, the article reports."
             ]
+          ],
+          "tags": [
+            "twn",
+            "rare-earths",
+            "investment",
+            "supply-chain"
           ]
         }
       ]
@@ -1349,6 +1793,14 @@ window.W21_2026 = {
               "Treasury, not State, led the summit as Trump's trade focus sidelined China hawks",
               "Mitter argues Bessent's centrality reflects a Trump doctrine placing the bilateral trade deficit above strategic competition, Taiwan, and AI concerns."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "twn",
+            "ai",
+            "trade",
+            "diplomacy",
+            "propaganda"
           ]
         },
         {
@@ -1369,6 +1821,13 @@ window.W21_2026 = {
               "Trump's post-departure remarks handed Beijing additional gains",
               "Scholars say his weekend comments on negotiating Taiwan arms sales and adopting China's new bilateral framework exceeded what Beijing had secured at the summit itself."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "jp-cn",
+            "twn",
+            "rare-earths",
+            "diplomacy"
           ]
         },
         {
@@ -1389,6 +1848,12 @@ window.W21_2026 = {
               "Four of five analysts surveyed read Trump's Taiwan remarks as a concession to Beijing",
               "One called them the most Beijing-favorable US presidential statement on Taiwan in over 20 years."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "twn",
+            "security",
+            "diplomacy"
           ]
         },
         {
@@ -1409,6 +1874,12 @@ window.W21_2026 = {
               "Putin arrives in Beijing as Russia's reliance on China has deepened",
               "He must confirm no undisclosed Xi-Trump understandings and secure continued Chinese oil purchases and military components, analysts say."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "ru-cn",
+            "energy",
+            "trade"
           ]
         },
         {
@@ -1429,6 +1900,13 @@ window.W21_2026 = {
               "Analysts frame Beijing as 2026's diplomatic center of gravity",
               "Brookings' Ryan Hass argues China is accumulating diplomatic capital by contrasting its predictability with US unpredictability, sequencing Trump and Putin summits to project global leadership."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "ru-cn",
+            "mil-tech",
+            "cyber",
+            "diplomacy"
           ]
         },
         {
@@ -1445,6 +1923,10 @@ window.W21_2026 = {
               "52 of 70 major economies launched trade defence measures targeting China last year",
               "The article cites MERICS data to show Beijing's economic policies face broad global blowback, constraining its claim to represent an alternative order."
             ]
+          ],
+          "tags": [
+            "de-cn",
+            "trade"
           ]
         },
         {
@@ -1465,6 +1947,12 @@ window.W21_2026 = {
               "European security may become a function of Chinese calculations",
               "Beijing's hold over Russian energy finances gives it indirect influence over the pressure Moscow chooses to apply to European neighbours, the authors warn."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "ru-cn",
+            "sea",
+            "energy"
           ]
         },
         {
@@ -1481,6 +1969,13 @@ window.W21_2026 = {
               "Xi reportedly told Trump Putin might regret the Ukraine invasion",
               "China's foreign ministry and Trump denied the account, which emerged from US officials' assessment of the Beijing summit held days before Putin's arrival."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "ru-cn",
+            "energy",
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -1497,6 +1992,11 @@ window.W21_2026 = {
               "White House factsheet omitted Ukraine and ICC discussions entirely",
               "The administration's published account of the Beijing summit contained no mention of Putin, Ukraine, or the ICC proposal despite the wide-ranging talks reported."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "ru-cn",
+            "diplomacy"
           ]
         },
         {
@@ -1517,6 +2017,13 @@ window.W21_2026 = {
               "Author argues Russia's post-war leverage will only weaken",
               "Deepened Chinese trade and technology ties during the conflict leave Moscow with diminishing room to seek alternative partners once hostilities end."
             ]
+          ],
+          "tags": [
+            "ru-cn",
+            "auto",
+            "energy",
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -1537,6 +2044,11 @@ window.W21_2026 = {
               "Beijing's support shifts from raw component export to direct tactical skills transfer",
               "The covert instruction represents a significant escalation in Chinese-Russian security cooperation, moving beyond the transfer of dual-use technology toward active military preparation."
             ]
+          ],
+          "tags": [
+            "ru-cn",
+            "trade",
+            "sanctions"
           ]
         },
         {
@@ -1557,6 +2069,11 @@ window.W21_2026 = {
               "Press freedom predicts local-language AI pro-government bias",
               "The pattern holds across 37 countries, amplified by the asymmetry between freely available state media and paywalled independent outlets, the researchers argue."
             ]
+          ],
+          "tags": [
+            "ai",
+            "propaganda",
+            "human-rights"
           ]
         },
         {
@@ -1577,6 +2094,10 @@ window.W21_2026 = {
               "US retreat from AI norms bodies has opened space for Beijing",
               "Trump's withdrawal from multilateral institutions leaves China positioned to shape AI governance terms in the Global South, the author argues."
             ]
+          ],
+          "tags": [
+            "ai",
+            "pla"
           ]
         },
         {
@@ -1597,6 +2118,13 @@ window.W21_2026 = {
               "Author argues China's Africa influence now extends beyond economics",
               "Beijing shapes diplomatic behaviour, civic access, and political incentives - not just infrastructure and trade - according to the article."
             ]
+          ],
+          "tags": [
+            "twn",
+            "afr",
+            "society",
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -1617,6 +2145,12 @@ window.W21_2026 = {
               "Taiwan's cable surveillance relies on AIS rather than real-time satellite tracking",
               "Budget shortfalls leave only 96 vessels blacklisted against militia drills involving potentially thousands of civilian ships."
             ]
+          ],
+          "tags": [
+            "twn",
+            "semcon",
+            "pla",
+            "maritime"
           ]
         },
         {
@@ -1633,6 +2167,11 @@ window.W21_2026 = {
               "Tensions follow Takaichi's November remarks on Taiwan defense",
               "Beijing has already cancelled flights and issued travel advisories; full airspace closure is seen as unlikely as it would also disrupt Chinese carriers."
             ]
+          ],
+          "tags": [
+            "jp-cn",
+            "twn",
+            "aerospace"
           ]
         },
         {
@@ -1649,6 +2188,12 @@ window.W21_2026 = {
               "The seizure signals Iran will not extend armed-escort protection even to China",
               "According to WSJ, the incident - occurring on the same day as the Trump-Xi Beijing summit - suggests limits to Iran's tolerance for Chinese maritime security operations near the strait."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "mid-east",
+            "maritime",
+            "diplomacy"
           ]
         }
       ]
@@ -1677,6 +2222,12 @@ window.W21_2026 = {
               "Author calls for combined EU trade defence and deterrence agenda",
               "Addressing China's systemic price distortions will inevitably trigger coercive retaliation, the author argues, making industrial protection and economic deterrence inseparable policy goals."
             ]
+          ],
+          "tags": [
+            "trade",
+            "sanctions",
+            "supply-chain",
+            "nuclear"
           ]
         },
         {
@@ -1697,6 +2248,11 @@ window.W21_2026 = {
               "Member state divisions risk undermining a unified EU stance",
               "Germany and Spain have resisted tougher measures, while Beijing has threatened retaliation over EU laws limiting Chinese firms' access to the single market."
             ]
+          ],
+          "tags": [
+            "eu-cn",
+            "de-cn",
+            "trade"
           ]
         },
         {
@@ -1713,6 +2269,12 @@ window.W21_2026 = {
               "UK calls for EU-UK steel alliance as Starmer moves to nationalise British Steel",
               "British trade minister Bryant sought coordinated market access with Brussels while the UK government separately legislated to take over the Chinese-owned steelmaker."
             ]
+          ],
+          "tags": [
+            "eu-cn",
+            "uk-cn",
+            "trade",
+            "industrial-policy"
           ]
         },
         {
@@ -1729,6 +2291,13 @@ window.W21_2026 = {
               "European automakers lobbied for relief citing weeks until stock depletion",
               "Producers said supply chain diversification was incomplete; the temporary exemption is expected to last several months to allow alternative sourcing."
             ]
+          ],
+          "tags": [
+            "ru-cn",
+            "semcon",
+            "auto",
+            "sanctions",
+            "supply-chain"
           ]
         },
         {
@@ -1745,6 +2314,10 @@ window.W21_2026 = {
               "CSIS warns 2027 deadline may outpace supply chain build-out",
               "The think tank found that significantly more non-Chinese magnet capacity must come online within eight months for compliance to be feasible."
             ]
+          ],
+          "tags": [
+            "rare-earths",
+            "supply-chain"
           ]
         },
         {
@@ -1761,6 +2334,10 @@ window.W21_2026 = {
               "The order is Canberra's second Northern Minerals divestment in two years",
               "Australia sued a Chinese company for breaching a 2024 order and won the case last year."
             ]
+          ],
+          "tags": [
+            "hk",
+            "rare-earths"
           ]
         },
         {
@@ -1777,6 +2354,12 @@ window.W21_2026 = {
               "Supreme Court tariff ruling pushed the US toward conventional trade probes",
               "After the court struck down Trump's global tariffs in February, the administration shifted to country-specific investigations authorising targeted measures."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "trade",
+            "industrial-policy",
+            "diplomacy"
           ]
         },
         {
@@ -1797,6 +2380,14 @@ window.W21_2026 = {
               "New bilateral boards exclude contested technology and security issues by design",
               "The author argues the mechanisms are built for commercial disputes only, keeping semiconductors, AI, export controls, and Taiwan outside the room."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "twn",
+            "semcon",
+            "ai",
+            "trade",
+            "export-controls"
           ]
         },
         {
@@ -1817,6 +2408,13 @@ window.W21_2026 = {
               "Analysts warn a prolonged hold would erode US deterrence credibility",
               "A Foundation for Defense of Democracies analyst said a delay shaped by Beijing's objections would raise \"much more serious concerns about the reliability of U.S. deterrence.\""
             ]
+          ],
+          "tags": [
+            "twn",
+            "semcon",
+            "nuclear",
+            "diplomacy",
+            "propaganda"
           ]
         },
         {
@@ -1833,6 +2431,13 @@ window.W21_2026 = {
               "Trump asserted Xi offered Iran mediation; Chinese state media omitted the claim",
               "The US president said Xi called for reopening the Strait of Hormuz and volunteered to help broker a conflict resolution, an exchange Beijing's official coverage did not report."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "twn",
+            "mid-east",
+            "diplomacy",
+            "propaganda"
           ]
         },
         {
@@ -1849,6 +2454,11 @@ window.W21_2026 = {
               "Trump confirmed discussing Taiwan arms sales with Xi, violating a longstanding US prohibition",
               "Consulting Beijing on such transfers breaks established US policy, and withholding the sale would additionally breach the 1979 Taiwan Relations Act."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "twn",
+            "diplomacy"
           ]
         },
         {
@@ -1865,6 +2475,12 @@ window.W21_2026 = {
               "US trade representative said there was \"no change\" in Taiwan policy",
               "Greer's ABC appearance appeared to walk back Trump's earlier disclosure that he had discussed the arms package with Xi Jinping in \"great detail.\""
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "twn",
+            "mil-tech",
+            "trade"
           ]
         },
         {
@@ -1881,6 +2497,10 @@ window.W21_2026 = {
               "Hegseth's Beijing visit ended eight-year US defence chief absence from China",
               "He was also the first American defence secretary to accompany a sitting president on a China state visit since 1970s normalisation, SCMP reports."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "diplomacy"
           ]
         },
         {
@@ -1897,6 +2517,11 @@ window.W21_2026 = {
               "Rubio reframed his China stance from \"near-peer adversary\" to cooperation-seeking diplomat",
               "As secretary of state, he replaced human rights emphasis with strategic stability language, while the State Department has continued imposing China-related sanctions in practice."
             ]
+          ],
+          "tags": [
+            "sanctions",
+            "diplomacy",
+            "human-rights"
           ]
         },
         {
@@ -1913,6 +2538,9 @@ window.W21_2026 = {
               "New \"constructive strategic stability\" language signals a holding pattern",
               "According to Baucus, the shared diplomatic framing points to conflict-avoidance, not the start of a durable reset."
             ]
+          ],
+          "tags": [
+            "diplomacy"
           ]
         },
         {
@@ -1929,6 +2557,12 @@ window.W21_2026 = {
               "Beijing condemned US criminal charges against Raul Castro",
               "China's foreign ministry urged Washington to stop \"brandishing the sanctions stick\" and reaffirmed support for Cuban sovereignty and non-interference."
             ]
+          ],
+          "tags": [
+            "ru-cn",
+            "mil-tech",
+            "security",
+            "sanctions"
           ]
         },
         {
@@ -1949,6 +2583,12 @@ window.W21_2026 = {
               "Authors urge G7 and IMF to jointly press Beijing for currency appreciation",
               "With US tariffs risk redirecting Chinese export surpluses toward Europe, the piece argues shared interests now outweigh European concerns about Beijing retaliation."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "macro",
+            "trade",
+            "diplomacy"
           ]
         },
         {
@@ -1965,6 +2605,9 @@ window.W21_2026 = {
               "Washington reportedly pressed Buenos Aires to wind down the China swap",
               "The repayment covers only the activated portion; the full $19 billion framework agreement signed in 2009 and renewed in 2023 remains in place."
             ]
+          ],
+          "tags": [
+            "latam"
           ]
         },
         {
@@ -1985,6 +2628,12 @@ window.W21_2026 = {
               "Multiple Japanese delegations are queued for China through June",
               "Nishimura visited Beijing on 2 May, METI Minister Akazawa is headed to Suzhou, and a trade association delegation plans senior-official meetings."
             ]
+          ],
+          "tags": [
+            "jp-cn",
+            "twn",
+            "trade",
+            "pla"
           ]
         },
         {
@@ -2001,6 +2650,11 @@ window.W21_2026 = {
               "Chinese warships now operating beyond Japan's first island chain",
               "Japanese defence assessments and an ICG analyst cited expanded PLA Navy activity east of Okinawa as the primary driver of the deployment decision."
             ]
+          ],
+          "tags": [
+            "jp-cn",
+            "mil-tech",
+            "pla"
           ]
         },
         {
@@ -2021,6 +2675,13 @@ window.W21_2026 = {
               "China's MFA rejected Marcos' geographic rationale for Taiwan involvement",
               "Spokesman Guo Jiakun said proximity does not justify interference in \"another country's internal and sovereign affairs.\""
             ]
+          ],
+          "tags": [
+            "jp-cn",
+            "twn",
+            "sea",
+            "trade",
+            "pla"
           ]
         },
         {
@@ -2037,6 +2698,10 @@ window.W21_2026 = {
               "Woman's case linked to Chinese polar-orbit satellite interception infrastructure",
               "PST said a Norwegian-registered company served as suspected cover to establish a satellite receiving station, with further suspects sought."
             ]
+          ],
+          "tags": [
+            "security",
+            "espionage"
           ]
         },
         {
@@ -2053,6 +2718,11 @@ window.W21_2026 = {
               "Remarks followed Trump-Xi summit doubts about US backing",
               "Trump said after meeting Xi he did not want Taiwan emboldened toward independence due to US support, and had yet to decide on further arms sales."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "twn",
+            "diplomacy"
           ]
         },
         {
@@ -2093,6 +2763,10 @@ window.W21_2026 = {
               "Researchers argue domestic manufacturing does not address core router security risks",
               "Cybersecurity experts quoted say outdated firmware and default passwords make US-made routers equally exploitable as Chinese-made devices."
             ]
+          ],
+          "tags": [
+            "us-cn",
+            "trade"
           ]
         },
         {
@@ -2113,6 +2787,11 @@ window.W21_2026 = {
               "China's military-civil fusion contrasts with the unresolved US public-private AI governance split",
               "The article argues the CCP's command over tech firms gives Beijing a structural advantage, while the 2025-26 Anthropic-Pentagon dispute exposed an unresolved question of who governs American AI."
             ]
+          ],
+          "tags": [
+            "ai",
+            "ideology",
+            "investment"
           ]
         }
       ]
