@@ -13,255 +13,167 @@ window.W22_2026_WOCHENBERICHT = {
       "label": "Prominente Zitate und Positionen zu China-bezogenen Angelegenheiten",
       "items": [
         {
-          "lead": "Katherina Reiche",
-          "text": "äußerte am Mittwoch in Peking bei ihrem Antrittsbesuch die Vision einer verstärkten Zusammenarbeit: „Wenn wir in diesem Geist zusammen erst nach dem Mond und später nach den Sternen greifen, dann wären viele Dinge möglich.\"",
+          "lead": "Mao Ning",
+          "text": "Forderte deutsche Abgeordnete auf, „sich an das Ein-China-Prinzip zu halten und damit aufzuhören, die falschen Signale an Taiwans Unabhängigkeitskräfte zu senden\".",
           "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "Frankfurter Allgemeine Zeitung",
-            "date": "2026-05-28",
-            "title": "Reiche betont in China die Gemeinsamkeiten"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Katherina Reiche",
-          "text": "forderte am Mittwoch in Peking einen verlässlichen Zugang zu strategischen Rohstoffen und betonte: „Die Bundesregierung artikuliert nun unsere Interessen, ruhig und lösungsorientiert.\"",
-          "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
-            "date": "2026-05-27",
-            "title": "Ministerin besucht Peking; Reiche mahnt in China fairen Wettbewerb an"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Stéphane Séjourné",
-          "text": "(EU-Industriekommissar) warnte am Freitag in einem Interview vor einer Deindustrialisierung Europas und sagte: „Europa hat im Grunde keine Wahl. Wenn Brüssel die Industrie nicht schützt, zerbricht es wieder ins Nationale.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-05-29",
-            "title": "WIRTSCHAFT; „Wenn Europa die Industrie nicht schützt, zerbricht es\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Maros Sefcovic",
-          "text": "(EU-Handelskommissar) drängte laut Bericht vom Mittwoch in Brüssel auf sektorweite Schutzmaßnahmen und betonte die Notwendigkeit härterer Instrumente gegen chinesische Überkapazitäten.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-05-27",
-            "title": "China-Schock; Europa rüstet sich für den Handelskrieg mit China"
+            "outlet": "DIE ZEIT",
+            "outletDisplay": "zeit.de",
+            "date": "2026-05-25",
+            "title": "China kritisiert Reise von Bundestagsdelegation nach Taiwan"
           },
           "kind": "quote"
         },
         {
           "lead": "Till Steffen",
-          "text": "(Bundestagsabgeordneter, Grüne) betonte am Dienstag, den 26. Mai 2026, in Taipeh die Bedeutung der Partnerschaft mit dem Inselstaat: „Taiwan ist ein sehr wichtiger Partner für Deutschland. Wir teilen viele gemeinsame Werte.\"",
+          "text": "Wies Pekings Einmischungsforderungen zurück: „Ich würde China empfehlen, sich nicht einzumischen. Es sind langjährige und stabile Beziehungen, die wir haben. Die pflegen wir und die bauen wir aus.\"",
           "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-05-26",
-            "title": "Bundestagsdelegation trifft Taiwans Präsidenten"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Lars Klingbeil",
-          "text": "beklagte am Donnerstag in Berlin die Langsamkeit europäischer Entscheidungsprozesse und forderte ein Ende des „Schneckentempos\" in der EU, um gegen globale Rivalen zu bestehen.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-05-28",
-            "title": "Europa; Klingbeil beklagt „Schneckentempo\" in EU und will schnell Fortschritte"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Wang Wentao",
-          "text": "(Handelsminister Chinas) warnte die EU am Mittwoch in Peking vor der Einführung neuer Schutzinstrumente und drohte mit weitreichenden Gegenmaßnahmen.",
-          "source": {
-            "outlet": "Süddeutsche Zeitung",
-            "outletDisplay": "Süddeutsche Zeitung",
-            "date": "2026-05-29",
-            "title": "Planlos in Peking"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Mao Ning",
-          "text": "(Sprecherin des chinesischen Außenministeriums) kritisierte am Montag, den 25. Mai 2026, in Peking den Besuch einer deutschen Delegation in Taiwan und erklärte, dass dieser „die falschen Signale\" sende.",
-          "source": {
-            "outlet": "DIE ZEIT",
-            "outletDisplay": "zeit.de",
+            "outlet": "WirtschaftsWoche",
+            "outletDisplay": "wiwo.de",
             "date": "2026-05-25",
             "title": "Taiwan; China kritisiert Reise von Bundestagsdelegation nach Taiwan"
           },
           "kind": "quote"
         },
         {
-          "lead": "Gabriel Felbermayr",
-          "text": "(Wirtschaftsweiser) lobte am Donnerstag die Bestrebungen für neue Zollinstrumente: „Wenn das im Rahmen des WTO-Rechts passiert, sollte man das machen.\"",
+          "lead": "Katherina Reiche",
+          "text": "Würdigte Chinas industriellen Aufstieg bei ihrem Peking-Besuch ausdrücklich – „Die Geschwindigkeit, mit der dieses Land die industrielle Transformation, industrielle Modernisierung und technologische Weiterentwicklung meistert, verdient Anerkennung und Respekt\" – forderte aber zugleich Reziprozität und fairen Wettbewerb ein.",
           "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
             "date": "2026-05-28",
-            "title": "CHINA-SCHOCK; Europa rüstet sich für den Handelskrieg mit China"
+            "title": "Plötzlich oben"
           },
           "kind": "quote"
         },
         {
-          "lead": "Alexander Gorski",
-          "text": "(Infineon-Produktionsvorstand) betonte am Mittwoch das Tempo deutscher Investitionen: „Das zeigt, dass wir in Deutschland wichtige Investitionen erfolgreich und schnell umsetzen können.\"",
+          "lead": "Wang Wentao",
+          "text": "Wies im Gespräch mit Reiche EU-Schutzmaßnahmen zurück und erklärte, „protektionistische Handelsbeschränkungen\" der EU hätten „die Zusammenarbeit zwischen chinesischen und europäischen Unternehmen erheblich beeinträchtigt\".",
           "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
             "date": "2026-05-27",
-            "title": "HALBLEITER; Infineon will erst mal keine neuen Fabriken bauen"
+            "title": "Reiche betont in China die Gemeinsamkeiten"
           },
           "kind": "quote"
         },
         {
-          "lead": "Rainer Seele",
-          "text": "(Top-Chemiemanager, Adnoc) warnte am Mittwoch vor dem industriellen Abstieg: „Bei der Basis-Chemie sehe ich schwarz für Europa.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-05-27",
-            "title": "RAINER SEELE; „Bei der Basis-Chemie sehe ich schwarz für Europa\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Jens Eskelund",
-          "text": "(Präsident EU-Handelskammer in China) stellte am Mittwoch in Peking fest, dass Firmen abhängiger von China würden: „Wir sehen nicht, dass Derisking ein Thema wird.\"",
+          "lead": "Oliver Oehms",
+          "text": "„Der extreme Preisdruck setzt deutschen Unternehmen in China zu\", während die angekündigten Maßnahmen Pekings für ausgewogenere Märkte bislang eher Rhetorik blieben.",
           "source": {
             "outlet": "WirtschaftsWoche",
             "outletDisplay": "wiwo.de",
-            "date": "2026-05-27",
-            "title": "Ministerin besucht Peking; Reiche mahnt in China fairen Wettbewerb an"
+            "date": "2026-05-25",
+            "title": "Deutsche Firmen stellen Forderungen an Reiches China-Besuch"
           },
           "kind": "quote"
         },
         {
-          "lead": "Michael Hüther",
-          "text": "(IW-Direktor) forderte am Mittwoch, dass Europa seinen Markt offensiv als „Instrument zur Erreichung geopolitischer Ziele\" einsetzen müsse.",
+          "lead": "Stéphane Séjourné",
+          "text": "Warnte vor den Folgen chinesischer Überkapazitäten und rief zu einem Kurswechsel auf: „Europa hat im Grunde keine Wahl\" – wenn Brüssel die Industrie nicht schütze, „zerbricht es wieder ins Nationale\"; Europa verliere täglich rund eine Milliarde Euro im Handel mit China.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "handelsblatt.com",
+            "date": "2026-05-28",
+            "title": "'Wenn Europa die Industrie nicht schützt, zerbricht es'"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Udo Dinglreiter",
+          "text": "Warnte, chinesische EU-Investitionen flössen überwiegend nicht nach Deutschland: „So entstehen die Arbeitsplätze nicht hier, dafür aber neue Wettbewerber mit günstigeren Konditionen und Marktzugang.\"",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "handelsblatt.com",
+            "date": "2026-05-26",
+            "title": "Metallindustrie-Präsident warnt vor 'Spirale nach unten'"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Pete Hegseth",
+          "text": "Warnte beim Shangri-La-Dialog vor chinesischer Dominanz im Indopazifik – Ziel der USA sei eine Ordnung, in der „kein Staat, einschließlich China, seine Hegemonie durchsetzen kann\" –, schlug gegenüber Peking aber einen ungewohnt versöhnlichen Ton an: die bilateralen Beziehungen seien „besser als seit vielen Jahren\".",
+          "source": {
+            "outlet": "DIE ZEIT",
+            "outletDisplay": "zeit.de",
+            "date": "2026-05-30",
+            "title": "US-Verteidigungsminister warnt vor Hegemonie Chinas"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Donald Trump",
+          "text": "Begründete den überraschenden Stopp eines KI-Regulierungsdekrets mit dem strategischen Vorsprung vor China: „Wir liegen vor China, wir liegen vor allen anderen, und ich möchte nichts tun, was diesen Vorsprung gefährden könnte.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
-            "date": "2026-05-27",
-            "title": "HOMO OECONOMICUS; Europa braucht eine flexible Handelspolitik"
+            "date": "2026-05-26",
+            "title": "Kritik an KI wächst – Trump zieht Regulierung dennoch zurück"
           },
           "kind": "quote"
         },
         {
-          "lead": "Sander Tordoir",
-          "text": "(Ökonom, CER) warnte am Freitag vor Pekings Dominanz: „China hat schon einen großen Teil der Industrie zum Mittagessen gegessen und bereitet sich auf das Abendessen vor.\"",
+          "lead": "Frederic Spohr",
+          "text": "Kritisierte das Scheitern der deutschen Diversifizierungsstrategie: „Ausgerechnet in kritischen Bereichen diversifiziert Deutschland nicht, sondern wird noch abhängiger und damit noch verletzlicher\" – Chinas Anteile bei Lithiumbatterien, Solarpanelen und Antibiotika hätten trotz gegenteiliger Bundesstrategie weiter zugenommen.",
           "source": {
             "outlet": "Die Welt",
-            "outletDisplay": "Die Welt",
-            "date": "2026-05-29",
-            "title": "Deutscher Wirtschaft droht ein neuer China-Schock"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Thorsten Benner",
-          "text": "(Direktor GPPi) forderte am Donnerstag, den 28. Mai 2026, in seiner Kolumne: „Europa braucht eine China-Schutzmauer!\" zum Schutz der Kernindustrien.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-05-28",
-            "title": "GEOECONOMICS; Europa braucht eine China-Schutzmauer!"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Kai-Uwe Schröder",
-          "text": "(RWTH-Professor) verteidigte am Sonntag, den 24. Mai 2026, die wissenschaftliche Kooperation: „Der Besuch einer Vorlesung, die jeder Mensch auf der Welt runterladen kann, würde ich nicht als Spionage bezeichnen.\"",
-          "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
-            "date": "2026-05-24",
-            "title": "Spionage; „Es sind keine kritischen Informationen nach China geflossen\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Thomas Hartauer",
-          "text": "(Vorstand CAV Partners) warnte am Montag, den 25. Mai 2026, in der taz vor dem „Rasenmäher\" der Wirtschaftsministerin bei den Genehmigungen für Energieinvestitionen.",
-          "source": {
-            "outlet": "taz",
-            "outletDisplay": "taz",
+            "outletDisplay": "welt.de",
             "date": "2026-05-26",
-            "title": "„Bayern hat die kürzesten Genehmigungszeiten\""
+            "title": "Deutschland bei wichtigen Gütern immer abhängiger von China"
           },
           "kind": "quote"
         },
         {
-          "lead": "Milan Nedeljkovic",
-          "text": "(BMW-Vorstand) wurde am Freitag dahingehend zitiert, dass er entschlossen „in die Schlacht zieht\" gegen die wachsende Krise im China-Geschäft.",
-          "source": {
-            "outlet": "Spiegel",
-            "outletDisplay": "spiegel.de",
-            "date": "2026-05-29",
-            "title": "Podcast »manager magazin INSIDE«"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Stefan Schulte",
-          "text": "(Fraport-Vorstandsvorsitzender) beruhigte am Mittwoch, den 27. Mai 2026, im Interview, dass trotz der Hormus-Blockade „kein Urlauber sich Sorgen um seinen Flug machen müsse\". Er stellte anerkennend fest: „Länder wie Indien oder China gehen sehr professionell durch Anlegen von Reserven mit der Situation um.\"",
+          "lead": "Dan Jorgensen",
+          "text": "Rief angesichts Chinas Elektrifizierungsvorsprungs zum Handeln auf: „In Europa elektrifizieren wir im Vergleich zu China viel zu langsam [...] Ich will hier wirklich Alarm schlagen.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-27",
-            "title": "Fraport-Chef; „Wir werden in den nächsten Monaten genügend Kerosin haben\""
+            "title": "EU will die Wirtschaft auf Betrieb mit Strom umstellen"
           },
           "kind": "quote"
         },
         {
-          "lead": "Bert Rürup",
-          "text": "(Chefökonom Handelsblatt) konstatierte am Dienstag, den 26. Mai 2026, die historische Rolle Pekings: „Deutschlands Industrie profitierte von Chinas WTO-Beitritt.\"",
+          "lead": "Marc Henrichmann",
+          "text": "Sah durch Huawei-Technik in der geplanten Drohnenabwehr eine „sicherheitspolitische Kernfrage\" entstehen: „Wenn aber Teile künftiger Drohnenabwehr über zivile Mobilfunkinfrastruktur laufen sollen, dann ist die Frage nach den verbauten Technologien eine valide sicherheitspolitische Kernfrage.\"",
           "source": {
             "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-05-27",
-            "title": "PODCAST; Verliert Deutschland an Substanz?"
+            "outletDisplay": "handelsblatt.com",
+            "date": "2026-05-25",
+            "title": "Politiker warnen vor Huawei-Technik bei deutscher Drohnenabwehr"
           },
           "kind": "quote"
         },
         {
-          "lead": "Rob Smith",
-          "text": "(Kion-Chef) bekannte sich am Donnerstag zu seinem Investor: „Unterstützung kommt vom Hauptaktionär aus China. Dort dürften am Ende viele Kion-Jobs landen.\"",
+          "lead": "Zhu Shaodong",
+          "text": "Kündigte offensive Expansion des chinesischen Autokonzerns nach Deutschland an: „Jetzt ist der richtige Zeitpunkt für uns, nach Deutschland zu kommen\" – die chinesische Autoindustrie sei bei Elektroantrieb und autonomem Fahren derzeit „weltweit führend\".",
           "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
-            "date": "2026-05-28",
-            "title": "Rob Smith; Er kämpfte im Irak – nun baut er Kion mit Nvidia um"
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-05-26",
+            "title": "Keine Marke wächst in Europa schneller"
           },
           "kind": "quote"
         },
         {
-          "lead": "Noel Lorenz",
-          "text": "(KI-Gründer) mahnte am Donnerstag in Brüssel zu moralischen Leitplanken: „Wenn die Modelle ohne Guardrails intelligenter werden, geben wir auch schlechten Akteuren Zugriff auf enorme Fähigkeiten.\"",
+          "lead": "Wolfgang Große Entrup",
+          "text": "Das moderate Wachstum sei kein Zeichen der Stärke, sondern Ausdruck von „geopolitischem Hamstern\" – und: „Wir sehen keine Spur von Aufbruch.\"",
           "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-05-28",
-            "title": "NOEL LORENZ, ANNIKA VON MUTIUS; „Das Wettrennen wird immer aggressiver\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Martin Benninghoff",
-          "text": "(China-Korrespondent) berichtete am Freitag von seinem Alltag unter Beobachtung: „Sobald die erfahren, dass ich Journalist bin, gehen die Schotten dicht.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
+            "outlet": "DIE ZEIT",
+            "outletDisplay": "zeit.de",
             "date": "2026-05-29",
-            "title": "PODCAST; Neue Debatte über China"
+            "title": "Angst vor Engpässen beschert deutscher Chemieindustrie mehr Aufträge"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Michael Hüther & Bert Rürup",
+          "text": "Diagnostizierten im Podcast einen „zweiten Chinaschock\", der Deutschland „aufgrund seines großen Technologiesektors deutlich härter als der erste\" treffe; schätzungsweise seien bereits rund 400.000 Industriearbeitsplätze verloren gegangen, verstärkt durch massive staatliche Subventionen chinesischer Anbieter.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt-Podcast",
+            "date": "2026-05-27",
+            "title": "Verliert Deutschland an Substanz?"
           },
           "kind": "quote"
         }
@@ -519,7 +431,7 @@ window.W22_2026_WOCHENBERICHT = {
               "outlet": "FAZ",
               "outletDisplay": "Frankfurter Allgemeine Zeitung",
               "date": "2026-05-28",
-              "title": "Ist „Made in Germany\" noch zu retten?"
+              "title": "Ist \"Made in Germany\" noch zu retten?"
             }
           ],
           "kind": "theme"

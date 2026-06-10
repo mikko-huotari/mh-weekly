@@ -13,123 +13,167 @@ window.W23_2026_WOCHENBERICHT = {
       "label": "Prominente Zitate und Positionen zu China-bezogenen Angelegenheiten",
       "items": [
         {
-          "lead": "Jane Fraser",
-          "text": "(CEO, Citigroup) warnte sinngemäß, es wäre ein Verlust, wenn Europa seine Stärken bei Talenten und Ingenieurskunst nicht nutze, während die Welt einen stabilen Anker zwischen den USA und China suche.",
+          "lead": "Richard Saynor",
+          "text": "Warnt eindringlich vor der gefährlichen China-Abhängigkeit bei Antibiotika; Kundl sei das „letzte vollintegrierte Werk für Antibiotika in Europa\", während chinesische Konkurrenz die Preise auf Peanuts-Niveau drücke und Europas pharmazeutische Versorgungssicherheit untergrabe.",
           "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-06-03",
-            "title": "Jane Fraser; In den USA wächst gerade eine gewisse Skepsis gegenüber KI"
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-06-01",
+            "title": "„Bis zum bitteren Ende\""
           },
           "kind": "quote"
         },
         {
-          "lead": "Henna Virkkunen",
-          "text": "(EU-Digitalkommissarin) zeigte sich überzeugt, Europa habe „alles, was es braucht, um eine führende Rolle zu spielen\" – mit Blick auf Cloud-Technologien und KI-Chips und mehr Unabhängigkeit von US-Anbietern.",
-          "source": {
-            "outlet": "taz",
-            "outletDisplay": "taz",
-            "date": "2026-06-04",
-            "title": "Europa macht sich schlau"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Veronika Grimm",
-          "text": "(Wirtschaftsweise) warnte, kluge Köpfe seien „die zentrale Ressource für technologischen Fortschritt\"; im Wettstreit mit China drohe der Westen seinen Talentpool zu verspielen.",
+          "lead": "Pete Hegseth",
+          "text": "Sprach beim Shangri-La-Dialog von „wahrlich historischen\" US-chinesischen Gesprächen in Peking und einer „konstruktiven, auf Fairness und Reziprozität basierenden Beziehung strategischer Stabilität\" – und brach mit jahrzehntelanger Tradition, indem er Taiwan mit keinem einzigen Wort erwähnte.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
-            "date": "2026-06-03",
-            "title": "Der Westen droht im Kampf mit China seinen Talentpool zu verspielen"
+            "date": "2026-06-01",
+            "title": "„Kein Wort zu Taiwan\""
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Katharina Reiche",
+          "text": "Plädiert nach ihrer China-Reise trotz wachsender Abhängigkeitsdebatte für engere Kooperation mit Peking und wirbt um chinesische Investoren und Fachkräfte für Deutschland.",
+          "source": {
+            "outlet": "Welt am Sonntag",
+            "outletDisplay": "Welt am Sonntag",
+            "date": "2026-05-31",
+            "title": "„Noch mehr China\""
           },
           "kind": "quote"
         },
         {
           "lead": "Karlheinz Wex",
-          "text": "(CEO, Plansee Group) wies auf die Rohstoffabhängigkeit hin: China beherrsche bei Wolfram Abbau und Verarbeitung mit über 80 Prozent Marktanteil, und seit der Exportbeschränkung „trocknet der westliche Markt aus\".",
+          "text": "China beherrsche mit über 80 Prozent Marktanteil Abbau und Verarbeitung von Wolfram, habe seit einem Jahr den Export eingeschränkt, „der westliche Markt trocknet aus\" – bei Preissteigerungen von bis zu 600 Prozent und ohne Aussicht auf rasche Diversifizierung.",
           "source": {
             "outlet": "taz",
             "outletDisplay": "taz",
             "date": "2026-06-02",
-            "title": "Der westliche Markt trocknet aus"
+            "title": "„Der westliche Markt trocknet aus\""
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "OECD",
+          "text": "Chinesische Industrieunternehmen erhielten zwischen 2005 und 2024 im Verhältnis zum Umsatz drei bis acht Mal mehr Subventionen als ihre OECD-Wettbewerber; rund 60 Prozent der globalen Marktanteilsgewinne chinesischer Firmen seien auf staatliche Förderung zurückzuführen – und die eigentlichen Unterschiede dürften noch größer sein.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-06-01",
+            "title": "„Chinas Industrie kassiert mehr Subventionen als Konkurrenz\""
           },
           "kind": "quote"
         },
         {
           "lead": "Oliver Koppel",
-          "text": "(Ökonom, Institut der deutschen Wirtschaft) warnte vor dem Know-how-Abfluss: China habe „sehr viele wertvolle Patente deutscher Unternehmen übernommen\".",
+          "text": "Über 11.300 deutsche Patente seien in chinesischen Besitz übergegangen; China nutze Übernahmen im Westen „geostrategisch\", während der eigene Markt für ausländische Investoren durch Negativlisten, Sicherheitsüberprüfungen und Protektionismus verschlossen bleibe – „Das ist ein Ungleichgewicht\".",
           "source": {
             "outlet": "Spiegel",
-            "outletDisplay": "Spiegel Online",
-            "date": "2026-06-02",
-            "title": "Technologietransfer; China hat Tausende deutscher Patente übernommen"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Zhu Shaodong",
-          "text": "(Europa-Chef, Chery) gab sich siegesgewiss: „Aktuell führen wir Chinesen die globale Autoindustrie an\" – mit einem Vorsprung bei Elektroantrieben und autonomen Fahrfunktionen.",
-          "source": {
-            "outlet": "Die Welt",
-            "outletDisplay": "Die Welt",
+            "outletDisplay": "Spiegel Plus",
             "date": "2026-06-04",
-            "title": "Wir Chinesen führen die globale Autoindustrie an"
+            "title": "„Wir lassen unsere Kronjuwelen aufkaufen\""
           },
           "kind": "quote"
         },
         {
-          "lead": "Lars Bialkowski",
-          "text": "(Manager, Denza/BYD) erklärte, mit der Schnellladetechnik sei Denza dem Wettbewerb „sechs Jahre voraus\".",
+          "lead": "Ingo Speich",
+          "text": "Warnt davor, westliche Werke für chinesische Hersteller zu öffnen: „Kurzfristig mag das die Überkapazitätenproblematik hiesiger Hersteller lindern, langfristig holt man sich aber die Konkurrenz in die eigenen Werke. Für die Industrie kommt das einem trojanischen Pferd gleich.\"",
           "source": {
-            "outlet": "Die Welt",
-            "outletDisplay": "Die Welt",
-            "date": "2026-06-05",
-            "title": "Mit Schnellladetechnik sechs Jahre voraus"
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-06-03",
+            "title": "„Chinesische Marken nutzen Fabrikprobleme in Europa\""
           },
           "kind": "quote"
         },
         {
-          "lead": "Helmut Ahr",
-          "text": "(CEO, Horváth) sah in „Industrial AI\" eine Chance für europäische Unternehmen, im Rennen mit den USA und China nicht zurückzufallen.",
+          "lead": "Markus Wambach",
+          "text": "China führe beim KI-Einsatz in fertigungsbezogenen Prozessen mit 71 Prozent weltweit, die DACH-Region bilde „das eindeutige Schlusslicht\"; europäische Unternehmen müssten „schnellstmöglich\" flexibel und datenbasiert agieren, sonst gerate die Wettbewerbsfähigkeit in Gefahr.",
           "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
             "date": "2026-06-01",
-            "title": "TECH-Konferenz; Europa forscht, Amerika skaliert"
+            "title": "„Keine Chance ohne KI\""
           },
           "kind": "quote"
         },
         {
           "lead": "Oliver Steil",
-          "text": "(CEO, Teamviewer) warnte davor, China bei industrieller KI zu unterschätzen: „China hat auch Daten und Prozesse\"; Europa dürfe nicht annehmen, es führe dort, wo Peking das Thema längst besetzt habe.",
+          "text": "Warnte beim TECH-Forum des Handelsblatts in Heilbronn davor, Europas KI-Chancen auf industrielle Prozesse zu verengen: „China hat auch Daten und Prozesse. Wir müssen aufpassen, dass wir nicht auf ein Thema springen und denken, wir sind da großartig, und jemand anderes hat es schon besetzt.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-06-01",
-            "title": "Morning Briefing; Vier Szenarien für Europas Zukunft"
+            "title": "Morning Briefing"
           },
           "kind": "quote"
         },
         {
-          "lead": "C.C. Wei",
-          "text": "(CEO, TSMC) zeigte sich zuversichtlich, der KI-Boom werde das Wachstum der kommenden Jahre massiv treiben, wovon die asiatische Halbleiterkette überproportional profitiere.",
+          "lead": "Lin Jian",
+          "text": "Bestätigte die Ausweisung von NYT-Korrespondentin Vivian Wang mit der Begründung, die Zeitung biete Taiwan eine Plattform zur Verbreitung „falscher Behauptungen über die Unabhängigkeit Taiwans\" und bezeichne „die Region Taiwan in China offen als Staat\".",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-06-01",
+            "title": "„China weist Autorin der 'New York Times' aus\""
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Henna Virkkunen",
+          "text": "Begründet zwei neue EU-Gesetzentwürfe zur digitalen Souveränität – Cloud/KI-Gesetz und Chips Act 2.0 – mit Europas Abhängigkeit von US-Cloud- und China-Chip-Anbietern: „Wir leben in einer Welt, in der Geopolitik und Technologie untrennbar miteinander verbunden sind.\"",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "FAZ/zeit.de",
+            "date": "2026-06-03",
+            "title": "„Digitale Souveränität\""
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Ulrike Herrmann",
+          "text": "Argumentiert in ihrem Buch „Geld als Waffe\", China stecke wirtschaftlich in einer Sackgasse; Xi könnte versucht sein, Taiwan anzugreifen, „um von der ökonomischen Krise abzulenken\" – Europa müsse aufrüsten, um sich zu schützen.",
+          "source": {
+            "outlet": "taz",
+            "outletDisplay": "taz",
+            "date": "2026-06-01",
+            "title": "„Geld als Waffe\""
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Isabell Koske",
+          "text": "China mache deutschen Güterexporten auf den Weltmärkten „immer stärkere Konkurrenz\" – dieser Gegenwind bremse das deutsche Wachstum 2026 neben den Folgen des Irankriegs zusätzlich und sei ein strukturelles, kein konjunkturelles Problem.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
-            "date": "2026-06-04",
-            "title": "Künstliche Intelligenz; TSMC-Chef"
+            "date": "2026-06-03",
+            "title": "„OECD senkt Wachstumsprognose für Deutschland\""
           },
           "kind": "quote"
         },
         {
-          "lead": "To Lam",
-          "text": "(Staatschef Vietnams) warnte beim Shangri-La-Dialog vor eskalierenden Spannungen im Indopazifik: Wenn Vertrauen erodiere, könnten selbst defensive Maßnahmen als Provokation wahrgenommen werden.",
+          "lead": "Matthias Schepp",
+          "text": "„Der Westen sollte Russland, seinen großen Markt und seine Rohstoffe nicht auf Dauer Asien überlassen\"; allein China habe im ersten Quartal 2026 rund 1.400 neue Unternehmen in Russland gegründet.",
           "source": {
-            "outlet": "Shangri-La-Dialog",
-            "outletDisplay": "Shangri-La-Dialog",
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
             "date": "2026-05-31",
-            "title": "Keynote beim Shangri-La-Dialog"
+            "title": "„Deutsche nehmen an Putins Forum teil\""
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Zhu Shaodong",
+          "text": "„Jetzt ist der richtige Zeitpunkt für uns, nach Deutschland zu kommen\" – die chinesische Autoindustrie sei bei der technologischen Revolution in Elektroantrieben und autonomem Fahren weltweit führend, vom Rohstoffzugang über die Lieferkette bis zur Kostenstruktur.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-06-04",
+            "title": "„Keine Marke wächst in Europa schneller\""
           },
           "kind": "quote"
         }
@@ -148,7 +192,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "Spiegel",
             "outletDisplay": "Spiegel",
             "date": "2026-06-04",
-            "title": "Wir lassen unsere Kronjuwelen aufkaufen"
+            "title": "„Wir lassen unsere Kronjuwelen aufkaufen“"
           },
           "kind": "fact"
         },
@@ -159,7 +203,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-06-01",
-            "title": "Der zweite Schock heißt KI - diesmal fehlt das Netz"
+            "title": "„Der zweite Schock heißt KI - diesmal fehlt das Netz“"
           },
           "kind": "fact"
         },
@@ -170,7 +214,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "FAZ",
             "date": "2026-06-03",
-            "title": "KI-PAPERS: Das erste wirklich offene Weltklassemodell für Robotik"
+            "title": "„KI-PAPERS: Das erste wirklich offene Weltklassemodell für Robotik“"
           },
           "kind": "fact"
         },
@@ -181,7 +225,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-06-05",
-            "title": "GESUNDHEITSPOLITIK; Die Quittung kommt"
+            "title": "„GESUNDHEITSPOLITIK; Die Quittung kommt“"
           },
           "kind": "fact"
         },
@@ -192,7 +236,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
             "date": "2026-06-03",
-            "title": "So fährt der Preisbrecher aus China; MG4 EV Urban für sensationelle 12.990 Euro zu haben"
+            "title": "„So fährt der Preisbrecher aus China; MG4 EV Urban für sensationelle 12.990 Euro zu haben“"
           },
           "kind": "fact"
         },
@@ -203,7 +247,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
             "date": "2026-06-02",
-            "title": "Die glorreichen Sieben sind nun zwölf"
+            "title": "„Die glorreichen Sieben sind nun zwölf“"
           },
           "kind": "fact"
         },
@@ -214,7 +258,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-06-03",
-            "title": "SLOWAKEI; Antimon-Projekt steht auf der Kippe"
+            "title": "„SLOWAKEI; Antimon-Projekt steht auf der Kippe“"
           },
           "kind": "fact"
         },
@@ -225,7 +269,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
             "date": "2026-06-05",
-            "title": "Wie die EU unabhängig von US-Clouds werden soll"
+            "title": "„Wie die EU unabhängig von US-Clouds werden soll“"
           },
           "kind": "fact"
         },
@@ -236,7 +280,7 @@ window.W23_2026_WOCHENBERICHT = {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-06-01",
-            "title": "Autoindustrie; Chinesischer Autobauer SAIC plant erste EU-Fabrik in Spanien"
+            "title": "„Autoindustrie; Chinesischer Autobauer SAIC plant erste EU-Fabrik in Spanien“"
           },
           "kind": "fact"
         }
@@ -256,19 +300,19 @@ window.W23_2026_WOCHENBERICHT = {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-06-03",
-              "title": "UN-Sicherheitsrat; Wie es zu Deutschlands historischer Niederlage kam"
+              "title": "„UN-Sicherheitsrat; Wie es zu Deutschlands historischer Niederlage kam“"
             },
             {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-06-04",
-              "title": "Kommentar; UN-Schlappe entblößt Deutschlands Rolle als Scheinriese"
+              "title": "„Kommentar; UN-Schlappe entblößt Deutschlands Rolle als Scheinriese“"
             },
             {
               "outlet": "WirtschaftsWoche",
               "outletDisplay": "wiwo.de",
               "date": "2026-06-04",
-              "title": "Geopolitischer Einfluss; Warum Deutschland schon am Sicherheitsrat scheitert"
+              "title": "„Geopolitischer Einfluss; Warum Deutschland schon am Sicherheitsrat scheitert“"
             }
           ],
           "kind": "theme"
@@ -281,19 +325,19 @@ window.W23_2026_WOCHENBERICHT = {
               "outlet": "Handelsblatt",
               "outletDisplay": "Handelsblatt",
               "date": "2026-06-05",
-              "title": "GESUNDHEITSPOLITIK; Die Quittung kommt"
+              "title": "„GESUNDHEITSPOLITIK; Die Quittung kommt“"
             },
             {
               "outlet": "Handelsblatt",
               "outletDisplay": "Handelsblatt",
               "date": "2026-06-05",
-              "title": "STANDORT DEUTSCHLAND; Boehringer Ingelheim – 900 Millionen Euro wandern ab"
+              "title": "„STANDORT DEUTSCHLAND; Boehringer Ingelheim – 900 Millionen Euro wandern ab“"
             },
             {
               "outlet": "FAZ",
               "outletDisplay": "FAZ",
               "date": "2026-06-03",
-              "title": "Wegen GKV-Gesetz: Boehringer Ingelheim und Eli Lilly stoppen Millioneninvestitionen in Deutschland"
+              "title": "„Wegen GKV-Gesetz: Boehringer Ingelheim und Eli Lilly stoppen Millioneninvestitionen in Deutschland“"
             }
           ],
           "kind": "theme"
@@ -306,19 +350,19 @@ window.W23_2026_WOCHENBERICHT = {
               "outlet": "FAZ",
               "outletDisplay": "faz.net",
               "date": "2026-06-04",
-              "title": "SHANGRI-LA-DIALOG; Amerika an Asien: \"Aufrüsten!\""
+              "title": "„SHANGRI-LA-DIALOG; Amerika an Asien: \"Aufrüsten!\"“"
             },
             {
               "outlet": "Spiegel",
               "outletDisplay": "Spiegel",
               "date": "2026-05-30",
-              "title": "US-Verteidigungsminister in Südostasien: Warum sich Hegseth in Singapur plötzlich »maßvoll« und »wohlüberlegt« gibt"
+              "title": "„US-Verteidigungsminister in Südostasien: Warum sich Hegseth in Singapur plötzlich »maßvoll« und »wohlüberlegt« gibt“"
             },
             {
               "outlet": "FAZ",
               "outletDisplay": "FAZ",
               "date": "2026-05-31",
-              "title": "Hegseth in Singapur: Lob für Asien, Schelte für Europa"
+              "title": "„Hegseth in Singapur: Lob für Asien, Schelte für Europa“"
             }
           ],
           "kind": "theme"
@@ -331,19 +375,19 @@ window.W23_2026_WOCHENBERICHT = {
               "outlet": "Spiegel",
               "outletDisplay": "Spiegel Online",
               "date": "2026-06-02",
-              "title": "Technologietransfer; China hat Tausende deutscher Patente übernommen"
+              "title": "„Technologietransfer; China hat Tausende deutscher Patente übernommen“"
             },
             {
               "outlet": "Spiegel",
               "outletDisplay": "Spiegel Plus",
               "date": "2026-06-04",
-              "title": "IW-Ökonom Oliver Koppel; „Wir werden zur verlängerten Innovationswerkbank Chinas\""
+              "title": "„IW-Ökonom Oliver Koppel; „Wir werden zur verlängerten Innovationswerkbank Chinas““"
             },
             {
               "outlet": "Spiegel",
               "outletDisplay": "Spiegel",
               "date": "2026-06-04",
-              "title": "Wir lassen unsere Kronjuwelen aufkaufen"
+              "title": "„Wir lassen unsere Kronjuwelen aufkaufen“"
             }
           ],
           "kind": "theme"
@@ -356,19 +400,19 @@ window.W23_2026_WOCHENBERICHT = {
               "outlet": "DIE ZEIT",
               "outletDisplay": "zeit.de",
               "date": "2026-06-03",
-              "title": "Souveränität der EU; So will die EU Donald Trumps »Kill-Switch« entkommen"
+              "title": "„Souveränität der EU; So will die EU Donald Trumps »Kill-Switch« entkommen“"
             },
             {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-06-02",
-              "title": "Halbleiter; Merz setzt auf digitale Souveränität mit eigenen Rechenzentren"
+              "title": "„Halbleiter; Merz setzt auf digitale Souveränität mit eigenen Rechenzentren“"
             },
             {
               "outlet": "DIE ZEIT",
               "outletDisplay": "zeit.de",
               "date": "2026-06-03",
-              "title": "Digitale Infrastruktur; EU will unabhängiger von USA und China werden"
+              "title": "„Digitale Infrastruktur; EU will unabhängiger von USA und China werden“"
             }
           ],
           "kind": "theme"
