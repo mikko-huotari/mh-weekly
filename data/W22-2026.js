@@ -101,19 +101,34 @@ window.W22_2026 = {
         "intro": "",
         "items": [
           {
-            "note": "[gov.cn Order 834](https://www.gov.cn/zhengce/content/202604/content_7064837.htm)"
+            "note": "[gov.cn Order 834](https://www.gov.cn/zhengce/content/202604/content_7064837.htm)",
+            "tags": [
+              "diplomacy"
+            ]
           },
           {
-            "note": "[gov.cn Order 835](https://www.gov.cn/zhengce/content/202604/content_7065398.htm)"
+            "note": "[gov.cn Order 835](https://www.gov.cn/zhengce/content/202604/content_7065398.htm)",
+            "tags": [
+              "diplomacy"
+            ]
           },
           {
-            "note": "[gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm)"
+            "note": "[gov.cn Order 837](https://www.gov.cn/zhengce/content/202606/content_7070755.htm)",
+            "tags": [
+              "diplomacy"
+            ]
           },
           {
-            "note": "[CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn)"
+            "note": "[CAS Bulletin study](https://bulletinofcas.researchcommons.org/cgi/viewcontent.cgi?article=3325&context=journal) (seems to be withdrawn)",
+            "tags": [
+              "diplomacy"
+            ]
           },
           {
-            "note": "[SCMP, archived](https://archive.is/oJrsa)"
+            "note": "[SCMP, archived](https://archive.is/oJrsa)",
+            "tags": [
+              "diplomacy"
+            ]
           }
         ]
       }
@@ -1981,7 +1996,10 @@ window.W22_2026 = {
               "Beijing officers proposed the Mao-era neighborhood monitoring system to a Pacific village, including fingerprint and palm print collection, according to the NYT report."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "diplomacy"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -2640,7 +2658,12 @@ window.W22_2026 = {
               "Xi states firms are the main body of innovation and central state-owned enterprises should be the \"main army,\" while insisting on a \"whole nation\" approach, the new-type whole-of-nation system, and balancing development with security against risks of technology loss of control, ethical breaches, and data misuse."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "energy",
+            "macro",
+            "pla"
+          ]
         },
         {
           "outlet": "Qiushi 求是",
@@ -2662,7 +2685,12 @@ window.W22_2026 = {
               "The text states original-innovation capacity remains relatively weak, certain core technologies are controlled by others, and top-tier talent is insufficient, calling for coordinated R&D attacks during the 15th Five-Year Plan toward the 2035 goal of building a science-and-technology power."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "ideology",
+            "pla"
+          ]
         }
       ]
     },
@@ -2692,7 +2720,12 @@ window.W22_2026 = {
               "The document states the meeting also released the \"China 'AI+' Energy Development Report 2026,\" with Director Wang Hongzhi stating the NEA will accelerate bidirectional empowerment of AI and energy to advance new-quality productive forces in the sector."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "energy",
+            "pla"
+          ]
         },
         {
           "outlet": "NDRC 国家发改委",
@@ -2710,7 +2743,13 @@ window.W22_2026 = {
               "The document states the NDRC will issue plans with year-by-year task breakdowns, operate an \"implementing, preparing, reserving, planning one batch\" rotation, and coordinate government funds and new-type policy financial instruments to support private investment."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "energy",
+            "investment",
+            "pla"
+          ]
         },
         {
           "outlet": "State Council 国务院",
@@ -2728,7 +2767,12 @@ window.W22_2026 = {
               "The document states that localities must provide fiscal subsidies to residence-permit-based enrollees at the same standard as for registered residents, with reimbursement ratios, deductibles, and covered drugs and treatments fully consistent with those for local residents."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "macro",
+            "ideology",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "CSRC + 7 agencies",
@@ -2750,7 +2794,10 @@ window.W22_2026 = {
               "It states the aim of \"resolutely shutting down illegal activities and prudently winding down existing positions,\" gradually reducing the scale of illegal domestic investor accounts and assets in phases."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "pla"
+          ]
         },
         {
           "outlet": "State Council 国务院",
@@ -2772,7 +2819,11 @@ window.W22_2026 = {
               "The document says more cities are to bring stably employed unregistered permanent residents into public rental housing protection, setting eligibility by length of employment and residence and degree of housing difficulty."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ideology",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "State Council 国务院",
@@ -2794,7 +2845,14 @@ window.W22_2026 = {
               "The joint Q&A from Justice, NDRC, and MOFCOM frames potential responses to \"discriminatory\" foreign measures as \"protective, defensive\" while empowering Beijing to act under the Anti-Foreign Sanctions Law."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ideology",
+            "trade",
+            "sanctions",
+            "investment",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "gov.cn",
@@ -2812,7 +2870,11 @@ window.W22_2026 = {
               "The guidelines are positioned as supporting the government's urbanization strategy, the State Council announcement states."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ideology",
+            "diplomacy"
+          ]
         }
       ]
     },
@@ -2838,7 +2900,10 @@ window.W22_2026 = {
               "Surveyed firms cited slower economic growth, fierce competition, and restricted market access as persistent obstacles to a meaningful recovery."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "Jiemian",
@@ -2856,7 +2921,12 @@ window.W22_2026 = {
               "These measures aim to reduce verified carbon intensity and preserve export competitiveness as the tariff regime takes effect in 2026."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "energy",
+            "climate",
+            "trade"
+          ]
         },
         {
           "outlet": "Jiemian",
@@ -2874,7 +2944,12 @@ window.W22_2026 = {
               "The new rules also cut tariff-free import quotas by 47%, according to Jiemian."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "trade",
+            "supply-chain",
+            "pla"
+          ]
         },
         {
           "outlet": "Caixin Global",
@@ -2892,7 +2967,11 @@ window.W22_2026 = {
               "The figure has sharpened debate over whether broad-based export tax relief remains justified as manufacturing competitiveness strengthens and trade tensions intensify."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "macro",
+            "trade"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -2914,7 +2993,11 @@ window.W22_2026 = {
               "Bank of China (Hong Kong) discouraged new investment account openings on May 26, while a second Chinese joint-stock bank suspended them outright."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "hk",
+            "investment"
+          ]
         },
         {
           "outlet": "Caixin Global",
@@ -2932,7 +3015,13 @@ window.W22_2026 = {
               "Ministers gathered amid geopolitical tensions weighing on global and regional growth, according to Caixin."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "macro",
+            "trade",
+            "supply-chain"
+          ]
         },
         {
           "outlet": "21st Century Business Herald",
@@ -2950,7 +3039,13 @@ window.W22_2026 = {
               "Ling Ji invited German firms to share development opportunities; the German delegation pledged to encourage more SMEs to invest and cooperate."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "de-cn",
+            "trade",
+            "investment",
+            "supply-chain"
+          ]
         }
       ]
     },
@@ -2980,7 +3075,11 @@ window.W22_2026 = {
               "The statement says China and Serbia will strengthen coordination in the UN and other multilateral mechanisms, practice true multilateralism, and uphold the WTO-centered multilateral trading system."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "trade",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "PRC + Pakistan",
@@ -2998,7 +3097,10 @@ window.W22_2026 = {
               "The document says Pakistan highly values and supports the vision of a community with a shared future for mankind and all four of Xi Jinping's global initiatives on development, security, civilization, and governance."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "pla"
+          ]
         },
         {
           "outlet": "mfa.gov.cn",
@@ -3016,7 +3118,15 @@ window.W22_2026 = {
               "Rangel expressed willingness to support stable EU-China relations and endorsed free trade principles."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "ai",
+            "energy",
+            "trade",
+            "diplomacy",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Xinhua News",
@@ -3034,7 +3144,10 @@ window.W22_2026 = {
               "Officials thanked Albania for its historical support on the restoration of China's lawful seat in the United Nations."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "propaganda"
+          ]
         },
         {
           "outlet": "MFA spokesperson Mao Ning",
@@ -3052,7 +3165,13 @@ window.W22_2026 = {
               "Beijing maintained its position that protectionism harms both sides and reaffirmed support for stable EU-China dialogue."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "de-cn",
+            "twn",
+            "mid-east"
+          ]
         },
         {
           "outlet": "MFA spokesperson Mao Ning",
@@ -3070,7 +3189,14 @@ window.W22_2026 = {
               "Other questions covered China-Japan rare-earth controls, the Middle East ceasefire, and South Asian security."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "de-cn",
+            "jp-cn",
+            "twn",
+            "mid-east",
+            "rare-earths"
+          ]
         },
         {
           "outlet": "MFA spokesperson Guo Jiakun 郭嘉昆",
@@ -3084,7 +3210,10 @@ window.W22_2026 = {
               "The spokesperson welcomed the new Czech government's reaffirmation of the one-China policy and said China is willing to expand dialogue and cooperation to bring ties back onto a healthy, stable track after years of friction over Taiwan contacts."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "twn"
+          ]
         }
       ]
     },
@@ -3114,7 +3243,12 @@ window.W22_2026 = {
               "The author argues technological innovation suffers from gaps between R&D investment and industrial application (central SOE conversion rates below 15%), malfunctioning innovation consortia, and standards outpacing application, proposing \"call-to-arms 2.0\" mechanisms and a data-factor market to build an innovation ecosystem."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "macro",
+            "investment",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Aisixiang 爱思想",
@@ -3136,7 +3270,11 @@ window.W22_2026 = {
               "The author states that the people's aspiration for a better life is the party's goal, which must be realized step by step through solid achievements that let the public see change and gain tangible benefits."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ideology",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Aisixiang 爱思想",
@@ -3158,7 +3296,11 @@ window.W22_2026 = {
               "The author contends the transformation will dissolve American exceptionalism and may spark new international crises and sharpened geopolitical confrontation, and that China should treat the shift with strategic and tactical caution."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "trade",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Aisixiang 爱思想",
@@ -3180,7 +3322,11 @@ window.W22_2026 = {
               "The author contends that the three new-era five-year plans embodied Party leadership through soliciting public opinion, setting guiding principles, focusing on priority issues, applying the Party's theoretical innovations, and maintaining a systems approach."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "pla",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Aisixiang 爱思想",
@@ -3202,7 +3348,13 @@ window.W22_2026 = {
               "The author recommends a services-sector quality-and-capacity drive, industrial policy that prioritizes innovation ecosystems and industrial-chain modernization, and more inclusive regulation that encourages new industrial-convergence scenarios."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "industrial-policy",
+            "pla",
+            "cn-discourse"
+          ]
         }
       ]
     },
@@ -3228,7 +3380,11 @@ window.W22_2026 = {
               "The article stresses that symbolic communication, positive narratives, and diplomatic rituals carry weight in China's foreign relations and calls for a shift in Europe's approach."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "Global Times",
@@ -3250,7 +3406,12 @@ window.W22_2026 = {
               "The editorial cites the survey figure to argue that economic cooperation with China remains the preferred course for European business."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "de-cn",
+            "propaganda"
+          ]
         },
         {
           "outlet": "Xinhua",
@@ -3268,7 +3429,13 @@ window.W22_2026 = {
               "Spokesperson He Yadong said the tariffs would disrupt China-EU steel trade and destabilise global supply chains, according to Xinhua."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "trade",
+            "supply-chain",
+            "pla",
+            "propaganda"
+          ]
         },
         {
           "outlet": "Global Times",
@@ -3286,7 +3453,14 @@ window.W22_2026 = {
               "Beijing warned it would take \"necessary measures\" to protect its interests if Brussels proceeds with expanded quotas and tariffs on Chinese goods."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "trade",
+            "supply-chain",
+            "pla",
+            "propaganda"
+          ]
         },
         {
           "outlet": "china.com.cn",
@@ -3304,7 +3478,13 @@ window.W22_2026 = {
               "The piece argues that trade barriers will not restore European competitiveness but will damage mutually beneficial China-EU ties and worsen the EU's position amid strained relations with Russia and the US."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ru-cn",
+            "trade",
+            "supply-chain",
+            "pla"
+          ]
         },
         {
           "outlet": "Xinhua",
@@ -3322,7 +3502,12 @@ window.W22_2026 = {
               "Mao stated that \"international trade is a two-way street\" and \"there's no forced trade,\" describing China-EU trade relations as \"win-win in nature.\""
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "trade",
+            "pla",
+            "propaganda"
+          ]
         },
         {
           "outlet": "China Daily",
@@ -3340,7 +3525,13 @@ window.W22_2026 = {
               "China Daily argues Europe can trade successfully with China without political alignment, and implies the overcapacity debate is a threat to European prosperity."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "de-cn",
+            "trade",
+            "industrial-policy"
+          ]
         },
         {
           "outlet": "Global Times",
@@ -3358,7 +3549,13 @@ window.W22_2026 = {
               "The piece argues Europe \"should neither engage in nor afford\" a trade war with China, framing assertive measures - including Macron's Section 301 - style tariffs - as economically harmful to the EU itself."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "trade",
+            "export-controls",
+            "propaganda"
+          ]
         },
         {
           "outlet": "China Daily",
@@ -3376,7 +3573,12 @@ window.W22_2026 = {
               "Dialogue and pragmatic cooperation are presented as the appropriate mechanism for managing bilateral differences."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "energy",
+            "climate",
+            "trade"
+          ]
         }
       ]
     }

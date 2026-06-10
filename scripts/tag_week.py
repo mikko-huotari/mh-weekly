@@ -217,31 +217,60 @@ NUMBERED_FALLBACK = {
     "domestic":  ["society"],
     "tech":      ["semcon"],
     "trade":     ["trade"],
-    "foreign":   [],   # too broad — leave untagged rather than miscategorize
-    "responses": [],
+    "foreign":   ["diplomacy"],   # Foreign policy / Global China
+    "responses": ["diplomacy"],   # Strategic implications & responses
     "debates":   ["cn-discourse"],
 }
 
 
+def _all_items(payload: dict):
+    """Yield every taggable entry across the payload (for the coverage check)."""
+    sp = payload.get("spotlight") or {}
+    yield from sp.get("items") or []
+    for sub in sp.get("subsections") or []:
+        yield from sub.get("items") or []
+    for key in ("contextSections", "researchSections"):
+        for sec in payload.get(key) or []:
+            for g in sec.get("groups") or []:
+                yield from g.get("items") or []
+            yield from sec.get("items") or []
+    for key in ("numberedSections", "chineseSourcesSections"):
+        for sec in payload.get(key) or []:
+            yield from sec.get("items") or []
+
+
 def tag_payload(payload: dict) -> dict:
-    counts = {"spotlight": 0, "context": 0, "research": 0, "numbered": 0, "subsections": 0}
+    counts = {"spotlight": 0, "context": 0, "research": 0, "numbered": 0,
+              "subsections": 0, "cnsources": 0}
     sp = payload.get("spotlight") or {}
     sp_label = sp.get("title") or "Spotlight"
-    counts["spotlight"] += tag_items_in_section(sp, sp_label)
+    # Every section carries a guaranteed fallback so NO entry is left untagged.
+    counts["spotlight"] += tag_items_in_section(sp, sp_label, fallback=["diplomacy"])
     for sub in sp.get("subsections") or []:
-        # Parent context = Spotlight title + the sub's own label
-        counts["subsections"] += tag_items_in_section(sub, sp_label)
+        counts["subsections"] += tag_items_in_section(sub, sp_label, fallback=["diplomacy"])
     for sec in payload.get("contextSections") or []:
         for g in sec.get("groups") or []:
-            counts["context"] += tag_items_in_section(g, sec.get("label") or "")
+            counts["context"] += tag_items_in_section(g, sec.get("label") or "", fallback=["de-cn"])
     for sec in payload.get("researchSections") or []:
         for g in sec.get("groups") or []:
-            counts["research"] += tag_items_in_section(g, sec.get("label") or "")
-        counts["research"] += tag_items_in_section(sec)
+            counts["research"] += tag_items_in_section(g, sec.get("label") or "", fallback=["eu-cn"])
+        counts["research"] += tag_items_in_section(sec, fallback=["eu-cn"])
     for sec in payload.get("numberedSections") or []:
-        fb = NUMBERED_FALLBACK.get(sec.get("slug") or "", [])
+        fb = NUMBERED_FALLBACK.get(sec.get("slug") or "", ["diplomacy"])
         counts["numbered"] += tag_items_in_section(sec, fallback=fb)
+    # Chinese Sources (Part IV) — was never tagged before.
+    for sec in payload.get("chineseSourcesSections") or []:
+        counts["cnsources"] += tag_items_in_section(sec, sec.get("label") or "", fallback=["cn-discourse"])
     print("Tagged:", counts, "total:", sum(counts.values()))
+
+    # Coverage assertion — there must be ZERO untagged entries.
+    untagged = [it for it in _all_items(payload) if not it.get("tags")]
+    if untagged:
+        print(f"WARNING: {len(untagged)} UNTAGGED entries (vocab/fallback gap) - fix before ship:")
+        for it in untagged[:10]:
+            print("   -", (it.get("outlet") or item_text(it)[:55] or "(blank)"))
+    else:
+        print("OK: 0 untagged entries")
     return payload
 
 

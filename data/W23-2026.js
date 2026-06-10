@@ -1989,7 +1989,10 @@ window.W23_2026 = {
               "Q1 2026 South Korea-China passenger traffic reached 4.39 million, above the pre-pandemic 4.14 million benchmark."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "diplomacy"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2634,7 +2637,10 @@ window.W23_2026 = {
               "CAC, NDRC, MIIT, MPS and SAMR co-issued the Measures (effective 15 July 2026) under the \"small, fast, flexible\" model – narrow scope, short cycle, adaptable mechanisms – with supervision and legal-liability provisions, though specific penalty amounts are not enumerated in the released text."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai"
+          ]
         },
         {
           "outlet": "State Council 国务院",
@@ -2652,7 +2658,14 @@ window.W23_2026 = {
               "The plan lifts the agricultural sci-tech progress contribution rate to 67% by 2030 (from above 64% in 2025) and prioritises intelligent-design breeding, new-energy agricultural machinery, the low-altitude agricultural economy, agricultural bio-manufacturing and new food products, alongside high-standard farmland, cold-chain logistics and AI adoption."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "energy",
+            "ideology",
+            "pla",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "NDRC 国家发改委",
@@ -2670,7 +2683,10 @@ window.W23_2026 = {
               "CNPC, Sinopec, CNOOC and other refiners are instructed to keep production, distribution and market supply stable and enforce national pricing rules, while local departments tighten market supervision, with consumers directed to the 12315 platform to report illegal pricing."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "energy"
+          ]
         },
         {
           "outlet": "MIIT 工信部",
@@ -2688,7 +2704,10 @@ window.W23_2026 = {
               "The ministry positioned the approvals as broadening consumer choice within a market already hosting over 3,100 foreign-invested telecom enterprises, and signalled further opening measures to draw eligible foreign firms in."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "markets"
+          ]
         }
       ]
     },
@@ -2718,7 +2737,13 @@ window.W23_2026 = {
               "Violations trigger halts, asset disposal and confiscation of illegal gains plus fines of 0.5–1 percent of total investment, while responsible supervisors face personal fines of 50,000–100,000 yuan."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "trade",
+            "export-controls",
+            "sanctions",
+            "investment"
+          ]
         },
         {
           "outlet": "Jiemian",
@@ -2740,7 +2765,16 @@ window.W23_2026 = {
               "The piece foregrounds power infrastructure – grids, transformers and the East Data–West Compute (东数西算) program – as the binding constraint and organizing logic of the buildout, against the US Stargate plan as the external reference point."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "jp-cn",
+            "semcon",
+            "ai",
+            "energy",
+            "investment",
+            "supply-chain",
+            "pla"
+          ]
         },
         {
           "outlet": "Yicai",
@@ -2762,7 +2796,14 @@ window.W23_2026 = {
               "China's 15th Five-Year Plan requires new data centers in the eight national computing hubs to source at least 80 percent renewable energy and meet PUE ratios of 1.25 or below (1.2 inside hub zones), per experts including State Grid's Yue Hao and Tsinghua's Liu Zhi."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "energy",
+            "macro",
+            "climate",
+            "pla"
+          ]
         },
         {
           "outlet": "Jiemian",
@@ -2784,7 +2825,12 @@ window.W23_2026 = {
               "The plan readies LNG, power and computing-power futures plus CSI 500, Shenzhen 100 and ChiNext index derivatives, while pushing wealth management from a sales-driven model toward buyer's-advisory and AI-driven research."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "hk",
+            "ai",
+            "pla"
+          ]
         }
       ]
     },
@@ -2810,7 +2856,11 @@ window.W23_2026 = {
               "Wang tied the meeting to China's call to revitalize UN authority, while Bachelet pressed for renewed commitment to multilateralism and the UN's peace, development and human-rights pillars."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "diplomacy",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "MFA spokesperson 外交部发言人",
@@ -2824,7 +2874,13 @@ window.W23_2026 = {
               "Responding to the EU's chip/cloud/AI promotion plans, the foreign-ministry spokesperson said China hopes the EU will adhere to the fundamental principles of a market economy - free trade, fair competition and open cooperation - and avoid protectionist measures."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "trade",
+            "pla"
+          ]
         },
         {
           "outlet": "MFA 外交部 (Wang Yi 王毅)",
@@ -2842,7 +2898,11 @@ window.W23_2026 = {
               "The official readout (30 May) said better China-Canada relations meet \"the expectations of all parties,\" with \"no clashes of fundamental interests\" and \"enormous room for cooperation.\""
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "diplomacy",
+            "cn-discourse"
+          ]
         }
       ]
     },
@@ -2868,7 +2928,16 @@ window.W23_2026 = {
               "Zhang holds that US-China confrontation stabilised after the Busan summit and Trump's May 2026 state visit, US-EU coordination on China has collapsed, and Washington's \"reverse Kissinger\" bid to split China from Russia has failed."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "us-cn",
+            "de-cn",
+            "uk-cn",
+            "ru-cn",
+            "semcon",
+            "diplomacy",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Aisixiang 爱思想",
@@ -2886,7 +2955,17 @@ window.W23_2026 = {
               "US shale needs roughly $65/barrel breakeven against OPEC output at half that, a projected 2030 LNG glut undercuts export leverage, and wind and solar already beat fossil generation while 28 states' renewable portfolio standards blunt any federal rollback."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "jp-cn",
+            "mid-east",
+            "latam",
+            "energy",
+            "trade",
+            "sanctions",
+            "investment",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Aisixiang 爱思想",
@@ -2904,7 +2983,17 @@ window.W23_2026 = {
               "Zhang names resource nationalism, Sahel and Great Lakes instability, and US-EU \"debt-trap\" framing plus critical-mineral rivalry as the core threats, prescribing zero-tariff access for 53 African states, digital and AI partnerships, and green-mineral investment."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "afr",
+            "ai",
+            "energy",
+            "macro",
+            "trade",
+            "investment",
+            "bri",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Aisixiang 爱思想",
@@ -2922,7 +3011,14 @@ window.W23_2026 = {
               "Chi flags that China holds 28% of global manufacturing but only 12.98% of global consumption, and calls for 80-100 trillion yuan across farmer urbanization, public-service equalization, and urban infrastructure, plus raising labor's income share from 50% to over 55% by 2030."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "macro",
+            "trade",
+            "industrial-policy",
+            "pla",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Tsinghua CISS",
@@ -2940,7 +3036,10 @@ window.W23_2026 = {
               "The post lists media appearances and bylines as the primary output of the delegation's Singapore presence."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "sea"
+          ]
         },
         {
           "outlet": "East is Read",
@@ -2958,7 +3057,11 @@ window.W23_2026 = {
               "Wang calls on both powers to negotiate new rules for coexistence rather than contest the terms of a defunct order."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "us-cn",
+            "ideology"
+          ]
         },
         {
           "outlet": "guancha.cn",
@@ -2976,7 +3079,12 @@ window.W23_2026 = {
               "The article argues that conflict in the Taiwan Strait would not automatically escalate into direct US-China confrontation, with both sides' probability of frontal warfare described as low."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "us-cn",
+            "twn",
+            "auto"
+          ]
         },
         {
           "outlet": "East is Read",
@@ -2994,7 +3102,11 @@ window.W23_2026 = {
               "Liu positions higher rural retirement benefits as a more effective consumption driver than another infrastructure stimulus round."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "macro",
+            "investment"
+          ]
         },
         {
           "outlet": "guancha.cn",
@@ -3016,7 +3128,13 @@ window.W23_2026 = {
               "Chinese officials called on the EU to view bilateral trade objectively and signaled readiness to take necessary measures to safeguard Chinese interests, according to the article."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "energy",
+            "trade",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "CASS Institute of European Studies",
@@ -3034,7 +3152,10 @@ window.W23_2026 = {
               "The session (调研心得分享会 - diàoyán xīndé fēnxiǎnghuì, \"research findings exchange\") is a standard CASS IES format for returning researchers to report current conditions; no scholar names or thematic focus are given in the title."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "cn-discourse"
+          ]
         }
       ]
     },
@@ -3064,7 +3185,13 @@ window.W23_2026 = {
               "the piece casts the EU as \"falling behind in nearly all high-tech sectors\" and cites French opposition calling the scheme an \"attempt to colonize Europe\" at odds with the EU's own tech-sovereignty agenda."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "supply-chain",
+            "propaganda"
+          ]
         },
         {
           "outlet": "People's Daily",
@@ -3086,7 +3213,13 @@ window.W23_2026 = {
               "it casts EV, wind and photovoltaic products as an \"important pillar\" of the EU green transition, citing 2025 China-EU trade of 5.93tn yuan ($873.6bn, up 6%) and 130,000+ China-Europe freight-train runs."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "auto",
+            "energy",
+            "trade",
+            "propaganda"
+          ]
         },
         {
           "outlet": "Global Times",
@@ -3104,7 +3237,15 @@ window.W23_2026 = {
               "Mao urges the EU to \"adhere to the fundamental principles of a market economy, including free trade, fair competition and open cooperation, avoid adopting protectionist measures,\" and to resolve differences through dialogue and consultation."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "trade",
+            "supply-chain",
+            "pla",
+            "propaganda"
+          ]
         },
         {
           "outlet": "Global Times",
@@ -3126,7 +3267,13 @@ window.W23_2026 = {
               "citing the Financial Times that the summit agenda will \"not use the word China,\" GT characterizes the EU as \"oscillating between confrontation and avoidance.\""
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "uk-cn",
+            "trade",
+            "diplomacy",
+            "propaganda"
+          ]
         },
         {
           "outlet": "china.com.cn",
@@ -3148,7 +3295,18 @@ window.W23_2026 = {
               "it cites a German Chamber of Commerce in China survey showing 61% of firms plan to raise China investment over two years (a post-2023 high) and an EU Chamber survey showing 68% will maintain or expand China operations, plus GTAI data that China became Germany's top source of FDI projects in 2025 (228 projects, +14.6%, first time above the US since 2017)."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "de-cn",
+            "rare-earths",
+            "macro",
+            "trade",
+            "investment",
+            "supply-chain",
+            "pla",
+            "cyber"
+          ]
         },
         {
           "outlet": "china.com.cn",
@@ -3170,7 +3328,13 @@ window.W23_2026 = {
               "Citing IRENA and IEA findings that global clean-energy demand still outstrips supply, the piece argues treating exports as proof of overcapacity overturns the logic of comparative advantage, and warns \"wall-builders end up trapped by their own walls.\""
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "energy",
+            "trade",
+            "export-controls",
+            "industrial-policy"
+          ]
         },
         {
           "outlet": "China Daily",
@@ -3192,7 +3356,15 @@ window.W23_2026 = {
               "The piece cites 2025 bilateral trade of USD 828.1bn (up 5.4%) and a European Chamber survey in which 75% of respondents rated China-based production more efficient than operations elsewhere."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "auto",
+            "bio-pharma",
+            "aerospace",
+            "trade",
+            "investment",
+            "supply-chain"
+          ]
         },
         {
           "outlet": "China Daily",
@@ -3214,7 +3386,14 @@ window.W23_2026 = {
               "Quoting FM spokeswoman Mao Ning, the editorial notes China-Europe trade has grown \"more than 300-fold\" over five decades with two-way investment approaching USD 260bn."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "trade",
+            "investment",
+            "supply-chain"
+          ]
         },
         {
           "outlet": "China Daily",
@@ -3236,7 +3415,11 @@ window.W23_2026 = {
               "Participants propose beginning with student exchanges before moving to company collaborations."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "auto"
+          ]
         },
         {
           "outlet": "huanqiu.com",
@@ -3258,7 +3441,15 @@ window.W23_2026 = {
               "He outlines standardizing port processes, then structuring operational data, then building AI-driven predictive capabilities, acknowledging China's lead in smart ports and proposing joint standard-setting."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "energy",
+            "trade",
+            "bri",
+            "pla",
+            "maritime"
+          ]
         },
         {
           "outlet": "China News",
@@ -3280,7 +3471,12 @@ window.W23_2026 = {
               "The survey states Chinese firms play a \"distinct and important role\" in France's reindustrialisation and rank first among Asian investors in both project count and jobs created or retained."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ai",
+            "energy",
+            "investment"
+          ]
         },
         {
           "outlet": "Xinhua",
@@ -3302,7 +3498,10 @@ window.W23_2026 = {
               "The announcement came on 4 June with visiting Irish Taoiseach Micheál Martin – the first foreign leader to visit since Magyar took office – who pledged Irish backing during Ireland's Council presidency from 1 July."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "propaganda"
+          ]
         },
         {
           "outlet": "huanqiu.com",
@@ -3324,7 +3523,19 @@ window.W23_2026 = {
               "The piece holds that regulations such as the AI Act and GDPR burden small firms, and that Europe should strengthen innovation and keep open collaboration with China on green technology rather than raise protectionist walls."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "de-cn",
+            "semcon",
+            "ai",
+            "auto",
+            "batteries",
+            "energy",
+            "macro",
+            "trade",
+            "industrial-policy",
+            "pla"
+          ]
         },
         {
           "outlet": "china.com.cn",
@@ -3346,7 +3557,14 @@ window.W23_2026 = {
               "Reviewing the Minsk accords as crisis-management that never addressed identity, security boundaries or strategic trust, and Finland/Sweden's NATO entry erasing the buffer \"middle zone\", it argues lasting order requires great-power coordination and Russia-Europe reconciliation."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "ru-cn",
+            "energy",
+            "nuclear",
+            "diplomacy",
+            "propaganda"
+          ]
         },
         {
           "outlet": "Caixin Global",
@@ -3368,7 +3586,10 @@ window.W23_2026 = {
               "The company called the penalties \"disproportionate\" and said no consumer harm had been established, signalling it will challenge the ruling."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "21st Century Business Herald",
@@ -3390,7 +3611,11 @@ window.W23_2026 = {
               "The region's strategy aims to attract 600 foreign projects and create 45,000 jobs, with Sàmper advising Chinese firms to invest in local talent and supplier ties to build trust."
             ]
           ],
-          "related": []
+          "related": [],
+          "tags": [
+            "macro",
+            "investment"
+          ]
         }
       ]
     }

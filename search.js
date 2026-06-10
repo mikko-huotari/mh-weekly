@@ -106,6 +106,16 @@
         if (Array.isArray(b)) parts.push((b[0] || "") + " " + (b[1] || ""));
       });
     }
+    // Include tags so the archive is searchable by tag \u2014 both the id ("twn")
+    // and the human label ("Taiwan") match.
+    if (it.tags && it.tags.length) {
+      const vocab = (window.TAGS && window.TAGS.tags) || [];
+      it.tags.forEach(id => {
+        parts.push(id);
+        const t = vocab.find(x => x.id === id);
+        if (t && t.label) parts.push(t.label);
+      });
+    }
     const text = parts.join(" \u00b7 ");
     const preview = it.note || it.title || (it.bullets && it.bullets[0] && (it.bullets[0][0] || it.bullets[0][1])) || "";
     return {
