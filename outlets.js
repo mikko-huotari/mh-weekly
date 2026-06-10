@@ -34,8 +34,9 @@ window.OUTLET_MAP = {
   "Guancha":         { mono: "GC",  bg: "#C41E1E", fg: "#FFFFFF" },
   "Yicai":           { mono: "Yi",  bg: "#0F2D59", fg: "#FFFFFF" },
   "Beijing News":    { mono: "BJ",  bg: "#1A1916", fg: "#FFFFFF" },
-  "The Diplomat":    { mono: "Dip", bg: "#0F2D59", fg: "#FFFFFF" },
-  "Diplomat":        { mono: "Dip", bg: "#0F2D59", fg: "#FFFFFF" },
+  "The Diplomat":    { iconUrl: "assets/icons/diplomat.svg", mono: "Dip", bg: "#0F2D59", fg: "#FFFFFF" },
+  "Diplomat":        { iconUrl: "assets/icons/diplomat.svg", mono: "Dip", bg: "#0F2D59", fg: "#FFFFFF" },
+  "Fortune":         { iconUrl: "assets/icons/fortune.svg",  mono: "F",   bg: "#000000", fg: "#FFFFFF" },
   "Xinhua":          { mono: "XH",  bg: "#003399", fg: "#FFFFFF" },
   "huanqiu.com":     { mono: "GT",  bg: "#C41E1E", fg: "#FFFFFF" },
   "Aisixiang":       { mono: "Ais", bg: "#003366", fg: "#FFFFFF" },
@@ -213,7 +214,14 @@ window.OUTLET_MAP = {
 
 window.outletBadge = function (name) {
   const map = window.OUTLET_MAP || {};
-  const m = map[name];
+  let m = map[name];
+  // Pattern fallbacks for product variants not enumerated above:
+  //  - anything "Soapbox …" -> Soapbox mark (check first; it also contains MERICS)
+  //  - any other "MERICS …" product (Podcast, China Tech Observatory, …) -> MERICS logo
+  if (!m && name) {
+    if (/soapbox/i.test(name)) m = { iconUrl: "assets/icons/soapbox.png", mono: "S", bg: "#0A0A0A", fg: "#FFFFFF" };
+    else if (/merics/i.test(name)) m = map["MERICS"];
+  }
   const escape = (s) => String(s == null ? "" : s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");

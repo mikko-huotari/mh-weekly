@@ -428,6 +428,41 @@ def _parse_part_ii_new_schema(text: str) -> dict | None:
     return {"label": "MERICS", "groups": groups}
 
 
+_MERICS_PRODUCTS = ("china tech observatory", "china debates", "china essentials",
+                    "industries brief", "europe china 360", "eu china 360",
+                    "comment", "podcast")
+
+
+def _merics_label(text: str) -> str:
+    """Canonicalise a MERICS product label to 'MERICS <Title Case>'. Soapbox and
+    non-MERICS outlets are returned unchanged."""
+    t = (text or "").strip()
+    low = t.lower()
+    if low.startswith("soapbox") or not t:
+        return t
+
+    def tc(s):
+        return " ".join(w if (w.isupper() and len(w) <= 4) else w.capitalize()
+                        for w in s.split())
+
+    if low.startswith("merics"):
+        rest = t[len("merics"):].strip(" :-–")
+        return ("MERICS " + tc(rest)).strip() if rest else "MERICS"
+    if any(p in low for p in _MERICS_PRODUCTS):
+        return "MERICS " + tc(t)
+    return t
+
+
+def _normalize_research(content: str, outlet_raw: str):
+    """Return (note, outlet) with MERICS product labels canonicalised in both the
+    displayed bullet markdown and the outlet (used for the badge lookup)."""
+    outlet = _merics_label(outlet_raw)[:40]
+    note = content
+    if outlet != outlet_raw and outlet_raw:
+        note = content.replace(f"[{outlet_raw}]", f"[{outlet}]", 1)
+    return note, outlet
+
+
 def parse_research_section(text: str) -> dict | None:
     new_schema = _parse_part_ii_new_schema(text)
     if new_schema:
@@ -461,8 +496,8 @@ def parse_research_section(text: str) -> dict | None:
             content = ls[2:].strip()
             link = INLINE_LINK_RE.search(content)
             url = link.group("url") if link else ""
-            outlet = (link.group("text") if link else "MERICS")[:40]
-            note = content  # keep [text](url) markdown so the link renders in the bullet
+            outlet_raw = (link.group("text") if link else "MERICS")
+            note, outlet = _normalize_research(content, outlet_raw)
             current_item = {
                 "outlet": outlet, "title": "", "date": "", "url": url,
                 "bullets": [["", note]],

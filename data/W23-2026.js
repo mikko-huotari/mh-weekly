@@ -140,14 +140,14 @@ window.W23_2026 = {
           "label": "Publications",
           "items": [
             {
-              "outlet": "MERICS podcast",
+              "outlet": "MERICS Podcast",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/podcast/chinese-fdi-europe-reaches-7-year-high-gregor-williams-and-andreas-mischer",
               "bullets": [
                 [
                   "",
-                  "[MERICS podcast](https://merics.org/en/podcast/chinese-fdi-europe-reaches-7-year-high-gregor-williams-and-andreas-mischer): Chinese FDI in Europe reaches a seven-year high"
+                  "[MERICS Podcast](https://merics.org/en/podcast/chinese-fdi-europe-reaches-7-year-high-gregor-williams-and-andreas-mischer): Chinese FDI in Europe reaches a seven-year high"
                 ],
                 [
                   "",
@@ -172,14 +172,14 @@ window.W23_2026 = {
               ]
             },
             {
-              "outlet": "China Tech Observatory",
+              "outlet": "MERICS China Tech Observatory",
               "title": "",
               "date": "",
               "url": "https://mericseu.substack.com/p/merics-china-tech-observatory-chinas",
               "bullets": [
                 [
                   "",
-                  "[China Tech Observatory](https://mericseu.substack.com/p/merics-china-tech-observatory-chinas): how Beijing is orchestrating a push for future industries"
+                  "[MERICS China Tech Observatory](https://mericseu.substack.com/p/merics-china-tech-observatory-chinas): how Beijing is orchestrating a push for future industries"
                 ],
                 [
                   "",

@@ -1032,6 +1032,24 @@
     margin: 0 0 4px;
     padding: 0;
   }
+  /* Compact MERICS research / media list — one line per item: icon, linked
+     outlet, mini info. Replaces the bulky per-item entry cards. */
+  .mr-list { list-style: none; margin: 0 0 14px; padding: 0; }
+  .mr-row {
+    display: flex; align-items: baseline; gap: 8px;
+    padding: 3px 0; line-height: 1.4;
+    border-bottom: 1px solid var(--rule-soft);
+  }
+  .mr-row:last-child { border-bottom: 0; }
+  .mr-badge { flex: 0 0 auto; position: relative; top: 2px; }
+  .mr-badge .outlet-badge { width: 18px; height: 18px; font-size: 8px; }
+  .mr-text { flex: 1 1 auto; font-family: var(--serif); font-size: 15px; color: var(--ink-2); }
+  .mr-text a { font-weight: 600; }
+  .mr-sub {
+    list-style: none; margin: 1px 0 1px 26px; padding: 2px 0;
+    font-family: var(--serif); font-size: 14px; color: var(--graphite);
+  }
+  .mr-sub::before { content: "– "; color: var(--slate); }
 
   /* Spotlight sub-section headings: real visible heading, not a tiny caps label. */
   .spotlight-sub { margin-top: 26px; }

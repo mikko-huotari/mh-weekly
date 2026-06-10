@@ -334,6 +334,20 @@
         ${groups}
       </section>`;
   }
+  // Compact one-line research/insights row: [icon] [outlet link] — mini info.
+  // bullets[0] already carries "[outlet](url): title", so we render it inline
+  // (no separate outlet header = no duplication) and keep only sub-bullets that
+  // are themselves links (e.g. China Tech Observatory's component pieces).
+  function renderResearchItem(e) {
+    const badge = window.outletBadge ? window.outletBadge(e.outlet || "") : "";
+    const bl = (e.bullets || []).map(b => (b && (b[1] || b[0])) || "").filter(Boolean);
+    const main = bl[0] || e.title || (e.outlet ? `[${e.outlet}](${e.url || "#"})` : "");
+    const subs = bl.slice(1).filter(s => /\]\(/.test(s)); // keep only nested links
+    const tagsHtml = renderEntryTags(e.tags);
+    const subHtml = subs.map(s => `<li class="mr-sub">${inlineMd(s)}</li>`).join("");
+    return `<li class="mr-row"><span class="mr-badge">${badge}</span>` +
+           `<span class="mr-text">${inlineMd(main)}${tagsHtml}</span></li>${subHtml}`;
+  }
   function renderResearch(sec) {
     const groupsHtml = (sec.groups || []).map(g => {
       const items = filtered(g.items);
@@ -342,11 +356,11 @@
       <div class="group" id="mr-${esc(slugify(g.label))}">
         <h3 class="group-label">${esc(g.label)}</h3>
         ${g.note ? `<p class="section-note">${esc(g.note)}</p>` : ""}
-        ${items.map(renderEntry).join("")}
+        <ul class="mr-list">${items.map(renderResearchItem).join("")}</ul>
       </div>`;
     }).join("");
     const items = filtered(sec.items);
-    const itemsHtml = items.map(renderEntry).join("");
+    const itemsHtml = items.length ? `<ul class="mr-list">${items.map(renderResearchItem).join("")}</ul>` : "";
     if (!groupsHtml.trim() && !itemsHtml && activeFilters.size) return "";
     return `
       <section class="section">
