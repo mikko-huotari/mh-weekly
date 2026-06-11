@@ -230,19 +230,41 @@ def validate(parsed: dict) -> None:
                 raise ValueError(f"Section {slug} item missing keys: {missing}")
 
 
+def part3_from_sidefiles(vault: Path, week_id: str) -> str | None:
+    """Build the Part III markdown from the 3 ger_lens side files (the source of
+    truth for Part V — same pattern as .wNN_cn_part_xps.md for Part IV). Returns
+    None if any side file is missing/empty, so main() falls back to the source."""
+    wk = int(week_id[1:3]); year = int(week_id.split("-")[1])
+    out = []
+    for n, hdr in enumerate((h[3] for h in SECTION_HINTS), 1):
+        f = vault / "5 SYSTEM" / f".w{wk}_{year}_ger_s{n}.md"
+        if not f.exists():
+            return None
+        body = f.read_text(encoding="utf-8").strip()
+        if not body:
+            return None
+        out.append(f"## {n}. {hdr}\n\n{body}")
+    return "\n\n".join(out) + "\n"
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("week_id", help="e.g. W18-2026")
     ap.add_argument("--vault", default=str(DEFAULT_VAULT))
+    ap.add_argument("--from-source", action="store_true",
+                    help="force parsing Part III from the WNN.md source (skip ger_lens side files)")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     vault = Path(args.vault)
-    export_md = find_export(vault, args.week_id)
-    print(f"Source: {export_md}")
-    raw = export_md.read_text(encoding="utf-8")
-    part3 = slice_part3(raw)
-    print(f"Part III: {len(part3):,} chars")
+    part3 = None if args.from_source else part3_from_sidefiles(vault, args.week_id)
+    if part3:
+        print(f"Part III: from ger_lens side-files ({len(part3):,} chars)")
+    else:
+        export_md = find_export(vault, args.week_id)
+        print(f"Source: {export_md}")
+        part3 = slice_part3(export_md.read_text(encoding="utf-8"))
+        print(f"Part III: from source ({len(part3):,} chars)")
 
     prompt = PROMPT % part3
     print("Calling Gemini (response_schema=_WochenberichtPayload)…")
