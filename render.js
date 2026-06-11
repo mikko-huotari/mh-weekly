@@ -202,7 +202,9 @@
       .filter(b => b && (b[0] || b[1]))
       .map(b => {
         const lead = b[0] ? `<b>${esc(b[0])}</b>` : "";
-        const rest = b[1] ? ` ${inlineMd(b[1])}` : "";
+        // BULLET_RE drops the "**lead**: rest" colon as a delimiter — re-insert it
+        // so the bold lead-in is clearly separated from the sentence.
+        const rest = b[1] ? `${b[0] ? ": " : ""}${inlineMd(b[1])}` : "";
         return `<li>${lead}${rest}</li>`;
       }).join("");
 
@@ -455,7 +457,9 @@
           lead = m[1].trim();
           text = (m[2].trim() + " " + text).trim();
         }
-        return `<strong>${esc(lead)}</strong> ${esc(text)}`;
+        // Facts read "Thesis: detail" (colon); quotes read "Name verb …" (space).
+        const sep = (item.kind === "fact" && lead) ? ": " : " ";
+        return `<strong>${esc(lead)}</strong>${sep}${esc(text)}`;
       })()}</p>
       ${src.title ? `<p class="wb-source">“${esc(src.title)}”</p>` : ""}
     </article>`;

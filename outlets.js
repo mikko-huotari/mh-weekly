@@ -9,6 +9,32 @@
 // unknown outlets fall back to a graphite tile with the first letter.
 
 window.OUTLET_MAP = {
+  // ── fetched logos (2026-06-11, max-coverage pass) ──
+  "BBC":                      { iconUrl: "assets/icons/bbc.png",            mono: "BBC", bg: "#000000", fg: "#FFFFFF" },
+  "Bitter Winter":            { iconUrl: "assets/icons/bitterwinter.png",   mono: "BW",  bg: "#1A1916", fg: "#FFFFFF" },
+  "CECC":                     { iconUrl: "assets/icons/cecc.png",           mono: "CE",  bg: "#0F2D59", fg: "#FFFFFF" },
+  "Chosun Ilbo":              { iconUrl: "assets/icons/chosunilbo.png",     mono: "CI",  bg: "#1A1916", fg: "#FFFFFF" },
+  "China Leadership Monitor": { iconUrl: "assets/icons/clm.png",            mono: "CLM", bg: "#7A1F1F", fg: "#FFFFFF" },
+  "HKFP":                     { iconUrl: "assets/icons/hkfp.png",           mono: "HK",  bg: "#C8102E", fg: "#FFFFFF" },
+  "Hudson":                   { iconUrl: "assets/icons/hudson.png",         mono: "H",   bg: "#0F2D59", fg: "#FFFFFF" },
+  "Just Security":            { iconUrl: "assets/icons/justsecurity.png",   mono: "JS",  bg: "#1A1916", fg: "#FFFFFF" },
+  "KrASIA":                   { iconUrl: "assets/icons/krasia.png",         mono: "Kr",  bg: "#1A1916", fg: "#FFFFFF" },
+  "Lowy Institute":           { iconUrl: "assets/icons/lowy.png",           mono: "LI",  bg: "#0F2D59", fg: "#FFFFFF" },
+  "MarketWatch":              { iconUrl: "assets/icons/marketwatch.png",    mono: "MW",  bg: "#00853D", fg: "#FFFFFF" },
+  "North Africa Post":        { iconUrl: "assets/icons/northafricapost.png",mono: "NAP", bg: "#1A1916", fg: "#FFFFFF" },
+  "OECD":                     { iconUrl: "assets/icons/oecd.png",           mono: "OE",  bg: "#0F4C81", fg: "#FFFFFF" },
+  "PIIE":                     { iconUrl: "assets/icons/piie.png",           mono: "PI",  bg: "#0F2D59", fg: "#FFFFFF" },
+  "Sinification":             { iconUrl: "assets/icons/sinification.png",   mono: "Si",  bg: "#1A1916", fg: "#FFFFFF" },
+  "Stanford":                 { iconUrl: "assets/icons/stanford.png",       mono: "St",  bg: "#8C1515", fg: "#FFFFFF" },
+  "US State Dept":            { iconUrl: "assets/icons/statedept.png",      mono: "DoS", bg: "#0F2D59", fg: "#FFFFFF" },
+  "US War Dept":              { iconUrl: "assets/icons/wardept.png",        mono: "DoD", bg: "#1A1916", fg: "#FFFFFF" },
+  "The Information":          { iconUrl: "assets/icons/theinformation.png", mono: "Inf", bg: "#000000", fg: "#FFFFFF" },
+  "Uyghur Times":             { iconUrl: "assets/icons/uyghurtimes.png",    mono: "UT",  bg: "#1A1916", fg: "#FFFFFF" },
+  "Xinhua":                   { iconUrl: "assets/icons/xinhua.png",         mono: "XH",  bg: "#C8102E", fg: "#FFFFFF" },
+  "Yicai":                    { iconUrl: "assets/icons/yicai.png",          mono: "YC",  bg: "#C8102E", fg: "#FFFFFF" },
+  // alias fixes -> reuse existing logos
+  "The New York Times":       { iconUrl: "assets/icons/nyt.png",            mono: "NYT", bg: "#000000", fg: "#FFFFFF", font: "serif", size: 8 },
+  "WP":                       { iconUrl: "assets/icons/wapo.png",           mono: "WP",  bg: "#000000", fg: "#FFFFFF", font: "serif" },
   // ---------------- Wires & dailies ----------------
   "FT":              { iconUrl: "assets/icons/ft.png",          mono: "FT",   bg: "#FFF1E5", fg: "#1B1B1B", font: "serif" },
   "NYT":             { iconUrl: "assets/icons/nyt.png",         mono: "NYT",  bg: "#000000", fg: "#FFFFFF", font: "serif", size: 8 },
