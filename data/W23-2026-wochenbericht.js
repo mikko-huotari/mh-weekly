@@ -13,167 +13,332 @@ window.W23_2026_WOCHENBERICHT = {
       "label": "Prominente Zitate und Positionen zu China-bezogenen Angelegenheiten",
       "items": [
         {
-          "lead": "Richard Saynor",
-          "text": "Warnt eindringlich vor der gefährlichen China-Abhängigkeit bei Antibiotika; Kundl sei das „letzte vollintegrierte Werk für Antibiotika in Europa\", während chinesische Konkurrenz die Preise auf Peanuts-Niveau drücke und Europas pharmazeutische Versorgungssicherheit untergrabe.",
-          "source": {
-            "outlet": "Süddeutsche Zeitung",
-            "outletDisplay": "Süddeutsche Zeitung",
-            "date": "2026-06-01",
-            "title": "„Bis zum bitteren Ende\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Pete Hegseth",
-          "text": "Sprach beim Shangri-La-Dialog von „wahrlich historischen\" US-chinesischen Gesprächen in Peking und einer „konstruktiven, auf Fairness und Reziprozität basierenden Beziehung strategischer Stabilität\" – und brach mit jahrzehntelanger Tradition, indem er Taiwan mit keinem einzigen Wort erwähnte.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-06-01",
-            "title": "„Kein Wort zu Taiwan\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Katharina Reiche",
-          "text": "Plädiert nach ihrer China-Reise trotz wachsender Abhängigkeitsdebatte für engere Kooperation mit Peking und wirbt um chinesische Investoren und Fachkräfte für Deutschland.",
+          "lead": "Katherina Reiche",
+          "text": "warb Ende Mai/Donnerstag in Peking und Guangzhou gegenüber chinesischen Parteifunktionären, Politikern und Unternehmern für engere Kooperation statt Abgrenzung und warb aktiv um chinesische Investoren, die Geld und Ideen nach Deutschland bringen sollen.",
           "source": {
             "outlet": "Welt am Sonntag",
             "outletDisplay": "Welt am Sonntag",
             "date": "2026-05-31",
-            "title": "„Noch mehr China\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Karlheinz Wex",
-          "text": "China beherrsche mit über 80 Prozent Marktanteil Abbau und Verarbeitung von Wolfram, habe seit einem Jahr den Export eingeschränkt, „der westliche Markt trocknet aus\" – bei Preissteigerungen von bis zu 600 Prozent und ohne Aussicht auf rasche Diversifizierung.",
-          "source": {
-            "outlet": "taz",
-            "outletDisplay": "taz",
-            "date": "2026-06-02",
-            "title": "„Der westliche Markt trocknet aus\""
+            "title": "Noch mehr China"
           },
           "kind": "quote"
         },
         {
           "lead": "OECD",
-          "text": "Chinesische Industrieunternehmen erhielten zwischen 2005 und 2024 im Verhältnis zum Umsatz drei bis acht Mal mehr Subventionen als ihre OECD-Wettbewerber; rund 60 Prozent der globalen Marktanteilsgewinne chinesischer Firmen seien auf staatliche Förderung zurückzuführen – und die eigentlichen Unterschiede dürften noch größer sein.",
+          "text": "stellte am Montag/02.06. in einem Bericht fest, dass chinesische Industrieunternehmen zwischen 2005 und 2024 im Verhältnis zu ihrem Umsatz im Schnitt drei bis acht Mal mehr Subventionen erhalten haben als ihre Wettbewerber in OECD-Ländern, und erklärte, die Schätzung sei konservativ – rund 60 Prozent der globalen Marktanteilsgewinne chinesischer Unternehmen seien auf diese Förderung zurückzuführen.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
             "date": "2026-06-01",
-            "title": "„Chinas Industrie kassiert mehr Subventionen als Konkurrenz\""
+            "title": "Chinas Industrie kassiert mehr Subventionen als Konkurrenz"
           },
           "kind": "quote"
         },
         {
-          "lead": "Oliver Koppel",
-          "text": "Über 11.300 deutsche Patente seien in chinesischen Besitz übergegangen; China nutze Übernahmen im Westen „geostrategisch\", während der eigene Markt für ausländische Investoren durch Negativlisten, Sicherheitsüberprüfungen und Protektionismus verschlossen bleibe – „Das ist ein Ungleichgewicht\".",
+          "lead": "Mathias Cormann",
+          "text": "warnte am 01.06. anlässlich des OECD-Subventionsberichts: „Umfangreiche und anhaltende Industriesubventionen können globale Märkte verzerren, unfaire Wettbewerbsvorteile schaffen und auf der Angebotsseite zu Überkapazitäten beitragen.\"",
           "source": {
-            "outlet": "Spiegel",
-            "outletDisplay": "Spiegel Plus",
-            "date": "2026-06-04",
-            "title": "„Wir lassen unsere Kronjuwelen aufkaufen\""
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-06-01",
+            "title": "Chinas Industrie kassiert mehr Subventionen als Konkurrenz"
           },
           "kind": "quote"
         },
         {
-          "lead": "Ingo Speich",
-          "text": "Warnt davor, westliche Werke für chinesische Hersteller zu öffnen: „Kurzfristig mag das die Überkapazitätenproblematik hiesiger Hersteller lindern, langfristig holt man sich aber die Konkurrenz in die eigenen Werke. Für die Industrie kommt das einem trojanischen Pferd gleich.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-06-03",
-            "title": "„Chinesische Marken nutzen Fabrikprobleme in Europa\""
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Markus Wambach",
-          "text": "China führe beim KI-Einsatz in fertigungsbezogenen Prozessen mit 71 Prozent weltweit, die DACH-Region bilde „das eindeutige Schlusslicht\"; europäische Unternehmen müssten „schnellstmöglich\" flexibel und datenbasiert agieren, sonst gerate die Wettbewerbsfähigkeit in Gefahr.",
+          "lead": "Pete Hegseth",
+          "text": "schwärmte am Samstag/31.05. auf dem Shangri-La-Dialog in Singapur davon, dass die US-Beziehungen zu China besser seien als in vielen Jahren zuvor, sprach von „wahrlich historischen\" Gesprächen in Peking, bei denen sich beide Seiten auf eine „konstruktive, auf Fairness und Reziprozität basierende Beziehung strategischer Stabilität\" geeinigt hätten – und erwähnte Taiwan mit keinem Wort.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-06-01",
-            "title": "„Keine Chance ohne KI\""
+            "title": "PETE HEGSETH; Kein Wort zu Taiwan"
           },
           "kind": "quote"
         },
         {
-          "lead": "Oliver Steil",
-          "text": "Warnte beim TECH-Forum des Handelsblatts in Heilbronn davor, Europas KI-Chancen auf industrielle Prozesse zu verengen: „China hat auch Daten und Prozesse. Wir müssen aufpassen, dass wir nicht auf ein Thema springen und denken, wir sind da großartig, und jemand anderes hat es schon besetzt.\"",
+          "lead": "Pete Hegseth",
+          "text": "erklärte am Samstag/31.05. auf dem Shangri-La-Dialog in Singapur auf Nachfrage zu Taiwan-Waffenverkäufen lediglich: „Jede Entscheidung über künftige Waffenverkäufe an Taiwan liegt, wie der Präsident sagte, bei ihm selbst.\"",
           "source": {
             "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
+            "outletDisplay": "Handelsblatt",
             "date": "2026-06-01",
-            "title": "Morning Briefing"
+            "title": "PETE HEGSETH; Kein Wort zu Taiwan"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Chinesisches Außenministerium",
+          "text": "bezeichnete am Montag/01.06. die Absprachen zwischen Japan und den Philippinen zur maritimen Sicherheit im Südchinesischen Meer als „völlig illegal, null und nichtig\".",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-06-02",
+            "title": "Wachsende Sorge um Taiwan"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Shinjiro Koizumi",
+          "text": "kritisierte am Wochenende/31.05. auf dem Shangri-La-Dialog in Singapur Peking für dessen rasante Aufrüstung: „Chinas außenpolitische Strategie und militärische Aktivitäten geben Japan und der internationalen Gemeinschaft gleichermaßen Anlass zu großer Sorge.\"",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-06-02",
+            "title": "Wachsende Sorge um Taiwan"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Meng Xiangqing",
+          "text": "sagte am Wochenende/31.05. auf dem Shangri-La-Dialog in Richtung Japan: „Ich bezweifle stark, dass ein Land, das das toxische Erbe des Militarismus nicht vollständig beseitigt hat, qualifiziert ist, umfassend über Verteidigungszusammenarbeit bei internationalen Anlässen zu sprechen, und ob es das Vertrauen der internationalen Gemeinschaft, insbesondere der asiatischen Länder, die es einst überfallen hat, gewinnen kann.\"",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-06-02",
+            "title": "Wachsende Sorge um Taiwan"
           },
           "kind": "quote"
         },
         {
           "lead": "Lin Jian",
-          "text": "Bestätigte die Ausweisung von NYT-Korrespondentin Vivian Wang mit der Begründung, die Zeitung biete Taiwan eine Plattform zur Verbreitung „falscher Behauptungen über die Unabhängigkeit Taiwans\" und bezeichne „die Region Taiwan in China offen als Staat\".",
+          "text": "erklärte am Montag/01.06. auf einer Pressekonferenz zur Ausweisung der New-York-Times-Korrespondentin Vivian Wang: „Die ,New York Times' bietet den taiwanesischen Behörden eine Plattform zur Verbreitung falscher Behauptungen über die Unabhängigkeit Taiwans und bezeichnet die Region Taiwan in China offen als Staat.\"",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-06-01",
-            "title": "„China weist Autorin der 'New York Times' aus\""
+            "title": "NACH FALSCHEN VORWÜRFEN; China weist Autorin der ,New York Times' aus"
           },
           "kind": "quote"
         },
         {
-          "lead": "Henna Virkkunen",
-          "text": "Begründet zwei neue EU-Gesetzentwürfe zur digitalen Souveränität – Cloud/KI-Gesetz und Chips Act 2.0 – mit Europas Abhängigkeit von US-Cloud- und China-Chip-Anbietern: „Wir leben in einer Welt, in der Geopolitik und Technologie untrennbar miteinander verbunden sind.\"",
+          "lead": "Lin Jian",
+          "text": "kritisierte am 01.06. die darauffolgende US-Visaentziehung gegen einen Xinhua-Journalisten und sagte, die USA hätten „unter dem Vorwand der sogenannten Gegenseitigkeit politische Repressionen gegen Journalisten der Nachrichtenagentur Xinhua ausgeübt, die legal in den USA tätig sind\", und warf der US-Regierung vor, einseitig Streit zu provozieren und Medienfragen zu politisieren.",
           "source": {
             "outlet": "FAZ",
-            "outletDisplay": "FAZ/zeit.de",
-            "date": "2026-06-03",
-            "title": "„Digitale Souveränität\""
+            "outletDisplay": "faz.net",
+            "date": "2026-06-01",
+            "title": "NACH FALSCHEN VORWÜRFEN; China weist Autorin der ,New York Times' aus"
           },
           "kind": "quote"
         },
         {
-          "lead": "Ulrike Herrmann",
-          "text": "Argumentiert in ihrem Buch „Geld als Waffe\", China stecke wirtschaftlich in einer Sackgasse; Xi könnte versucht sein, Taiwan anzugreifen, „um von der ökonomischen Krise abzulenken\" – Europa müsse aufrüsten, um sich zu schützen.",
+          "lead": "Richard Saynor",
+          "text": "warnte am Donnerstag/28.05. auf einer Pressekonferenz in Kundl, dass weltweit 94 Prozent der Wirkstoffe für generische Antibiotika aus China stammten; China habe über Jahrzehnte den Aufbau von Kapazitäten massiv subventioniert und dominiere den Weltmarkt; Kundl stecke in einem „perfekten Sturm von Schocks\".",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-06-01",
+            "title": "Bis zum bitteren Ende"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Oliver Koppel",
+          "text": "erklärte am 04.06. im Spiegel-Interview, dass 11.300 deutsche Patente inzwischen chinesischen Firmen gehörten – im Jahr 2000 waren es praktisch null – und warnte: „Wir lassen unsere Kronjuwelen aufkaufen\"; rund 450 deutsche Unternehmen seien patentaktiv und befänden sich im Besitz chinesischer Eigentümer, der staatliche chinesische SASAC sei „massiv auf Einkaufstour\".",
+          "source": {
+            "outlet": "Spiegel",
+            "outletDisplay": "Spiegel Plus",
+            "date": "2026-06-04",
+            "title": "Chinas Expansionsdrang; »Wir lassen unsere Kronjuwelen aufkaufen«"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Oliver Koppel",
+          "text": "betonte am 04.06. im Spiegel-Interview: „Bei China ist die Gefahr unmittelbarer, gerade weil wir es dort nicht mit privatwirtschaftlichen Akteuren zu tun haben.\"",
+          "source": {
+            "outlet": "Spiegel",
+            "outletDisplay": "Spiegel Plus",
+            "date": "2026-06-04",
+            "title": "Chinas Expansionsdrang; »Wir lassen unsere Kronjuwelen aufkaufen«"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Karlheinz Wex",
+          "text": "warnte am 02.06. im taz-Interview, die Lage auf dem Wolfram-Markt sei „dramatisch\": China beherrsche weltweit Abbau und Verarbeitung mit einem Marktanteil von über 80 Prozent; seit einem Jahr sei der Export eingeschränkt, „der westliche Markt trocknet aus\"; er habe die „sehr unfaire Handelspolitik Chinas\" bereits 2008 erkannt.",
           "source": {
             "outlet": "taz",
             "outletDisplay": "taz",
-            "date": "2026-06-01",
-            "title": "„Geld als Waffe\""
+            "date": "2026-06-02",
+            "title": "Der westliche Markt trocknet aus"
           },
           "kind": "quote"
         },
         {
-          "lead": "Isabell Koske",
-          "text": "China mache deutschen Güterexporten auf den Weltmärkten „immer stärkere Konkurrenz\" – dieser Gegenwind bremse das deutsche Wachstum 2026 neben den Folgen des Irankriegs zusätzlich und sei ein strukturelles, kein konjunkturelles Problem.",
+          "lead": "Thyssenkrupp Steel Europe",
+          "text": "teilte am 01./02.06. mit, der europäische Markt werde „seit einiger Zeit mit erheblichen Mengen kornorientierten Elektrobands überschwemmt – überwiegend aus asiatischen Überkapazitäten\"; die Preise lägen teilweise unterhalb europäischer Produktionskosten; „Diese Entwicklung gefährdet die Existenz der letzten beiden verbliebenen europäischen Hersteller dieses strategisch relevanten Produkts.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
-            "date": "2026-06-03",
-            "title": "„OECD senkt Wachstumsprognose für Deutschland\""
+            "date": "2026-06-01",
+            "title": "EU-Pläne spalten deutsche Industrie"
           },
           "kind": "quote"
         },
         {
-          "lead": "Matthias Schepp",
-          "text": "„Der Westen sollte Russland, seinen großen Markt und seine Rohstoffe nicht auf Dauer Asien überlassen\"; allein China habe im ersten Quartal 2026 rund 1.400 neue Unternehmen in Russland gegründet.",
+          "lead": "Henry Gao",
+          "text": "kommentierte am 02.06. die neue chinesische Wirtschaftskontrollverordnung und schrieb, chinesische Unternehmen und Investoren würden „zunehmend in die geoökonomische Auseinandersetzung zwischen Peking und Washington hineingezogen\"; er ordnete die Reform vor allem als Systematisierung bestehender Instrumente ein.",
           "source": {
-            "outlet": "Die Welt",
-            "outletDisplay": "welt.de",
-            "date": "2026-05-31",
-            "title": "„Deutsche nehmen an Putins Forum teil\""
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-06-02",
+            "title": "WIRTSCHAFTSKONTROLLEN; China stärkt Eingriffsrechte der Behörden"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Ingo Speich",
+          "text": "warnte am 03.06., westliche Automobilhersteller holten sich mit der Öffnung ihrer Werke für chinesische Hersteller die Konkurrenz ins eigene Haus: „Kurzfristig mag das die Überkapazitätenproblematik hiesiger Hersteller lindern, langfristig holt man sich aber die Konkurrenz in die eigenen Werke. Für die Industrie kommt das einem trojanischen Pferd gleich.\"",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-06-03",
+            "title": "Chinesische Marken nutzen Fabrikprobleme in Europa"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Johannes Petry",
+          "text": "stellte am 04.06. fest: „Russland handelt geopolitisch zwar oft demonstrativ unabhängig, ist aber seit 2022 finanziell deutlich abhängiger von China geworden\", und beschrieb Russland als zunehmend in eine von Peking dominierte Wirtschaftsarchitektur eingebundenen Rohstofflieferanten.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "handelsblatt.com",
+            "date": "2026-06-04",
+            "title": "Chinas stiller Sieg über Russland"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Ian Chong",
+          "text": "sagte am 04.06.: „In der Realität scheint China sehr darauf bedacht zu sein, keine offene und direkte militärische Unterstützung für Russland zu zeigen\"; Peking versuche vielmehr, mehrere Ziele gleichzeitig zu erreichen: den Bruch mit Europa nicht weiter zu vertiefen, keine offene Annexion eines souveränen Staates zu legitimieren – und zugleich die strategischen Vorteile aus Russlands Isolation zu ziehen.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "handelsblatt.com",
+            "date": "2026-06-04",
+            "title": "Chinas stiller Sieg über Russland"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Martin Herrenknecht",
+          "text": "erklärte am 05.06. im FAZ-Interview, Deutschlands Wettbewerbsfähigkeit sei durch zu hohe Arbeitskosten gefährdet: „Bei der Endmontage von Autos beispielsweise liegen wir in Deutschland bei dem Fünfzehnfachen von dem, was in China anfällt\"; BMW und Mercedes seien „ins chinesische Messer gelaufen\".",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-06-05",
+            "title": "INTERVIEW MIT MARTIN HERRENKNECHT; 'Unser Land ist auf dem Weg zu einer Bananenrepublik'"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "C. C. Wei",
+          "text": "sagte am 05.06. auf der TSMC-Hauptversammlung in Hsinchu zu Plänen für eigene Chipfertigung von Elon Musk: „Ich würde nur 'Viel Glück' zu Elon Musk sagen\"; zur Konkurrenz generell: „In den vergangenen 30 bis 40 Jahren haben wir uns stets allen möglichen Wettbewerbern gestellt. Wir haben keine Angst vor Konkurrenz\"; und zur Kapazität: „Es wird lange dauern, bis wir die Kundennachfrage erfüllen können.\"",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-06-05",
+            "title": "TSMC HAT KEINE ANGST VOR KONKURRENZ; 'Ich würde nur 'Viel Glück' zu Elon Musk sagen'"
           },
           "kind": "quote"
         },
         {
           "lead": "Zhu Shaodong",
-          "text": "„Jetzt ist der richtige Zeitpunkt für uns, nach Deutschland zu kommen\" – die chinesische Autoindustrie sei bei der technologischen Revolution in Elektroantrieben und autonomem Fahren weltweit führend, vom Rohstoffzugang über die Lieferkette bis zur Kostenstruktur.",
+          "text": "erklärte am 04.06. gegenüber Welt, Chery wolle jetzt nach Deutschland kommen: „Jetzt ist der richtige Zeitpunkt für uns, nach Deutschland zu kommen\"; die globale Autoindustrie stehe vor einer technologischen Revolution, und man stelle – zumindest vorübergehend – fest, „dass die chinesische Autoindustrie dabei weltweit führend ist. Und das in allen Punkten, vom Rohstoffzugang über Lieferkette und Kosten bis hin zur Technologie.\"",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
             "date": "2026-06-04",
-            "title": "„Keine Marke wächst in Europa schneller\""
+            "title": "Chery; Keine Marke wächst in Europa schneller"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Andrej Lankow",
+          "text": "sagte am 06.06. zur bevorstehenden Xi-Reise nach Nordkorea: „Die Nordkoreaner hassen die Chinesen\" – in Pjöngjang halte man die Chinesen für arrogant und überheblich; „Mit den Russen arbeiten sie viel lieber zusammen. Die respektieren sie.\"",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-06-06",
+            "title": "Was will Xi in Nordkorea?"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Lai Ching-te",
+          "text": "äußerte sich am 04.06. auf Facebook zum 37. Jahrestag des Tiananmen-Massakers und schrieb, ein „wahrlich großes Land\" sollte nicht auf ein mächtiges Militär setzen, sondern sich den Wunden seiner Geschichte stellen; er hoffe, dass China den Ereignissen ins Auge sehe, die Wahrheit anerkenne und einen Dialog beginne.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-06-04",
+            "title": "Gedenken und Kritik zu 37 Jahre Tian'anmen-Massaker"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Sachverständigenrat Wirtschaft",
+          "text": "stellte in seinem Jahresgutachten 2024/2025 – in dieser Woche in mehreren Leitmedien aufgegriffen – einen seit Jahren anhaltenden Rückgang der Wettbewerbsfähigkeit des deutschen verarbeitenden Sektors gegenüber China fest und wies darauf hin, dass deutsche Unternehmen selbst daran Anteil hätten, weil sie Wertschöpfung nach China verlagert hätten.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-06-06",
+            "title": "Unfaires Spiel der Chinesen?"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "René Haas",
+          "text": "erklärte am 05.06. auf der Computex-Messe in Taipeh: „Wir wären nirgendwo ohne Taiwan\", im Kontext der wachsenden globalen Abhängigkeit der KI-Chipproduktion von taiwanischen Herstellern, insbesondere TSMC.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-06-06",
+            "title": "ABHÄNGIGKEIT VON TAIWAN; Die unersetzliche Insel"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Sigrid Wang",
+          "text": "kommentierte am 04.06. die Beteiligung des chinesischen Staatskapital-Fonds an Deepseeks erster Finanzierungsrunde: Die Beteiligung des nationalen KI-Fonds „verankert Deepseeks Status als nationaler Champion\"; Tencent könne mit seiner Reichweite bei der Verbreitung helfen und CATL mit der Infrastruktur, da Energie die größte Einschränkung für KI-Entwickler sei.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-06-04",
+            "title": "DEEPSEEK SAMMELT GELD EIN; Milliarden für Chinas KI-Champion"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Matthias Schmidt",
+          "text": "warnte am 04.06. mit Blick auf Cherys Markteintritt in Großbritannien: „Betrachtet man ihren dramatischen Vorstoß in Großbritannien, wo sie das Jahr wahrscheinlich als zweitgrößte Marke direkt hinter Volkswagen abschließen werden, sollte dies ein Weckruf für deutsche Hersteller sein.\"",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-06-04",
+            "title": "Chery; Keine Marke wächst in Europa schneller"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Constantin M. Gall",
+          "text": "erklärte am 05.06. im Bild-Interview zur Lage der deutschen Autobauer in China: „Von der Cashcow zum Sorgenkind: China bleibt eines der größten Probleme für die deutschen Konzerne\"; die Krise sei für die deutschen Autokonzerne „längst noch nicht überwunden\"; sein Fazit zum Standort Deutschland: „Insgesamt bietet Deutschland wenig Anreize, hier noch Industrieproduktion im großen Stil aufrechtzuerhalten.\"",
+          "source": {
+            "outlet": "BILD",
+            "outletDisplay": "bild.de",
+            "date": "2026-06-05",
+            "title": "23 Prozent weniger Gewinn; Die Konkurrenz fährt VW, BMW und Mercedes davon"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Taiwanisches Außenministerium",
+          "text": "erklärte am 02.06. anlässlich chinesischer Küstenwachpatrouillen vor Taiwan: „China hat kein Recht, sich in Taiwans territoriale Souveränität und Hoheitsrechte über seine Seegebiete einzumischen.\"",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-06-02",
+            "title": "Wachsende Sorge um Taiwan"
           },
           "kind": "quote"
         }
@@ -186,101 +351,167 @@ window.W23_2026_WOCHENBERICHT = {
       "label": "Wichtige China-bezogene Entwicklungen in Fakten und Zahlen",
       "items": [
         {
-          "lead": "Dramatischer Patent-Abfluss nach China",
-          "text": "Laut einer aktuellen IW-Studie sind Tausende deutsche Patente in chinesischen Besitz übergegangen; der Anteil Deutschlands an transnationalen Patentanmeldungen sank zwischen 2000 und 2022 von 22 auf nur noch 15 Prozent.",
+          "lead": "Chinas globale Produktionsdominanz",
+          "text": "China hält einen Anteil von rund 30 Prozent an der globalen Wertschöpfung des verarbeitenden Sektors und erzielte 2025 einen Rekordhandelsbilanzüberschuss von über 1,2 Billionen Dollar.",
           "source": {
-            "outlet": "Spiegel",
-            "outletDisplay": "Spiegel",
-            "date": "2026-06-04",
-            "title": "„Wir lassen unsere Kronjuwelen aufkaufen“"
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-06-06",
+            "title": "Unfaires Spiel der Chinesen?"
           },
           "kind": "fact"
         },
         {
-          "lead": "Chinas Dominanz bei Industrierobotern",
-          "text": "Im Jahr 2024 installierte China 295.000 neue Industrieroboter, während Deutschland im gleichen Zeitraum lediglich auf 26.982 Einheiten kam.",
+          "lead": "Antibiotikaproduktion in China-Abhängigkeit",
+          "text": "Weltweit stammen 94 Prozent der Wirkstoffe für generische Antibiotika aus China, warnt Sandoz-Chef Richard Saynor – das letzte vollintegrierte Antibiotikawerk Europas steht damit unter massivem Wettbewerbsdruck.",
           "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
             "date": "2026-06-01",
-            "title": "„Der zweite Schock heißt KI - diesmal fehlt das Netz“"
+            "title": "Bis zum bitteren Ende"
           },
           "kind": "fact"
         },
         {
-          "lead": "Explosion der KI-Nutzung in China",
-          "text": "Ende 2025 nutzten bereits 47,5 Prozent aller chinesischen Industrieunternehmen KI-Modelle in ihren Prozessen; ein Jahr zuvor waren es erst rund zehn Prozent.",
+          "lead": "Chinas Industriesubventionen weit über OECD-Niveau",
+          "text": "Zwischen 2005 und 2024 erhielten chinesische Unternehmen im Verhältnis zum Umsatz drei bis acht Mal mehr staatliche Förderung als Wettbewerber in OECD-Ländern; laut OECD sind rund 60 Prozent der globalen Marktanteilsgewinne chinesischer Firmen auf diese Subventionierung zurückzuführen.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "Welt",
+            "date": "2026-06-01",
+            "title": "Chinas Industrie kassiert mehr Subventionen als Konkurrenz"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "DeepSeek sammelt erste externe Runde ein",
+          "text": "Das chinesische KI-Unternehmen DeepSeek steht kurz vor dem Abschluss einer Finanzierungsrunde von rund 6,4 Milliarden Euro (50 Mrd. Renminbi) bei einer Bewertung von 45 bis 50 Milliarden Euro – ausländische Investoren sind nicht beteiligt.",
           "source": {
             "outlet": "FAZ",
-            "outletDisplay": "FAZ",
-            "date": "2026-06-03",
-            "title": "„KI-PAPERS: Das erste wirklich offene Weltklassemodell für Robotik“"
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-06-04",
+            "title": "Milliarden für Chinas KI-Champion"
           },
           "kind": "fact"
         },
         {
-          "lead": "Rückzug der Pharmaindustrie aus Deutschland",
-          "text": "Infolge des GKV-Gesetzes streicht Boehringer Ingelheim Investitionen von über 900 Millionen Euro in Deutschland; der US-Konzern Eli Lilly halbiert seine geplanten Milliardeninvestitionen in Rheinland-Pfalz.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt",
-            "date": "2026-06-05",
-            "title": "„GESUNDHEITSPOLITIK; Die Quittung kommt“"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "China-Preisbrecher auf dem deutschen Automarkt",
-          "text": "Der MG4 EV Urban (Listenpreis 24.990 Euro) wird über einen Hersteller-Rabatt und staatliche Förderung als Aktionspreis ab 12.990 Euro beworben und unterbietet damit heimische Konkurrenten.",
+          "lead": "Mehr als 11.300 deutsche Patente in chinesischem Besitz",
+          "text": "Laut einer Studie des Instituts der deutschen Wirtschaft wechselten in zwei Jahrzehnten mehr als 11.300 in Deutschland entwickelte Patente in chinesischen Besitz, während China den eigenen Markt für ausländische Investoren weitgehend abschirmt.",
           "source": {
             "outlet": "DIE ZEIT",
-            "outletDisplay": "zeit.de",
-            "date": "2026-06-03",
-            "title": "„So fährt der Preisbrecher aus China; MG4 EV Urban für sensationelle 12.990 Euro zu haben“"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "SK Hynix knackt Billionen-Grenze",
-          "text": "Getrieben durch den KI-Boom stieg der Börsenwert des südkoreanischen Speicherchipherstellers SK Hynix in diesem Jahr um über 200 Prozent auf fast eine Billion US-Dollar.",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "outletDisplay": "Zeit Online",
             "date": "2026-06-02",
-            "title": "„Die glorreichen Sieben sind nun zwölf“"
+            "title": "Tausende deutsche Patente sind in chinesischem Besitz"
           },
           "kind": "fact"
         },
         {
-          "lead": "China als dominanter Akteur bei Antimon",
-          "text": "Die EU ist bei dem rüstungsrelevanten Rohstoff Antimon massiv abhängig; China verantwortet derzeit 60 Prozent der weltweiten Produktion und über 70 Prozent der Weiterverarbeitung.",
+          "lead": "Chinas Autobauer: 8 Prozent Marktanteil in Europa",
+          "text": "Im ersten Quartal 2026 erreichten chinesische Hersteller in Europa (EU plus UK, Schweiz, Norwegen) einen Marktanteil von 8 Prozent – zwei Punkte mehr als im Gesamtjahr 2025; bis 2030 erwarten Analysten 12 bis 15 Prozent.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "Welt",
+            "date": "2026-06-03",
+            "title": "Marktanteile stark gewachsen – Chinas Autobauer in Europa"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "BYD erstmals Plug-in-Hybrid-Marktführer in Deutschland",
+          "text": "Im Mai 2026 meldete BYD 4.290 neu zugelassene Super-Hybrid-Fahrzeuge in Deutschland – damit war fast jedes sechste zugelassene Plug-in-Hybridmodell ein BYD.",
+          "source": {
+            "outlet": "BILD",
+            "outletDisplay": "BILD Ruhrgebiet",
+            "date": "2026-06-05",
+            "title": "Chinesische E-Autos erobern Deutschland"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Nordkorea liefert Waffen im Wert von 5,6 bis 9,8 Milliarden US-Dollar an Russland",
+          "text": "Seit 2023 hat Pjöngjang laut einer Studie der Friedrich-Naumann-Stiftung Waffen im Wert von 5,6 bis 9,8 Milliarden US-Dollar nach Russland geliefert; bis zu 95 Prozent des nordkoreanischen Außenhandels entfallen auf China als Schutzmacht.",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-06-06",
+            "title": "Was will Xi in Nordkorea?"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "USA halten Taiwan-Waffenpaket zurück",
+          "text": "Die US-Regierung hält derzeit die Lieferung eines Rüstungspakets im Umfang von 14 Milliarden US-Dollar an Taiwan zurück – Verteidigungsminister Hegseth erwähnte Taiwan beim Shangri-La-Dialog mit keinem Wort.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
-            "date": "2026-06-03",
-            "title": "„SLOWAKEI; Antimon-Projekt steht auf der Kippe“"
+            "date": "2026-06-01",
+            "title": "Kein Wort zu Taiwan"
           },
           "kind": "fact"
         },
         {
-          "lead": "Abhängigkeit von US-Clouddiensten",
-          "text": "In Europa hängen 80 Prozent aller digitalen Dienstleistungen von Anbietern aus Drittstaaten (primär USA) ab, was die EU-Kommission nun durch neue Gesetze ändern will.",
+          "lead": "Chinesische Landrente: 22 Euro – Beamte erhalten das 40-Fache",
+          "text": "Rund 180 Millionen chinesische Landwirte erhalten eine monatliche Rente von lediglich umgerechnet 22 Euro, während pensionierte Beamte knapp 900 Euro beziehen.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-05-30",
+            "title": "Als Beamter bekäme er vierzigmal mehr"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Temu mit 200 Millionen Euro von EU-Kommission bestraft",
+          "text": "Die Europäische Kommission verhängte gegen die chinesische Handelsplattform Temu eine Geldbuße von 200 Millionen Euro, weil das Unternehmen nicht ausreichend gegen illegale Produkte vorgeht; Temu und Shein halten zusammen bereits 5 Prozent des deutschen Online-Einzelhandels.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
             "date": "2026-06-05",
-            "title": "„Wie die EU unabhängig von US-Clouds werden soll“"
+            "title": "Hat die Temu-Welle ihren Höhepunkt erreicht?"
           },
           "kind": "fact"
         },
         {
-          "lead": "SAIC plant erste EU-Fabrik",
-          "text": "Der chinesische Konzern SAIC (Marke MG) investiert rund 200 Millionen Euro in eine neue Fabrik in Galicien (Spanien), um die EU-Zollhürden zu umgehen.",
+          "lead": "Peking sperrt Kapitalflucht: Futu drohen 230 Millionen Euro Strafe",
+          "text": "Im Rahmen eines Crackdowns gegen grenzüberschreitende Wertpapiergeschäfte droht dem Online-Broker Futu eine Zahlung von rund 1,85 Milliarden Yuan (etwa 230 Millionen Euro); Konkurrent Tiger soll gut 411 Millionen Yuan zahlen.",
+          "source": {
+            "outlet": "WirtschaftsWoche",
+            "outletDisplay": "Wirtschaftswoche",
+            "date": "2026-06-02",
+            "title": "China schließt den Rendite-Notausgang"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Chinas Bevölkerung schrumpft bis 2050 um 160 Millionen",
+          "text": "UN-Projektionen zufolge könnte Chinas Bevölkerung von 1,42 Milliarden (2021) auf 1,26 Milliarden (2050) sinken – 160 Millionen Menschen weniger; der Anteil der ländlichen Bevölkerung sank bereits von 63,6 Prozent (2000) auf 34,1 Prozent (2024).",
           "source": {
             "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-06-05",
+            "title": "Die Frage, die China noch verdrängt"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Xi Jinpings erste Auslandsreise 2026 führt nach Nordkorea",
+          "text": "Zum ersten Mal seit 2019 besucht Chinas Staatschef Nordkorea; der Besuch fällt mit dem 65. Jahrestag des chinesisch-nordkoreanischen Beistandsvertrages zusammen.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-06-05",
+            "title": "Warum Xi nach Nordkorea reist"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Globale Industriesubventionen auf Rekordniveau",
+          "text": "Im Jahr 2024 beliefen sich Subventionen in 15 Industriesektoren weltweit auf insgesamt 108 Milliarden US-Dollar – was 1,3 Prozent der Umsatzerlöse entspricht; China dominiert dabei mit strukturell höheren Förderquoten als alle Vergleichsgruppen.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "Welt",
             "date": "2026-06-01",
-            "title": "„Autoindustrie; Chinesischer Autobauer SAIC plant erste EU-Fabrik in Spanien“"
+            "title": "Chinas Industrie kassiert mehr Subventionen als Konkurrenz"
           },
           "kind": "fact"
         }
@@ -293,126 +524,126 @@ window.W23_2026_WOCHENBERICHT = {
       "label": "Fünf zentrale Themen in der deutschen China-Politik Diskussion",
       "items": [
         {
-          "title": "Deutschlands Scheitern bei der UN-Sicherheitsratswahl und die Debatte über die eigene außenpolitische Rolle",
-          "text": "Die Berichterstattung ist geprägt von Deutschlands verpasster Wahl zu einem nichtständigen Sitz im UN-Sicherheitsrat. Kommentatoren werten dies als Folge einer ehrgeizigen, in der Umsetzung aber unzureichenden Außenpolitik und diskutieren, dass Deutschland ohne belastbare Allianzen zwischen den USA und China an außenpolitischem Gewicht verliert.",
+          "title": "Chinas Exportoffensive und staatliche Subventionen",
+          "text": "Mehrere große Outlets debattieren, ob Chinas Rekordhandelsüberschuss von 1,2 Billionen Dollar 2025 auf unfairen staatlichen Praktiken beruht oder strukturelle Schwächen Europas widerspiegelt. Die OECD dokumentiert, dass chinesische Industrieunternehmen zwischen 2005 und 2024 drei- bis achtmal mehr Subventionen im Verhältnis zum Umsatz erhielten als OECD-Wettbewerber. Die Debatte dreht sich darum, ob Brüssel und Berlin mit Schutzmaßnahmen reagieren sollen – oder ob europäische Wettbewerbsnachteile in erster Linie hausgemacht sind.",
           "sources": [
             {
-              "outlet": "Handelsblatt",
-              "outletDisplay": "handelsblatt.com",
-              "date": "2026-06-03",
-              "title": "„UN-Sicherheitsrat; Wie es zu Deutschlands historischer Niederlage kam“"
+              "outlet": "FAZ",
+              "outletDisplay": "Frankfurter Allgemeine Zeitung",
+              "date": "2026-06-06",
+              "title": "Unfaires Spiel der Chinesen?"
+            },
+            {
+              "outlet": "Die Welt",
+              "outletDisplay": "Welt",
+              "date": "2026-06-01",
+              "title": "Chinas Industrie kassiert mehr Subventionen als Konkurrenz"
             },
             {
               "outlet": "Handelsblatt",
-              "outletDisplay": "handelsblatt.com",
+              "outletDisplay": "Handelsblatt",
+              "date": "2026-06-05",
+              "title": "So geht die China-Debatte nicht weiter! Zwischenruf aus Shanghai"
+            }
+          ],
+          "kind": "theme"
+        },
+        {
+          "title": "Chinesische Automobilmarken auf dem Vormarsch in Europa",
+          "text": "BYD, Chery und MG verzeichnen in dieser Woche breite Medienaufmerksamkeit, nachdem neue Zulassungsdaten für Mai 2026 zeigen, dass BYD bei Plug-in-Hybriden in Deutschland erstmals die Marktführerschaft übernahm und Chinas Gesamtmarktanteil in Europa auf acht Prozent stieg – mit Projektionen von zwölf bis 15 Prozent bis 2030. Parallel warnen Experten davor, dass westliche Hersteller wie Stellantis und VW ihre Werke für chinesische Modelle öffnen und sich damit Konkurrenten ins eigene Haus holen.",
+          "sources": [
+            {
+              "outlet": "Handelsblatt",
+              "outletDisplay": "Handelsblatt",
+              "date": "2026-06-03",
+              "title": "Chinesische Marken nutzen Fabrikprobleme in Europa"
+            },
+            {
+              "outlet": "Die Welt",
+              "outletDisplay": "Welt",
               "date": "2026-06-04",
-              "title": "„Kommentar; UN-Schlappe entblößt Deutschlands Rolle als Scheinriese“"
+              "title": "Chery – Keine Marke wächst in Europa schneller"
+            },
+            {
+              "outlet": "BILD",
+              "outletDisplay": "BILD Ruhrgebiet",
+              "date": "2026-06-05",
+              "title": "Chinesische E-Autos erobern Deutschland"
+            }
+          ],
+          "kind": "theme"
+        },
+        {
+          "title": "Taiwans strategische Unersetzlichkeit – Chip-Abhängigkeit und Sicherheitsrisiko",
+          "text": "FAZ, SZ und Handelsblatt befassen sich intensiv damit, dass Taiwans Halbleiterproduktion durch den KI-Boom noch unverzichtbarer geworden ist – und die politischen Risiken gestiegen sind, seit Trump Taiwan als „Verhandlungsmasse\" gegenüber Peking bezeichnete und China seine Küstenwache vor der Insel patrouillieren ließ. Deutsche Parlamentarier berichten nach einer Delegationsreise nach Taipeh, dass die Inselrepublik als Modell für Krisenresilienz unter Dauerdruck gelten kann.",
+          "sources": [
+            {
+              "outlet": "Süddeutsche Zeitung",
+              "outletDisplay": "Süddeutsche Zeitung",
+              "date": "2026-06-02",
+              "title": "Wachsende Sorge um Taiwan"
+            },
+            {
+              "outlet": "FAZ",
+              "outletDisplay": "Frankfurter Allgemeine Zeitung",
+              "date": "2026-06-06",
+              "title": "Die gefährliche Abhängigkeit von Taiwan"
+            },
+            {
+              "outlet": "Handelsblatt",
+              "outletDisplay": "Handelsblatt",
+              "date": "2026-06-01",
+              "title": "Kein Wort zu Taiwan"
+            }
+          ],
+          "kind": "theme"
+        },
+        {
+          "title": "Chinas verschärfte Wirtschaftskontrollen und Kapitalabschirmung",
+          "text": "Handelsblatt und Wirtschaftswoche berichten, dass eine zum 1. Juli in Kraft tretende Verordnung chinesischen Behörden umfassendere Eingriffsrechte in grenzüberschreitende Transaktionen gibt – Unternehmen können zur Aufgabe von Geschäftsbereichen aus nationalen Sicherheitsgründen gezwungen werden. Gleichzeitig gehen Regulierer gegen Online-Broker vor, die chinesischen Sparern Zugang zu ausländischen Börsen ermöglicht hatten. Parallel zeigt eine IW-Studie, dass über 11.000 in Deutschland entwickelte Patente in chinesischen Besitz übergegangen sind.",
+          "sources": [
+            {
+              "outlet": "Handelsblatt",
+              "outletDisplay": "Handelsblatt",
+              "date": "2026-06-02",
+              "title": "China stärkt Eingriffsrechte der Behörden"
             },
             {
               "outlet": "WirtschaftsWoche",
-              "outletDisplay": "wiwo.de",
-              "date": "2026-06-04",
-              "title": "„Geopolitischer Einfluss; Warum Deutschland schon am Sicherheitsrat scheitert“"
+              "outletDisplay": "WirtschaftsWoche",
+              "date": "2026-06-02",
+              "title": "China schließt den Rendite-Notausgang"
+            },
+            {
+              "outlet": "DIE ZEIT",
+              "outletDisplay": "Zeit",
+              "date": "2026-06-02",
+              "title": "Tausende deutsche Patente sind in chinesischem Besitz"
             }
           ],
           "kind": "theme"
         },
         {
-          "title": "Rückzug von Pharma-Investitionen und die Debatte über den Industriestandort",
-          "text": "Im Mittelpunkt steht die Absage geplanter Investitionen durch Boehringer Ingelheim und Eli Lilly. In der Debatte gilt dies als Folge des GKV-Gesetzes und der Industriepolitik; während Merz eine Hightech-Agenda ankündigt, ziehen forschungsstarke Konzerne Mittel aus Deutschland ab. Verwiesen wird auf den Kontrast zu China, das seine Gesundheitsindustrie strategisch fördert.",
+          "title": "Xis Nordkorea-Besuch und Chinas Rolle als globaler Scharnierpartner",
+          "text": "Xis erste Auslandsreise 2026 nach Pjöngjang – erstmals seit sieben Jahren – wird von SZ, FAZ und Handelsblatt als Signal interpretiert, dass Peking seinen Pufferstaat stabilisiert und sich gleichzeitig als die Macht positioniert, die in einer zersplitterten Welt mit allen Seiten verhandeln kann. Hinzu kommt eine Analyse, die zeigt, dass China in seiner Wirtschaftsbeziehung zu Russland seit 2022 zunehmend die Bedingungen diktiert – bei Gas, Handel und Finanzströmen.",
           "sources": [
             {
-              "outlet": "Handelsblatt",
-              "outletDisplay": "Handelsblatt",
-              "date": "2026-06-05",
-              "title": "„GESUNDHEITSPOLITIK; Die Quittung kommt“"
+              "outlet": "Süddeutsche Zeitung",
+              "outletDisplay": "Süddeutsche Zeitung",
+              "date": "2026-06-06",
+              "title": "Was will Xi in Nordkorea?"
             },
-            {
-              "outlet": "Handelsblatt",
-              "outletDisplay": "Handelsblatt",
-              "date": "2026-06-05",
-              "title": "„STANDORT DEUTSCHLAND; Boehringer Ingelheim – 900 Millionen Euro wandern ab“"
-            },
-            {
-              "outlet": "FAZ",
-              "outletDisplay": "FAZ",
-              "date": "2026-06-03",
-              "title": "„Wegen GKV-Gesetz: Boehringer Ingelheim und Eli Lilly stoppen Millioneninvestitionen in Deutschland“"
-            }
-          ],
-          "kind": "theme"
-        },
-        {
-          "title": "US-Forderung nach höheren Verteidigungsausgaben und die maritime Lage im Indopazifik",
-          "text": "Nach dem Shangri-La-Dialog prägt die US-Forderung nach europäischen Verteidigungsausgaben von 3,5 % des BIP die Sicherheitsdebatte. Diskutiert werden Trumps transaktionales NATO-Verständnis und Chinas maritime Expansion sowie die Frage, ob sich Deutschland an Marinemissionen zur Sicherung der Handelswege beteiligen sollte oder dies seine militärischen Kapazitäten überfordert.",
-          "sources": [
             {
               "outlet": "FAZ",
               "outletDisplay": "faz.net",
-              "date": "2026-06-04",
-              "title": "„SHANGRI-LA-DIALOG; Amerika an Asien: \"Aufrüsten!\"“"
-            },
-            {
-              "outlet": "Spiegel",
-              "outletDisplay": "Spiegel",
-              "date": "2026-05-30",
-              "title": "„US-Verteidigungsminister in Südostasien: Warum sich Hegseth in Singapur plötzlich »maßvoll« und »wohlüberlegt« gibt“"
-            },
-            {
-              "outlet": "FAZ",
-              "outletDisplay": "FAZ",
-              "date": "2026-05-31",
-              "title": "„Hegseth in Singapur: Lob für Asien, Schelte für Europa“"
-            }
-          ],
-          "kind": "theme"
-        },
-        {
-          "title": "Technologietransfer und die Übernahme deutscher Patente durch China",
-          "text": "Eine IW-Studie zum Technologietransfer verschärft die Debatte über den Abfluss von Know-how. Thema ist, dass China gezielt deutsche Patente übernimmt, ohne dass die Politik wirksame Gegenmaßnahmen einsetzt. Gewarnt wird, Deutschland könne zur \"verlängerten Werkbank\" Chinas werden, vor allem bei Erfindungen im Maschinenbau und in der Elektroindustrie.",
-          "sources": [
-            {
-              "outlet": "Spiegel",
-              "outletDisplay": "Spiegel Online",
-              "date": "2026-06-02",
-              "title": "„Technologietransfer; China hat Tausende deutscher Patente übernommen“"
-            },
-            {
-              "outlet": "Spiegel",
-              "outletDisplay": "Spiegel Plus",
-              "date": "2026-06-04",
-              "title": "„IW-Ökonom Oliver Koppel; „Wir werden zur verlängerten Innovationswerkbank Chinas““"
-            },
-            {
-              "outlet": "Spiegel",
-              "outletDisplay": "Spiegel",
-              "date": "2026-06-04",
-              "title": "„Wir lassen unsere Kronjuwelen aufkaufen“"
-            }
-          ],
-          "kind": "theme"
-        },
-        {
-          "title": "Digitale Souveränität und die Abhängigkeit von US- und chinesischer Technologie",
-          "text": "Neue Digitalstrategien der EU-Kommission lösen eine Debatte über die Abhängigkeit von US-Cloud-Anbietern und chinesischen Halbleitern aus. Diskutiert werden der Aufbau eigener KI-Rechenzentren und Regeln, die europäische Anbieter stärken, um die technologische Abhängigkeit von beiden Großmächten zu verringern.",
-          "sources": [
-            {
-              "outlet": "DIE ZEIT",
-              "outletDisplay": "zeit.de",
-              "date": "2026-06-03",
-              "title": "„Souveränität der EU; So will die EU Donald Trumps »Kill-Switch« entkommen“"
+              "date": "2026-06-05",
+              "title": "Warum Xi nach Nordkorea reist"
             },
             {
               "outlet": "Handelsblatt",
-              "outletDisplay": "handelsblatt.com",
-              "date": "2026-06-02",
-              "title": "„Halbleiter; Merz setzt auf digitale Souveränität mit eigenen Rechenzentren“"
-            },
-            {
-              "outlet": "DIE ZEIT",
-              "outletDisplay": "zeit.de",
-              "date": "2026-06-03",
-              "title": "„Digitale Infrastruktur; EU will unabhängiger von USA und China werden“"
+              "outletDisplay": "Handelsblatt",
+              "date": "2026-06-04",
+              "title": "Chinas stiller Sieg über Russland"
             }
           ],
           "kind": "theme"

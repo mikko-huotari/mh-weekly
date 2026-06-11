@@ -13,30 +13,30 @@ window.W22_2026_WOCHENBERICHT = {
       "label": "Prominente Zitate und Positionen zu China-bezogenen Angelegenheiten",
       "items": [
         {
-          "lead": "Mao Ning",
-          "text": "Forderte deutsche Abgeordnete auf, „sich an das Ein-China-Prinzip zu halten und damit aufzuhören, die falschen Signale an Taiwans Unabhängigkeitskräfte zu senden\".",
+          "lead": "Katherina Reiche",
+          "text": "erklärte am Mittwoch/28. Mai in Peking: „Wir suchen den Dialog mit China, weil es faire Wettbewerbsbedingungen braucht.“ Wettbewerb müsse so gestaltet sein, „dass es zu beiderseitigem Nutzen ist“.",
           "source": {
-            "outlet": "DIE ZEIT",
-            "outletDisplay": "zeit.de",
-            "date": "2026-05-25",
-            "title": "China kritisiert Reise von Bundestagsdelegation nach Taiwan"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Till Steffen",
-          "text": "Wies Pekings Einmischungsforderungen zurück: „Ich würde China empfehlen, sich nicht einzumischen. Es sind langjährige und stabile Beziehungen, die wir haben. Die pflegen wir und die bauen wir aus.\"",
-          "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
-            "date": "2026-05-25",
-            "title": "Taiwan; China kritisiert Reise von Bundestagsdelegation nach Taiwan"
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-05-28",
+            "title": "HANDELSSTREIT; Reiche warnt in Peking vor unfairem Wettbewerb"
           },
           "kind": "quote"
         },
         {
           "lead": "Katherina Reiche",
-          "text": "Würdigte Chinas industriellen Aufstieg bei ihrem Peking-Besuch ausdrücklich – „Die Geschwindigkeit, mit der dieses Land die industrielle Transformation, industrielle Modernisierung und technologische Weiterentwicklung meistert, verdient Anerkennung und Respekt\" – forderte aber zugleich Reziprozität und fairen Wettbewerb ein.",
+          "text": "warb am Mittwoch/28. Mai in Peking bei der EU für Mäßigung: „Wir werben in Brüssel also für einen balancierten Ansatz, wirksame Schutzinstrumente und gleichzeitig Offenheit für den Export.“",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-05-28",
+            "title": "Reiche fordert EU zu Milde gegen China auf"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Katherina Reiche",
+          "text": "lobte am Mittwoch/28. Mai vor der deutschen Wirtschaftsdelegation in Peking Chinas Innovationsstärke: „China hat die Fähigkeit, aus Innovation sehr, sehr schnell Skalierung und damit auch Produkte und Märkte zu bestimmen.“ Die Geschwindigkeit, mit der China die industrielle Modernisierung und technologische Weiterentwicklung meistere, verdiene „Anerkennung und Respekt“.",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -47,73 +47,150 @@ window.W22_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Wang Wentao",
-          "text": "Wies im Gespräch mit Reiche EU-Schutzmaßnahmen zurück und erklärte, „protektionistische Handelsbeschränkungen\" der EU hätten „die Zusammenarbeit zwischen chinesischen und europäischen Unternehmen erheblich beeinträchtigt\".",
+          "text": "sagte am Mittwoch/28. Mai bei seinem Treffen mit Reiche in Peking, er lehne EU-Schutzmaßnahmen gegen chinesische Importe ab: „Wir verfolgen die protektionistischen Maßnahmen der EU mit großem Interesse. Und Unternehmen sagen uns, das gefährde unsere Kooperation.“",
           "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-05-27",
-            "title": "Reiche betont in China die Gemeinsamkeiten"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Oliver Oehms",
-          "text": "„Der extreme Preisdruck setzt deutschen Unternehmen in China zu\", während die angekündigten Maßnahmen Pekings für ausgewogenere Märkte bislang eher Rhetorik blieben.",
-          "source": {
-            "outlet": "WirtschaftsWoche",
-            "outletDisplay": "wiwo.de",
-            "date": "2026-05-25",
-            "title": "Deutsche Firmen stellen Forderungen an Reiches China-Besuch"
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-05-28",
+            "title": "Wirtschaftsministerin in Peking; Reiche lobt und gratuliert – trotzdem droht ein neuer China-Schock für Deutschland"
           },
           "kind": "quote"
         },
         {
           "lead": "Stéphane Séjourné",
-          "text": "Warnte vor den Folgen chinesischer Überkapazitäten und rief zu einem Kurswechsel auf: „Europa hat im Grunde keine Wahl\" – wenn Brüssel die Industrie nicht schütze, „zerbricht es wieder ins Nationale\"; Europa verliere täglich rund eine Milliarde Euro im Handel mit China.",
+          "text": "warnte am Mittwoch/28. Mai im Handelsblatt-Interview: Die bisherigen EU-Maßnahmen seien „zu begrenzt und zu langsam“, „Europa hat im Grunde keine Wahl.“ Ohne Industrieschutz „zerbricht es wieder ins Nationale“; er prognostizierte: „Ich gebe uns drei, vier Jahre, bis die Mitgliedstaaten verlangen, die Zuständigkeit zurückzubekommen, um ihre Branchen selbst zu schützen.“",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
             "date": "2026-05-28",
-            "title": "'Wenn Europa die Industrie nicht schützt, zerbricht es'"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Udo Dinglreiter",
-          "text": "Warnte, chinesische EU-Investitionen flössen überwiegend nicht nach Deutschland: „So entstehen die Arbeitsplätze nicht hier, dafür aber neue Wettbewerber mit günstigeren Konditionen und Marktzugang.\"",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-05-26",
-            "title": "Metallindustrie-Präsident warnt vor 'Spirale nach unten'"
+            "title": "EU-Vize Séjourné; ‚Wenn Europa die Industrie nicht schützt, zerbricht es‘"
           },
           "kind": "quote"
         },
         {
           "lead": "Pete Hegseth",
-          "text": "Warnte beim Shangri-La-Dialog vor chinesischer Dominanz im Indopazifik – Ziel der USA sei eine Ordnung, in der „kein Staat, einschließlich China, seine Hegemonie durchsetzen kann\" –, schlug gegenüber Peking aber einen ungewohnt versöhnlichen Ton an: die bilateralen Beziehungen seien „besser als seit vielen Jahren\".",
+          "text": "erklärte am Samstag/30. Mai beim Shangri-La-Dialog in Singapur: Kein Staat, „auch nicht China“, dürfe die Vorherrschaft beanspruchen und die Sicherheit oder den Wohlstand der USA und ihrer Verbündeten infrage stellen. Das Pentagon setze auf „maßvolle und wohlüberlegte Stärke“ statt auf unnötige Konfrontation.",
           "source": {
-            "outlet": "DIE ZEIT",
-            "outletDisplay": "zeit.de",
+            "outlet": "Spiegel",
+            "outletDisplay": "Spiegel Plus",
             "date": "2026-05-30",
-            "title": "US-Verteidigungsminister warnt vor Hegemonie Chinas"
+            "title": "US-Verteidigungsminister in Südostasien; Warum sich Hegseth in Singapur plötzlich ‚maßvoll‘ und ‚wohlüberlegt‘ gibt"
           },
           "kind": "quote"
         },
         {
-          "lead": "Donald Trump",
-          "text": "Begründete den überraschenden Stopp eines KI-Regulierungsdekrets mit dem strategischen Vorsprung vor China: „Wir liegen vor China, wir liegen vor allen anderen, und ich möchte nichts tun, was diesen Vorsprung gefährden könnte.\"",
+          "lead": "Gabriel Felbermayr",
+          "text": "urteilte am Mittwoch/28. Mai anlässlich des Frühjahrsgutachtens: „Die chinesischen Exporte werden den deutschen immer ähnlicher.“ Die deutsche Exportwirtschaft stagniere, während China in klassischen Domänen wie Auto- und Maschinenbau zur Weltspitze aufgerückt sei.",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-05-28",
+            "title": "Der Aufschwung fällt aus – zum vierten Mal in Folge"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Gabriel Felbermayr",
+          "text": "räumte am Donnerstag/28. Mai in einer Handelsblatt-Kolumne selbstkritisch ein: „Ich wollte nicht wahrhaben, dass es durchaus Strategien seitens Chinas gibt, Märkte aktiv zu manipulieren, zu monopolisieren und dann die Abhängigkeiten machtpolitisch einzusetzen.“ Er forderte, die Analyse müsse „an die Realität angepasst“ werden.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
+            "date": "2026-05-28",
+            "title": "GEOECONOMICS; Europa braucht eine China-Schutzmauer!"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+          "text": "stellte am Mittwoch/28. Mai in seinem Frühjahrsgutachten fest: „Ein Grund für die Schwäche der deutschen Warenexporte dürfte die starke Konkurrenz durch chinesische Industrieunternehmen sein.“ Das Gremium halbierte seine Wachstumsprognose für Deutschland auf 0,5 Prozent – Chinas Konkurrenz in Auto- und Maschinenbau sei ein zentraler Treiber.",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-05-28",
+            "title": "Der Aufschwung fällt aus – zum vierten Mal in Folge"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Michael Hüther und Bert Rürup",
+          "text": "sprachen am Dienstag/27. Mai im Handelsblatt-Podcast von einem „zweiten Chinaschock“, der Deutschland durch seinen großen Technologiesektor deutlich härter treffe als der erste. Etwa 400.000 Industriearbeitsplätze seien bereits verloren gegangen; chinesische Anbieter würden massiv staatlich subventioniert.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-05-27",
+            "title": "PODCAST; Verliert Deutschland an Substanz?"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Ursula von der Leyen",
+          "text": "drängte laut Kommissionssitzung vom Freitag/29. Mai auf härteres Vorgehen gegenüber China und warnte, der derzeitige Stand der Handels- und Investitionsbeziehungen sei „nicht nachhaltig“; Europa müsse künftig „robuster“ auftreten. Das EU-Handelsdefizit mit China sei 2025 auf 360 Milliarden Euro gestiegen.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-05-30",
+            "title": "Neue China-Strategie; Auf einmal lehnt sich Europa gegen die Übermacht des großen ökonomischen Rivalen auf"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Jens Eskelund",
+          "text": "richtete am Dienstag/27. Mai in Peking einen öffentlichen Appell an Reiche: „Ich glaube, es gibt gerade ein Vertrauensdefizit zwischen Europa und China.“ Er fügte hinzu: „Ich hoffe, sie vermittelt, dass Europa vereint ist.“",
+          "source": {
+            "outlet": "DIE ZEIT",
+            "outletDisplay": "zeit.de",
+            "date": "2026-05-27",
+            "title": "Bundeswirtschaftsministerin; Katherina Reiche fordert in China fairen Wettbewerb"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Samina Sultan",
+          "text": "kommentierte am Mittwoch/28. Mai das EU-US-Zollabkommen mit Blick auf China: „Kein großer Erfolg – aber er sichert Europa ein gewisses Maß an Stabilität.“ Die USA belegten China mit knapp 34 Prozent effektivem Zollsatz; Chinas Anteil an US-Importen habe sich zwischen 2024 und 2026 nahezu halbiert.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-05-28",
+            "title": "IW-ANALYSE; EU zahlt weniger als 15 Prozent US-Zoll"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Udo Dinglreiter",
+          "text": "warnte am Montag/26. Mai im Handelsblatt-Interview vor dem Ausbluten der deutschen Metall- und Elektroindustrie durch chinesischen Wettbewerb: „So entstehen die Arbeitsplätze nicht hier, dafür aber neue Wettbewerber mit günstigeren Konditionen und Marktzugang.“ Ohne Trendwende drohe: „Das ist eine Spirale nach unten.“",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "handelsblatt.com",
             "date": "2026-05-26",
-            "title": "Kritik an KI wächst – Trump zieht Regulierung dennoch zurück"
+            "title": "Udo Dinglreiter; Metallindustrie-Präsident warnt vor ‚Spirale nach unten‘"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Markus Kamieth",
+          "text": "erklärte anlässlich der Hauptversammlung im Mai, seit Anfang März lasse der Importdruck aus China nach – das sei aber ein temporäres Phänomen, das nicht wirklich helfe, weil gleichzeitig der Importdruck aus den USA zunehme. Der Ausblick bleibe durch beide Schocks belastet.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-05-26",
+            "title": "LIEFERENGPÄSSE; Wie die deutsche Chemie vom Irankrieg profitiert"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Alexander Brown",
+          "text": "erklärte am Dienstag/27. Mai: „Indirekt hilft Trump China.“ Dieser Trend werde „derzeit durch die durch den Krieg im Iran ausgelösten Energiekrisen noch verstärkt“. Chinas Fokus auf saubere Energie und Greentech „stand bereits seit mindestens 2010 im Mittelpunkt der chinesischen Industriepolitik“.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-05-27",
+            "title": "GREENTECH; Wie China vom Irankrieg profitiert"
           },
           "kind": "quote"
         },
         {
           "lead": "Frederic Spohr",
-          "text": "Kritisierte das Scheitern der deutschen Diversifizierungsstrategie: „Ausgerechnet in kritischen Bereichen diversifiziert Deutschland nicht, sondern wird noch abhängiger und damit noch verletzlicher\" – Chinas Anteile bei Lithiumbatterien, Solarpanelen und Antibiotika hätten trotz gegenteiliger Bundesstrategie weiter zugenommen.",
+          "text": "warnte am Montag/26. Mai: „Ausgerechnet in kritischen Bereichen diversifiziert Deutschland nicht, sondern wird noch abhängiger und damit noch verletzlicher.“ Chinas Anteil an deutschen Lithium-Ionen-Akku-Importen sei in zwei Jahren von knapp der Hälfte auf zwei Drittel gestiegen.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -123,57 +200,145 @@ window.W22_2026_WOCHENBERICHT = {
           "kind": "quote"
         },
         {
-          "lead": "Dan Jorgensen",
-          "text": "Rief angesichts Chinas Elektrifizierungsvorsprungs zum Handeln auf: „In Europa elektrifizieren wir im Vergleich zu China viel zu langsam [...] Ich will hier wirklich Alarm schlagen.\"",
+          "lead": "Engin Eroglu",
+          "text": "kritisierte am Freitag/30. Mai aus Peking die Berliner China-Diplomatie: „Die Position der deutschen Bundesregierung ist, ich will mal sagen, kaum zu spüren.“ Ohne das Europäische Parlament gebe es keine Handelsdeals mit China – Peking habe das längst verstanden.",
           "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-05-27",
-            "title": "EU will die Wirtschaft auf Betrieb mit Strom umstellen"
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-05-30",
+            "title": "Neue Einigkeit im Umgang mit China?"
           },
           "kind": "quote"
         },
         {
-          "lead": "Marc Henrichmann",
-          "text": "Sah durch Huawei-Technik in der geplanten Drohnenabwehr eine „sicherheitspolitische Kernfrage\" entstehen: „Wenn aber Teile künftiger Drohnenabwehr über zivile Mobilfunkinfrastruktur laufen sollen, dann ist die Frage nach den verbauten Technologien eine valide sicherheitspolitische Kernfrage.\"",
+          "lead": "Philipp Haußmann",
+          "text": "hielt am Mittwoch/28. Mai dagegen: „Ohne das östliche Europa wäre der deutsche Außenhandel deutlich schwächer.“ Im ersten Quartal seien Deutschlands Exporte nach China um 12,5 Prozent eingebrochen; der Handel mit Osteuropa habe den Rückgang mehr als ausgeglichen.",
           "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-05-25",
-            "title": "Politiker warnen vor Huawei-Technik bei deutscher Drohnenabwehr"
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-05-28",
+            "title": "EXPORTBOOM; Der Osthandel reißt es noch raus"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Olaf Lies",
+          "text": "schlug laut SZ-Bericht vom Dienstag/27. Mai vor, chinesische Autos in VW-Werken zu bauen – ein Tabubruch gegenüber bisheriger Industriepolitik, der die Verzweiflung der Automobilindustrie angesichts des chinesischen Wettbewerbsdrucks spiegelt.",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-05-27",
+            "title": "AUTOHERSTELLER; Früher stolz, jetzt verzweifelt"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Ola Källenius",
+          "text": "äußerte sich laut SZ-Bericht vom Dienstag/27. Mai zum möglichen Rüstungseinstieg von Mercedes: Sollte dies „wirtschaftlich sinnvoll“ sein, stehe das Unternehmen dem offen gegenüber. Der Druck durch chinesische Konkurrenz und wegbrechende Absatzmärkte zwinge die Branche zum Umdenken.",
+          "source": {
+            "outlet": "Süddeutsche Zeitung",
+            "outletDisplay": "Süddeutsche Zeitung",
+            "date": "2026-05-27",
+            "title": "AUTOHERSTELLER; Früher stolz, jetzt verzweifelt"
           },
           "kind": "quote"
         },
         {
           "lead": "Zhu Shaodong",
-          "text": "Kündigte offensive Expansion des chinesischen Autokonzerns nach Deutschland an: „Jetzt ist der richtige Zeitpunkt für uns, nach Deutschland zu kommen\" – die chinesische Autoindustrie sei bei Elektroantrieb und autonomem Fahren derzeit „weltweit führend\".",
+          "text": "erklärte am Montag/26. Mai: „Jetzt ist der richtige Zeitpunkt für uns, nach Deutschland zu kommen.“ Die chinesische Automobilindustrie sei heute „weltweit führend. Und das in allen Punkten, vom Rohstoffzugang über Lieferkette und Kosten bis hin zur Technologie.“",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
             "date": "2026-05-26",
-            "title": "Keine Marke wächst in Europa schneller"
+            "title": "Chery; Keine Marke wächst in Europa schneller"
           },
           "kind": "quote"
         },
         {
-          "lead": "Wolfgang Große Entrup",
-          "text": "Das moderate Wachstum sei kein Zeichen der Stärke, sondern Ausdruck von „geopolitischem Hamstern\" – und: „Wir sehen keine Spur von Aufbruch.\"",
+          "lead": "Qu Dongyu",
+          "text": "sprach am Dienstag/27. Mai von einem „systemischen Schock für das globale Agrar- und Lebensmittelsystem“ durch den Irankrieg und die Blockade der Straße von Hormus. Chinas Drosselung von Düngemittelexporten zur Sicherung der Eigenversorgung verschärfe die globale Knappheit erheblich.",
           "source": {
-            "outlet": "DIE ZEIT",
-            "outletDisplay": "zeit.de",
-            "date": "2026-05-29",
-            "title": "Angst vor Engpässen beschert deutscher Chemieindustrie mehr Aufträge"
-          },
-          "kind": "quote"
-        },
-        {
-          "lead": "Michael Hüther & Bert Rürup",
-          "text": "Diagnostizierten im Podcast einen „zweiten Chinaschock\", der Deutschland „aufgrund seines großen Technologiesektors deutlich härter als der erste\" treffe; schätzungsweise seien bereits rund 400.000 Industriearbeitsplätze verloren gegangen, verstärkt durch massive staatliche Subventionen chinesischer Anbieter.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "Handelsblatt-Podcast",
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
             "date": "2026-05-27",
-            "title": "Verliert Deutschland an Substanz?"
+            "title": "Wie der Irankrieg die Landwirtschaft trifft"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Henrik Wendorff",
+          "text": "warnte am Dienstag/27. Mai vor einer „dramatischen Situation“ an den Düngermärkten als Folge des Irankriegs. Dünger sei kaum verfügbar und könnte um bis zu 50 Prozent teurer werden. Chinas Exportdrosselung bei Harnstoff zur Eigenversorgung verschärfe die globale Knappheit.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-05-27",
+            "title": "Wie der Irankrieg die Landwirtschaft trifft"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Brian Gu",
+          "text": "erklärte am Xuanyuan-Forum im Mai, er halte es für „extrem hoch“ wahrscheinlich, dass Xpeng bis 2028 eine durchgängige L4-Fähigkeit für autonomes Fahren erreiche; in den kommenden zwölf bis achtzehn Monaten würden „Hunderte bis Tausende“ Robotaxis vom Band laufen.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-05-27",
+            "title": "Xpeng baut Robotaxis in Serie"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Berylls von Alix Partners",
+          "text": "belegten in ihrer jährlichen Zuliefererstudie vom 26. Mai: „Seit dem Jahr 2000 sind die Erzeugerpreise in China deutlich langsamer gestiegen als in Deutschland oder den USA. Dadurch verfügen chinesische Zulieferer heute über erhebliche Kostenvorteile gegenüber westlichen Wettbewerbern.“ Obwohl weltweit vier Prozent mehr Autos verkauft worden seien, sei der Umsatz der 100 größten Zulieferer weltweit um 2,2 Prozent gesunken.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-05-26",
+            "title": "Studie; Erst die Konzerne, jetzt die Zulieferer – der rasante Absturz der deutschen Autoindustrie"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Matthias Schmidt",
+          "text": "mahnte am Montag/26. Mai angesichts Cherys rasantem Wachstum in Europa: „Betrachtet man ihren dramatischen Vorstoß in Großbritannien, wo sie das Jahr wahrscheinlich als zweitgrößte Marke direkt hinter Volkswagen abschließen werden, sollte dies ein Weckruf für deutsche Hersteller sein.“",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-05-26",
+            "title": "Chery; Keine Marke wächst in Europa schneller"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Friedrich-Naumann-Stiftung für die Freiheit",
+          "text": "veröffentlichte am Montag/26. Mai eine Studie, wonach China bei Solarpanelen mit 92,6 Prozent einen neuen Höchstwert beim deutschen Gesamtimportgewicht erreicht habe und bei bestimmten Seltenen Erden praktisch der einzige Lieferant Deutschlands sei – entgegen den Diversifizierungszielen der deutschen China-Strategie von 2023.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-05-26",
+            "title": "Deutschland bei wichtigen Gütern immer abhängiger von China"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Teresa Ribera",
+          "text": "setzte sich laut Welt-Bericht vom Freitag/30. Mai intern gegen allzu harte EU-Schutzmaßnahmen gegen China ein und plädierte für engere wirtschaftliche Zusammenarbeit mit Peking – in direktem Widerspruch zur Linie von Kommissionspräsidentin von der Leyen und Industriekommissar Séjourné.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "welt.de",
+            "date": "2026-05-30",
+            "title": "Neue China-Strategie; Auf einmal lehnt sich Europa gegen die Übermacht des großen ökonomischen Rivalen auf"
+          },
+          "kind": "quote"
+        },
+        {
+          "lead": "Katherina Reiche",
+          "text": "schilderte am Donnerstag/28. Mai nach Rückkehr aus Peking ihren Eindruck: Sie habe eine „leistungsfähige, vor allem aber eine angriffslustige Mittelschicht“ erlebt – ein Signal, dass China als Wettbewerber und Konsumgesellschaft gleichzeitig auftrete und deutschen Unternehmen in beiden Rollen begegne.",
+          "source": {
+            "outlet": "Spiegel",
+            "outletDisplay": "Spiegel Plus",
+            "date": "2026-05-28",
+            "title": "Gespräche in Peking; Reiche trifft Chinas Mittelschicht"
           },
           "kind": "quote"
         }
@@ -186,145 +351,167 @@ window.W22_2026_WOCHENBERICHT = {
       "label": "Wichtige China-bezogene Entwicklungen in Fakten und Zahlen",
       "items": [
         {
-          "lead": "EU-Millionenstrafe für Temu",
-          "text": "Die EU-Kommission hat am Donnerstag eine Strafe von 200 Millionen Euro gegen den chinesischen Onlinehändler Temu verhängt, da dieser die Menge unsicherer Produkte auf seiner Plattform massiv unterschätzt habe.",
-          "source": {
-            "outlet": "BILD",
-            "outletDisplay": "bild.de",
-            "date": "2026-05-28",
-            "title": "Illegale Produkte; EU verhängt 200-Millionen-Strafe gegen Temu"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "Massiver Verlust an Nettoexporten",
-          "text": "Deutschland hat seit 2023 rund drei Prozent seines Bruttoinlandsprodukts an Nettoexporten verloren, was führende Medien primär auf Pekings Industriepolitik zurückführen.",
+          "lead": "Trumps Taiwan-Lieferstopp blockiert historisches Rüstungspaket",
+          "text": "Waffen im Wert von 14 Milliarden Dollar können nicht an Taiwan geliefert werden, weil Trump die Genehmigung gegenüber dem Kongress verweigert.",
           "source": {
             "outlet": "FAZ",
-            "outletDisplay": "faz.net",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
             "date": "2026-05-27",
-            "title": "ANTRITTSBESUCH IN PEKING; Reiche betont in China die Gemeinsamkeiten"
+            "title": "China darf jetzt mitreden; Trumps Lieferpause an Taiwan untergräbt die Abschreckung gegenüber Peking"
           },
           "kind": "fact"
         },
         {
-          "lead": "Rollentausch im Maschinenbau",
-          "text": "Das traditionelle „Maschinenbauland\" Deutschland importiert bei strategischen Maschinentypen inzwischen wertmäßig mehr aus China als es dorthin exportiert.",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-05-27",
-            "title": "ANTRITTSBESUCH IN PEKING; Reiche betont in China die Gemeinsamkeiten"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "Milliardenverlust im Tagesgeschäft",
-          "text": "Laut Berechnungen der EU-Kommission verliert Europa jeden Tag rund eine Milliarde Euro im Handelsaustausch mit der Volksrepublik.",
+          "lead": "Chinas Greentech-Exporte auf Rekordhoch durch Iran-Krieg",
+          "text": "Chinas Solarexporte erreichten im April ein Volumen von 25 Milliarden Dollar – ein Plus von rund 30 Prozent seit Beginn des Krieges.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
-            "date": "2026-05-29",
-            "title": "WIRTSCHAFT; „Wenn Europa die Industrie nicht schützt, zerbricht es\""
+            "date": "2026-05-25",
+            "title": "Greentech; Wie China vom Iran-Krieg profitiert"
           },
           "kind": "fact"
         },
         {
-          "lead": "Drastische Zunahme der Batterie-Abhängigkeit",
-          "text": "Chinas Anteil an den deutschen Importen von Lithium-Batterien stieg innerhalb von zwei Jahren von 49,7 % auf nunmehr 66,5 Prozent (Stand 2025).",
+          "lead": "Chinas verschleierte Auslandsvermögen wachsen auf 2,1 Billionen Dollar",
+          "text": "Laut einer neuen Studie kontrollierten chinesische Investoren 2021 weltweit Auslandsvermögen von rund 2,1 Billionen Dollar – jährliches Wachstum von 20 Prozent; 37,7 Prozent dieser Unternehmen schalteten mindestens einen Vermittler in einer Steueroase ein.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "Welt",
+            "date": "2026-05-28",
+            "title": "Weltweite Kontrolle; China giert nach globalem Besitz"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "EU-Handelsdefizit mit China auf neuem Rekord",
+          "text": "Das Handelsdefizit der EU mit China wuchs von 312 Milliarden Euro (2024) auf 360 Milliarden Euro (2025) – rechnerisch fast eine Milliarde Euro pro Tag.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "Welt",
+            "date": "2026-05-30",
+            "title": "Neue China-Strategie; Auf einmal lehnt sich Europa gegen die Übermacht des großen ökonomischen Rivalen"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Deutschlands Abhängigkeit bei Solarpaneelen auf neuem Höchstwert",
+          "text": "Laut einer Studie der Friedrich-Naumann-Stiftung erreichte Chinas Anteil am deutschen Gesamtimportgewicht bei Solarpaneelen 92,6 Prozent – einen neuen Höchstwert.",
           "source": {
             "outlet": "taz",
-            "outletDisplay": "taz",
+            "outletDisplay": "taz – die tageszeitung",
             "date": "2026-05-27",
-            "title": "Zahl des Tages - 1 Lieferant"
+            "title": "Zahl des Tages – 1 Lieferant"
           },
           "kind": "fact"
         },
         {
-          "lead": "Solar-Abhängigkeit erreicht Rekordniveau",
-          "text": "Der chinesische Anteil am deutschen Importgewicht bei Solarpaneelen liegt mittlerweile bei 92,6 Prozent.",
+          "lead": "EZB warnt: 29 Millionen Arbeitsplätze durch chinesische Exportoffensive gefährdet",
+          "text": "Die Europäische Zentralbank warnt, dass 29 Millionen Arbeitsplätze in Europa durch Chinas Exportoffensive bedroht seien, so EU-Industriekommissar Séjourné.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-05-28",
+            "title": "EU-Vize Séjourné; ‚Wenn Europa die Industrie nicht schützt, zerbricht es‘"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Schwerste Grubenkatastrophe seit Jahren in China",
+          "text": "Beim Unglück in der Kohlemine Liushenyu in der Provinz Shanxi kamen mindestens 82 Personen ums Leben; 247 Bergleute befanden sich zum Zeitpunkt des Gasdurchbruchs unter Tage.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-05-26",
+            "title": "‚Ich roch Schwefel, wie nach einer Sprengung‘; Beim schwersten Grubenunglück seit Jahren kommen in China mindestens 82 Bergleute ums Leben"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Chinesische Lithium-Batterie-Abhängigkeit Deutschlands verdoppelt sich",
+          "text": "Chinas Anteil an Deutschlands Importen von Lithium-Batterien stieg von 49,7 Prozent (2023) auf 66,5 Prozent (2025).",
           "source": {
             "outlet": "taz",
-            "outletDisplay": "taz",
+            "outletDisplay": "taz – die tageszeitung",
             "date": "2026-05-27",
-            "title": "Zahl des Tages - 1 Lieferant"
+            "title": "Zahl des Tages – 1 Lieferant"
           },
           "kind": "fact"
         },
         {
-          "lead": "Massiver Stellenabbau in der Industrie",
-          "text": "Laut einer Analyse der Ökonomen Tordoir und Setser sind seit 2021 bereits 400.000 Industriearbeitsplätze in Deutschland dem Wettbewerbsschock aus Fernost zum Opfer gefallen.",
+          "lead": "Peking stellt Gallium-Exporte faktisch ein",
+          "text": "Im April wurden weltweit lediglich drei Kilogramm Gallium aus China exportiert; China produziert rund 80 Prozent des weltweiten Galliums und über 60 Prozent des Germaniums.",
+          "source": {
+            "outlet": "WirtschaftsWoche",
+            "outletDisplay": "WirtschaftsWoche",
+            "date": "2026-05-27",
+            "title": "Seltene Erden; Dieses heikle Rohstoff-Problem überschattet Reiches China-Reise"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Deutsche Exporte nach China brechen stark ein",
+          "text": "Deutschlands Exporte nach China brachen im ersten Quartal 2026 um 12,5 Prozent ein.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "faz.net",
+            "date": "2026-05-28",
+            "title": "EXPORTBOOM; Der Osthandel reißt es noch raus"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "180 Millionen chinesische Bauern erhalten Rente von 22 Euro monatlich",
+          "text": "Die Monatsrente von 180 Millionen chinesischen Agrarbeschäftigten liegt bei umgerechnet 22 Euro – gegenüber durchschnittlich rund 875 Euro für Beamte.",
+          "source": {
+            "outlet": "FAZ",
+            "outletDisplay": "Frankfurter Allgemeine Zeitung",
+            "date": "2026-05-27",
+            "title": "22 Euro für ein Leben auf dem Acker; Von Rentendiskussionen wie in Deutschland keine Spur"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "IWF: Yuan um 16 Prozent unterbewertet",
+          "text": "Der IWF taxiert die von Peking forcierte Unterbewertung des Yuans auf 16 Prozent; Ökonomen gehen in einer neuen Studie sogar von einer verhinderten Aufwertung von rund 30 Prozent aus.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-05-28",
+            "title": "GEOECONOMICS; Europa braucht eine China-Schutzmauer!"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "EU verhängt 200-Millionen-Strafe gegen chinesischen Onlinehändler Temu",
+          "text": "Die EU-Kommission verhängte wegen illegaler Produkte eine Strafe in Höhe von 200 Millionen Euro gegen den chinesischen Online-Marktplatz Temu.",
+          "source": {
+            "outlet": "Die Welt",
+            "outletDisplay": "Welt",
+            "date": "2026-05-28",
+            "title": "EU verhängt 200-Millionen-Strafe gegen Onlinehändler Temu"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "Huawei-Technik in 58 Prozent der deutschen Telekom-Antennenstandorte",
+          "text": "Nach einer Analyse der Telekommunikationsberatung Strand Consult sind 58 Prozent der Antennenstandorte im Telekom-Netz mit Huawei-Technik ausgestattet.",
+          "source": {
+            "outlet": "Handelsblatt",
+            "outletDisplay": "Handelsblatt",
+            "date": "2026-05-25",
+            "title": "Sicherheit; Politiker warnen vor Huawei-Technik bei deutscher Drohnenabwehr"
+          },
+          "kind": "fact"
+        },
+        {
+          "lead": "JD.com will Ceconomy für 2,2 Milliarden Euro übernehmen",
+          "text": "Chinas größter Onlinehandelskonzern JD.com kündigte vergangenes Jahr an, das deutsche Unternehmen Ceconomy (Saturn/MediaMarkt) für 2,2 Milliarden Euro übernehmen zu wollen.",
           "source": {
             "outlet": "DIE ZEIT",
-            "outletDisplay": "zeit.de",
-            "date": "2026-05-28",
-            "title": "Chinareise; Hier ist immer alles groß. Anders als zuhause"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "JD.com-Großumsatz",
-          "text": "Der chinesische Konzern JD.com, der die Übernahme von MediaMarktSaturn anstrebt, erzielt einen Jahresumsatz von 159 Milliarden Dollar.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-05-28",
-            "title": "Ceconomy; EU prüft Übernahme von Media Markt und Saturn genauer"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "Subventions-Kluft",
-          "text": "Chinesische Hersteller erhalten laut OECD-Daten drei- bis neunmal höhere staatliche Subventionen als Unternehmen in westlichen Marktwirtschaften.",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-05-28",
-            "title": "Reiche betont in China die Gemeinsamkeiten"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "Deutsche Standorttreue in China",
-          "text": "Rund 5.000 deutsche Unternehmen haben bisher 100 Milliarden Euro in der Volksrepublik investiert und beschäftigen dort eine Million Menschen.",
-          "source": {
-            "outlet": "FAZ",
-            "outletDisplay": "faz.net",
-            "date": "2026-05-27",
-            "title": "ANTRITTSBESUCH IN PEKING; Reiche betont in China die Gemeinsamkeiten"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "Import-Verdoppelung bei Gallium",
-          "text": "Chinas Anteil an der deutschen Importmenge des strategischen Metalls Gallium stieg binnen zwei Jahren von 28,9 % auf 47,4 Prozent.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-05-27",
-            "title": "Handelsstreit; Die heikle China-Mission der Katherina Reiche"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "Geringe KI-Nutzung in deutschen Betrieben",
-          "text": "Während chinesische Firmen KI flächendeckend skalieren, nutzen in Deutschland erst 38 Prozent der Beschäftigten regelmäßig KI-Tools am Arbeitsplatz.",
-          "source": {
-            "outlet": "Spiegel",
-            "outletDisplay": "spiegel.de",
-            "date": "2026-05-28",
-            "title": "Die Lage am Morgen; Katherina Reiche und die Dominanz Chinas"
-          },
-          "kind": "fact"
-        },
-        {
-          "lead": "Schwere Verluste im Schienengüterverkehr",
-          "text": "Deutsche Schienengüter-Unternehmen fordern Entlastungen, da asiatische Wettbewerber ihre Frachtraten durch Staatsgarantien um 25 Prozent senken konnten.",
-          "source": {
-            "outlet": "Handelsblatt",
-            "outletDisplay": "handelsblatt.com",
-            "date": "2026-05-27",
-            "title": "Nutzfahrzeuge; Chinesische Anbieter drängen auf europäischen Lkw-Markt"
+            "outletDisplay": "Zeit Online",
+            "date": "2026-05-29",
+            "title": "Chinas Investitionen in Deutschland; Katherina Reiches gefährlicher Flirt mit chinesischen Investoren"
           },
           "kind": "fact"
         }
@@ -337,9 +524,15 @@ window.W22_2026_WOCHENBERICHT = {
       "label": "Fünf zentrale Themen in der deutschen China-Politik Diskussion",
       "items": [
         {
-          "title": "Die „Wankelmut-Debatte\" um den China-Kurs der Wirtschaftsministerin",
-          "text": "Die Berichterstattung fokussiert sich massiv auf den Antrittsbesuch von Katherina Reiche in Peking. Während Brüssel und SPD-geführte Ministerien auf harte Schutzzölle drängen, wird Reiches Kurs als „staunen und schweigen\" sowie als „balancierter Ansatz\" kritisiert. In der Diskussion wird debattiert, ob Deutschland ein „eigenes Süppchen\" kocht und damit die europäische Einheit gegenüber Pekings unfairen Handelspraktiken gefährdet.",
+          "title": "Reiches China-Besuch: Annäherung oder Planlosigkeit?",
+          "text": "Bundeswirtschaftsministerin Katherina Reiche reiste Mitte der Woche mit einer 40-köpfigen Unternehmerdelegation nach Peking und Guangzhou – und löste in der deutschen Presse einen scharfen Streit über den richtigen Ton aus. Während Reiche Gemeinsamkeiten betonte, für chinesische Investitionen in Deutschland warb und die EU zur Mäßigung bei Schutzmaßnahmen aufforderte, kritisierten Kommentatorinnen und Kommentatoren, sie habe sich von Chinas Technologieschauen einschüchtern lassen und Fragen zu Marktverzerrungen ausgewichen. Die Spannung zwischen dem Interesse exportorientierter Unternehmen an Marktzugang und dem europäischen Kurs auf härtere Handelsinstrumente blieb unaufgelöst.",
           "sources": [
+            {
+              "outlet": "Handelsblatt",
+              "outletDisplay": "Handelsblatt",
+              "date": "2026-05-27",
+              "title": "Die heikle China-Mission der Katherina Reiche"
+            },
             {
               "outlet": "Süddeutsche Zeitung",
               "outletDisplay": "Süddeutsche Zeitung",
@@ -347,110 +540,110 @@ window.W22_2026_WOCHENBERICHT = {
               "title": "Planlos in Peking"
             },
             {
-              "outlet": "BILD",
-              "outletDisplay": "bild.de",
-              "date": "2026-05-26",
-              "title": "Kocht Deutschland sein eigenes China-Süppchen?"
-            },
-            {
-              "outlet": "Spiegel",
-              "outletDisplay": "Spiegel Plus",
-              "date": "2026-05-28",
-              "title": "Bloß kein Porzellan zerschlagen"
-            }
-          ],
-          "kind": "theme"
-        },
-        {
-          "title": "Die regulatorische „Vollstreckung\" gegen den China-E-Commerce",
-          "text": "Nach monatelangen Warnungen markiert das 200-Millionen-Euro-Bußgeld der EU gegen Temu eine neue Phase der Konfrontation. Die Diskussion in Deutschland dreht sich nun um die „volle Härte des Gesetzes\" zur Wiederherstellung fairer Wettbewerbsbedingungen für den stationären Einzelhandel. Das Thema wird als Testfall gewertet, ob westliche Rechtsstaaten die Flut an illegalen Billigprodukten (91 % aller Kleinsendungen kommen aus China) administrativ stoppen können.",
-          "sources": [
-            {
               "outlet": "FAZ",
               "outletDisplay": "Frankfurter Allgemeine Zeitung",
-              "date": "2026-05-29",
-              "title": "Kein Aufatmen"
-            },
-            {
-              "outlet": "BILD",
-              "outletDisplay": "bild.de",
               "date": "2026-05-28",
-              "title": "EU verhängt 200-Millionen-Strafe gegen Temu"
-            },
-            {
-              "outlet": "taz",
-              "outletDisplay": "TAZ",
-              "date": "2026-05-29",
-              "title": "Zahl des Tages - 200 Millionen"
+              "title": "Reiche fordert EU zu Milde gegen China auf"
             }
           ],
           "kind": "theme"
         },
         {
-          "title": "Die „Elektrifizierungs-Pflicht\" der EU als geopolitischer Hebel",
-          "text": "Ein zentrales neues Thema ist der Plan der EU-Kommission, feste Quoten für den Strombetrieb in der Industrie einzuführen. Die Debatte thematisiert dies als notwendige Antwort auf die Energiekrise (Hormus-Blockade) und als Versuch, Chinas Kostenvorteil bei fossilen Energien zu brechen. Kritiker warnen jedoch, dass dies den Bedarf an Netzen und Strom massiv erhöht, bei denen China technologisch („physische KI\", Batterien) derzeit die Weltmarktführerschaft innehat.",
+          "title": "Kritische Rohstoffe als Druckmittel: China kürzt Lieferungen vor Reiches Besuch",
+          "text": "Zeitgleich mit dem Antrittsbesuch der Wirtschaftsministerin zeigten Daten einen dramatischen Einbruch bei deutschen Importen kritischer Metalle aus China. Kommentatoren sahen darin gezielte Signalpolitik Pekings; Branchenvertreter warnten, ganze Lieferketten stünden auf dem Spiel. Die Berichterstattung verdeutlichte, wie strukturell abhängig Deutschland bei seltenen Erden und Schlüsselmineralien ist, und wie wenig Vorsorge bisher getroffen wurde.",
           "sources": [
             {
-              "outlet": "Handelsblatt",
-              "outletDisplay": "Handelsblatt",
+              "outlet": "WirtschaftsWoche",
+              "outletDisplay": "WirtschaftsWoche",
               "date": "2026-05-27",
-              "title": "EU will die Wirtschaft auf Strombetrieb umstellen"
-            },
-            {
-              "outlet": "Handelsblatt",
-              "outletDisplay": "handelsblatt.com",
-              "date": "2026-05-27",
-              "title": "Die Folgen sind kaum auszumalen"
+              "title": "Dieses heikle Rohstoff-Problem überschattet Reiches China-Reise"
             },
             {
               "outlet": "Die Welt",
               "outletDisplay": "Welt",
-              "date": "2026-05-29",
-              "title": "Finnischer Wasserstoff soll deutsche Energiewende retten"
-            }
-          ],
-          "kind": "theme"
-        },
-        {
-          "title": "Das „Detroit-Szenario\" für die deutsche Automobilzulieferer-Basis",
-          "text": "Die Veröffentlichung neuer Absatzzahlen von Mercedes und BMW sowie die Insolvenz von Manroland Sheetfed lösen eine Diskussion über den „Absturz der deutschen Autoindustrie\" aus. Das Thema kontrastiert den „China-Speed\" lokaler Anbieter (Xiaomi, BYD) mit der bürokratischen Lähmung in Deutschland. Es wird gewarnt, dass der Statusverlust als „Ausrüster der Welt\" unumkehrbar sei, wenn nicht radikale Deregulierungen und ein Pakt für den Standort erfolgen.",
-          "sources": [
+              "date": "2026-05-27",
+              "title": "'Ganze Lieferketten in Gefahr' – Vor Reiches Besuch dreht China Deutschland den Hahn zu"
+            },
             {
               "outlet": "Die Welt",
-              "outletDisplay": "Die Welt",
-              "date": "2026-05-28",
-              "title": "Der rasante Absturz der deutschen Autoindustrie"
-            },
-            {
-              "outlet": "FAZ",
-              "outletDisplay": "faz.net",
-              "date": "2026-05-28",
-              "title": "Abstiegskampf in China"
-            },
-            {
-              "outlet": "FAZ",
-              "outletDisplay": "Frankfurter Allgemeine Zeitung",
-              "date": "2026-05-28",
-              "title": "Ist \"Made in Germany\" noch zu retten?"
+              "outletDisplay": "Welt",
+              "date": "2026-05-26",
+              "title": "Deutschland bei wichtigen Gütern immer abhängiger von China"
             }
           ],
           "kind": "theme"
         },
         {
-          "title": "Die systemische Flucht in den chinesischen Staatsdienst als Krisenindikator",
-          "text": "Ein neues soziökonomisches Thema in der deutschen Berichterstattung ist der Wandel des chinesischen Arbeitsmarktes. Es wird analysiert, wie eine ganze Generation chinesischer Absolventen in die Sicherheit des öffentlichen Sektors flüchtet, da die private Plattformökonomie unter staatlichem Druck erlahmt. Die Diskussion wertet dies als Anzeichen für eine tiefe strukturelle Krise in China, die Peking dazu zwingt, Exportüberschüsse noch aggressiver in den Weltmarkt zu drücken.",
+          "title": "EU-Handelspolitik: Schutzwall oder Öffnung?",
+          "text": "Parallel zur Reise entflammte in mehreren Leitmedien eine Grundsatzdebatte darüber, ob die EU mit Schutzzöllen und Abwehrinstrumenten oder mit strategischer Offenheit auf Chinas Exportoffensive reagieren soll. Das Handelsblatt veröffentlichte ein Pro-Contra, Brüsseler Berichte über ein Papier mehrerer EU-Länder für neue Zölle machten die Runde, und Berlin signalisierte erstmals Bereitschaft, einen härteren Kurs mitzutragen. Die Spannung zwischen dem ordoliberalen Argument für „Ordnungsschutz“ und dem Freihandelslager, das Strafzölle als Konservierung von Versäumnissen sieht, durchzog die gesamte Woche.",
           "sources": [
             {
               "outlet": "Handelsblatt",
               "outletDisplay": "Handelsblatt",
-              "date": "2026-05-27",
-              "title": "Chinesen flüchten in Staatsdienst"
+              "date": "2026-05-29",
+              "title": "Brauchen wir einen Schutzwall gegen China?"
             },
             {
               "outlet": "Handelsblatt",
               "outletDisplay": "handelsblatt.com",
               "date": "2026-05-27",
-              "title": "Was ein Geisterkuchen über den Preis der extremen Effizienz verrät"
+              "title": "Europa rüstet sich für den Handelskrieg mit China"
+            },
+            {
+              "outlet": "Süddeutsche Zeitung",
+              "outletDisplay": "Süddeutsche Zeitung",
+              "date": "2026-05-30",
+              "title": "Chinas Masterplan"
+            }
+          ],
+          "kind": "theme"
+        },
+        {
+          "title": "Hegseth / Shangri-La-Dialog: USA warnen vor Chinas Hegemonie – und schweigen zu Taiwan",
+          "text": "US-Verteidigungsminister Pete Hegseth nutzte die Sicherheitskonferenz in Singapur, um vor chinesischer Vorherrschaft im Indopazifik zu warnen und europäischen Verbündeten Schmarotzertum vorzuwerfen. Für Aufsehen sorgte vor allem, was er verschwieg: Taiwan erwähnte er mit keinem Wort – ein Signal, das Taipei und Berlin aufhorchen ließ. Parallel lief die Debatte über Trumps Stopp des 14-Milliarden-Dollar-Rüstungspakets an Taiwan, das als Untergrabung der Abschreckung gegenüber Peking gewertet wurde.",
+          "sources": [
+            {
+              "outlet": "Handelsblatt",
+              "outletDisplay": "handelsblatt.com",
+              "date": "2026-05-30",
+              "title": "Hegseth in Singapur – Taiwan erwähnt er mit keinem Wort"
+            },
+            {
+              "outlet": "DIE ZEIT",
+              "outletDisplay": "Zeit",
+              "date": "2026-05-30",
+              "title": "US-Verteidigungsminister warnt vor Hegemonie Chinas"
+            },
+            {
+              "outlet": "FAZ",
+              "outletDisplay": "faz.net",
+              "date": "2026-05-27",
+              "title": "Rüstungspaket für Taiwan: China darf jetzt bei Amerikas Waffen mitreden"
+            }
+          ],
+          "kind": "theme"
+        },
+        {
+          "title": "China als strategischer Gewinner des Irankriegs",
+          "text": "Mehrere Medien analysierten diese Woche, wie der anhaltende Irankrieg und die Sperrung der Straße von Hormus China in eine strategisch günstige Position bringen: Als Hauptlieferant von Solaranlagen, Batteriespeichern und Elektroautos profitiert die Volksrepublik von der weltweit steigenden Nachfrage, während westliche Wettbewerber unter Lieferengpässen leiden. Daneben berichtete der Spiegel über vertrauliche Gespräche am Rande des Shangri-La-Dialogs, in denen die USA China als möglichen Vermittler im Irankonflikt sondieren.",
+          "sources": [
+            {
+              "outlet": "Handelsblatt",
+              "outletDisplay": "Handelsblatt",
+              "date": "2026-05-27",
+              "title": "Wie China vom Irankrieg profitiert"
+            },
+            {
+              "outlet": "Spiegel",
+              "outletDisplay": "Spiegel Plus",
+              "date": "2026-05-31",
+              "title": "Kann China im Irankrieg zu Trumps Nothelfer werden?"
+            },
+            {
+              "outlet": "Handelsblatt",
+              "outletDisplay": "handelsblatt.com",
+              "date": "2026-05-25",
+              "title": "Wie China vom Iran-Krieg profitiert"
             }
           ],
           "kind": "theme"
