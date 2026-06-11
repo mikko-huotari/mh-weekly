@@ -35,6 +35,9 @@ window.OUTLET_MAP = {
   // alias fixes -> reuse existing logos
   "The New York Times":       { iconUrl: "assets/icons/nyt.png",            mono: "NYT", bg: "#000000", fg: "#FFFFFF", font: "serif", size: 8 },
   "WP":                       { iconUrl: "assets/icons/wapo.png",           mono: "WP",  bg: "#000000", fg: "#FFFFFF", font: "serif" },
+  // recreated from MH-provided brand marks (SVG)
+  "SCMP":                     { iconUrl: "assets/icons/scmp.svg",           mono: "SCMP",bg: "#001A4B", fg: "#FFC629" },
+  "Carnegie":                 { iconUrl: "assets/icons/carnegie.svg",       mono: "C",   bg: "#003A5D", fg: "#FFFFFF" },
   // ---------------- Wires & dailies ----------------
   "FT":              { iconUrl: "assets/icons/ft.png",          mono: "FT",   bg: "#FFF1E5", fg: "#1B1B1B", font: "serif" },
   "NYT":             { iconUrl: "assets/icons/nyt.png",         mono: "NYT",  bg: "#000000", fg: "#FFFFFF", font: "serif", size: 8 },
