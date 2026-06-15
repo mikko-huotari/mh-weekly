@@ -136,9 +136,16 @@ def gemini_call_structured(prompt: str) -> dict:
     if proc.returncode != 0:
         sys.exit(f"claude CLI rc={proc.returncode}: {proc.stderr[:300]}")
     raw = (proc.stdout or "").strip()
-    # Strip code fences if present
-    raw = re.sub(r"^```(?:json)?\s*", "", raw)
-    raw = re.sub(r"\s*```$", "", raw)
+    # Extract JSON block — Claude may prepend prose or wrap in ```json fences
+    fence_match = re.search(r"```(?:json)?\s*\n(.*?)\n```", raw, re.DOTALL)
+    if fence_match:
+        raw = fence_match.group(1).strip()
+    else:
+        # Fallback: grab first { to last } if there's any prose
+        first = raw.find("{")
+        last = raw.rfind("}")
+        if first != -1 and last > first:
+            raw = raw[first:last + 1]
     try:
         return json.loads(raw)
     except json.JSONDecodeError as e:
