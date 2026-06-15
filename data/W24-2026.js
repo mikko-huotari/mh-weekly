@@ -189,7 +189,7 @@ window.W24_2026 = {
           ]
         },
         {
-          "label": "EU member states and European neighborhood",
+          "label": "G7 and multilateral",
           "items": [
             {
               "outlet": "",
