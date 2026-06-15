@@ -10,7 +10,7 @@ window.W24_2026 = {
   "spotlight": {
     "title": "Spotlight 1: Merz backs \"enriching\" Europe's trade-defence arsenal – without naming China",
     "short": "Spotlight 1: Merz trade defence",
-    "intro": "In his [government statement ahead of the European Council](https://www.zdfheute.de/politik/deutschland/merz-regierungserklaerung-bundestag-reformen-100.html) (11 June), Chancellor Friedrich Merz opened his run-through of the Council's issues with trade policy. No continent benefits more from open trade than Europe, he argued – but where others do not abide by common rules, Germany \"will not stand idly by\". At the European Council (18–19 June), leaders would discuss how to \"enrich\" the EU's toolbox; the single market's attractiveness should serve as leverage to enforce rules for fair and transparent competition, and Europe should further reduce its dependencies on single countries.\n\nMerz did not name China – an omission Belgian Prime Minister Bart De Wever had criticised openly two days earlier: the EU speaks of geoeconomic imbalances \"only so as not to name China, because we are so afraid that we do not even dare to\" ([Euractiv](https://euractiv.com/de/news/eu-spitzenpolitiker-haben-angst-vor-china-sagt-der-belgische-premierminister/)). Merz's substance – single market as leverage, harder trade defence against distortive practices and overcapacity, lower dependencies – points squarely at Beijing while remaining cautious in attribution.\n\nChina was lobbying back on the ground the same week. Vice Commerce Minister **Ling Ji** (凌激), fresh from EU-China consultation-mechanism talks in Brussels on 9 June, spoke at the [DIHK China Business Forum in Berlin on 11 June](https://table.media/en/china/news-en/chinas-vice-commerce-minister-talks-in-brussels-and-germany), meeting BMWi state secretary Thomas Steffen, Merz advisor Levin Holle and German business leaders ([Xinhua readout](https://english.news.cn/europe/20260612/21e53645dc4d4c5c9be22d696e98f599/c.html)). Inside the CDU, [Johannes Volkmann](https://www.zdf.de/video/talk/markus-lanz-114/markus-lanz-vom-9-juni-2026-100) (MdB, Sinologe, Kohl's grandson) made the public case on *Markus Lanz* (9 June) that tariffs are defence of fair trade, not protectionism, warning: \"wir sind erpressbar. China ist bereit, uns zu erpressen.\"\n\nHow firm Berlin's line is remains contested: a [Reuters Breakingviews analysis](https://www.reuters.com/commentary/breakingviews/merz-wavering-cripples-eus-tough-china-stand-2026-06-11/) warns that Merz's wavering undermines Europe's tough China stance, even as the Commission signals a [new trade-policy instrument](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) and the [Economist](https://www.economist.com/europe/2026/06/11/a-trade-war-between-the-eu-and-china-seems-inevitable) judges an EU-China trade conflict barely avoidable. The signal is a good start; concrete implementation – which instrument, with what teeth – is still to come.",
+    "intro": "In his [government statement ahead of the European Council](https://www.zdfheute.de/politik/deutschland/merz-regierungserklaerung-bundestag-reformen-100.html) (11 June), Chancellor **Friedrich Merz** opened his run-through of the Council's issues with trade policy. No continent benefits more from open trade than Europe, he argued – but where others do not abide by common rules, Germany \"will not stand idly by\". At the European Council (18–19 June), leaders would discuss how to **\"enrich\" the EU's toolbox**; the single market's attractiveness should serve as leverage to enforce rules for fair and transparent competition, and Europe should further reduce its dependencies on single countries.\n\nMerz did not name China – an omission Belgian Prime Minister **Bart De Wever** had criticised openly two days earlier: the EU speaks of geoeconomic imbalances \"only so as not to name China, because we are so afraid that we do not even dare to\" ([Euractiv](https://euractiv.com/de/news/eu-spitzenpolitiker-haben-angst-vor-china-sagt-der-belgische-premierminister/)). Merz's substance – single market as leverage, harder trade defence against distortive practices and overcapacity, lower dependencies – points squarely at Beijing while remaining cautious in attribution.\n\nChina was lobbying back on the ground the same week. Vice Commerce Minister **Ling Ji** (凌激), fresh from EU-China consultation-mechanism talks in Brussels on 9 June, spoke at the [**DIHK China Business Forum** in Berlin on 11 June](https://table.media/en/china/news-en/chinas-vice-commerce-minister-talks-in-brussels-and-germany), meeting BMWi state secretary Thomas Steffen, Merz advisor Levin Holle and German business leaders ([Xinhua readout](https://english.news.cn/europe/20260612/21e53645dc4d4c5c9be22d696e98f599/c.html)). Inside the CDU, [**Johannes Volkmann**](https://www.zdf.de/video/talk/markus-lanz-114/markus-lanz-vom-9-juni-2026-100) (MdB) made the public case on *Markus Lanz* (9 June) that tariffs are defence of fair trade, not protectionism, warning: *\"wir sind erpressbar. China ist bereit, uns zu erpressen.\"*\n\nHow firm Berlin's line is remains contested: a [Reuters Breakingviews analysis](https://www.reuters.com/commentary/breakingviews/merz-wavering-cripples-eus-tough-china-stand-2026-06-11/) warns that **Merz's wavering** undermines Europe's tough China stance, even as the Commission signals a [new trade-policy instrument](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) and the [Economist](https://www.economist.com/europe/2026/06/11/a-trade-war-between-the-eu-and-china-seems-inevitable) judges an EU-China trade conflict barely avoidable. The signal is a good start; **concrete implementation – which instrument, with what teeth – is still to come**.",
     "items": [],
     "table": null,
     "subsections": []
@@ -19,7 +19,7 @@ window.W24_2026 = {
     {
       "title": "Spotlight 1: Merz backs \"enriching\" Europe's trade-defence arsenal – without naming China",
       "short": "Spotlight 1: Merz trade defence",
-      "intro": "In his [government statement ahead of the European Council](https://www.zdfheute.de/politik/deutschland/merz-regierungserklaerung-bundestag-reformen-100.html) (11 June), Chancellor Friedrich Merz opened his run-through of the Council's issues with trade policy. No continent benefits more from open trade than Europe, he argued – but where others do not abide by common rules, Germany \"will not stand idly by\". At the European Council (18–19 June), leaders would discuss how to \"enrich\" the EU's toolbox; the single market's attractiveness should serve as leverage to enforce rules for fair and transparent competition, and Europe should further reduce its dependencies on single countries.\n\nMerz did not name China – an omission Belgian Prime Minister Bart De Wever had criticised openly two days earlier: the EU speaks of geoeconomic imbalances \"only so as not to name China, because we are so afraid that we do not even dare to\" ([Euractiv](https://euractiv.com/de/news/eu-spitzenpolitiker-haben-angst-vor-china-sagt-der-belgische-premierminister/)). Merz's substance – single market as leverage, harder trade defence against distortive practices and overcapacity, lower dependencies – points squarely at Beijing while remaining cautious in attribution.\n\nChina was lobbying back on the ground the same week. Vice Commerce Minister **Ling Ji** (凌激), fresh from EU-China consultation-mechanism talks in Brussels on 9 June, spoke at the [DIHK China Business Forum in Berlin on 11 June](https://table.media/en/china/news-en/chinas-vice-commerce-minister-talks-in-brussels-and-germany), meeting BMWi state secretary Thomas Steffen, Merz advisor Levin Holle and German business leaders ([Xinhua readout](https://english.news.cn/europe/20260612/21e53645dc4d4c5c9be22d696e98f599/c.html)). Inside the CDU, [Johannes Volkmann](https://www.zdf.de/video/talk/markus-lanz-114/markus-lanz-vom-9-juni-2026-100) (MdB, Sinologe, Kohl's grandson) made the public case on *Markus Lanz* (9 June) that tariffs are defence of fair trade, not protectionism, warning: \"wir sind erpressbar. China ist bereit, uns zu erpressen.\"\n\nHow firm Berlin's line is remains contested: a [Reuters Breakingviews analysis](https://www.reuters.com/commentary/breakingviews/merz-wavering-cripples-eus-tough-china-stand-2026-06-11/) warns that Merz's wavering undermines Europe's tough China stance, even as the Commission signals a [new trade-policy instrument](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) and the [Economist](https://www.economist.com/europe/2026/06/11/a-trade-war-between-the-eu-and-china-seems-inevitable) judges an EU-China trade conflict barely avoidable. The signal is a good start; concrete implementation – which instrument, with what teeth – is still to come.",
+      "intro": "In his [government statement ahead of the European Council](https://www.zdfheute.de/politik/deutschland/merz-regierungserklaerung-bundestag-reformen-100.html) (11 June), Chancellor **Friedrich Merz** opened his run-through of the Council's issues with trade policy. No continent benefits more from open trade than Europe, he argued – but where others do not abide by common rules, Germany \"will not stand idly by\". At the European Council (18–19 June), leaders would discuss how to **\"enrich\" the EU's toolbox**; the single market's attractiveness should serve as leverage to enforce rules for fair and transparent competition, and Europe should further reduce its dependencies on single countries.\n\nMerz did not name China – an omission Belgian Prime Minister **Bart De Wever** had criticised openly two days earlier: the EU speaks of geoeconomic imbalances \"only so as not to name China, because we are so afraid that we do not even dare to\" ([Euractiv](https://euractiv.com/de/news/eu-spitzenpolitiker-haben-angst-vor-china-sagt-der-belgische-premierminister/)). Merz's substance – single market as leverage, harder trade defence against distortive practices and overcapacity, lower dependencies – points squarely at Beijing while remaining cautious in attribution.\n\nChina was lobbying back on the ground the same week. Vice Commerce Minister **Ling Ji** (凌激), fresh from EU-China consultation-mechanism talks in Brussels on 9 June, spoke at the [**DIHK China Business Forum** in Berlin on 11 June](https://table.media/en/china/news-en/chinas-vice-commerce-minister-talks-in-brussels-and-germany), meeting BMWi state secretary Thomas Steffen, Merz advisor Levin Holle and German business leaders ([Xinhua readout](https://english.news.cn/europe/20260612/21e53645dc4d4c5c9be22d696e98f599/c.html)). Inside the CDU, [**Johannes Volkmann**](https://www.zdf.de/video/talk/markus-lanz-114/markus-lanz-vom-9-juni-2026-100) (MdB) made the public case on *Markus Lanz* (9 June) that tariffs are defence of fair trade, not protectionism, warning: *\"wir sind erpressbar. China ist bereit, uns zu erpressen.\"*\n\nHow firm Berlin's line is remains contested: a [Reuters Breakingviews analysis](https://www.reuters.com/commentary/breakingviews/merz-wavering-cripples-eus-tough-china-stand-2026-06-11/) warns that **Merz's wavering** undermines Europe's tough China stance, even as the Commission signals a [new trade-policy instrument](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/) and the [Economist](https://www.economist.com/europe/2026/06/11/a-trade-war-between-the-eu-and-china-seems-inevitable) judges an EU-China trade conflict barely avoidable. The signal is a good start; **concrete implementation – which instrument, with what teeth – is still to come**.",
       "items": [],
       "table": null,
       "subsections": []
@@ -27,7 +27,7 @@ window.W24_2026 = {
     {
       "title": "Spotlight 2: Rebutting the rebuttal (OECD vs CF40)",
       "short": "Spotlight 2: OECD vs CF40",
-      "intro": "On 1 June 2026 the OECD published the *MAGIC Database of Industrial Subsidies*, the first public release of nearly a decade of firm-level subsidy measurement. Industrial subsidies reached USD 108 billion in 2024, the highest level since 2008–09. Chinese firms received on average 3–8× more than OECD competitors. The OECD attributes around 60% of Chinese firms' global market-share gains between 2005 and 2023 to subsidies received, against 22% for firms globally. Solar PV, semiconductors and heavy industries top the recipient list. Below-market borrowings (BMB) via state and policy banks account for around two-thirds of the Chinese subsidy estimate.\n\nOn 6 June the CF40 Institute published an English-language rebuttal via Pekingnology. Authors Zhu He and Guo Kai (Executive President of CF40, previously of the PBOC Monetary Policy Department) examine 2018–25 annual reports of 5,300+ A-share listed firms. Their claim: the OECD account is \"outdated and misguided\". New-economy firms finance themselves through equity and internal cash, new debt and subsidies flow mostly to old-economy infrastructure, and government subsidies as a share of revenue have fallen since 2022.\n\nThe piece lands ahead of the EU Council and the G7 summit, with EU–China negotiations on EVs, rare earths and market access running in the background. The rebuttal uses real firm-level data and pushes on grey zones the OECD itself flags – LPR pricing as a benchmark, sample limits, the unmeasured equity channel, the COMAC/AVIC disclosure blackout. For European policymakers preparing for Council and the G7, this is the version of the Chinese argument worth pressure-testing. The table below sets out where each side holds.",
+      "intro": "On 1 June 2026 the **OECD** published the *MAGIC Database of Industrial Subsidies*, the first public release of nearly a decade of firm-level subsidy measurement. Industrial subsidies reached **USD 108 billion in 2024**, the highest level since 2008–09. Chinese firms received on average **3–8× more** than OECD competitors. The OECD attributes around **60% of Chinese firms' global market-share gains** between 2005 and 2023 to subsidies received, against 22% for firms globally. Solar PV, semiconductors and heavy industries top the recipient list. **Below-market borrowings (BMB)** via state and policy banks account for around two-thirds of the Chinese subsidy estimate.\n\nOn 6 June the **CF40 Institute** published an English-language rebuttal via Pekingnology. Authors **Zhu He and Guo Kai** (Executive President of CF40, previously of the PBOC Monetary Policy Department) examine 2018–25 annual reports of 5,300+ A-share listed firms. Their claim: the OECD account is *\"outdated and misguided\"*. New-economy firms finance themselves through equity and internal cash, new debt and subsidies flow mostly to old-economy infrastructure, and government subsidies as a share of revenue have fallen since 2022.\n\nThe piece lands ahead of the EU Council and the G7 summit, with EU–China negotiations on EVs, rare earths and market access running in the background. The rebuttal uses real firm-level data and pushes on grey zones the OECD itself flags – LPR pricing as a benchmark, sample limits, the unmeasured equity channel, the COMAC/AVIC disclosure blackout. **For European policymakers preparing for Council and the G7, this is the version of the Chinese argument worth pressure-testing.** The table below sets out where each side holds.",
       "items": [],
       "table": {
         "headers": [
@@ -83,10 +83,20 @@ window.W24_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**The Commission signals a new trade-policy instrument**: Brussels hints at an additional trade weapon vis-à-vis China ([Euractiv](https://www.euractiv.com/news/brussels-hints-at-new-anti-china-trade-weapon/)), while the [Economist](https://www.economist.com/europe/2026/06/11/a-trade-war-between-the-eu-and-china-seems-inevitable) judges an EU-China trade conflict barely avoidable.",
+              "note": "**Beijing cancels two high-level EU meetings over trade tensions**: A ministerial-level digital dialogue – including a session with Olof Skoog, deputy secretary-general of the EU's diplomatic service – was scrapped, the [FT reported](https://www.ft.com/content/5903318c-319b-426e-b05d-062f7620f799); MFA spokesperson Lin Jian neither confirmed nor denied the cancellation, saying only that \"China and the EU are in communication on relevant dialogue\".",
+              "tags": [
+                "trade",
+                "diplomacy"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Commission readies action on Chinese chemicals as overcapacity squeezes EU producers**: [POLITICO](https://www.politico.eu/article/europes-fightback-against-china-may-come-too-late-for-its-chemicals-industry/) reports Brussels is preparing remedies against subsidised Chinese chemical exports – a sector that has lost share to Chinese capacity built behind state support.",
               "tags": [
                 "eu-cn",
-                "trade"
+                "industrial-policy"
               ]
             },
             {
@@ -98,24 +108,6 @@ window.W24_2026 = {
                 "ru-cn",
                 "sanctions",
                 "pla"
-              ]
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**China cancels high-level meetings with EU**: A ministerial-level dialogue on digital issues was scrapped, including a session involving Olof Skoog, deputy secretary-general of the EU's diplomatic service.",
-              "tags": [
-                "diplomacy"
-              ]
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**Brussels eyes intervention as Chinese imports squeeze EU chemicals industry**: POLITICO reports the Commission is considering action against subsidised Chinese chemical exports.",
-              "tags": [
-                "eu-cn"
               ]
             },
             {
@@ -136,16 +128,7 @@ window.W24_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Belgium's PM De Wever presses for a serious China strategy – and chides the EU's reluctance to name China**: At a Friends of Europe / Jacques Delors Institute event, De Wever warned that Europe must counter Beijing's \"economic domination\" yet does not dare to name China ([Euractiv](https://euractiv.com/de/news/eu-spitzenpolitiker-haben-angst-vor-china-sagt-der-belgische-premierminister/)).",
-              "tags": [
-                "eu-cn"
-              ]
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**G7 Evian summit (15–17 June)**: France hosts the G7 leaders' summit in Evian; China features on the trade-and-economic-security agenda ([Consilium](https://www.consilium.europa.eu/)).",
+              "note": "**Beijing joins Macron's pre-G7 video call on \"imbalances\" but balks at deeper outreach**: Vice Premier **Zhang Guoqing** dialled into a Thursday leaders' video conference on global trade imbalances ahead of the [G7 Evian summit (15–17 June)](https://www.consilium.europa.eu/); Macron is [pushing for a G7-China conversation](https://www.politico.eu/article/emmanuel-macron-courts-china-with-g7-outreach/) (POLITICO) but Beijing has so far [resisted further engagement](https://www.bloomberg.com/news/articles/2026-06-11/china-vice-premier-to-join-macron-s-g7-call-on-trade-imbalances) (Bloomberg).",
               "tags": [
                 "trade",
                 "diplomacy"
@@ -155,16 +138,7 @@ window.W24_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Macron courts China with G7 outreach – Beijing reluctant to play along**: POLITICO reports Macron is pushing for a G7-China conversation, but Beijing is hesitant; a Thursday G7 video conference on global \"imbalances\" with Vice Premier Zhang Guoqing is planned.",
-              "tags": [
-                "pla"
-              ]
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**\"Three Signals China Wants to Send at the G7 Video Call\"**: Brussels Tea House lists Beijing's intended messages – drop the victim narrative, listen to your own companies, step back from the brink.",
+              "note": "**\"Three Signals China Wants to Send at the G7 Video Call\"**: *Brussels Tea House* – a newsletter dedicated to narrative-shaping in Europe – reads Beijing's intended messages as: drop the victim narrative, listen to your own companies, step back from the brink.",
               "tags": [
                 "eu-cn"
               ]
@@ -197,132 +171,77 @@ window.W24_2026 = {
               ]
             },
             {
-              "outlet": "MERICS",
+              "outlet": "**Outbound investment protections + Expa",
               "title": "",
               "date": "",
-              "url": "",
+              "url": "https://merics.org/en/merics-briefs/outbound-investment-protections-expanded-export-controls-xi-pyongyang",
               "bullets": [
+                [
+                  "",
+                  "[**Outbound investment protections + Expanded export controls + Xi in Pyongyang**](https://merics.org/en/merics-briefs/outbound-investment-protections-expanded-export-controls-xi-pyongyang) – *MERICS China Essentials*. Beijing has taken steps to better protect Chinese overseas investments and deter foreign governments from imposing restrictions on Chinese investors – just as the EU mulls a tougher de-risking. *(MERICS Briefs, Jun 12)*"
+                ],
                 [
                   "",
                   "**China challenges EU de-risking by boosting outbound investment protections** (Sophia Pradels): China's institutionalization of retaliatory and coercive tools in the outbound investment regulations formalizes and regularizes Beijing's coercion toolkit."
-                ]
-              ],
-              "tags": [
-                "de-cn",
-                "investment",
-                "supply-chain"
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
+                ],
                 [
                   "",
                   "**China's export control researchers eye technology as they move on from rare earths** (Jeroen Groenewegen-Lau): \"Beijing policy circles see global innovation networks as instruments of national power and are exploring ways to leverage them.\""
-                ]
-              ],
-              "tags": [
-                "de-cn",
-                "rare-earths",
-                "trade",
-                "export-controls"
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
+                ],
                 [
                   "",
-                  "**Xi grants North Korea his first official visit in 2026 – while high-level meetings with the EU are being cancelled** (Aurelio Insisa): \"North Korea's nuclear weapons and relations with Russia are the cornerstones of Pyongyang's bargaining position.\""
-                ]
-              ],
-              "tags": [
-                "de-cn",
-                "ru-cn",
-                "mil-tech",
-                "nuclear"
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
+                  "**Xi grants North Korea his first official visit in 2026 – while high-level meetings with the EU are being cancelled**: North Korea's nuclear weapons and ties with Russia anchor Pyongyang's bargaining position."
+                ],
                 [
                   "",
                   "**Beijing's hukou reform ambitions rise as China's gaokao numbers drop** (Alexander Davey): \"The recent hukou guidelines are ambitious. With gaokao numbers falling, Beijing sees a major job-market problem rapidly approaching.\""
                 ]
               ],
               "tags": [
-                "de-cn"
+                "de-cn",
+                "ru-cn",
+                "rare-earths",
+                "mil-tech",
+                "trade",
+                "export-controls",
+                "investment",
+                "supply-chain",
+                "nuclear"
               ]
             },
             {
-              "outlet": "MERICS",
+              "outlet": "**Russian propaganda abounds in Chinese ",
               "title": "",
               "date": "",
-              "url": "",
+              "url": "https://merics.org/en/comment/russian-propaganda-abounds-chinese-social-media-debate-ukraine",
               "bullets": [
                 [
                   "",
-                  "Ukraine is a Western proxy run by a charlatan"
-                ]
-              ],
-              "tags": [
-                "de-cn"
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "Ukrainian soldiers are deceitful \"Nazis\""
-                ]
-              ],
-              "tags": [
-                "de-cn"
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "Ukraine and its partners are drifting apart"
-                ]
-              ],
-              "tags": [
-                "de-cn"
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "Russian strikes are a response to \"terrorism\""
+                  "[**Russian propaganda abounds in Chinese social media debate on Ukraine**](https://merics.org/en/comment/russian-propaganda-abounds-chinese-social-media-debate-ukraine) – Yurii Poita's new analysis documents how pro-Russian framings on Chinese social media (Ukraine-as-Western-proxy, Ukrainian forces depicted as \"Nazis\", Western coalition fraying, Russian strikes recast as counter-terror) circulate with little pushback – suggesting Beijing may be tolerating or even encouraging discourse that erodes the moral and political authority of Kyiv and its Western supporters."
                 ]
               ],
               "tags": [
                 "de-cn",
-                "ru-cn"
+                "ru-cn",
+                "propaganda"
+              ]
+            },
+            {
+              "outlet": "**The EU is China's battery export marke",
+              "title": "",
+              "date": "",
+              "url": "https://soapboxtrade.substack.com/p/the-eu-is-chinas-battery-export-market",
+              "bullets": [
+                [
+                  "",
+                  "[**The EU is China's battery export market**](https://soapboxtrade.substack.com/p/the-eu-is-chinas-battery-export-market) – *Soapbox 251 | In collaboration with MERICS*. China's battery export machine and its heavy dependence on the EU; Chinese capital going abroad with the state still attached; rare-earth magnet flows splitting between the EU and the US; the China-Shock-2.0 dynamics building into mid-2026. *(Soapbox, Jun 08)*"
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "batteries",
+                "rare-earths",
+                "trade"
               ]
             }
           ]
@@ -339,36 +258,6 @@ window.W24_2026 = {
                 [
                   "",
                   "[**MERICS China-Frühstück für MdB-Mitarbeiter:innen**](https://merics.org) – Closed-door briefing for parliamentary staff on current China policy questions."
-                ]
-              ],
-              "tags": [
-                "de-cn"
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "Welcome to **Aurelio Insisa** joining MERICS as Senior Analyst in our Foreign Relations Team."
-                ]
-              ],
-              "tags": [
-                "de-cn"
-              ]
-            },
-            {
-              "outlet": "MERICS",
-              "title": "",
-              "date": "",
-              "url": "",
-              "bullets": [
-                [
-                  "",
-                  "Welcome to **Laura Seifert** joining MERICS as Senior Project Manager."
                 ]
               ],
               "tags": [
