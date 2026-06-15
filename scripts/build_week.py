@@ -419,7 +419,24 @@ def _parse_part_ii_new_schema(text: str) -> dict | None:
                     # the list.
                     outlet = "Media"
                 elif links:
-                    outlet = links[0].group("text")[:40]
+                    raw = links[0].group("text").strip().strip("*").strip()
+                    # URL host wins for known MERICS-side publishers — the link
+                    # text in Part II is usually the article TITLE, not the
+                    # outlet name, so deriving outlet from raw text yields
+                    # garbage (e.g. "**Outbound investment protections + Expa")
+                    # and the badge falls back to a letter tile.
+                    host = ""
+                    mu = re.search(r"https?://([^/]+)/", url)
+                    if mu:
+                        host = mu.group(1).lower()
+                    if "merics.org" in host:
+                        outlet = "MERICS"
+                    elif "soapbox" in host:
+                        outlet = "Soapbox"
+                    elif raw.lower().startswith("merics") or "merics" in raw.lower()[:8]:
+                        outlet = "MERICS"
+                    else:
+                        outlet = raw[:40]
                 else:
                     outlet = "MERICS"
                 # Keep `[text](url)` markdown so inlineMd renders each outlet

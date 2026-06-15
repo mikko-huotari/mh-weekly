@@ -171,7 +171,7 @@ window.W24_2026 = {
               ]
             },
             {
-              "outlet": "**Outbound investment protections + Expa",
+              "outlet": "MERICS",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/merics-briefs/outbound-investment-protections-expanded-export-controls-xi-pyongyang",
@@ -210,7 +210,7 @@ window.W24_2026 = {
               ]
             },
             {
-              "outlet": "**Russian propaganda abounds in Chinese ",
+              "outlet": "MERICS",
               "title": "",
               "date": "",
               "url": "https://merics.org/en/comment/russian-propaganda-abounds-chinese-social-media-debate-ukraine",
@@ -227,7 +227,7 @@ window.W24_2026 = {
               ]
             },
             {
-              "outlet": "**The EU is China's battery export marke",
+              "outlet": "Soapbox",
               "title": "",
               "date": "",
               "url": "https://soapboxtrade.substack.com/p/the-eu-is-chinas-battery-export-market",
@@ -242,26 +242,6 @@ window.W24_2026 = {
                 "batteries",
                 "rare-earths",
                 "trade"
-              ]
-            }
-          ]
-        },
-        {
-          "label": "Briefings & roundtables",
-          "items": [
-            {
-              "outlet": "**MERICS China-Frühstück für MdB-Mitarbe",
-              "title": "",
-              "date": "",
-              "url": "https://merics.org",
-              "bullets": [
-                [
-                  "",
-                  "[**MERICS China-Frühstück für MdB-Mitarbeiter:innen**](https://merics.org) – Closed-door briefing for parliamentary staff on current China policy questions."
-                ]
-              ],
-              "tags": [
-                "de-cn"
               ]
             }
           ]
@@ -367,7 +347,7 @@ window.W24_2026 = {
               ]
             },
             {
-              "outlet": "inforadio rbb / *Welt.Macht.China*",
+              "outlet": "inforadio rbb / *Welt.Macht.China",
               "title": "",
               "date": "",
               "url": "https://www.inforadio.de/rubriken/welt-macht-china/2026/06/ki-und-robotik-china-als-labor-fuer-die-zukunft-der-arbeit.html",
