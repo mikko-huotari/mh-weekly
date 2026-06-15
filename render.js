@@ -352,17 +352,20 @@
   }
   // Compact one-line research/insights row: [icon] [outlet link] — mini info.
   // bullets[0] already carries "[outlet](url): title", so we render it inline
-  // (no separate outlet header = no duplication) and keep only sub-bullets that
-  // are themselves links (e.g. China Tech Observatory's component pieces).
+  // (no separate outlet header = no duplication). Remaining bullets render as
+  // a nested sub-list under the parent (China Essentials sub-pieces, China
+  // Tech Observatory components, etc.).
   function renderResearchItem(e) {
     const badge = window.outletBadge ? window.outletBadge(e.outlet || "") : "";
     const bl = (e.bullets || []).map(b => (b && (b[1] || b[0])) || "").filter(Boolean);
     const main = bl[0] || e.title || (e.outlet ? `[${e.outlet}](${e.url || "#"})` : "");
-    const subs = bl.slice(1).filter(s => /\]\(/.test(s)); // keep only nested links
+    const subs = bl.slice(1);
     const tagsHtml = renderEntryTags(e.tags);
-    const subHtml = subs.map(s => `<li class="mr-sub">${inlineMd(s)}</li>`).join("");
+    const subHtml = subs.length
+      ? `<ul class="mr-sublist">${subs.map(s => `<li class="mr-sub">${inlineMd(s)}</li>`).join("")}</ul>`
+      : "";
     return `<li class="mr-row"><span class="mr-badge">${badge}</span>` +
-           `<span class="mr-text">${inlineMd(main)}${tagsHtml}</span></li>${subHtml}`;
+           `<span class="mr-text">${inlineMd(main)}${tagsHtml}${subHtml}</span></li>`;
   }
   function renderResearch(sec) {
     const groupsHtml = (sec.groups || []).map(g => {

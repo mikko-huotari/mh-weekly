@@ -399,10 +399,18 @@ def _parse_part_ii_new_schema(text: str) -> dict | None:
                 items.append(entry)
         if not items:
             for line in sub_body.splitlines():
-                ls = line.strip()
-                if not ls.startswith("- "):
+                if not line.strip().startswith("- "):
                     continue
+                indent = len(line) - len(line.lstrip())
+                ls = line.strip()
                 content = ls[2:].strip()
+                # Indented `- ` line (>=2 spaces) nests under the most recent
+                # top-level item as a sub-bullet — used in Part II to express
+                # "this is a sub-item of the parent briefing" (e.g. the four
+                # China Essentials pieces under the Essentials Brief).
+                if indent >= 2 and items:
+                    items[-1]["bullets"].append(["", content])
+                    continue
                 links = list(INLINE_LINK_RE.finditer(content))
                 url = links[0].group("url") if links else ""
                 if len(links) > 1:
