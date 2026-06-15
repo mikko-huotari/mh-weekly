@@ -2607,8 +2607,8 @@ window.W24_2026 = {
   "topCharts": [
     {
       "src": "assets/charts/W24-2026-chart-1.png",
-      "alt": "battery-export-eu-share",
-      "caption": "**Chart 1 – The EU absorbed 41% of China's worldwide lithium-ion battery export value in Jan–Apr 2026, far ahead of the US (9%)** ([Soapbox Trade × MERICS](https://soapboxtrade.substack.com/p/the-eu-is-chinas-battery-export-market), Issue 251; GACC, % of export value, Jan–Apr 2026)"
+      "alt": "eu-china-trade-surplus-jan-may",
+      "caption": "**Chart 1 – China's goods trade surplus with the EU hit US$144bn in Jan–May 2026 – 2.3× the same period in 2021, and the headline number Beijing brings to the EU Council week** ([Soapbox Trade × MERICS](https://soapboxtrade.substack.com/p/china-brings-a-brutal-trade-scorecard), Issue 252; GACC, US$bn, Jan–May 2021–2026)"
     },
     {
       "src": "assets/charts/W24-2026-chart-2.png",
@@ -2622,8 +2622,8 @@ window.W24_2026 = {
     },
     {
       "src": "assets/charts/W24-2026-chart-4.png",
-      "alt": "ip-royalty-bill",
-      "caption": "**Chart 4 – China paid around US$16bn for the use of intellectual property in Jan–Apr 2026 – the highest on record under the 2015 methodology, a reminder that self-reliance still carries a royalty bill** ([Soapbox Trade × MERICS](https://soapboxtrade.substack.com/p/the-eu-is-chinas-battery-export-market), Issue 251; SAFE, US$ bn, Jan–Apr 2026)"
+      "alt": "china-ic-exports-value-vs-volume",
+      "caption": "**Chart 4 – China's chip exports rose 90% by value in Jan–May 2026 but only 8.7% by volume – and 111% vs 2.1% in May alone, the clearest signal yet that China is moving up the semiconductor value chain rather than just shipping more units** ([Soapbox Trade × MERICS](https://soapboxtrade.substack.com/p/china-brings-a-brutal-trade-scorecard), Issue 252; GACC, year-on-year change, Jan–May / May 2026)"
     }
   ]
 };
