@@ -84,7 +84,9 @@
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
   // HTML-escape then convert minimal inline Markdown (`**bold**`, `*italic*`,
   // `[text](url)`) for note-style entries that carry source-side formatting.
-  const inlineMd = (s) => esc(s)
+  // STRIP HTML comments FIRST — they're MH-internal curation notes (e.g.
+  // <!-- pub date not set in Dynamics -->) and must never reach readers.
+  const inlineMd = (s) => esc((s || "").replace(/<!--[\s\S]*?-->/g, ""))
     .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
              '<a href="$2" target="_blank" rel="noopener">$1</a>')
     .replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>")
@@ -280,7 +282,9 @@
     if (!t || !(t.rows || []).length) return "";
     const head = (t.headers || []).map(h => `<th>${inlineMd(h)}</th>`).join("");
     const body = t.rows.map(r => `<tr>${r.map(c => `<td>${inlineMd(c)}</td>`).join("")}</tr>`).join("");
-    return `<table class="spotlight-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+    // 2-column tables are typically numeric (label + value); 3+ columns are prose.
+    const cls = (t.headers || []).length <= 2 ? "spotlight-table numeric" : "spotlight-table";
+    return `<table class="${cls}"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
   }
   function renderSpotlight(s, idx = 0) {
     if (!s) return "";
@@ -291,7 +295,7 @@
       return `
       <div class="spotlight-sub">
         <h3 class="spotlight-sub-h">${esc(sub.label)}</h3>
-        ${sub.intro ? `<p class="section-intro">${inlineMd(sub.intro)}</p>` : ""}
+        ${sub.intro ? sub.intro.split(/\n{2,}/).map(p => `<p class="section-intro">${inlineMd(p)}</p>`).join("") : ""}
         ${renderSpotlightItems(subItems)}
         ${renderSpotlightTable(sub.table)}
       </div>`;
@@ -302,7 +306,7 @@
         <header class="section-h">
           <h2 class="label">${esc(s.title || "Spotlight")}</h2>
         </header>
-        ${s.intro ? `<p class="section-intro">${inlineMd(s.intro)}</p>` : ""}
+        ${s.intro ? s.intro.split(/\n{2,}/).map(p => `<p class="section-intro">${inlineMd(p)}</p>`).join("") : ""}
         ${renderSpotlightItems(items)}
         ${renderSpotlightTable(s.table)}
         ${subs}

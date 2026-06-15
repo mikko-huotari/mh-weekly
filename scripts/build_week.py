@@ -592,7 +592,7 @@ def _parse_one_spotlight(title: str, body: str) -> dict:
         sub_intro, sub_items, sub_table = _split_spotlight_subsection(body[sub_start:sub_end])
         subsections.append({
             "label": label,
-            "intro": " ".join(sub_intro).strip(),
+            "intro": "\n\n".join(sub_intro).strip(),
             "items": sub_items,
             "table": sub_table,
         })
@@ -607,7 +607,7 @@ def _parse_one_spotlight(title: str, body: str) -> dict:
     return {
         "title": title,
         "short": short,
-        "intro": " ".join(intro_parts).strip(),
+        "intro": "\n\n".join(intro_parts).strip(),
         "items": items,
         "table": table,
         "subsections": subsections,

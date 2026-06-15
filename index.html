@@ -1079,24 +1079,28 @@
   .spotlight-bullets > li::marker { color: var(--graphite); }
   .spotlight-table {
     width: 100%;
+    max-width: 100%;
     border-collapse: collapse;
     margin: 14px 0 0;
     font-size: 15px;
     line-height: 1.4;
+    table-layout: auto;
   }
   .spotlight-table th, .spotlight-table td {
     text-align: left;
     padding: 7px 12px 7px 0;
     border-bottom: 1px solid var(--rule, #e2e2e2);
     vertical-align: top;
+    overflow-wrap: anywhere;
   }
   .spotlight-table thead th {
     border-bottom: 2px solid var(--graphite, #333);
     font-weight: 600;
-    white-space: nowrap;
   }
-  .spotlight-table td:first-child, .spotlight-table th:first-child { white-space: nowrap; padding-right: 16px; }
-  .spotlight-table td:last-child, .spotlight-table th:last-child { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  /* Numeric tables (2-column) keep nowrap on first/last cells.
+     Prose tables (3+ columns) let all cells wrap freely. */
+  .spotlight-table.numeric td:first-child, .spotlight-table.numeric th:first-child { white-space: nowrap; padding-right: 16px; }
+  .spotlight-table.numeric td:last-child, .spotlight-table.numeric th:last-child { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
 
   /* German China policy items render as a bulleted list. Uses a ::before disc
      (not list-style) so no descendant ul reset can suppress the marker. */

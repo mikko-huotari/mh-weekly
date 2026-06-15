@@ -1,13 +1,10 @@
-All source data gathered. Here is the structured JSON:
-
-```json
 {
-  "label": "W24-2026 — GER-Lens: Wochenbericht zur deutschen China-Berichterstattung (7.–13. Juni 2026)",
-  "caveat": "Reiche-Zitat (Katherina Reiche, „Reziprozität\"): Datum prüfen – der China-Besuch der Bundeswirtschaftsministerin fällt laut Quellmarkierung möglicherweise nicht in KW24.",
+  "label": "Wochenbericht zur China-Berichterstattung (8.–12. Juni 2026)",
+  "caveat": "Presseschau der deutschsprachigen China-Berichterstattung. Alle Zitate, Fakten und Themen sind wortwörtlich den genannten Quellen entnommen und geben deren Darstellung wieder, nicht eine eigene Bewertung.",
   "quotes": [
     {
       "lead": "Xi Jinping",
-      "text": "schrieb am Sonntag, 7. Juni in einem Vorabartikel für das nordkoreanische Parteiblatt Rodong Sinmun von einer „unzerbrechlichen und dauerhaften Freundschaft\" mit Nordkorea und rief dazu auf, gemeinsam jeden Versuch zurückzuweisen, der „den Militarismus wiederbeleben\" und die regionale Stabilität untergraben wolle",
+      "text": "(Staats- und Parteichef, Volksrepublik China) schrieb am Sonntag, 7. Juni in einem Vorabartikel für das nordkoreanische Parteiblatt Rodong Sinmun von einer „unzerbrechlichen und dauerhaften Freundschaft" mit Nordkorea und rief dazu auf, gemeinsam jeden Versuch zurückzuweisen, der „den Militarismus wiederbeleben" und die regionale Stabilität untergraben wolle.",
       "source": {
         "outlet": "DIE ZEIT",
         "outletDisplay": "zeit.de / faz.net",
@@ -18,7 +15,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Xi Jinping",
-      "text": "sicherte Kim Jong-un beim Staatsbesuch in Pjöngjang am 8./9. Juni zu, China werde „egal, wie sich die internationale Lage verändert\" an der traditionellen Freundschaft festhalten",
+      "text": "(Staats- und Parteichef, Volksrepublik China) sicherte Kim Jong-un beim Staatsbesuch in Pjöngjang am 8./9. Juni zu, China werde „egal, wie sich die internationale Lage verändert" an der traditionellen Freundschaft festhalten.",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -29,10 +26,10 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Kim Jong-un",
-      "text": "bezeichnete laut Xinhua die chinesisch-nordkoreanischen Beziehungen beim Gipfeltreffen in Pjöngjang am 8./9. Juni als „unzerbrechlich\" und stellte sich ausdrücklich hinter Chinas Ein-China-Prinzip",
+      "text": "(Staatsratsvorsitzender, Demokratische Volksrepublik Korea) bezeichnete laut Xinhua die chinesisch-nordkoreanischen Beziehungen beim Gipfeltreffen in Pjöngjang am 8./9. Juni als „unzerbrechlich" und stellte sich ausdrücklich hinter Chinas Ein-China-Prinzip.",
       "source": {
         "outlet": "Handelsblatt",
-        "outletDisplay": "Handelsblatt (DPA/Xinhua)",
+        "outletDisplay": "Handelsblatt",
         "date": "2026-06-09",
         "title": "Xinhua-Wortlaut, zitiert in DPA-/Handelsblatt-Berichten"
       },
@@ -40,7 +37,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Kim Yo-jong",
-      "text": "erklärte am Sonntag, 7. Juni, dass der Status Nordkoreas als Nuklearwaffenstaat eine „unumkehrbare Realität\" sei und wies US-Angaben zurück, Xi und Trump hätten im Mai die Denuklearisierung bekräftigt",
+      "text": "(Vizevorsitzende der Arbeiterpartei Koreas, Nordkorea) erklärte am Sonntag, 7. Juni, dass der Status Nordkoreas als Nuklearwaffenstaat eine „unumkehrbare Realität" sei und wies US-Angaben zurück, Xi und Trump hätten im Mai die Denuklearisierung bekräftigt.",
       "source": {
         "outlet": "FAZ",
         "outletDisplay": "faz.net",
@@ -51,7 +48,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Katherina Reiche",
-      "text": "forderte bei ihrem China-Besuch faire Wettbewerbsbedingungen und verwies auf das Prinzip der „Reziprozität\": Unternehmen in beiden Ländern sollten möglichst vergleichbare Marktzugangs- und Wettbewerbsbedingungen haben",
+      "text": "(Bundeswirtschaftsministerin, CDU) forderte bei ihrem China-Besuch faire Wettbewerbsbedingungen und verwies auf das Prinzip der „Reziprozität": Unternehmen in beiden Ländern sollten möglichst vergleichbare Marktzugangs- und Wettbewerbsbedingungen haben.",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -62,7 +59,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Markus Kamieth",
-      "text": "warnte am Dienstag, 9. Juni beim Internationalen Club Frankfurter Wirtschaftsjournalisten vor einem neuen Ölpreisschock und sagte mit Blick auf Strom- und Rohstoffkonkurrenz aus China: „Deutschland und Europa wird nie ein günstiger Gasstandort sein, weil wir kein eigenes Gas fördern\"",
+      "text": "(Vorstandsvorsitzender, BASF SE) warnte am Dienstag, 9. Juni beim Internationalen Club Frankfurter Wirtschaftsjournalisten vor einem neuen Ölpreisschock und sagte mit Blick auf Strom- und Rohstoffkonkurrenz aus China: „Deutschland und Europa wird nie ein günstiger Gasstandort sein, weil wir kein eigenes Gas fördern".",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -73,7 +70,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Peter Leibinger",
-      "text": "erklärte am Donnerstag, 12. Juni zur BDI-Allensbach-Umfrage, die meisten Unternehmen hätten ihre Verwundbarkeit gegenüber Lieferketten-Risiken reduziert, soweit es ihnen möglich war; er forderte die Bundesregierung auf, Gesamtstrategien für wirtschaftliche Resilienz zu entwickeln, und nannte Japan als Vorbild bei der Reduzierung der Abhängigkeit von China",
+      "text": "(Präsident, Bundesverband der Deutschen Industrie – BDI) erklärte am Donnerstag, 12. Juni zur BDI-Allensbach-Umfrage, die meisten Unternehmen hätten ihre Verwundbarkeit gegenüber Lieferketten-Risiken reduziert, soweit es ihnen möglich war; er forderte die Bundesregierung auf, Gesamtstrategien für wirtschaftliche Resilienz zu entwickeln, und nannte Japan als Vorbild bei der Reduzierung der Abhängigkeit von China.",
       "source": {
         "outlet": "Spiegel",
         "outletDisplay": "Der Spiegel",
@@ -84,7 +81,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Bert Rürup",
-      "text": "warnte am Donnerstag, 12. Juni: „Das Ende des zwei Jahrzehnte andauernden Globalisierungsschubs, der Umbau der Energieversorgung und nicht zuletzt das mit kräftiger Unterstützung Pekings beförderte Erstarken chinesischer Wettbewerber sind eine akute Gefahr für das traditionelle Geschäftsmodell der deutschen Volkswirtschaft\"",
+      "text": "(Chefökonom, Handelsblatt Research Institute) warnte am Donnerstag, 12. Juni: „Das Ende des zwei Jahrzehnte andauernden Globalisierungsschubs, der Umbau der Energieversorgung und nicht zuletzt das mit kräftiger Unterstützung Pekings beförderte Erstarken chinesischer Wettbewerber sind eine akute Gefahr für das traditionelle Geschäftsmodell der deutschen Volkswirtschaft".",
       "source": {
         "outlet": "Handelsblatt",
         "outletDisplay": "handelsblatt.com",
@@ -95,7 +92,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Eric Ballbach",
-      "text": "sagte am Mittwoch, 11. Juni gegenüber der FAZ, der Staatsbesuch Xis sei für Nordkorea „ein enormer Erfolg\", der propagandistisch ausgeschlachtet werde",
+      "text": "(Nordkorea-Experte, Stiftung Wissenschaft und Politik – SWP) sagte am Mittwoch, 11. Juni gegenüber der FAZ, der Staatsbesuch Xis sei für Nordkorea „ein enormer Erfolg", der propagandistisch ausgeschlachtet werde.",
       "source": {
         "outlet": "FAZ",
         "outletDisplay": "faz.net",
@@ -106,7 +103,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Eric Ballbach",
-      "text": "erläuterte weiter, Peking und Pjöngjang seien um eine Entspannung bemüht, die seit Xis Amtsantritt 2012 „alles andere als harmonisch\" gewesen sei",
+      "text": "(Nordkorea-Experte, Stiftung Wissenschaft und Politik – SWP) erläuterte weiter, Peking und Pjöngjang seien um eine Entspannung bemüht, die seit Xis Amtsantritt 2012 „alles andere als harmonisch" gewesen sei.",
       "source": {
         "outlet": "FAZ",
         "outletDisplay": "faz.net",
@@ -117,7 +114,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Moritz Schularick",
-      "text": "erklärte am Donnerstag, 11. Juni zur „Endgame\"-Studie, Russland werde „immer abhängiger vom Handel mit China\"; „In den ersten Jahren des Krieges gegen die Ukraine hat sich die russische Wirtschaft als widerstandsfähiger erwiesen, als viele erwartet hatten. Doch nun sind die Reserven aufgebraucht\"",
+      "text": "(Präsident, Kiel Institut für Weltwirtschaft – IfW) erklärte am Donnerstag, 11. Juni zur „Endgame"-Studie, Russland werde „immer abhängiger vom Handel mit China"; „In den ersten Jahren des Krieges gegen die Ukraine hat sich die russische Wirtschaft als widerstandsfähiger erwiesen, als viele erwartet hatten. Doch nun sind die Reserven aufgebraucht".",
       "source": {
         "outlet": "DIE ZEIT",
         "outletDisplay": "zeit.de",
@@ -128,7 +125,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Torbjörn Becker",
-      "text": "sagte am Donnerstag, 11. Juni zur „Endgame\"-Studie: „China ermöglicht Russland, diesen Krieg fortzuführen\" – chinesische Produkte ersetzten westliche Güter und ermöglichten über den Umweg China auch den Import westlicher Waren wie Mikrochips nach Russland",
+      "text": "(Direktor, Stockholm Institute of Transition Economics) sagte am Donnerstag, 11. Juni zur „Endgame"-Studie: „China ermöglicht Russland, diesen Krieg fortzuführen" – chinesische Produkte ersetzten westliche Güter und ermöglichten über den Umweg China auch den Import westlicher Waren wie Mikrochips nach Russland.",
       "source": {
         "outlet": "DIE ZEIT",
         "outletDisplay": "zeit.de",
@@ -139,7 +136,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Stella Li",
-      "text": "erklärte am Dienstag, 10. Juni in London, Ungarn habe „im Moment oberste Priorität\" für den Produktionsanlauf im vierten Quartal 2026; BYD strebe langfristig an, 70 Prozent der in Europa verkauften Fahrzeuge auch hier zu bauen",
+      "text": "(Executive Vice President, BYD) erklärte am Dienstag, 10. Juni in London, Ungarn habe „im Moment oberste Priorität" für den Produktionsanlauf im vierten Quartal 2026; BYD strebe langfristig an, 70 Prozent der in Europa verkauften Fahrzeuge auch hier zu bauen.",
       "source": {
         "outlet": "Handelsblatt",
         "outletDisplay": "handelsblatt.com",
@@ -150,7 +147,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Alfredo Altavilla",
-      "text": "erläuterte, ein Grund für die Suche chinesischer Hersteller nach bestehenden Werken in Europa sei, dass die Vorgaben des EU-„Industrial Accelerator Act\" schneller in Kraft träten als neue Fabriken gebaut werden könnten: „Es ist keine Zeit, um auf der grünen Wiese zu bauen. Alles, was man tun kann, ist eine bestehende Anlage zu finden, zu übernehmen und neu auszurüsten\"",
+      "text": "(Europa-Berater, BYD) erläuterte, ein Grund für die Suche chinesischer Hersteller nach bestehenden Werken in Europa sei, dass die Vorgaben des EU-„Industrial Accelerator Act" schneller in Kraft träten als neue Fabriken gebaut werden könnten: „Es ist keine Zeit, um auf der grünen Wiese zu bauen. Alles, was man tun kann, ist eine bestehende Anlage zu finden, zu übernehmen und neu auszurüsten".",
       "source": {
         "outlet": "Handelsblatt",
         "outletDisplay": "handelsblatt.com",
@@ -161,7 +158,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Dietrich Birk",
-      "text": "sagte am Montag, 8. Juni zum 24-Prozent-Rückgang der Maschinenexporte nach China im Q1 2026: „Der zunehmende Wettbewerbsdruck aus China und die sich weiter abkühlenden transatlantischen Wirtschaftsbeziehungen belasten die exportorientierte Maschinenbaubranche spürbar\"",
+      "text": "(Geschäftsführer, VDMA Baden-Württemberg) sagte am Montag, 8. Juni zum 24-Prozent-Rückgang der Maschinenexporte nach China im Q1 2026: „Der zunehmende Wettbewerbsdruck aus China und die sich weiter abkühlenden transatlantischen Wirtschaftsbeziehungen belasten die exportorientierte Maschinenbaubranche spürbar".",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -172,7 +169,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Axel Plaß",
-      "text": "verteidigte am Mittwoch, 10. Juni den geplanten Verkauf von 80 Prozent der Anteile der Hamburger Spedition Konrad Zippel an Cosco: „Das Geschäft bleibt in Hamburg, alle Arbeitsplätze werden erhalten\"; Zippel mit rund 1,5 Prozent Marktanteil sei „die öffentliche Aufregung nicht wert\"",
+      "text": "(Geschäftsführender Gesellschafter, Zippel Group) verteidigte am Mittwoch, 10. Juni den geplanten Verkauf von 80 Prozent der Anteile der Hamburger Spedition Konrad Zippel an Cosco: „Das Geschäft bleibt in Hamburg, alle Arbeitsplätze werden erhalten"; Zippel mit rund 1,5 Prozent Marktanteil sei „die öffentliche Aufregung nicht wert".",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -183,7 +180,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Jürgen Kerner",
-      "text": "erklärte am Montag, 8. Juni anlässlich der angekündigten Großkundgebung in Berlin: „Die Politik hat in den vergangenen Monaten – auf unseren Druck hin – einiges für die Stahlindustrie getan. Sie darf jetzt nicht auf halbem Weg stehen bleiben\"; er verwies auf Billigimporte aus China als zentralen Belastungsfaktor",
+      "text": "(Zweiter Vorsitzender, IG Metall) erklärte am Montag, 8. Juni anlässlich der angekündigten Großkundgebung in Berlin: „Die Politik hat in den vergangenen Monaten – auf unseren Druck hin – einiges für die Stahlindustrie getan. Sie darf jetzt nicht auf halbem Weg stehen bleiben"; er verwies auf Billigimporte aus China als zentralen Belastungsfaktor.",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -194,7 +191,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Stefan Messingschlager",
-      "text": "argumentierte am Dienstag, 10. Juni, Europa müsse China „systematisch\" begegnen statt einzelne Irritationen zu verwalten; die aktuellen chinesischen Exportlizenzkontrollen für Seltene Erden seien mehr als ein Lieferkettenproblem: „Ein fehlender Magnet, ein wartendes Werk – plötzlich wird Beschaffung zur Außenpolitik\"",
+      "text": "(Historiker und Politikwissenschaftler, Helmut-Schmidt-Universität Hamburg) argumentierte am Dienstag, 10. Juni, Europa müsse China „systematisch" begegnen statt einzelne Irritationen zu verwalten; die aktuellen chinesischen Exportlizenzkontrollen für Seltene Erden seien mehr als ein Lieferkettenproblem: „Ein fehlender Magnet, ein wartendes Werk – plötzlich wird Beschaffung zur Außenpolitik".",
       "source": {
         "outlet": "DIE ZEIT",
         "outletDisplay": "zeit.de",
@@ -205,7 +202,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "VDMA",
-      "text": "teilte am Montag, 8. Juni mit, das Chinageschäft der Maschinen- und Anlagenbauer in Baden-Württemberg sei im Q1 2026 um 24 Prozent auf 0,76 Milliarden Euro eingebrochen; Frankreich habe China damit auf Rang zwei der Exportmärkte verdrängt",
+      "text": "(Verband Deutscher Maschinen- und Anlagenbauer) teilte am Montag, 8. Juni mit, das Chinageschäft der Maschinen- und Anlagenbauer in Baden-Württemberg sei im Q1 2026 um 24 Prozent auf 0,76 Milliarden Euro eingebrochen; Frankreich habe China damit auf Rang zwei der Exportmärkte verdrängt.",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -216,7 +213,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Mitch Shin",
-      "text": "erklärte, Kims Entscheidungen – insbesondere die Entsendung von Soldaten und Munition nach Russland – hätten „direkte Implikationen für die euroatlantische Sicherheit\"",
+      "text": "(Nordkorea-Forscher, Schwedisches Institut für Internationale Angelegenheiten, Stockholm) erklärte, Kims Entscheidungen – insbesondere die Entsendung von Soldaten und Munition nach Russland – hätten „direkte Implikationen für die euroatlantische Sicherheit".",
       "source": {
         "outlet": "Handelsblatt",
         "outletDisplay": "Handelsblatt",
@@ -227,7 +224,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Lynn Song",
-      "text": "ordnete am Montag, 9. Juni Chinas Exportdaten ein: Der starke Anstieg der Ausfuhren in die USA um 35,4 Prozent im Mai hänge vor allem mit einem Basiseffekt zusammen, weil der Zollstreit im Vergleichsmonat Mai 2025 einen Höhepunkt erreicht hatte",
+      "text": "(Ökonom, ING) ordnete am Montag, 9. Juni Chinas Exportdaten ein: Der starke Anstieg der Ausfuhren in die USA um 35,4 Prozent im Mai hänge vor allem mit einem Basiseffekt zusammen, weil der Zollstreit im Vergleichsmonat Mai 2025 einen Höhepunkt erreicht hatte.",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -238,7 +235,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Joshua Tucker",
-      "text": "erläuterte am 12. Juni im SZ-Gespräch, kommerzielle Chatbots gäben auf politische Fragen auf Chinesisch in rund 75 Prozent der Fälle positivere Antworten zur politischen Führung als auf Englisch: „Trainingsdaten fallen nicht vom Himmel. Sie sind das Ergebnis der Gesellschaften und politischen Systeme, aus denen sie stammen\"",
+      "text": "(Politikwissenschaftler, New York University; Autor der Nature-Studie) erläuterte am 12. Juni im SZ-Gespräch, kommerzielle Chatbots gäben auf politische Fragen auf Chinesisch in rund 75 Prozent der Fälle positivere Antworten zur politischen Führung als auf Englisch: „Trainingsdaten fallen nicht vom Himmel. Sie sind das Ergebnis der Gesellschaften und politischen Systeme, aus denen sie stammen".",
       "source": {
         "outlet": "Süddeutsche Zeitung",
         "outletDisplay": "Süddeutsche Zeitung",
@@ -249,7 +246,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Holger Hanselka",
-      "text": "sagte am Montag, 8. Juni in einem SZ-Interview zum Bürokratieabbau: „Wir reden immer über Bürokratieabbau, aber ich habe da meine Zweifel. Mit KI bleibt hoffentlich mehr Zeit für kreative Aufgaben\"",
+      "text": "(Präsident, Fraunhofer-Gesellschaft) sagte am Montag, 8. Juni in einem SZ-Interview zum Bürokratieabbau: „Wir reden immer über Bürokratieabbau, aber ich habe da meine Zweifel. Mit KI bleibt hoffentlich mehr Zeit für kreative Aufgaben".",
       "source": {
         "outlet": "Süddeutsche Zeitung",
         "outletDisplay": "Süddeutsche Zeitung",
@@ -260,7 +257,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "Alexander Görbing",
-      "text": "erklärte am Montag, 9. Juni zum Verkauf der insolventen Perlon-Gruppe an Wuxi Yinda Nylon: „Auch die drei Standorte in Deutschland bleiben erhalten\"; 450 der 510 deutschen Arbeitsplätze seien gesichert",
+      "text": "(Sprecher, SGP Schneider Geiwitz / Sachwalter Perlon) erklärte am Montag, 9. Juni zum Verkauf der insolventen Perlon-Gruppe an Wuxi Yinda Nylon: „Auch die drei Standorte in Deutschland bleiben erhalten"; 450 der 510 deutschen Arbeitsplätze seien gesichert.",
       "source": {
         "outlet": "BILD",
         "outletDisplay": "bild.de",
@@ -372,7 +369,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "lead": "EU-Handelsdefizit gegenüber China: fast eine Milliarde Euro täglich",
-      "text": "EVP-Chef Manfred Weber bezifferte das EU-Handelsdefizit mit China auf „fast eine Milliarde Euro pro Tag\" und forderte vor dem EU-Gipfel am 18. Juni härtere Handelsinstrumente.",
+      "text": "EVP-Chef Manfred Weber bezifferte das EU-Handelsdefizit mit China auf „fast eine Milliarde Euro pro Tag" und forderte vor dem EU-Gipfel am 18. Juni härtere Handelsinstrumente.",
       "source": {
         "outlet": "Die Welt",
         "outletDisplay": "welt.de",
@@ -465,7 +462,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "title": "Chinas Exportoffensive und der bevorstehende EU-Gipfel",
-      "text": "Im Vorfeld des EU-Gipfels am 18. Juni verdichtet sich die Debatte darüber, wie Europa auf Chinas Exportwachstum – im Mai +19,4 Prozent, getrieben von KI-Hardware und Pkw – reagieren soll. EVP-Chef Manfred Weber fordert in Welt und Bild am Sonntag ein Ende der „Zeit der Naivität\" und zieht EU-Autozölle als Blaupause heran. Die FAZ analysiert gleichzeitig, ob Chinas Vorgehen tatsächlich unfair sei, und warnt vor einer Überreaktion; Zeit und Handelsblatt mahnen eine kohärente EU-Strategie an statt punktueller Schutzmaßnahmen.",
+      "text": "Im Vorfeld des EU-Gipfels am 18. Juni verdichtet sich die Debatte darüber, wie Europa auf Chinas Exportwachstum – im Mai +19,4 Prozent, getrieben von KI-Hardware und Pkw – reagieren soll. EVP-Chef Manfred Weber fordert in Welt und Bild am Sonntag ein Ende der „Zeit der Naivität" und zieht EU-Autozölle als Blaupause heran. Die FAZ analysiert gleichzeitig, ob Chinas Vorgehen tatsächlich unfair sei, und warnt vor einer Überreaktion; Zeit und Handelsblatt mahnen eine kohärente EU-Strategie an statt punktueller Schutzmaßnahmen.",
       "sources": [
         {
           "outlet": "FAZ",
@@ -515,7 +512,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "title": "Deutsche Autoindustrie und der Rollentausch mit China",
-      "text": "Die FAZ dokumentiert unter dem Titel „Nachhilfe aus China\", wie Volkswagen und andere deutsche Hersteller inzwischen Innovationen aus chinesischen Standorten beziehen statt umgekehrt. Im Mai war erstmals kein reines Verbrennermodell mehr unter den zehn meistverkauften Pkw in China, während chinesische Pkw-Exporte um 73 Prozent auf rund 809.000 Fahrzeuge stiegen und BYD seine Europastrategie auf Produktion in Ungarn umschwenkt, um EU-Strafzölle zu umgehen. Das Handelsblatt zeigt: Chinas Markt läuft nicht mehr auf deutschen Motoren.",
+      "text": "Die FAZ dokumentiert unter dem Titel „Nachhilfe aus China", wie Volkswagen und andere deutsche Hersteller inzwischen Innovationen aus chinesischen Standorten beziehen statt umgekehrt. Im Mai war erstmals kein reines Verbrennermodell mehr unter den zehn meistverkauften Pkw in China, während chinesische Pkw-Exporte um 73 Prozent auf rund 809.000 Fahrzeuge stiegen und BYD seine Europastrategie auf Produktion in Ungarn umschwenkt, um EU-Strafzölle zu umgehen. Das Handelsblatt zeigt: Chinas Markt läuft nicht mehr auf deutschen Motoren.",
       "sources": [
         {
           "outlet": "FAZ",
@@ -540,7 +537,7 @@ All source data gathered. Here is the structured JSON:
     },
     {
       "title": "Die Qualität der deutschen China-Debatte",
-      "text": "Ein Handelsblatt-Essay diagnostiziert, dass die Auseinandersetzung zwischen „Chinaverstehern\" und „Chinabashern\" eine nüchterne Analyse blockiert – China sei weder Vorbild noch Feind, sondern ein mächtiges, widersprüchliches Land, das präzise Einordnung verdiene. Die Zeit fordert ergänzend eine echte Strategie statt Regelbeschwörung; die FAZ hält fest, dass Autokratien auch bei wirtschaftspolitischer Effizienz kein Vorbild sein können. Alle drei Texte erschienen in der Woche von Xis Nordkorea-Reise und spiegeln ein strukturelles Unbehagen über die konzeptionelle Lücke in der deutschen China-Politik.",
+      "text": "Ein Handelsblatt-Essay diagnostiziert, dass die Auseinandersetzung zwischen „Chinaverstehern" und „Chinabashern" eine nüchterne Analyse blockiert – China sei weder Vorbild noch Feind, sondern ein mächtiges, widersprüchliches Land, das präzise Einordnung verdiene. Die Zeit fordert ergänzend eine echte Strategie statt Regelbeschwörung; die FAZ hält fest, dass Autokratien auch bei wirtschaftspolitischer Effizienz kein Vorbild sein können. Alle drei Texte erschienen in der Woche von Xis Nordkorea-Reise und spiegeln ein strukturelles Unbehagen über die konzeptionelle Lücke in der deutschen China-Politik.",
       "sources": [
         {
           "outlet": "Handelsblatt",

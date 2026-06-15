@@ -14,7 +14,7 @@ window.W23_2026_WOCHENBERICHT = {
       "items": [
         {
           "lead": "Katherina Reiche",
-          "text": "warb Ende Mai/Donnerstag in Peking und Guangzhou gegenüber chinesischen Parteifunktionären, Politikern und Unternehmern für engere Kooperation statt Abgrenzung und warb aktiv um chinesische Investoren, die Geld und Ideen nach Deutschland bringen sollen.",
+          "text": "warb Ende Mai/Donnerstag in Peking und Guangzhou gegenüber chinesischen Parteifunktionären, Politikern und Unternehmern für engere Kooperation statt Abgrenzung und warb aktiv um chinesische Investoren, die Geld und Ideen nach Deutschland bringen sollen",
           "source": {
             "outlet": "Welt am Sonntag",
             "outletDisplay": "Welt am Sonntag",
@@ -25,7 +25,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "OECD",
-          "text": "stellte am Montag/02.06. in einem Bericht fest, dass chinesische Industrieunternehmen zwischen 2005 und 2024 im Verhältnis zu ihrem Umsatz im Schnitt drei bis acht Mal mehr Subventionen erhalten haben als ihre Wettbewerber in OECD-Ländern, und erklärte, die Schätzung sei konservativ – rund 60 Prozent der globalen Marktanteilsgewinne chinesischer Unternehmen seien auf diese Förderung zurückzuführen.",
+          "text": "stellte am Montag/02.06. in einem Bericht fest, dass chinesische Industrieunternehmen zwischen 2005 und 2024 im Verhältnis zu ihrem Umsatz im Schnitt drei bis acht Mal mehr Subventionen erhalten haben als ihre Wettbewerber in OECD-Ländern, und erklärte, die Schätzung sei konservativ – rund 60 Prozent der globalen Marktanteilsgewinne chinesischer Unternehmen seien auf diese Förderung zurückzuführen",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -36,7 +36,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Mathias Cormann",
-          "text": "warnte am 01.06. anlässlich des OECD-Subventionsberichts: „Umfangreiche und anhaltende Industriesubventionen können globale Märkte verzerren, unfaire Wettbewerbsvorteile schaffen und auf der Angebotsseite zu Überkapazitäten beitragen.\"",
+          "text": "warnte am 01.06. anlässlich des OECD-Subventionsberichts: „Umfangreiche und anhaltende Industriesubventionen können globale Märkte verzerren, unfaire Wettbewerbsvorteile schaffen und auf der Angebotsseite zu Überkapazitäten beitragen.”",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -47,7 +47,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Pete Hegseth",
-          "text": "schwärmte am Samstag/31.05. auf dem Shangri-La-Dialog in Singapur davon, dass die US-Beziehungen zu China besser seien als in vielen Jahren zuvor, sprach von „wahrlich historischen\" Gesprächen in Peking, bei denen sich beide Seiten auf eine „konstruktive, auf Fairness und Reziprozität basierende Beziehung strategischer Stabilität\" geeinigt hätten – und erwähnte Taiwan mit keinem Wort.",
+          "text": "schwärmte am Samstag/31.05. auf dem Shangri-La-Dialog in Singapur davon, dass die US-Beziehungen zu China besser seien als in vielen Jahren zuvor, sprach von „wahrlich historischen” Gesprächen in Peking, bei denen sich beide Seiten auf eine „konstruktive, auf Fairness und Reziprozität basierende Beziehung strategischer Stabilität” geeinigt hätten – und erwähnte Taiwan mit keinem Wort",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -58,7 +58,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Pete Hegseth",
-          "text": "erklärte am Samstag/31.05. auf dem Shangri-La-Dialog in Singapur auf Nachfrage zu Taiwan-Waffenverkäufen lediglich: „Jede Entscheidung über künftige Waffenverkäufe an Taiwan liegt, wie der Präsident sagte, bei ihm selbst.\"",
+          "text": "erklärte am Samstag/31.05. auf dem Shangri-La-Dialog in Singapur auf Nachfrage zu Taiwan-Waffenverkäufen lediglich: „Jede Entscheidung über künftige Waffenverkäufe an Taiwan liegt, wie der Präsident sagte, bei ihm selbst.”",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -69,7 +69,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Chinesisches Außenministerium",
-          "text": "bezeichnete am Montag/01.06. die Absprachen zwischen Japan und den Philippinen zur maritimen Sicherheit im Südchinesischen Meer als „völlig illegal, null und nichtig\".",
+          "text": "bezeichnete am Montag/01.06. die Absprachen zwischen Japan und den Philippinen zur maritimen Sicherheit im Südchinesischen Meer als „völlig illegal, null und nichtig”",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -80,7 +80,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Shinjiro Koizumi",
-          "text": "kritisierte am Wochenende/31.05. auf dem Shangri-La-Dialog in Singapur Peking für dessen rasante Aufrüstung: „Chinas außenpolitische Strategie und militärische Aktivitäten geben Japan und der internationalen Gemeinschaft gleichermaßen Anlass zu großer Sorge.\"",
+          "text": "kritisierte am Wochenende/31.05. auf dem Shangri-La-Dialog in Singapur Peking für dessen rasante Aufrüstung: „Chinas außenpolitische Strategie und militärische Aktivitäten geben Japan und der internationalen Gemeinschaft gleichermaßen Anlass zu großer Sorge.”",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -91,7 +91,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Meng Xiangqing",
-          "text": "sagte am Wochenende/31.05. auf dem Shangri-La-Dialog in Richtung Japan: „Ich bezweifle stark, dass ein Land, das das toxische Erbe des Militarismus nicht vollständig beseitigt hat, qualifiziert ist, umfassend über Verteidigungszusammenarbeit bei internationalen Anlässen zu sprechen, und ob es das Vertrauen der internationalen Gemeinschaft, insbesondere der asiatischen Länder, die es einst überfallen hat, gewinnen kann.\"",
+          "text": "sagte am Wochenende/31.05. auf dem Shangri-La-Dialog in Richtung Japan: „Ich bezweifle stark, dass ein Land, das das toxische Erbe des Militarismus nicht vollständig beseitigt hat, qualifiziert ist, umfassend über Verteidigungszusammenarbeit bei internationalen Anlässen zu sprechen, und ob es das Vertrauen der internationalen Gemeinschaft, insbesondere der asiatischen Länder, die es einst überfallen hat, gewinnen kann.”",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -102,29 +102,29 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Lin Jian",
-          "text": "erklärte am Montag/01.06. auf einer Pressekonferenz zur Ausweisung der New-York-Times-Korrespondentin Vivian Wang: „Die ,New York Times' bietet den taiwanesischen Behörden eine Plattform zur Verbreitung falscher Behauptungen über die Unabhängigkeit Taiwans und bezeichnet die Region Taiwan in China offen als Staat.\"",
+          "text": "erklärte am Montag/01.06. auf einer Pressekonferenz zur Ausweisung der New-York-Times-Korrespondentin Vivian Wang: „Die ‚New York Times' bietet den taiwanesischen Behörden eine Plattform zur Verbreitung falscher Behauptungen über die Unabhängigkeit Taiwans und bezeichnet die Region Taiwan in China offen als Staat.”",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-06-01",
-            "title": "NACH FALSCHEN VORWÜRFEN; China weist Autorin der ,New York Times' aus"
+            "title": "NACH FALSCHEN VORWÜRFEN; China weist Autorin der ‚New York Times' aus"
           },
           "kind": "quote"
         },
         {
           "lead": "Lin Jian",
-          "text": "kritisierte am 01.06. die darauffolgende US-Visaentziehung gegen einen Xinhua-Journalisten und sagte, die USA hätten „unter dem Vorwand der sogenannten Gegenseitigkeit politische Repressionen gegen Journalisten der Nachrichtenagentur Xinhua ausgeübt, die legal in den USA tätig sind\", und warf der US-Regierung vor, einseitig Streit zu provozieren und Medienfragen zu politisieren.",
+          "text": "kritisierte am 01.06. die darauffolgende US-Visaentziehung gegen einen Xinhua-Journalisten und sagte, die USA hätten „unter dem Vorwand der sogenannten Gegenseitigkeit politische Repressionen gegen Journalisten der Nachrichtenagentur Xinhua ausgeübt, die legal in den USA tätig sind”, und warf der US-Regierung vor, einseitig Streit zu provozieren und Medienfragen zu politisieren",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
             "date": "2026-06-01",
-            "title": "NACH FALSCHEN VORWÜRFEN; China weist Autorin der ,New York Times' aus"
+            "title": "NACH FALSCHEN VORWÜRFEN; China weist Autorin der ‚New York Times' aus"
           },
           "kind": "quote"
         },
         {
           "lead": "Richard Saynor",
-          "text": "warnte am Donnerstag/28.05. auf einer Pressekonferenz in Kundl, dass weltweit 94 Prozent der Wirkstoffe für generische Antibiotika aus China stammten; China habe über Jahrzehnte den Aufbau von Kapazitäten massiv subventioniert und dominiere den Weltmarkt; Kundl stecke in einem „perfekten Sturm von Schocks\".",
+          "text": "warnte am Donnerstag/28.05. auf einer Pressekonferenz in Kundl, dass weltweit 94 Prozent der Wirkstoffe für generische Antibiotika aus China stammten; China habe über Jahrzehnte den Aufbau von Kapazitäten massiv subventioniert und dominiere den Weltmarkt; Kundl stecke in einem „perfekten Sturm von Schocks”",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -135,7 +135,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Oliver Koppel",
-          "text": "erklärte am 04.06. im Spiegel-Interview, dass 11.300 deutsche Patente inzwischen chinesischen Firmen gehörten – im Jahr 2000 waren es praktisch null – und warnte: „Wir lassen unsere Kronjuwelen aufkaufen\"; rund 450 deutsche Unternehmen seien patentaktiv und befänden sich im Besitz chinesischer Eigentümer, der staatliche chinesische SASAC sei „massiv auf Einkaufstour\".",
+          "text": "erklärte am 04.06. im Spiegel-Interview, dass 11.300 deutsche Patente inzwischen chinesischen Firmen gehörten – im Jahr 2000 waren es praktisch null – und warnte: „Wir lassen unsere Kronjuwelen aufkaufen”; rund 450 deutsche Unternehmen seien patentaktiv und befänden sich im Besitz chinesischer Eigentümer, der staatliche chinesische SASAC sei „massiv auf Einkaufstour”",
           "source": {
             "outlet": "Spiegel",
             "outletDisplay": "Spiegel Plus",
@@ -146,7 +146,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Oliver Koppel",
-          "text": "betonte am 04.06. im Spiegel-Interview: „Bei China ist die Gefahr unmittelbarer, gerade weil wir es dort nicht mit privatwirtschaftlichen Akteuren zu tun haben.\"",
+          "text": "betonte am 04.06. im Spiegel-Interview: „Bei China ist die Gefahr unmittelbarer, gerade weil wir es dort nicht mit privatwirtschaftlichen Akteuren zu tun haben.”",
           "source": {
             "outlet": "Spiegel",
             "outletDisplay": "Spiegel Plus",
@@ -157,7 +157,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Karlheinz Wex",
-          "text": "warnte am 02.06. im taz-Interview, die Lage auf dem Wolfram-Markt sei „dramatisch\": China beherrsche weltweit Abbau und Verarbeitung mit einem Marktanteil von über 80 Prozent; seit einem Jahr sei der Export eingeschränkt, „der westliche Markt trocknet aus\"; er habe die „sehr unfaire Handelspolitik Chinas\" bereits 2008 erkannt.",
+          "text": "warnte am 02.06. im taz-Interview, die Lage auf dem Wolfram-Markt sei „dramatisch”: China beherrsche weltweit Abbau und Verarbeitung mit einem Marktanteil von über 80 Prozent; seit einem Jahr sei der Export eingeschränkt, „der westliche Markt trocknet aus”; er habe die „sehr unfaire Handelspolitik Chinas” bereits 2008 erkannt",
           "source": {
             "outlet": "taz",
             "outletDisplay": "taz",
@@ -168,7 +168,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Thyssenkrupp Steel Europe",
-          "text": "teilte am 01./02.06. mit, der europäische Markt werde „seit einiger Zeit mit erheblichen Mengen kornorientierten Elektrobands überschwemmt – überwiegend aus asiatischen Überkapazitäten\"; die Preise lägen teilweise unterhalb europäischer Produktionskosten; „Diese Entwicklung gefährdet die Existenz der letzten beiden verbliebenen europäischen Hersteller dieses strategisch relevanten Produkts.\"",
+          "text": "teilte am 01./02.06. mit, der europäische Markt werde „seit einiger Zeit mit erheblichen Mengen kornorientierten Elektrobands überschwemmt – überwiegend aus asiatischen Überkapazitäten”; die Preise lägen teilweise unterhalb europäischer Produktionskosten; „Diese Entwicklung gefährdet die Existenz der letzten beiden verbliebenen europäischen Hersteller dieses strategisch relevanten Produkts.”",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -179,7 +179,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Henry Gao",
-          "text": "kommentierte am 02.06. die neue chinesische Wirtschaftskontrollverordnung und schrieb, chinesische Unternehmen und Investoren würden „zunehmend in die geoökonomische Auseinandersetzung zwischen Peking und Washington hineingezogen\"; er ordnete die Reform vor allem als Systematisierung bestehender Instrumente ein.",
+          "text": "kommentierte am 02.06. die neue chinesische Wirtschaftskontrollverordnung und schrieb, chinesische Unternehmen und Investoren würden „zunehmend in die geoökonomische Auseinandersetzung zwischen Peking und Washington hineingezogen”; er ordnete die Reform vor allem als Systematisierung bestehender Instrumente ein",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -190,7 +190,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Ingo Speich",
-          "text": "warnte am 03.06., westliche Automobilhersteller holten sich mit der Öffnung ihrer Werke für chinesische Hersteller die Konkurrenz ins eigene Haus: „Kurzfristig mag das die Überkapazitätenproblematik hiesiger Hersteller lindern, langfristig holt man sich aber die Konkurrenz in die eigenen Werke. Für die Industrie kommt das einem trojanischen Pferd gleich.\"",
+          "text": "warnte am 03.06., westliche Automobilhersteller holten sich mit der Öffnung ihrer Werke für chinesische Hersteller die Konkurrenz ins eigene Haus: „Kurzfristig mag das die Überkapazitätenproblematik hiesiger Hersteller lindern, langfristig holt man sich aber die Konkurrenz in die eigenen Werke. Für die Industrie kommt das einem trojanischen Pferd gleich.”",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -201,7 +201,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Johannes Petry",
-          "text": "stellte am 04.06. fest: „Russland handelt geopolitisch zwar oft demonstrativ unabhängig, ist aber seit 2022 finanziell deutlich abhängiger von China geworden\", und beschrieb Russland als zunehmend in eine von Peking dominierte Wirtschaftsarchitektur eingebundenen Rohstofflieferanten.",
+          "text": "stellte am 04.06. fest: „Russland handelt geopolitisch zwar oft demonstrativ unabhängig, ist aber seit 2022 finanziell deutlich abhängiger von China geworden”, und beschrieb Russland als zunehmend in eine von Peking dominierte Wirtschaftsarchitektur eingebundenen Rohstofflieferanten",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -212,7 +212,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Ian Chong",
-          "text": "sagte am 04.06.: „In der Realität scheint China sehr darauf bedacht zu sein, keine offene und direkte militärische Unterstützung für Russland zu zeigen\"; Peking versuche vielmehr, mehrere Ziele gleichzeitig zu erreichen: den Bruch mit Europa nicht weiter zu vertiefen, keine offene Annexion eines souveränen Staates zu legitimieren – und zugleich die strategischen Vorteile aus Russlands Isolation zu ziehen.",
+          "text": "sagte am 04.06.: „In der Realität scheint China sehr darauf bedacht zu sein, keine offene und direkte militärische Unterstützung für Russland zu zeigen”; Peking versuche vielmehr, mehrere Ziele gleichzeitig zu erreichen: den Bruch mit Europa nicht weiter zu vertiefen, keine offene Annexion eines souveränen Staates zu legitimieren – und zugleich die strategischen Vorteile aus Russlands Isolation zu ziehen",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -223,7 +223,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Martin Herrenknecht",
-          "text": "erklärte am 05.06. im FAZ-Interview, Deutschlands Wettbewerbsfähigkeit sei durch zu hohe Arbeitskosten gefährdet: „Bei der Endmontage von Autos beispielsweise liegen wir in Deutschland bei dem Fünfzehnfachen von dem, was in China anfällt\"; BMW und Mercedes seien „ins chinesische Messer gelaufen\".",
+          "text": "erklärte am 05.06. im FAZ-Interview, Deutschlands Wettbewerbsfähigkeit sei durch zu hohe Arbeitskosten gefährdet: „Bei der Endmontage von Autos beispielsweise liegen wir in Deutschland bei dem Fünfzehnfachen von dem, was in China anfällt”; BMW und Mercedes seien „ins chinesische Messer gelaufen”",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -234,7 +234,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "C. C. Wei",
-          "text": "sagte am 05.06. auf der TSMC-Hauptversammlung in Hsinchu zu Plänen für eigene Chipfertigung von Elon Musk: „Ich würde nur 'Viel Glück' zu Elon Musk sagen\"; zur Konkurrenz generell: „In den vergangenen 30 bis 40 Jahren haben wir uns stets allen möglichen Wettbewerbern gestellt. Wir haben keine Angst vor Konkurrenz\"; und zur Kapazität: „Es wird lange dauern, bis wir die Kundennachfrage erfüllen können.\"",
+          "text": "sagte am 05.06. auf der TSMC-Hauptversammlung in Hsinchu zu Plänen für eigene Chipfertigung von Elon Musk: „Ich würde nur 'Viel Glück' zu Elon Musk sagen”; zur Konkurrenz generell: „In den vergangenen 30 bis 40 Jahren haben wir uns stets allen möglichen Wettbewerbern gestellt. Wir haben keine Angst vor Konkurrenz”; und zur Kapazität: „Es wird lange dauern, bis wir die Kundennachfrage erfüllen können.”",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -245,7 +245,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Zhu Shaodong",
-          "text": "erklärte am 04.06. gegenüber Welt, Chery wolle jetzt nach Deutschland kommen: „Jetzt ist der richtige Zeitpunkt für uns, nach Deutschland zu kommen\"; die globale Autoindustrie stehe vor einer technologischen Revolution, und man stelle – zumindest vorübergehend – fest, „dass die chinesische Autoindustrie dabei weltweit führend ist. Und das in allen Punkten, vom Rohstoffzugang über Lieferkette und Kosten bis hin zur Technologie.\"",
+          "text": "erklärte am 04.06. gegenüber Welt, Chery wolle jetzt nach Deutschland kommen: „Jetzt ist der richtige Zeitpunkt für uns, nach Deutschland zu kommen”; die globale Autoindustrie stehe vor einer technologischen Revolution, und man stelle – zumindest vorübergehend – fest, „dass die chinesische Autoindustrie dabei weltweit führend ist. Und das in allen Punkten, vom Rohstoffzugang über Lieferkette und Kosten bis hin zur Technologie.”",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -256,7 +256,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Andrej Lankow",
-          "text": "sagte am 06.06. zur bevorstehenden Xi-Reise nach Nordkorea: „Die Nordkoreaner hassen die Chinesen\" – in Pjöngjang halte man die Chinesen für arrogant und überheblich; „Mit den Russen arbeiten sie viel lieber zusammen. Die respektieren sie.\"",
+          "text": "sagte am 06.06. zur bevorstehenden Xi-Reise nach Nordkorea: „Die Nordkoreaner hassen die Chinesen” – in Pjöngjang halte man die Chinesen für arrogant und überheblich; „Mit den Russen arbeiten sie viel lieber zusammen. Die respektieren sie.”",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -267,7 +267,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Lai Ching-te",
-          "text": "äußerte sich am 04.06. auf Facebook zum 37. Jahrestag des Tiananmen-Massakers und schrieb, ein „wahrlich großes Land\" sollte nicht auf ein mächtiges Militär setzen, sondern sich den Wunden seiner Geschichte stellen; er hoffe, dass China den Ereignissen ins Auge sehe, die Wahrheit anerkenne und einen Dialog beginne.",
+          "text": "äußerte sich am 04.06. auf Facebook zum 37. Jahrestag des Tiananmen-Massakers und schrieb, ein „wahrlich großes Land” sollte nicht auf ein mächtiges Militär setzen, sondern sich den Wunden seiner Geschichte stellen; er hoffe, dass China den Ereignissen ins Auge sehe, die Wahrheit anerkenne und einen Dialog beginne",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -278,7 +278,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Sachverständigenrat Wirtschaft",
-          "text": "stellte in seinem Jahresgutachten 2024/2025 – in dieser Woche in mehreren Leitmedien aufgegriffen – einen seit Jahren anhaltenden Rückgang der Wettbewerbsfähigkeit des deutschen verarbeitenden Sektors gegenüber China fest und wies darauf hin, dass deutsche Unternehmen selbst daran Anteil hätten, weil sie Wertschöpfung nach China verlagert hätten.",
+          "text": "stellte in seinem Jahresgutachten 2024/2025 – in dieser Woche in mehreren Leitmedien aufgegriffen – einen seit Jahren anhaltenden Rückgang der Wettbewerbsfähigkeit des deutschen verarbeitenden Sektors gegenüber China fest und wies darauf hin, dass deutsche Unternehmen selbst daran Anteil hätten, weil sie Wertschöpfung nach China verlagert hätten",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
@@ -289,7 +289,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "René Haas",
-          "text": "erklärte am 05.06. auf der Computex-Messe in Taipeh: „Wir wären nirgendwo ohne Taiwan\", im Kontext der wachsenden globalen Abhängigkeit der KI-Chipproduktion von taiwanischen Herstellern, insbesondere TSMC.",
+          "text": "erklärte am 05.06. auf der Computex-Messe in Taipeh: „Wir wären nirgendwo ohne Taiwan”, im Kontext der wachsenden globalen Abhängigkeit der KI-Chipproduktion von taiwanischen Herstellern, insbesondere TSMC",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -300,7 +300,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Sigrid Wang",
-          "text": "kommentierte am 04.06. die Beteiligung des chinesischen Staatskapital-Fonds an Deepseeks erster Finanzierungsrunde: Die Beteiligung des nationalen KI-Fonds „verankert Deepseeks Status als nationaler Champion\"; Tencent könne mit seiner Reichweite bei der Verbreitung helfen und CATL mit der Infrastruktur, da Energie die größte Einschränkung für KI-Entwickler sei.",
+          "text": "kommentierte am 04.06. die Beteiligung des chinesischen Staatskapital-Fonds an Deepseeks erster Finanzierungsrunde: Die Beteiligung des nationalen KI-Fonds „verankert Deepseeks Status als nationaler Champion”; Tencent könne mit seiner Reichweite bei der Verbreitung helfen und CATL mit der Infrastruktur, da Energie die größte Einschränkung für KI-Entwickler sei",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -311,7 +311,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Matthias Schmidt",
-          "text": "warnte am 04.06. mit Blick auf Cherys Markteintritt in Großbritannien: „Betrachtet man ihren dramatischen Vorstoß in Großbritannien, wo sie das Jahr wahrscheinlich als zweitgrößte Marke direkt hinter Volkswagen abschließen werden, sollte dies ein Weckruf für deutsche Hersteller sein.\"",
+          "text": "warnte am 04.06. mit Blick auf Cherys Markteintritt in Großbritannien: „Betrachtet man ihren dramatischen Vorstoß in Großbritannien, wo sie das Jahr wahrscheinlich als zweitgrößte Marke direkt hinter Volkswagen abschließen werden, sollte dies ein Weckruf für deutsche Hersteller sein.”",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -322,7 +322,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Constantin M. Gall",
-          "text": "erklärte am 05.06. im Bild-Interview zur Lage der deutschen Autobauer in China: „Von der Cashcow zum Sorgenkind: China bleibt eines der größten Probleme für die deutschen Konzerne\"; die Krise sei für die deutschen Autokonzerne „längst noch nicht überwunden\"; sein Fazit zum Standort Deutschland: „Insgesamt bietet Deutschland wenig Anreize, hier noch Industrieproduktion im großen Stil aufrechtzuerhalten.\"",
+          "text": "erklärte am 05.06. im Bild-Interview zur Lage der deutschen Autobauer in China: „Von der Cashcow zum Sorgenkind: China bleibt eines der größten Probleme für die deutschen Konzerne”; die Krise sei für die deutschen Autokonzerne „längst noch nicht überwunden”; sein Fazit zum Standort Deutschland: „Insgesamt bietet Deutschland wenig Anreize, hier noch Industrieproduktion im großen Stil aufrechtzuerhalten.”",
           "source": {
             "outlet": "BILD",
             "outletDisplay": "bild.de",
@@ -333,7 +333,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Taiwanisches Außenministerium",
-          "text": "erklärte am 02.06. anlässlich chinesischer Küstenwachpatrouillen vor Taiwan: „China hat kein Recht, sich in Taiwans territoriale Souveränität und Hoheitsrechte über seine Seegebiete einzumischen.\"",
+          "text": "erklärte am 02.06. anlässlich chinesischer Küstenwachpatrouillen vor Taiwan: „China hat kein Recht, sich in Taiwans territoriale Souveränität und Hoheitsrechte über seine Seegebiete einzumischen.”",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -575,7 +575,7 @@ window.W23_2026_WOCHENBERICHT = {
         },
         {
           "title": "Taiwans strategische Unersetzlichkeit – Chip-Abhängigkeit und Sicherheitsrisiko",
-          "text": "FAZ, SZ und Handelsblatt befassen sich intensiv damit, dass Taiwans Halbleiterproduktion durch den KI-Boom noch unverzichtbarer geworden ist – und die politischen Risiken gestiegen sind, seit Trump Taiwan als „Verhandlungsmasse\" gegenüber Peking bezeichnete und China seine Küstenwache vor der Insel patrouillieren ließ. Deutsche Parlamentarier berichten nach einer Delegationsreise nach Taipeh, dass die Inselrepublik als Modell für Krisenresilienz unter Dauerdruck gelten kann.",
+          "text": "FAZ, SZ und Handelsblatt befassen sich intensiv damit, dass Taiwans Halbleiterproduktion durch den KI-Boom noch unverzichtbarer geworden ist – und die politischen Risiken gestiegen sind, seit Trump Taiwan als „Verhandlungsmasse” gegenüber Peking bezeichnete und China seine Küstenwache vor der Insel patrouillieren ließ. Deutsche Parlamentarier berichten nach einer Delegationsreise nach Taipeh, dass die Inselrepublik als Modell für Krisenresilienz unter Dauerdruck gelten kann.",
           "sources": [
             {
               "outlet": "Süddeutsche Zeitung",
