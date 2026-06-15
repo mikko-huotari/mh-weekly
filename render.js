@@ -602,11 +602,11 @@
     const showSubs = tab === "highlights" || tab === "research" || tab === "intl" || tab === "cnsources" || tab === "lens";
 
     // Filter bar: tag chips for the tags present in this tab's entries.
-    // The Wochenbericht ("lens") and MERICS ("research") tabs are excluded —
-    // lens entries are untagged; research is a small curated list where the
-    // tag chips add visual noise without filter value.
+    // Shown only on the international-sources and Chinese-sources tabs, where
+    // the entry count is large enough that filtering pays off. Highlights /
+    // MERICS / Wochenbericht are curated and the chips just add visual noise.
     let filterBarHtml = "";
-    if (tab !== "lens" && tab !== "research") {
+    if (tab === "intl" || tab === "cnsources") {
       const { counts } = entriesForTab(w, tab);
       const tagList = [...counts.entries()]
         .sort((a, b) => {
