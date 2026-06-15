@@ -77,32 +77,6 @@ window.W24_2026 = {
       "short": "German China policy",
       "groups": [
         {
-          "label": "Germany",
-          "items": [
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**Merz puts trade defence at the front ahead of the EU summit**: In his [government statement](https://www.zdfheute.de/politik/deutschland/merz-regierungserklaerung-bundestag-reformen-100.html) (11 June), the chancellor pledged to \"enrich\" the EU toolbox against trade-distorting practices and to use the single market's attractiveness as leverage for fair-competition rules – China unnamed but recognisably addressed.",
-              "tags": [
-                "de-cn",
-                "trade",
-                "diplomacy"
-              ]
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**At the same time, doubts over Berlin's resolve**: A [Reuters Breakingviews analysis](https://www.reuters.com/commentary/breakingviews/merz-wavering-cripples-eus-tough-china-stand-2026-06-11/) reads Merz's wavering as a drag on a tough common EU-China line.",
-              "tags": [
-                "eu-cn",
-                "de-cn"
-              ]
-            }
-          ]
-        },
-        {
           "label": "EU institutional",
           "items": [
             {

@@ -304,7 +304,7 @@
       if (!subItems.length && !(sub.intro || "").trim() && !sub.table && activeFilters.size) return "";
       return `
       <div class="spotlight-sub">
-        <h3 class="spotlight-sub-h">${esc(sub.label)}</h3>
+        <h3 class="spotlight-sub-h">${curlify(esc(sub.label))}</h3>
         ${sub.intro ? sub.intro.split(/\n{2,}/).map(p => `<p class="section-intro">${inlineMd(p)}</p>`).join("") : ""}
         ${renderSpotlightItems(subItems)}
         ${renderSpotlightTable(sub.table)}
@@ -314,7 +314,7 @@
     return `
       <section class="section" id="${idx === 0 ? "hl-spotlight" : `hl-spotlight-${idx + 1}`}">
         <header class="section-h">
-          <h2 class="label">${esc(s.title || "Spotlight")}</h2>
+          <h2 class="label">${curlify(esc(s.title || "Spotlight"))}</h2>
         </header>
         ${s.intro ? s.intro.split(/\n{2,}/).map(p => `<p class="section-intro">${inlineMd(p)}</p>`).join("") : ""}
         ${renderSpotlightItems(items)}
@@ -344,7 +344,7 @@
     return `
       <section class="section" id="hl-${esc(slugify(sec.label))}">
         <header class="section-h">
-          <h2 class="label">${esc(sec.label)}</h2>
+          <h2 class="label">${curlify(esc(sec.label))}</h2>
         </header>
         ${sec.note ? `<p class="section-note">${esc(sec.note)}</p>` : ""}
         ${groups}
@@ -370,7 +370,7 @@
       if (!items.length) return "";
       return `
       <div class="group" id="mr-${esc(slugify(g.label))}">
-        <h3 class="group-label">${esc(g.label)}</h3>
+        <h3 class="group-label">${curlify(esc(g.label))}</h3>
         ${g.note ? `<p class="section-note">${esc(g.note)}</p>` : ""}
         <ul class="mr-list">${items.map(renderResearchItem).join("")}</ul>
       </div>`;
@@ -381,7 +381,7 @@
     return `
       <section class="section">
         <header class="section-h">
-          <h2 class="label">${esc(sec.label)}</h2>
+          <h2 class="label">${curlify(esc(sec.label))}</h2>
         </header>
         ${sec.note ? `<p class="section-note">${esc(sec.note)}</p>` : ""}
         ${groupsHtml}
@@ -397,7 +397,7 @@
       <section class="section" ${anchorId ? `id="${anchorId}"` : ""}>
         <header class="section-h">
           ${numHtml}
-          <h2 class="label">${esc(sec.label)}</h2>
+          <h2 class="label">${curlify(esc(sec.label))}</h2>
         </header>
         ${sec.note ? `<p class="section-note">${esc(sec.note)}</p>` : ""}
         ${items.map(renderEntry).join("")}
@@ -444,7 +444,7 @@
       <section class="section" id="lens-${esc(sec.slug)}">
         <header class="section-h">
           ${sec.number ? `<span class="num">${esc(sec.number)}.</span>` : ""}
-          <h2 class="label">${esc(sec.label)}</h2>
+          <h2 class="label">${curlify(esc(sec.label))}</h2>
         </header>
         ${items}
       </section>`;
