@@ -83,6 +83,27 @@ window.W24_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
+              "note": "**EU summit draft conclusions omit China entirely**: Circulating texts frame the issue as \"global macroeconomic imbalances\", deferring the overcapacity instrument debate to October; Germany did not sign a late-May letter calling for tougher action and Spain – a signatory – subsequently withdrew ([Euobserver](https://euobserver.com/220918/inconclusive-will-eu-leaders-miss-the-chance-to-get-tough-on-china)).",
+              "tags": [
+                "de-cn",
+                "industrial-policy",
+                "diplomacy"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**China debate at fever pitch in Brussels as crunch fortnight kicks off**: Commerce Minister Wang Wentao expected in Brussels 29–30 June to meet Trade Commissioner Šefčovič, after MOFCOM Vice Minister Ling Ji's preparatory talks on 9 June; Brussels sources increasingly expect an EU-China trade war ([SCMP](https://www.scmp.com/news/china/diplomacy/article/3356515/china-debate-reaches-fever-pitch-brussels-eus-crunch-fortnight-kicks)).",
+              "tags": [
+                "eu-cn",
+                "trade"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
               "note": "**Beijing cancels two high-level EU meetings over trade tensions**: A ministerial-level digital dialogue – including a session with Olof Skoog, deputy secretary-general of the EU's diplomatic service – was scrapped, the [FT reported](https://www.ft.com/content/5903318c-319b-426e-b05d-062f7620f799); MFA spokesperson Lin Jian neither confirmed nor denied the cancellation, saying only that \"China and the EU are in communication on relevant dialogue\".",
               "tags": [
                 "trade",
@@ -97,6 +118,39 @@ window.W24_2026 = {
               "tags": [
                 "eu-cn",
                 "industrial-policy"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Sefčovič floats mandatory supply diversification to ≥3 sources**: Trade Commissioner announced the proposal at an EPC conference, citing Beijing's rare-earth export controls as the trigger; targets companies in sensitive sectors currently reliant on single suppliers ([Reuters](https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05)).",
+              "tags": [
+                "rare-earths",
+                "trade",
+                "export-controls"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**EU plans \"Trusted Partner\" EV exemption for UK, Japan, South Korea**: Vehicles from the three countries would qualify under \"Buy European\" procurement rules for company cars and EVs, countering Chinese overcapacity; Nissan's Sunderland plant (45% of UK output sold to EU) is the headline beneficiary ([Handelsblatt](https://www.handelsblatt.com/politik/international/autoindustrie-autos-aus-drei-nicht-eu-laendern-sollen-als-made-in-eu-gelten/100230443.html)).",
+              "tags": [
+                "jp-cn",
+                "uk-cn",
+                "auto",
+                "industrial-policy",
+                "pla"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Chips Act 2.0 + CADA formalise the Trusted Partner Alignment**: New \"domestic undertaking\" framework restricts strategic-project designation to companies controlled from trusted partner countries; CADA's six cumulative criteria place China outside the EU cloud trust perimeter; US hyperscalers face CLOUD-Act questions at upper assurance tiers ([Institut Montaigne](https://www.institutmontaigne.org/en/expressions/architecture-trusted-partner-alignment-building-eu-economic-foreign-policy-through-chips-act-20-and)).",
+              "tags": [
+                "semcon"
               ]
             },
             {
@@ -1889,164 +1943,6 @@ window.W24_2026 = {
       "short": "Responses",
       "label": "Strategic implications and responses",
       "items": [
-        {
-          "outlet": "Euobserver",
-          "author": "",
-          "title": "Inconclusive - will EU leaders miss the chance to get tough on China?",
-          "date": "2026-06-09",
-          "url": "https://euobserver.com/220918/inconclusive-will-eu-leaders-miss-the-chance-to-get-tough-on-china",
-          "bullets": [
-            [
-              "EU summit draft conclusions omit China entirely",
-              "Circulating texts frame the issue as \"global macroeconomic imbalances\", deferring the overcapacity instrument debate to October, the article reports."
-            ],
-            [
-              "Member state divisions stall EU overcapacity consensus",
-              "Germany did not sign a late-May letter calling for tougher action, and Spain - a signatory - subsequently withdrew."
-            ],
-            [
-              "EU Commission flags Morocco as new Chinese overcapacity vector",
-              "Trade Commissioner Šefčovič called Morocco's role in Chinese EV overproduction a \"big, big issue\" following $6bn of Chinese investment there."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "eu-cn",
-            "de-cn",
-            "auto",
-            "trade",
-            "investment",
-            "industrial-policy",
-            "diplomacy"
-          ]
-        },
-        {
-          "outlet": "SCMP",
-          "author": "",
-          "title": "China debate reaches fever pitch in Brussels as EU’s crunch fortnight kicks off",
-          "date": "2026-06-09",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3356515/china-debate-reaches-fever-pitch-brussels-eus-crunch-fortnight-kicks",
-          "bullets": [
-            [
-              "EU leaders' summit to set bloc's China policy direction (18–19 June)",
-              "Commerce Minister Wang Wentao is expected in Brussels 29–30 June to meet Trade Commissioner Maroš Šefčovič, after MOFCOM Vice Minister Ling Ji's preparatory talks in Brussels on 9 June, as all 27 member states prepare to decide their joint China strategy."
-            ],
-            [
-              "Brussels sources increasingly expect an EU-China trade war",
-              "The European Commission is pushing engagement, but expectations are low that Beijing will concede on EU demands to curb trade and industrial policies."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "eu-cn",
-            "trade",
-            "industrial-policy",
-            "diplomacy"
-          ]
-        },
-        {
-          "outlet": "Euractiv",
-          "author": "",
-          "title": "EU-Spitzenpolitiker haben Angst vor China, sagt der belgische Premierminister",
-          "date": "2026-06-10",
-          "url": "https://euractiv.com/de/news/eu-spitzenpolitiker-haben-angst-vor-china-sagt-der-belgische-premierminister",
-          "bullets": [
-            [
-              "De Wever urges EU to adopt a China strategy",
-              "Speaking at a Brussels event, the Belgian PM warned that China's strategic coherence will \"eat our initiatives for breakfast.\""
-            ],
-            [
-              "De Wever ranks China's economic threat above Washington's",
-              "He said China's state-subsidised model is subtler than US coercion and poses a danger no market economy can replicate."
-            ],
-            [
-              "De Wever proposed accelerating existing EU trade defense tools",
-              "He called for supply chain diversification and reciprocal market access, ruling out both protectionism and a subsidy war with China."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "eu-cn",
-            "trade",
-            "supply-chain"
-          ]
-        },
-        {
-          "outlet": "Handelsblatt",
-          "author": "",
-          "title": "Autoindustrie: Autos aus drei Nicht-EU-Ländern sollen als „made in EU“ gelten",
-          "date": "2026-06-08",
-          "url": "https://www.handelsblatt.com/politik/international/autoindustrie-autos-aus-drei-nicht-eu-laendern-sollen-als-made-in-eu-gelten/100230443.html",
-          "bullets": [
-            [
-              "EU plans \"Trusted Partner\" EV exemption for UK, Japan, and South Korea",
-              "Vehicles from the three countries would qualify under \"Buy European\" procurement rules for company cars and EVs, countering Chinese overcapacity, Handelsblatt reports."
-            ],
-            [
-              "Nissan's Sunderland plant faces closure without the rule change",
-              "Around 45% of UK-produced vehicles are sold to the EU - the planned exemption would preserve the plant's competitive position under the new procurement framework."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "uk-cn",
-            "auto",
-            "industrial-policy",
-            "pla"
-          ]
-        },
-        {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "EU weighs rules to cut reliance on China through broader supply chains | Reuters",
-          "date": "2026-06-05",
-          "url": "https://www.reuters.com/world/china/eu-weighs-rules-cut-reliance-china-through-broader-supply-chains-2026-06-05",
-          "bullets": [
-            [
-              "EU Commission weighs mandatory supply diversification to at least three sources",
-              "Trade Commissioner Sefcovic announced the proposal at an EPC conference, targeting companies in sensitive sectors currently reliant on single suppliers, including in China."
-            ],
-            [
-              "Measure responds to China's rare earth export restrictions",
-              "Sefcovic cited Beijing's export controls as the trigger, framing the instrument as a shield against government-imposed supply disruptions across all high-risk sectors."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "eu-cn",
-            "rare-earths",
-            "trade",
-            "export-controls",
-            "supply-chain"
-          ]
-        },
-        {
-          "outlet": "Institut Montaigne",
-          "author": "",
-          "title": "The Architecture of Trusted Partner Alignment: Building an EU Economic Foreign Policy Through Chips Act 2.0 and CADA",
-          "date": "2026-06-09",
-          "url": "https://www.institutmontaigne.org/en/expressions/architecture-trusted-partner-alignment-building-eu-economic-foreign-policy-through-chips-act-20-and",
-          "bullets": [
-            [
-              "Chips Act 2.0 conditions preferential access on firm ownership and partner status",
-              "The new \"domestic undertaking\" framework restricts strategic project designation and supply chain crisis platforms to companies controlled from trusted partner countries."
-            ],
-            [
-              "CADA's six cumulative criteria formally place China outside the EU cloud trust perimeter",
-              "China lacks GDPR adequacy and maintains compelled-access laws, disqualifying its providers from assurance levels covering defense and intelligence workloads."
-            ],
-            [
-              "US hyperscalers face CLOUD Act questions for CADA's highest-sensitivity government contracts",
-              "American providers hold over 70% of the EU cloud market but face restrictions at upper assurance tiers pending associated third-country designation."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "semcon",
-            "supply-chain"
-          ]
-        },
         {
           "outlet": "SCMP",
           "author": "",
