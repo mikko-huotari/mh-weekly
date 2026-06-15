@@ -360,12 +360,13 @@
     const bl = (e.bullets || []).map(b => (b && (b[1] || b[0])) || "").filter(Boolean);
     const main = bl[0] || e.title || (e.outlet ? `[${e.outlet}](${e.url || "#"})` : "");
     const subs = bl.slice(1);
-    const tagsHtml = renderEntryTags(e.tags);
+    // Tag chips suppressed on the MERICS tab — they duplicate the editorial
+    // signal that the prose already carries and the tab has no filter UI.
     const subHtml = subs.length
       ? `<ul class="mr-sublist">${subs.map(s => `<li class="mr-sub">${inlineMd(s)}</li>`).join("")}</ul>`
       : "";
     return `<li class="mr-row"><span class="mr-badge">${badge}</span>` +
-           `<span class="mr-text">${inlineMd(main)}${tagsHtml}${subHtml}</span></li>`;
+           `<span class="mr-text">${inlineMd(main)}${subHtml}</span></li>`;
   }
   function renderResearch(sec) {
     const groupsHtml = (sec.groups || []).map(g => {
@@ -601,11 +602,11 @@
     const showSubs = tab === "highlights" || tab === "research" || tab === "intl" || tab === "cnsources" || tab === "lens";
 
     // Filter bar: tag chips for the tags present in this tab's entries.
-    // The Wochenbericht ("lens") is excluded — its entries are untagged.
-    // Collapsed by default. Collapsed view still shows any active chips
-    // and the Clear button so the user can act without expanding.
+    // The Wochenbericht ("lens") and MERICS ("research") tabs are excluded —
+    // lens entries are untagged; research is a small curated list where the
+    // tag chips add visual noise without filter value.
     let filterBarHtml = "";
-    if (tab !== "lens") {
+    if (tab !== "lens" && tab !== "research") {
       const { counts } = entriesForTab(w, tab);
       const tagList = [...counts.entries()]
         .sort((a, b) => {

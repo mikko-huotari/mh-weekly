@@ -178,7 +178,7 @@ window.W24_2026 = {
               "bullets": [
                 [
                   "",
-                  "[**Outbound investment protections + Expanded export controls + Xi in Pyongyang**](https://merics.org/en/merics-briefs/outbound-investment-protections-expanded-export-controls-xi-pyongyang) – *MERICS China Essentials*. Beijing has taken steps to better protect Chinese overseas investments and deter foreign governments from imposing restrictions on Chinese investors – just as the EU mulls a tougher de-risking. *(MERICS Briefs, Jun 12)*"
+                  "[**MERICS China Essentials**](https://merics.org/en/merics-briefs/outbound-investment-protections-expanded-export-controls-xi-pyongyang) (Jun 12) – *Outbound investment protections + Expanded export controls + Xi in Pyongyang.* Beijing has taken steps to better protect Chinese overseas investments and deter foreign governments from imposing restrictions on Chinese investors – just as the EU mulls a tougher de-risking."
                 ],
                 [
                   "",
@@ -217,7 +217,7 @@ window.W24_2026 = {
               "bullets": [
                 [
                   "",
-                  "[**Russian propaganda abounds in Chinese social media debate on Ukraine**](https://merics.org/en/comment/russian-propaganda-abounds-chinese-social-media-debate-ukraine) – Yurii Poita's new analysis documents how pro-Russian framings on Chinese social media (Ukraine-as-Western-proxy, Ukrainian forces depicted as \"Nazis\", Western coalition fraying, Russian strikes recast as counter-terror) circulate with little pushback – suggesting Beijing may be tolerating or even encouraging discourse that erodes the moral and political authority of Kyiv and its Western supporters."
+                  "[**MERICS Comment**](https://merics.org/en/comment/russian-propaganda-abounds-chinese-social-media-debate-ukraine) (Yurii Poita) – *Russian propaganda abounds in Chinese social media debate on Ukraine.* The analysis documents how pro-Russian framings on Chinese social media (Ukraine-as-Western-proxy, Ukrainian forces depicted as \"Nazis\", Western coalition fraying, Russian strikes recast as counter-terror) circulate with little pushback – suggesting Beijing may be tolerating or even encouraging discourse that erodes the moral and political authority of Kyiv and its Western supporters."
                 ]
               ],
               "tags": [
@@ -234,7 +234,7 @@ window.W24_2026 = {
               "bullets": [
                 [
                   "",
-                  "[**The EU is China's battery export market**](https://soapboxtrade.substack.com/p/the-eu-is-chinas-battery-export-market) – *Soapbox 251 | In collaboration with MERICS*. China's battery export machine and its heavy dependence on the EU; Chinese capital going abroad with the state still attached; rare-earth magnet flows splitting between the EU and the US; the China-Shock-2.0 dynamics building into mid-2026. *(Soapbox, Jun 08)*"
+                  "[**Soapbox 251 — in collaboration with MERICS**](https://soapboxtrade.substack.com/p/the-eu-is-chinas-battery-export-market) (Jun 08) – *The EU is China's battery export market.* China's battery export machine and its heavy dependence on the EU; Chinese capital going abroad with the state still attached; rare-earth magnet flows splitting between the EU and the US; the China-Shock-2.0 dynamics building into mid-2026."
                 ]
               ],
               "tags": [
@@ -2263,6 +2263,36 @@ window.W24_2026 = {
           "tags": [
             "ai",
             "pla"
+          ]
+        },
+        {
+          "outlet": "State Council 国务院",
+          "author": "",
+          "title": "Li Qiang chairs executive meeting on future industries, warns local governments against herd behaviour; approves new private-equity risk guidelines",
+          "date": "2026-06-05",
+          "url": "http://www.china.org.cn/china/Off_the_Wire/2026-06/05/content_118533870.shtml",
+          "bullets": [
+            [
+              "Future-industries push",
+              "Premier Li Qiang chaired a State Council executive meeting on 5 June dedicated to scaling strategic future industries – humanoid robotics, biomanufacturing, quantum and 6G named among priorities – with calls to deepen the integration of research, capital and industrial application."
+            ],
+            [
+              "Top-level rebuke of subsidy-herd behaviour",
+              "meeting explicitly cautioned local authorities against \"一窝蜂\" (herd-effect) competition to subsidise the same handful of fashionable sectors – a rare central-government rebuke of the very overcapacity-by-subsidy pattern the OECD MAGIC database (Spotlight 2) tracks at firm level."
+            ],
+            [
+              "Private-equity risk guidelines",
+              "same session approved new rules on managing risks in the private-equity sector, with explicit reference to local-government-led investment funds – the public-private-funds vehicle that has channelled much of China's industrial-policy money."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "robotics",
+            "ideology",
+            "markets",
+            "investment",
+            "industrial-policy",
+            "diplomacy"
           ]
         }
       ]
