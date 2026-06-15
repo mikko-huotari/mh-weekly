@@ -82,11 +82,21 @@
   const esc = (s) => String(s == null ? "" : s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  // Typographic curly quotes (operate on the already-HTML-escaped string,
+  // so we replace `&quot;` and `&#39;` entities, not raw ASCII quotes).
+  // Double-quote `"` alternates open/close; apostrophe always becomes right
+  // single quote. State is per-call so paragraphs don't bleed polarity.
+  const curlify = (s) => {
+    let open = true;
+    return s
+      .replace(/&#39;/g, "’")
+      .replace(/&quot;/g, () => { const ch = open ? "“" : "”"; open = !open; return ch; });
+  };
   // HTML-escape then convert minimal inline Markdown (`**bold**`, `*italic*`,
   // `[text](url)`) for note-style entries that carry source-side formatting.
   // STRIP HTML comments FIRST — they're MH-internal curation notes (e.g.
   // <!-- pub date not set in Dynamics -->) and must never reach readers.
-  const inlineMd = (s) => esc((s || "").replace(/<!--[\s\S]*?-->/g, ""))
+  const inlineMd = (s) => curlify(esc((s || "").replace(/<!--[\s\S]*?-->/g, "")))
     .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
              '<a href="$2" target="_blank" rel="noopener">$1</a>')
     .replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>")
