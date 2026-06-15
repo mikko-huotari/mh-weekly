@@ -148,6 +148,19 @@ window.W24_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
+              "note": "**VW, Stellantis and Renault submit joint \"Made in EU\" proposal – 70% of vehicles, 70% local content**: The three OEMs (60%+ of EU production) ask for a simpler IAA framework requiring 70% of EU vehicles to contain 70% EU-27 + EFTA content, expanded \"super credits\" for all EVs built in the bloc, and a battery-localisation deadline pushed from 2028 to 2030. Non-European makers (Honda, Toyota, JLR) object to the \"overly narrow\" scope, which would exclude UK / Japan / Turkey-made components ([FT](https://www.ft.com/content/33303858-3fb2-416d-85c8-e4b9cdb1bbad)).",
+              "tags": [
+                "de-cn",
+                "jp-cn",
+                "uk-cn",
+                "auto",
+                "batteries"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
               "note": "**Chips Act 2.0 + CADA formalise the Trusted Partner Alignment**: New \"domestic undertaking\" framework restricts strategic-project designation to companies controlled from trusted partner countries; CADA's six cumulative criteria place China outside the EU cloud trust perimeter; US hyperscalers face CLOUD-Act questions at upper assurance tiers ([Institut Montaigne](https://www.institutmontaigne.org/en/expressions/architecture-trusted-partner-alignment-building-eu-economic-foreign-policy-through-chips-act-20-and)).",
               "tags": [
                 "semcon"
