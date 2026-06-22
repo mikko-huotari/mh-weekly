@@ -2999,6 +2999,31 @@ window.W25_2026 = {
   ],
   "topCharts": [
     {
+      "src": "https://merics.org/sites/default/files/2026-06/MERICS%20Data%20insights_2026_EU-China%20Trade_0.jpg",
+      "alt": "EU-China trade deficit Q1 2026",
+      "caption": "**Chart 1 – EU's trade deficit with China hit €98bn in Q1 2026 even as EU trade-defence cases against China climbed** (MERICS Data Insight, Esther Goreichy, [merics.org Jun 16](https://merics.org/en/comment/merics-data-insight-eu-china-trade); Eurostat Comext, € billion, Q1 2026)"
+    },
+    {
+      "src": "https://substack-post-media.s3.amazonaws.com/public/images/0a54f764-8752-4f57-a01e-f26f736fca54_1650x928.png",
+      "alt": "Germany drove EU China deficit",
+      "caption": "**Chart 2 – Germany alone caused €2bn of the €2.9bn YoY widening in the EU's April 2026 China trade balance – two-thirds of the EU-wide deterioration** (Soapbox 253 × MERICS, [Jun 22](https://soapboxtrade.substack.com/p/the-china-deficit-brussels-can-no); Eurostat Comext, € billion change in balance, Apr 2025 → Apr 2026)"
+    },
+    {
+      "src": "https://substack-post-media.s3.amazonaws.com/public/images/cff8b769-afce-4209-9aa8-7bafa094ff80_1650x990.png",
+      "alt": "Germany April China car shock",
+      "caption": "**Chart 3 – German imports of Chinese EVs + plug-in hybrids surged 9× year-on-year to €324m in April 2026** (Soapbox 253 × MERICS, [Jun 22](https://soapboxtrade.substack.com/p/the-china-deficit-brussels-can-no); Eurostat Comext, € million, Apr 2025 vs Apr 2026)"
+    },
+    {
+      "src": "https://substack-post-media.s3.amazonaws.com/public/images/0a6f17c8-941d-4e9d-906a-ed5c8338210f_1650x990.png",
+      "alt": "EU EV PHEV imports record despite tariffs",
+      "caption": "**Chart 4 – EU imports of Chinese EVs and plug-in hybrids hit a Jan–Apr record in 2026, with hybrids now driving the surge** (Soapbox 253 × MERICS, [Jun 22](https://soapboxtrade.substack.com/p/the-china-deficit-brussels-can-no); Eurostat Comext, € billion, Jan–Apr 2021–2026)"
+    },
+    {
+      "src": "https://substack-post-media.s3.amazonaws.com/public/images/773f86a5-9db3-4e03-9d72-6822be03b94e_1650x990.png",
+      "alt": "China May car exports flood",
+      "caption": "**Chart 5 – China's hybrid-car exports to the EU jumped 184% YoY to US$1.54bn in May 2026 – the flood is not over** (Soapbox 253 × MERICS, [Jun 22](https://soapboxtrade.substack.com/p/the-china-deficit-brussels-can-no); China Customs (GACC), US$ million, May 2025 vs May 2026)"
+    },
+    {
       "src": "https://datawrapper.dwcdn.net/Ot5VP/full.png",
       "alt": "China two-track economy May 2026",
       "caption": "**Chart 6 – Strong supply, weak demand: China's industrial value-added grew 4.5% YoY in May 2026 while retail sales contracted 0.6% – the first decline since December 2022** (MERICS Datawrapper [Ot5VP](https://www.datawrapper.de/_/Ot5VP/); National Bureau of Statistics, % YoY, monthly Jan 2024 – May 2026)"
