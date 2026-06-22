@@ -17,10 +17,22 @@ def _de_date(s):
     d, mo, y = m.groups()
     return f'{y}-{int(mo):02d}-{int(d):02d}'
 
+_OUTLET_NORMALIZE = {
+    'handelsblatt.com': 'Handelsblatt',
+    'handelsblatt': 'Handelsblatt',
+    'faz.net': 'FAZ',
+    'frankfurter allgemeine zeitung': 'FAZ',
+    'wiwo.de': 'WirtschaftsWoche',
+    'welt.de': 'Die Welt',
+    'zeit.de': 'DIE ZEIT',
+}
+
 def _src(outlet, title, date):
+    o = outlet.strip()
+    norm = _OUTLET_NORMALIZE.get(o.lower(), o)
     return {
-        'outlet': outlet.strip(),
-        'outletDisplay': outlet.strip(),
+        'outlet': norm,
+        'outletDisplay': o,
         'date': _de_date(date),
         'title': title.strip().strip('„".,'),
     }
