@@ -166,6 +166,9 @@
   // controlled vocabulary render; unknown ids are silently dropped.
   function renderEntryTags(tags) {
     if (!tags || !tags.length) return "";
+    // Suppress entry tags on Chinese Sources tab — filter UI is intl-only.
+    var hash = (location.hash || "").toLowerCase();
+    if (hash.indexOf("cnsources") !== -1 || hash.indexOf("/cn-") !== -1) return "";
     const chips = tags
       .filter(id => TAG_LOOKUP.has(id))
       .map(id => {
@@ -606,7 +609,7 @@
     // the entry count is large enough that filtering pays off. Highlights /
     // MERICS / Wochenbericht are curated and the chips just add visual noise.
     let filterBarHtml = "";
-    if (tab === "intl" || tab === "cnsources") {
+    if (tab === "intl") {
       const { counts } = entriesForTab(w, tab);
       const tagList = [...counts.entries()]
         .sort((a, b) => {
