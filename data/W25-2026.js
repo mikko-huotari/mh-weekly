@@ -1716,6 +1716,29 @@ window.W25_2026 = {
             "trade",
             "pla"
           ]
+        },
+        {
+          "outlet": "Foreign Affairs",
+          "author": "",
+          "title": "China Is Pulling Up the Ladder Behind It",
+          "date": "2026-06-18",
+          "url": "https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it",
+          "bullets": [
+            [
+              "China's \"excess\" low-skill exports estimated at $355bn (value-added) in 2022",
+              "Across apparel, textiles, leather, footwear, electronics assembly and similar sectors, China's value-added export share remained ~64% between 2013 and 2023 while its share of the global low-skilled labor force fell three points, Chatterjee and Subramanian argue; for apparel/textiles/leather/footwear alone the excess is ~$110bn."
+            ],
+            [
+              "Authors argue China is blocking the manufacturing-export path out of poverty",
+              "Advanced economies at China's current per-capita GDP held only ~8% of low-skill global exports; China holds 27%. The new \"China shock\" hits Europe (especially Germany's combustion-engine ecosystem) more visibly than the tariffed-off US, but the heaviest cost falls on never-built factories from Addis Ababa to Phnom Penh."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "de-cn",
+            "macro",
+            "trade"
+          ]
         }
       ]
     },
