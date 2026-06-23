@@ -2490,7 +2490,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "PBOC 中国人民银行",
@@ -2513,7 +2515,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "State Council 国务院",
@@ -2528,7 +2532,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "energy"
+          ]
         }
       ]
     },
@@ -2555,7 +2561,10 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "security",
+            "investment"
+          ]
         },
         {
           "outlet": "Caixin 财新",
@@ -2570,7 +2579,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ideology"
+          ]
         },
         {
           "outlet": "Caixin 财新 – In Depth",
@@ -2585,7 +2596,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "sea"
+          ]
         },
         {
           "outlet": "Caixin Weekly 财新周刊 – Cover Story",
@@ -2604,7 +2617,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai"
+          ]
         },
         {
           "outlet": "Caixin Weekly 财新周刊 – In Depth",
@@ -2623,7 +2638,11 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "auto",
+            "robotics"
+          ]
         },
         {
           "outlet": "Caixin 财新",
@@ -2642,7 +2661,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ideology"
+          ]
         }
       ]
     },
@@ -2673,7 +2694,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Wang Yi 王毅",
@@ -2692,7 +2715,11 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "diplomacy",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "MFA 外交部 – Special Envoy Zhai Jun",
@@ -2707,7 +2734,11 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mid-east",
+            "diplomacy",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "CCP International Department / People's Daily (CPC channel)",
@@ -2722,7 +2753,11 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ideology",
+            "diplomacy",
+            "propaganda"
+          ]
         },
         {
           "outlet": "MND 国防部 – Defense Spokesperson",
@@ -2737,7 +2772,10 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "mil-tech"
+          ]
         },
         {
           "outlet": "Xinhua 新华社",
@@ -2752,7 +2790,10 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ideology",
+            "propaganda"
+          ]
         },
         {
           "outlet": "NBS 国家统计局",
@@ -2771,7 +2812,10 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro",
+            "investment"
+          ]
         },
         {
           "outlet": "MOFCOM CACS",
@@ -2786,7 +2830,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "latam"
+          ]
         },
         {
           "outlet": "CCDI 中央纪委国家监委",
@@ -2801,7 +2847,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "cn-discourse"
+          ]
         }
       ]
     },
@@ -2824,7 +2872,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Wang Jian 王健 (Chief financial-sector analyst, Guosen Securities)",
@@ -2839,7 +2889,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Huang Yiping 黄益平 (Dean, PKU NSD)",
@@ -2854,7 +2906,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "Wang Chao 王超 (former Vice-FM; SCO Secretary-General 2019–2022) on Aisixiang",
@@ -2869,7 +2923,11 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "sco",
+            "macro",
+            "cn-discourse"
+          ]
         }
       ]
     },
@@ -2896,7 +2954,10 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "trade",
+            "propaganda"
+          ]
         },
         {
           "outlet": "China Daily",
@@ -2911,7 +2972,10 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "trade",
+            "sanctions"
+          ]
         },
         {
           "outlet": "CGTN",
@@ -2926,7 +2990,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ru-cn"
+          ]
         },
         {
           "outlet": "CGTN",
@@ -2941,7 +3007,11 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "rare-earths",
+            "trade",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "People's Daily (World)",
@@ -2956,7 +3026,11 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "eu-cn",
+            "macro",
+            "propaganda"
+          ]
         },
         {
           "outlet": "Xinhua",
@@ -2971,7 +3045,11 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "trade",
+            "propaganda"
+          ]
         },
         {
           "outlet": "China Daily",
@@ -2986,7 +3064,9 @@ window.W25_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "eu-cn"
+          ]
         }
       ]
     }

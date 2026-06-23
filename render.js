@@ -163,12 +163,12 @@
   }
 
   // Render the row of clickable tag chips beneath an entry. Only tags in the
-  // controlled vocabulary render; unknown ids are silently dropped.
-  function renderEntryTags(tags) {
+  // controlled vocabulary render; unknown ids are silently dropped. Tags are
+  // still stored in the data (used by the search index + filter logic) — this
+  // only controls whether the chip row is drawn under each entry.
+  function renderEntryTags(tags, opts) {
     if (!tags || !tags.length) return "";
-    // Suppress entry tags on Chinese Sources tab — filter UI is intl-only.
-    var hash = (location.hash || "").toLowerCase();
-    if (hash.indexOf("cnsources") !== -1 || hash.indexOf("/cn-") !== -1) return "";
+    if (opts && opts.hideTags) return "";
     const chips = tags
       .filter(id => TAG_LOOKUP.has(id))
       .map(id => {
@@ -180,7 +180,7 @@
   }
 
   // -------- entry render ----------------------------------------------------
-  function renderEntry(e) {
+  function renderEntry(e, opts) {
     const url = e.url || "#";
     const date = fmtDate(e.date);
     const badge = (window.outletBadge ? window.outletBadge(e.outlet || "") : "");
@@ -193,7 +193,7 @@
           ${date ? `<span class="entry-sep">&middot;</span><span class="entry-date">${esc(date)}</span>` : ""}
         </div>`;
 
-    const tagsHtml = renderEntryTags(e.tags);
+    const tagsHtml = renderEntryTags(e.tags, opts);
 
     // Compact note style \u2014 used for the brief context items that mirror the
     // PDF's one-line "ticker" entries (German Lens etc). Spotlight bullets and
@@ -395,7 +395,7 @@
         ${itemsHtml}
       </section>`;
   }
-  function renderNumbered(sec, anchorPrefix = "intl-") {
+  function renderNumbered(sec, anchorPrefix = "intl-", opts) {
     const items = filtered(sec.items);
     if (!items.length && activeFilters.size) return "";
     const numHtml = sec.number ? `<span class="num">${esc(sec.number)}.</span>` : "";
@@ -407,7 +407,7 @@
           <h2 class="label">${curlify(esc(sec.label))}</h2>
         </header>
         ${sec.note ? `<p class="section-note">${esc(sec.note)}</p>` : ""}
-        ${items.map(renderEntry).join("")}
+        ${items.map(it => renderEntry(it, opts)).join("")}
       </section>`;
   }
 
@@ -524,7 +524,9 @@
       return sections || empty("No international-sources entries in this issue.");
     }
     if (tab === "cnsources") {
-      const sections = (w.chineseSourcesSections || []).map(s => renderNumbered(s, "")).join("");
+      // Tags are kept in the data (search/filter use them) but tag chips are
+      // not drawn under each entry — they were noisy on policy/regulatory items.
+      const sections = (w.chineseSourcesSections || []).map(s => renderNumbered(s, "", { hideTags: true })).join("");
       return sections || empty("No Chinese-sources entries in this issue.");
     }
     if (tab === "lens") {

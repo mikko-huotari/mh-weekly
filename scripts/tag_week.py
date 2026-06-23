@@ -92,7 +92,9 @@ RULES: list[tuple[str, list[str]]] = [
         ["property"]),
     (r"\bdemographic\b|\baging\b|\bbirths?\b|\bsociety\b|youth unemployment|\bgini\b|\bfertility\b",
         ["society"]),
-    (r"\bideolog|xi jinping thought|\bccp\b|party congress|\bpolitburo\b|cadres|state council",
+    # "state council" deliberately omitted — it's the Chinese cabinet and appears
+    # in nearly every regulatory document, so it's not a signal for ideology.
+    (r"\bideolog|xi jinping thought|\bccp\b|party congress|\bpolitburo\b|cadres",
         ["ideology"]),
     (r"\bcorruption\b|anti-corruption|\bbribery\b|\bpurge\b",
         ["corruption"]),
@@ -127,8 +129,11 @@ RULES: list[tuple[str, list[str]]] = [
         ["industrial-policy"]),
 
     # ---- Defense & external ----
+    # `|plan` removed — was firing on the common word "plan" in policy titles
+    # ("Five-year plan", "Plan for Implementing…"). PLAN (PLA Navy) is rare in
+    # text; \bpla\b + people's liberation army cover the real cases.
     (r"\bpla\b|people's liberation army|navy exercises|naval exercise|joint exercise|"
-     r"\bplaaf\b|plan",
+     r"\bplaaf\b",
         ["pla"]),
     (r"\bfimi\b|foreign information manipulation|disinformation|influence operation|"
      r"\binfo-op\b|cognitive warfare",
@@ -143,8 +148,10 @@ RULES: list[tuple[str, list[str]]] = [
     (r"\bspy\b|\bspies\b|\bespionage\b|\bspy case\b|recruited as (an?\s+)?(spy|agent|asset)|"
      r"intelligence officer|mss[- ]linked|undercover|\bmole\b|\bdefector\b",
         ["espionage"]),
+    # "state council" deliberately omitted — appears in every CN policy doc; not
+    # a diplomacy signal. Real diplomacy items hit summit/visit/foreign minister.
     (r"\bsummit\b|state visit|bilateral meeting|head[- ]of[- ]state|\bdiplomatic\b|"
-     r"foreign minister|state council|presidential visit|\benvoy\b|prime minister visit",
+     r"foreign minister|presidential visit|\benvoy\b|prime minister visit",
         ["diplomacy"]),
 
     # ---- Discourse ----
@@ -234,8 +241,9 @@ def _all_items(payload: dict):
             for g in sec.get("groups") or []:
                 yield from g.get("items") or []
             yield from sec.get("items") or []
-    for sec in payload.get("numberedSections") or []:
-        yield from sec.get("items") or []
+    for key in ("numberedSections", "chineseSourcesSections"):
+        for sec in payload.get(key) or []:
+            yield from sec.get("items") or []
 
 
 def tag_payload(payload: dict) -> dict:
@@ -257,9 +265,10 @@ def tag_payload(payload: dict) -> dict:
     for sec in payload.get("numberedSections") or []:
         fb = NUMBERED_FALLBACK.get(sec.get("slug") or "", ["diplomacy"])
         counts["numbered"] += tag_items_in_section(sec, fallback=fb)
-    # Chinese Sources (Part IV) — NOT tagged. MH 2026-06-23: tags on CN Sources
-    # (e.g. `pla` on PBOC monetary policy, `ideology` on Caixin outbound-investment)
-    # are noisy and degrade UX. Section is read on its own merits.
+    # Chinese Sources (Part IV) — tagged for SEARCH only; render.js suppresses
+    # display of the tag chips on this section (still indexed by the filter).
+    for sec in payload.get("chineseSourcesSections") or []:
+        counts["cnsources"] += tag_items_in_section(sec, sec.get("label") or "", fallback=["cn-discourse"])
     print("Tagged:", counts, "total:", sum(counts.values()))
 
     # Coverage assertion — there must be ZERO untagged entries.
