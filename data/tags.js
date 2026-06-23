@@ -87,6 +87,8 @@ window.TAGS = {
     // Discourse
     { id: "cn-discourse", label: "CN discourse", group: "discourse" },
     { id: "propaganda",   label: "Propaganda",   group: "discourse" },
-    { id: "human-rights", label: "Human rights", group: "discourse" }
+
+    // Domestic CN (continued)
+    { id: "human-rights", label: "Human rights", group: "domestic" }
   ]
 };
