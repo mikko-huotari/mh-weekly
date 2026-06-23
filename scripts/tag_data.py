@@ -59,6 +59,25 @@ def load_week(week_id: str) -> tuple[Path, str, str, dict[str, Any], str, str]:
     return path, var, m.group("prefix"), data, m.group("suffix"), obj_text
 
 
+def load_wb(week_id: str) -> tuple[Path, str, dict[str, Any], str] | None:
+    """Return (path, prefix, data, suffix) for the wochenbericht side file if present, else None."""
+    path = DATA / f"{week_id}-wochenbericht.js"
+    if not path.exists():
+        return None
+    text = path.read_text(encoding="utf-8")
+    m = re.search(
+        r"^(?P<prefix>.*?window\.W\d+_\d+_WOCHENBERICHT\s*=\s*)"
+        r"(?P<obj>\{.*\n\})\s*;\s*\n?"
+        r"(?P<suffix>.*)$",
+        text,
+        re.DOTALL,
+    )
+    if not m:
+        sys.exit(f"Could not parse top-level object in {path.name}")
+    data = json.loads(m.group("obj"))
+    return path, m.group("prefix"), data, m.group("suffix")
+
+
 def collect_entries(data: dict[str, Any]) -> list[tuple[list, dict]]:
     """Yield (path, entry_dict) for every taggable entry."""
     out: list[tuple[list, dict]] = []
@@ -84,6 +103,22 @@ def collect_entries(data: dict[str, Any]) -> list[tuple[list, dict]]:
     return out
 
 
+def collect_wb_entries(data: dict[str, Any]) -> list[tuple[list, dict]]:
+    """Yield (path, entry_dict) for every Wochenbericht item.
+
+    Items in sections[*].items have two shapes:
+      - quote/fact:  {lead, text, source: {outlet, date, title}, kind}
+      - theme:       {title, text, sources: [{outlet, title}, ...], kind: "theme"}
+    Both are taggable.
+    """
+    out: list[tuple[list, dict]] = []
+    for s, sec in enumerate(data.get("sections", []) or []):
+        for i, item in enumerate(sec.get("items", []) or []):
+            if isinstance(item, dict):
+                out.append((["sections", s, "items", i], item))
+    return out
+
+
 def entry_text(e: dict) -> str:
     outlet = e.get("outlet", "")
     title = e.get("title") or ""
@@ -99,6 +134,18 @@ def entry_text(e: dict) -> str:
         body = " | ".join(bullets)
     body = re.sub(r"\s+", " ", body).strip()[:500]
     return f"[{outlet}] {title} :: {body}".strip()
+
+
+def wb_entry_text(e: dict) -> str:
+    """Render a Wochenbericht item as a single line for the LLM."""
+    if e.get("kind") == "theme":
+        srcs = ", ".join((s.get("outlet") or "") for s in (e.get("sources") or []) if isinstance(s, dict))
+        return f"[Theme · {srcs}] {e.get('title','')} :: {(e.get('text','') or '')[:500]}".strip()
+    src = e.get("source") or {}
+    return (
+        f"[{src.get('outlet','')}] {e.get('lead','')} :: {(e.get('text','') or '')[:500]} "
+        f"(src: {src.get('title','')})"
+    ).strip()
 
 
 _GEMINI_CLIENT = None
@@ -136,11 +183,11 @@ def extract_json_obj(text: str) -> dict:
     return json.loads(m.group(0))
 
 
-def tag_batch(batch: list[tuple[int, dict]], vocab: list[str]) -> dict[int, list[str]]:
+def tag_batch(batch: list[tuple[int, dict]], vocab: list[str], textfn=entry_text) -> dict[int, list[str]]:
     """Tag a single batch of entries.  Returns {batch_index_1based: [tag_ids]}."""
     numbered = []
     for idx, (_, e) in enumerate(batch, start=1):
-        numbered.append(f"{idx}. {entry_text(e)}")
+        numbered.append(f"{idx}. {textfn(e)}")
     prompt = f"""You are tagging news entries for a China-policy weekly archive.
 
 Choose 1-{MAX_TAGS_PER_ENTRY} tags PER ENTRY, drawn ONLY from this fixed vocabulary:
@@ -253,6 +300,41 @@ def main() -> int:
         print("  tag counts:")
         for tag, n in sorted(tag_counts.items(), key=lambda x: -x[1]):
             print(f"    {tag:<14} {n}")
+
+        # ---- Wochenbericht side file (Module E, Part V) ----
+        wb = load_wb(wk)
+        if wb is None:
+            print(f"  (no wochenbericht side file for {wk}, skipping)")
+            continue
+        wb_path, wb_prefix, wb_data, wb_suffix = wb
+        wb_entries = collect_wb_entries(wb_data)
+        print(f"  wochenbericht: {len(wb_entries)} items")
+        if args.sample:
+            wb_entries = wb_entries[: args.sample]
+        wb_tags: dict[tuple, list[str]] = {}
+        for start in range(0, len(wb_entries), BATCH_SIZE):
+            batch = wb_entries[start:start + BATCH_SIZE]
+            print(f"    batch {start // BATCH_SIZE + 1}: items {start+1}-{start+len(batch)}")
+            try:
+                tags = tag_batch(batch, vocab, textfn=wb_entry_text)
+            except Exception as ex:
+                print(f"    ! batch failed: {ex}")
+                continue
+            for i, (path_, _entry) in enumerate(batch, start=1):
+                wb_tags[tuple(path_)] = tags.get(i, [])
+        if args.sample:
+            print("    --- wochenbericht sample ---")
+            for path_, entry in wb_entries:
+                t = wb_tags.get(tuple(path_), [])
+                lead = entry.get("lead") or entry.get("title") or ""
+                print(f"      {lead[:60]:<60} -> {t}")
+            print("    (dry-run: wochenbericht NOT modified)")
+            continue
+        for path_, entry in wb_entries:
+            entry["tags"] = wb_tags.get(tuple(path_), [])
+            set_at_path(wb_data, path_, entry)
+        wb_path.write_text(serialize_data(wb_data, wb_prefix, wb_suffix), encoding="utf-8")
+        print(f"  wrote {wb_path.name}")
 
     return 0
 

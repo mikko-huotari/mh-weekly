@@ -127,14 +127,24 @@
       date: it.date || "",
       title: it.title || it.note || preview,
       preview: preview,
+      tags: (it.tags || []).slice(),
       haystack: (ctx.week.id + " " + text).toLowerCase()
     };
   }
 
   // Wochenbericht items have a different shape (lead/text + source).
   function buildWBEntry(it, ctx) {
+    const tagText = [];
+    if (it.tags && it.tags.length) {
+      const vocab = (window.TAGS && window.TAGS.tags) || [];
+      it.tags.forEach(id => {
+        tagText.push(id);
+        const t = vocab.find(x => x.id === id);
+        if (t && t.label) tagText.push(t.label);
+      });
+    }
     if (it.kind === "theme") {
-      const text = [it.title, it.text, (it.sources || []).map(s => s.title).join(" ")].join(" ");
+      const text = [it.title, it.text, (it.sources || []).map(s => s.title).join(" "), tagText.join(" ")].join(" ");
       return {
         weekId: ctx.week.id,
         weekLabel: ctx.weekLabel,
@@ -144,11 +154,12 @@
         date: "",
         title: it.title || "",
         preview: it.text || "",
+        tags: (it.tags || []).slice(),
         haystack: (ctx.week.id + " " + text).toLowerCase()
       };
     }
     const src = it.source || {};
-    const text = [it.lead, it.text, src.title].join(" ");
+    const text = [it.lead, it.text, src.title, tagText.join(" ")].join(" ");
     return {
       weekId: ctx.week.id,
       weekLabel: ctx.weekLabel,
@@ -158,6 +169,7 @@
       date: src.date || "",
       title: (it.lead ? it.lead + " \u2014 " : "") + (it.text || "").slice(0, 80),
       preview: it.text || "",
+      tags: (it.tags || []).slice(),
       haystack: (ctx.week.id + " " + text).toLowerCase()
     };
   }
@@ -166,18 +178,33 @@
   let INDEX = null;
   let activeIdx = -1;
   let lastResults = [];
+  // Tag-filter state: ids of currently-active filter chips. Empty = no filter.
+  // Logic is OR within: an entry passes if any of its tags is in the active set.
+  const activeFilters = new Set();
 
   function ensureIndex() {
     if (!INDEX) INDEX = buildIndex();
     return INDEX;
   }
 
+  function passesTagFilter(e) {
+    if (!activeFilters.size) return true;
+    if (!e.tags || !e.tags.length) return false;
+    for (const t of e.tags) if (activeFilters.has(t)) return true;
+    return false;
+  }
+
   function search(q) {
-    const tokens = q.toLowerCase().split(/\s+/).filter(Boolean);
-    if (!tokens.length) return [];
     const idx = ensureIndex();
+    const tokens = q.toLowerCase().split(/\s+/).filter(Boolean);
+    // No text query: if filters are on, list filtered entries; else empty.
+    if (!tokens.length) {
+      if (!activeFilters.size) return [];
+      return idx.filter(passesTagFilter).slice(0, 60);
+    }
     const scored = [];
     for (const e of idx) {
+      if (!passesTagFilter(e)) continue;
       let score = 0;
       let ok = true;
       for (const t of tokens) {
@@ -217,8 +244,8 @@
 
   function renderResults(query) {
     const host = $("#searchResults");
-    if (!query.trim()) {
-      host.innerHTML = `<div class="search-hint">Type to search across all issues \u2014 titles, outlets, content.</div>`;
+    if (!query.trim() && !activeFilters.size) {
+      host.innerHTML = `<div class="search-hint">Type to search across all issues \u2014 titles, outlets, content. Or filter by tag below.</div>`;
       lastResults = [];
       activeIdx = -1;
       return;
@@ -269,6 +296,52 @@
     location.hash = `#${r.weekId}/${r.slug}`;
   }
 
+  // Render the tag-filter chip row. Chips are grouped (geo / sector / etc.).
+  // Only chips that actually appear in the indexed entries are shown — keeps
+  // the bar tight as the vocabulary grows. Vocab ids/labels are escaped even
+  // though they come from data/tags.js (controlled), not user input.
+  function renderFilterChips() {
+    const host = $("#searchTags");
+    if (!host) return;
+    const T = window.TAGS;
+    if (!T || !T.tags || !T.groups) { host.innerHTML = ""; return; }
+    const idx = ensureIndex();
+    const present = new Set();
+    idx.forEach(e => (e.tags || []).forEach(t => present.add(t)));
+    const byGroup = {};
+    T.tags.forEach(t => {
+      if (!present.has(t.id)) return;
+      (byGroup[t.group] = byGroup[t.group] || []).push(t);
+    });
+    const html = T.groups
+      .filter(g => byGroup[g.id] && byGroup[g.id].length)
+      .map(g => {
+        const chips = byGroup[g.id].map(t => {
+          const on = activeFilters.has(t.id);
+          return `<button type="button" class="st-chip${on ? " is-on" : ""}" data-tag="${esc(t.id)}" aria-pressed="${on}">${esc(t.label)}</button>`;
+        }).join("");
+        return `<div class="st-group" title="${esc(g.label)}"><span class="st-glabel">${esc(g.label)}</span>${chips}</div>`;
+      }).join("");
+    const clear = activeFilters.size
+      ? `<button type="button" class="st-clear" data-clear-filters>Clear ${activeFilters.size}</button>`
+      : "";
+    host.innerHTML = html + clear;
+    host.querySelectorAll(".st-chip").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const id = btn.dataset.tag;
+        if (activeFilters.has(id)) activeFilters.delete(id); else activeFilters.add(id);
+        renderFilterChips();
+        renderResults($("#searchInput").value || "");
+      });
+    });
+    const clr = host.querySelector("[data-clear-filters]");
+    if (clr) clr.addEventListener("click", () => {
+      activeFilters.clear();
+      renderFilterChips();
+      renderResults($("#searchInput").value || "");
+    });
+  }
+
   // -------- Modal open/close ----------------------------------------------
   let lastFocus = null;
   function openModal() {
@@ -279,6 +352,7 @@
     document.body.style.overflow = "hidden";
     const input = $("#searchInput");
     input.value = "";
+    renderFilterChips();
     renderResults("");
     setTimeout(() => input.focus(), 30);
   }

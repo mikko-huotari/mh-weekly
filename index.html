@@ -405,6 +405,56 @@
     transition: background .12s ease, color .12s ease, border-color .12s ease;
   }
   .search-close:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .search-tags {
+    flex: 0 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 8px;
+    padding: 6px 18px 8px;
+    border-bottom: 1px solid var(--bone);
+    align-items: center;
+  }
+  .search-tags:empty { display: none; }
+  .search-tags .st-group {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px;
+    padding: 1px 8px 1px 0;
+  }
+  .search-tags .st-glabel {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--slate);
+    margin-right: 4px;
+  }
+  .search-tags .st-chip {
+    font: 500 11.5px/1 system-ui, -apple-system, sans-serif;
+    padding: 4px 8px;
+    border: 1px solid var(--bone);
+    background: var(--paper);
+    color: var(--graphite);
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background .12s ease, color .12s ease, border-color .12s ease;
+  }
+  .search-tags .st-chip:hover { border-color: var(--graphite); }
+  .search-tags .st-chip.is-on {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+  .search-tags .st-clear {
+    font: 500 11px/1 system-ui, -apple-system, sans-serif;
+    padding: 4px 8px;
+    border: 0;
+    background: transparent;
+    color: var(--slate);
+    cursor: pointer;
+    margin-left: 4px;
+  }
+  .search-tags .st-clear:hover { color: var(--ink); text-decoration: underline; }
   .search-results {
     flex: 1 1 auto;
     overflow-y: auto;
@@ -1476,6 +1526,7 @@
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><line x1="6" y1="6" x2="18" y2="18"/><line x1="6" y1="18" x2="18" y2="6"/></svg>
         </button>
       </header>
+      <div id="searchTags" class="search-tags" aria-label="Filter by tag"></div>
       <div id="searchResults" class="search-results" role="listbox" aria-label="Search results"></div>
       <footer class="search-foot">
         <span><kbd>Esc</kbd> close</span>
