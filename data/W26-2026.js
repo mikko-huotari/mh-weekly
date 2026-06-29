@@ -52,6 +52,18 @@ window.W26_2026 = {
                 "india-cn",
                 "latam"
               ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**[Economy Minister Reiche met Chinese Commerce Minister Wang Wentao in Brussels on 28 June](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260628-reiche-trifft-chinesischen-handelsminister-wang.html)** – both sides agreed to fast-track reactivation of the bilateral **Joint Economic Committee** (originally agreed during Reiche's May visit to Beijing). Reiche pitched German Außenwirtschaftspolitik as \"pragmatic\" – pursuing mutual interests while insisting on \"fairness, open markets, level competitive conditions, reliable supply chains, and balanced trade.\" The meeting took place a day before Wang's parallel [Sefčovič talks](https://www.epochtimes.de/politik/ausland/haertere-gangart-gegenueber-china-chinesischer-handelsminister-kommt-nach-bruessel-a5528504.html) on 29 June.",
+              "tags": [
+                "eu-cn",
+                "de-cn",
+                "trade",
+                "supply-chain"
+              ]
             }
           ]
         },
