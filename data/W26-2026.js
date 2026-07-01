@@ -8,12 +8,23 @@ window.W26_2026 = {
   "dateRange": "22 – 28 Jun 2026",
   "pdf": "pdfs/W26-2026.pdf",
   "spotlight": {
-    "title": "Spotlight",
-    "intro": "",
+    "title": "Spotlight 1: EU-China launch Trade and Investment Consultations; October deadline for \"first tangible results\"",
+    "short": "Spotlight 1: EU-China TIC; October deadline",
+    "intro": "Šefčovič and Wang Wentao met in Brussels on **29 June** and issued the **first joint EU-China trade statement since 2019**. The two sides launched the **Trade and Investment Consultations (TIC)** mechanism with four workstreams – **(1) trade and investment balancing, (2) export controls, (3) intellectual property rights, (4) WTO reform** – and committed to a follow-up at ministerial level in **Autumn 2026**.\n\nŠefčovič set an **October deadline** for \"first tangible results\" and will travel to Beijing then. A roadmap of expected deliverables is due in the coming days; a first assessment of progress is scheduled for **September**. Asked what happens if China does not deliver, he deflected: \"I like to focus on the positive… I see much more understanding for the common challenges and the European situation from our Chinese counterparts.\"\n\nA **joint monitoring mechanism on trade flows** is the most operational element: both sides will work from a shared dataset, and import spikes \"crossing into yellow and red zones\" will trigger automatic escalation – \"discussion will immediately jump to political level,\" Šefčovič said.\n\nŠefčovič framed the meeting as \"intensive, focused and constructive\" with \"much more convergence on how we perceive the mutual challenges,\" while underlining that \"the trend is not sustainable, and the status quo is not an option\" and that the EU \"simply cannot afford to continue\" like this.\n\nOne concrete Chinese concession: Wang assured that PRC export controls on rare earths and permanent magnets \"will not disrupt EU supply chains\"; Šefčovič proposed new licensing-facilitation arrangements for EU companies.\n\n**Bottom line:** the TIC platform itself (first joint statement since 2019; structured 4-workstream mandate; joint data feed with trigger thresholds; October hard date) – not a deliverable on the underlying imbalance. Šefčovič conceded \"not everything will be solved by October\" but framed the process as enough \"to see the direction of travel.\"\n\n*Sources: [EC joint statement](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1480) · [Politico (Martuscelli)](https://www.politico.eu/article/eu-china-dialogue-trade-war/) · [Bermingham/SCMP thread](https://x.com/fbermingham/status/2071623572913520859) · [Liboreiro/Euronews thread](https://x.com/JorgeLiboreiro/status/2071627168971477229).*",
     "items": [],
+    "table": null,
     "subsections": []
   },
-  "spotlights": [],
+  "spotlights": [
+    {
+      "title": "Spotlight 1: EU-China launch Trade and Investment Consultations; October deadline for \"first tangible results\"",
+      "short": "Spotlight 1: EU-China TIC; October deadline",
+      "intro": "Šefčovič and Wang Wentao met in Brussels on **29 June** and issued the **first joint EU-China trade statement since 2019**. The two sides launched the **Trade and Investment Consultations (TIC)** mechanism with four workstreams – **(1) trade and investment balancing, (2) export controls, (3) intellectual property rights, (4) WTO reform** – and committed to a follow-up at ministerial level in **Autumn 2026**.\n\nŠefčovič set an **October deadline** for \"first tangible results\" and will travel to Beijing then. A roadmap of expected deliverables is due in the coming days; a first assessment of progress is scheduled for **September**. Asked what happens if China does not deliver, he deflected: \"I like to focus on the positive… I see much more understanding for the common challenges and the European situation from our Chinese counterparts.\"\n\nA **joint monitoring mechanism on trade flows** is the most operational element: both sides will work from a shared dataset, and import spikes \"crossing into yellow and red zones\" will trigger automatic escalation – \"discussion will immediately jump to political level,\" Šefčovič said.\n\nŠefčovič framed the meeting as \"intensive, focused and constructive\" with \"much more convergence on how we perceive the mutual challenges,\" while underlining that \"the trend is not sustainable, and the status quo is not an option\" and that the EU \"simply cannot afford to continue\" like this.\n\nOne concrete Chinese concession: Wang assured that PRC export controls on rare earths and permanent magnets \"will not disrupt EU supply chains\"; Šefčovič proposed new licensing-facilitation arrangements for EU companies.\n\n**Bottom line:** the TIC platform itself (first joint statement since 2019; structured 4-workstream mandate; joint data feed with trigger thresholds; October hard date) – not a deliverable on the underlying imbalance. Šefčovič conceded \"not everything will be solved by October\" but framed the process as enough \"to see the direction of travel.\"\n\n*Sources: [EC joint statement](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1480) · [Politico (Martuscelli)](https://www.politico.eu/article/eu-china-dialogue-trade-war/) · [Bermingham/SCMP thread](https://x.com/fbermingham/status/2071623572913520859) · [Liboreiro/Euronews thread](https://x.com/JorgeLiboreiro/status/2071627168971477229).*",
+      "items": [],
+      "table": null,
+      "subsections": []
+    }
+  ],
   "contextSections": [
     {
       "label": "German China policy in context",
@@ -26,9 +37,24 @@ window.W26_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**The federal government suspended the CISPA Helmholtz-Centre director and ordered an external review** after [Handelsblatt exposed](https://www.handelsblatt.com/politik/deutschland/cispa-bund-greift-bei-helmholtz-zentrum-durch-02/100233393.html) deep cooperation between the Saarbrücken cybersecurity institute and Chinese researchers with PLA-adjacent ties – making CISPA the most prominent case yet in the widening debate over Chinese access to German strategic research (Jun 24).",
+              "note": "**Chancellor Merz took three China-related questions in his [Bundestag Regierungsbefragung](https://www.zdf.de/video/magazine/heute-im-parlament-104/heute-im-parlament-regierungsbefragung-bundeskanzler-merz-100) on 24 June** – Roloff (SPD) pressed on the **Industrial Accelerator Act** and a binding **\"Buy European\"** procurement preference against subsidised Chinese supply, with a follow-up on the **International Procurement Instrument**. Merz framed the issue as \"makroökonomische Ungleichgewichte\" (macroeconomic imbalances) from the June European Council, said the Commission's proposals would come back to the **October Council for decision**, and named \"subsidies, massive overcapacities and above all distortions through artificially suppressed currencies\" as the unfair part of competition to act against – \"auf der Basis von Reziprozität\" (on the basis of reciprocity), but only in lockstep with European partners (\"ich möchte nicht, dass wir hier in Deutschland alleine Entscheidungen treffen\" / \"I don't want Germany to take decisions on its own here\"). Hardt (CDU/CSU) on G7 Evian leverage via India and Brazil on Russia. Schätzl (SPD) on Chinese components in **5G/6G** and telco reciprocity, with a sharp follow-up that the **Chinese-vendor share is over 60%** and drone defence is meant to run via the mobile network – Merz reiterated that European telcos have \"praktisch keinen Zugang\" (\"practically no access\") to networks in that country and that the **Nationaler Sicherheitsrat (National Security Council) is developing a comprehensive infrastructure security strategy** with AA, BMVg and BMI in which this will \"play a prominent role.\"",
               "tags": [
                 "de-cn",
+                "india-cn",
+                "ru-cn",
+                "latam",
+                "mil-tech",
+                "security"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**The federal government suspended the CISPA Helmholtz-Centre director and ordered an external review** after [Handelsblatt exposed](https://www.handelsblatt.com/politik/deutschland/cispa-bund-greift-bei-helmholtz-zentrum-durch-02/100233393.html) deep cooperation between the Saarbrücken cybersecurity institute and Chinese researchers with PLA-adjacent ties – making CISPA the most prominent case yet in the widening debate over Chinese access to German strategic research (Jun 24). *Update Jun 29: BMBF appointed [Alexander Geschonneck (KPMG, Global Head of Forensic, previously special investigator on Wirecard) as Sonderprüfer](https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/alexander_geschonneck_cispa-sonderpruefer_100.html); audit began Mon 23 Jun, remit = clarify whether sensitive AI/cybersecurity know-how flowed from CISPA to China; Backes remains suspended for the duration.*",
+              "tags": [
+                "de-cn",
+                "ai",
                 "pla"
               ]
             },
@@ -40,17 +66,6 @@ window.W26_2026 = {
               "tags": [
                 "de-cn",
                 "export-controls"
-              ]
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**Chancellor Merz fielded three China exchanges in his [Bundestag Regierungsbefragung](https://www.zdf.de/video/magazine/heute-im-parlament-104/heute-im-parlament-regierungsbefragung-bundeskanzler-merz-100) on 24 June** – Roloff (SPD) on the EU Industrial Accelerator Act, IPI and \"Buy European,\" Hardt (CDU/CSU) on G7 leverage via India and Brazil, and Schätzl (SPD) on Chinese components in 5G/6G and telco reciprocity. Merz committed the Council to act in October against \"subsidies, massive overcapacities and above all distortions through artificially suppressed currencies\" – on the basis of reciprocity, but only in lockstep with European partners (see also [Barkin's running commentary](https://substack.com/@noahbarkin/note/c-281906594)).",
-              "tags": [
-                "de-cn",
-                "india-cn",
-                "latam"
               ]
             },
             {
@@ -74,11 +89,16 @@ window.W26_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**The [European Council's 19 June conclusions](https://www.consilium.europa.eu/media/r1rowtfb/en-20260619-european-council-conclusions.pdf) formalised the bloc's pivot on China**, with Council President Costa describing the EU's roughly €1 bn/day deficit with China as \"untenable\" and von der Leyen announcing a mandatory supplier-diversification law to break rare-earth and critical-input dependence; concrete legislative proposals are expected at the October Council.",
+              "note": "**Beijing's pre-talks posture and the EU toolkit Šefčovič brought into the room** (see Spotlight 1 for the outcome). A [CCTV-affiliated Yuyuantantian commentary](https://www.pekingnology.com/p/reading-beijings-signal-to-brussels) – read in Beijing as an official signal – framed China as \"ready to withstand further deterioration in economic and trade ties, even a freeze,\" arguing Chinese firms no longer treat any single market as essential and can pivot to Southeast Asia, the Middle East and Latin America. Beijing's substantive asks on the table: price-undertaking solutions on the EU's EV anti-subsidy duties, and easing of European export-control restrictions on high-tech items going to China; MOFCOM has separately warned of \"resolute countermeasures\" against new EU restrictions. Šefčovič entered [hobbled by member-state flip-flopping](https://euobserver.com/224256/eus-sefcovic-going-into-china-trade-talks-hobbled-by-european-leaders-flip-flopping/) (Spain courting Chinese investment, others wavering) but armed with a [19 June Council mandate](https://www.consilium.europa.eu/media/r1rowtfb/en-20260619-european-council-conclusions.pdf) on a \"diversification instrument\" (≥ 3 suppliers for critical inputs) and a still-undeployed Anti-Coercion Instrument.",
               "tags": [
                 "eu-cn",
-                "rare-earths",
-                "trade"
+                "mid-east",
+                "sea",
+                "latam",
+                "auto",
+                "trade",
+                "investment",
+                "propaganda"
               ]
             },
             {
@@ -101,6 +121,17 @@ window.W26_2026 = {
                 "semcon",
                 "ai",
                 "trade"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**The new [EU FDI-screening Regulation 2026/1386](https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601386) was published in the Official Journal on 24 June (applies from January 2028)** – it replaces the 2019 voluntary cooperation framework with a binding harmonised screening regime across all 27 member states. Mandatory minimum coverage spans eight critical sectors (semiconductors, quantum, AI, dual-use goods, strategic raw materials, critical infrastructure, financial-market entities, voter-registration systems), and the regulation closes the prior loophole that let third-country investors – including Chinese ones – acquire sensitive EU assets through EU-established subsidiaries without triggering FDI screening.",
+              "tags": [
+                "semcon",
+                "ai",
+                "investment"
               ]
             }
           ]
@@ -134,26 +165,87 @@ window.W26_2026 = {
           "items": [
             {
               "outlet": "MERICS",
-              "title": "MERICS events (Dynamics)",
+              "title": "",
               "date": "",
-              "url": "",
+              "url": "https://merics.org/en/comment/chinas-transnational-interference-threatens-digital-rights-globally",
               "bullets": [
                 [
                   "",
-                  "**Taking Stock of China’s Relations with Washington and Moscow: Implications for Europe** (2026-06-22) *(Briefing)*"
-                ],
+                  "[**China's transnational interference threatens digital rights globally**](https://merics.org/en/comment/chinas-transnational-interference-threatens-digital-rights-globally). Daria Impiombato and Wendy Chang on Beijing's coercive use of digital tools across borders, with a call for Europe to harden defences. *(Comment, Jun 26)*"
+                ]
+              ],
+              "tags": [
+                "de-cn"
+              ]
+            },
+            {
+              "outlet": "MERICS",
+              "title": "",
+              "date": "",
+              "url": "https://merics.org/en/comment/xi-visits-pyongyang-and-china-rehabilitates-north-korea",
+              "bullets": [
                 [
                   "",
-                  "**MERICS Members Day 2026** (2026-06-24) *(Conference)*"
-                ],
-                [
-                  "",
-                  "**Team-Event** (2026-06-25) *(MERICS Org)*"
+                  "[**Xi visits Pyongyang and China rehabilitates North Korea**](https://merics.org/en/comment/xi-visits-pyongyang-and-china-rehabilitates-north-korea). Andrew Scobell (MERICS Senior Fellow): Russia's renewed standing in northeast Asia and continued US strength in the region have encouraged Beijing to set aside reservations about its only official ally. *(Comment, Jun 24)*"
                 ]
               ],
               "tags": [
                 "de-cn",
                 "ru-cn"
+              ]
+            },
+            {
+              "outlet": "The EU Must Confront China's Trade Chall",
+              "title": "",
+              "date": "",
+              "url": "https://www.thewirechina.com/2026/06/25/the-eu-must-confront-chinas-trade-challenge/",
+              "bullets": [
+                [
+                  "",
+                  "[**The EU Must Confront China's Trade Challenge**](https://www.thewirechina.com/2026/06/25/the-eu-must-confront-chinas-trade-challenge/). Grzegorz Stec lays out why the EU must urgently move beyond defensive instruments. *(Wire China opinion, Jun 25)*"
+                ]
+              ],
+              "tags": [
+                "trade"
+              ]
+            },
+            {
+              "outlet": "Soapbox",
+              "title": "",
+              "date": "",
+              "url": "https://soapboxtrade.substack.com/p/the-china-deficit-brussels-can-no",
+              "bullets": [
+                [
+                  "",
+                  "[**The China deficit Brussels can no longer ignore**](https://soapboxtrade.substack.com/p/the-china-deficit-brussels-can-no). Issue 253 | In collaboration with Mercator Institute for China Studies (MERICS) – Germany drove most of the EU's larger China deficit in April. *(Soapbox, Jun 22)*"
+                ]
+              ],
+              "tags": [
+                "eu-cn",
+                "de-cn",
+                "trade"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Selected insights for media by colleagues",
+          "items": [
+            {
+              "outlet": "MERICS",
+              "title": "",
+              "date": "",
+              "url": "",
+              "bullets": [
+                [
+                  "",
+                  "**Wendy Chang** quoted by **BBC Chinese** on a surge of China's chip exports and export restrictions."
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "semcon",
+                "trade"
               ]
             }
           ]
@@ -169,48 +261,36 @@ window.W26_2026 = {
       "label": "Domestic economic situation and policy",
       "items": [
         {
-          "outlet": "?",
+          "outlet": "Bloomberg",
           "author": "",
           "title": "Six Charts That Explain China’s Weakening Economy",
           "date": "2026-06-25",
           "url": "https://www.bloomberg.com/news/articles/2026-06-25/china-economy-6-charts-explain-why-how-economic-growth-is-slowing-down",
           "bullets": [
             [
-              "China lowered its 2026 growth target to 4.5-5%, the least ambitious since 1991",
-              "The government cited weak consumption, a prolonged property slump, and a shrinking workforce as structural drags."
+              "2026 growth target set at 4.5–5% – the least ambitious since 1991",
+              "Property prices have fallen ~30% from their 2021 peak; real estate's share of GDP collapsed from ~25% to under 20%. Deflation has persisted since 2023, with Beijing officially flagging \"involution\" (内卷) destructive price wars as a top-priority drag across EVs, food delivery and other sectors."
             ],
             [
-              "China's trade surplus hit a record $1.2 trillion in 2025, with net exports accounting for roughly a third of GDP growth",
-              "That contribution fell sharply to under 15% in Q1 2026, and a growing number of countries are pushing back against Chinese import surges."
+              "Demographic crunch deepens",
+              "2025 births fell to 7.93 million (lowest since 1949) – the tenth straight annual decline. Working-age share is down to ~61% (vs >70% a decade ago); the worker-to-pensioner ratio (currently ~4:1) is projected to halve within 20 years. Bloomberg notes Beijing is betting on AI, semis, biotech and robotics productivity to offset the demographic drag."
+            ],
+            [
+              "Exports are the offset – but increasingly contested",
+              "Net exports = ~one-third of 2025 GDP growth (highest share since 1997); record **$1.2 trillion trade surplus** held up despite US tariffs reaching 145% early 2025, absorbed largely by Europe + Southeast Asia. To hit Xi's \"moderately developed economy by 2035\" target, China needs ~4.17% average annual growth – but a growing number of countries (not only the US) are imposing tariffs/quotas on Chinese imports."
             ]
           ],
           "related": [],
           "tags": [
+            "sea",
+            "ai",
+            "auto",
+            "robotics",
+            "bio-pharma",
             "macro",
             "property",
+            "society",
             "trade"
-          ]
-        },
-        {
-          "outlet": "CSIS",
-          "author": "",
-          "title": "Grasping Shadows: The Politics of China’s Deleveraging Campaign",
-          "date": "2026-06-24",
-          "url": "https://www.csis.org/analysis/grasping-shadows-politics-chinas-deleveraging-campaign",
-          "bullets": [
-            [
-              "2016 deleveraging campaign cut credit growth by half, the author argues",
-              "Wright identifies Beijing's crackdown on shadow banking as the structural origin of China's current economic slowdown, not a cyclical downturn."
-            ],
-            [
-              "Property developers kept borrowing throughout the campaign, inflating the bubble",
-              "Developer debt expanded unchecked during deleveraging, the report argues, driving the real estate collapse that followed in late 2021."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "macro",
-            "property"
           ]
         },
         {
@@ -235,7 +315,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Caixin",
           "author": "",
           "title": "China Audit Reveals Billions of Rural Funds Diverted for Local Debt",
           "date": "2026-06-26",
@@ -256,29 +336,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
-          "author": "",
-          "title": "China pays price for 'Ponzi scheme'-driven property boom",
-          "date": "2026-06-23",
-          "url": "https://asia.nikkei.com/spotlight/comment/china-pays-price-for-ponzi-scheme-driven-property-boom",
-          "bullets": [
-            [
-              "Pan Shiyi labeled China's property model a \"Ponzi scheme\"",
-              "The former industry heavyweight argued in an April social media post that the investment model fueled a property bubble, stressing \"restoration of trust.\""
-            ],
-            [
-              "The post was deleted but copies spread widely, sparking public debate",
-              "Nikkei reports the content circulated online despite removal soon after publication, drawing broad public discussion in China."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "property",
-            "investment"
-          ]
-        },
-        {
-          "outlet": "?",
+          "outlet": "Nikkei",
           "author": "",
           "title": "China to roll out nursing care insurance nationwide as population ages",
           "date": "2026-06-26",
@@ -299,7 +357,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "FT",
           "author": "",
           "title": "Robot nation: China’s bid to beat its demographic decline",
           "date": "2026-06-25",
@@ -327,7 +385,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "FT",
           "author": "",
           "title": "Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss",
           "date": "2026-06-24",
@@ -354,7 +412,29 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "China pays price for 'Ponzi scheme'-driven property boom",
+          "date": "2026-06-23",
+          "url": "https://asia.nikkei.com/spotlight/comment/china-pays-price-for-ponzi-scheme-driven-property-boom",
+          "bullets": [
+            [
+              "Pan Shiyi labeled China's property model a \"Ponzi scheme\"",
+              "The former industry heavyweight argued in an April social media post that the investment model fueled a property bubble, stressing \"restoration of trust.\""
+            ],
+            [
+              "The post was deleted but copies spread widely, sparking public debate",
+              "Nikkei reports the content circulated online despite removal soon after publication, drawing broad public discussion in China."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "property",
+            "investment"
+          ]
+        },
+        {
+          "outlet": "Bloomberg",
           "author": "",
           "title": "Chinese Steel Market Enters Long Plateau After Property Crash",
           "date": "2026-06-22",
@@ -384,7 +464,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Bloomberg",
           "author": "",
           "title": "China Lays Out Blueprint to Boost Consumption of Clean Energy",
           "date": "2026-06-22",
@@ -435,7 +515,7 @@ window.W26_2026 = {
       "label": "Politics and society",
       "items": [
         {
-          "outlet": "?",
+          "outlet": "SCMP",
           "author": "",
           "title": "Inside China’s ideological training camp where PLA top brass study Xi’s speeches",
           "date": "2026-06-25",
@@ -502,7 +582,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Caixin",
           "author": "",
           "title": "Ex-Mainland Official’s Son Convicted of Money-Laundering in Hong Kong",
           "date": "2026-06-25",
@@ -545,7 +625,28 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Caixin",
+          "author": "",
+          "title": "China Targets Drug-Laced E-Cigarettes Amid Surge in Youth Addiction",
+          "date": "2026-06-26",
+          "url": "https://www.caixinglobal.com/2026-06-26/china-targets-drug-laced-e-cigarettes-amid-surge-in-youth-addiction-102457895.html",
+          "bullets": [
+            [
+              "\"Heady e-cigarettes\" become the primary drug-abuse method among Chinese youth",
+              "Vape pens containing the anesthetic etomidate are proliferating rapidly among teenagers, with synthetic substances now outpacing heroin in popularity, according to Caixin."
+            ],
+            [
+              "Supreme People's Court publishes criminal cases on new-type narcotics",
+              "The court issued a stark warning highlighting the threat disguised narcotics pose to minors as authorities intensify enforcement against the substances."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "bio-pharma"
+          ]
+        },
+        {
+          "outlet": "NYT",
           "author": "",
           "title": "As More Chinese Own Pets, Young People Stand Up for Animal Welfare",
           "date": "2026-06-25",
@@ -566,7 +667,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Caixin",
           "author": "",
           "title": "China Proposes New Rules for Booming Micro-Drama Industry",
           "date": "2026-06-25",
@@ -589,28 +690,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
-          "author": "",
-          "title": "China Targets Drug-Laced E-Cigarettes Amid Surge in Youth Addiction",
-          "date": "2026-06-26",
-          "url": "https://www.caixinglobal.com/2026-06-26/china-targets-drug-laced-e-cigarettes-amid-surge-in-youth-addiction-102457895.html",
-          "bullets": [
-            [
-              "\"Heady e-cigarettes\" become the primary drug-abuse method among Chinese youth",
-              "Vape pens containing the anesthetic etomidate are proliferating rapidly among teenagers, with synthetic substances now outpacing heroin in popularity, according to Caixin."
-            ],
-            [
-              "Supreme People's Court publishes criminal cases on new-type narcotics",
-              "The court issued a stark warning highlighting the threat disguised narcotics pose to minors as authorities intensify enforcement against the substances."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "bio-pharma"
-          ]
-        },
-        {
-          "outlet": "?",
+          "outlet": "SCMP",
           "author": "",
           "title": "In China, some researchers are attending academic conferences that do not exist",
           "date": "2026-06-24",
@@ -657,28 +737,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
-          "author": "",
-          "title": "‘China Initiative 2.0’: U.S. crackdown on Chinese scholars intensifies",
-          "date": "2026-06-24",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3358117/china-initiative-20-us-crackdown-chinese-scholars-intensifies",
-          "bullets": [
-            [
-              "US lawyers report a surge in investigations targeting China-linked researchers",
-              "Speaking at an Asian-American Scholar Forum panel, attorneys described a \"large uptick\" in federal and state probes, though most have not yet led to indictments."
-            ],
-            [
-              "Crackdown compared to the original \"China Initiative\" - which was scrapped in 2022",
-              "The Trump-era programme was discontinued after criticism of racial profiling; activists argue the current targeting of Chinese scientists is more aggressive than its predecessor."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "cn-discourse"
-          ]
-        },
-        {
-          "outlet": "?",
+          "outlet": "NYT",
           "author": "",
           "title": "With No Team in the World Cup, China’s Fans Celebrate a Referee",
           "date": "2026-06-22",
@@ -707,7 +766,7 @@ window.W26_2026 = {
       "label": "Geoeconomics — tech & innovation",
       "items": [
         {
-          "outlet": "?",
+          "outlet": "Economist",
           "author": "",
           "title": "The Economist: China is having another AI moment",
           "date": "2026-06-21",
@@ -733,7 +792,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "NYT",
           "author": "",
           "title": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI",
           "date": "2026-06-26",
@@ -780,7 +839,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "FT",
           "author": "",
           "title": "Anthropic accuses Alibaba of obtaining illicit access to Claude",
           "date": "2026-06-25",
@@ -834,7 +893,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "WSJ",
           "author": "",
           "title": "DeepSeek Looks to Double Workforce as Fresh Funding Fuels Growth",
           "date": "2026-06-24",
@@ -853,7 +912,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "FT",
           "author": "",
           "title": "DeepSeek plans hiring spree in escalation of China’s AI talent war",
           "date": "2026-06-24",
@@ -925,7 +984,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "NYT",
           "author": "",
           "title": "China Takes Supercomputer Crown From U.S. for First Time Since 2017",
           "date": "2026-06-23",
@@ -948,7 +1007,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "WSJ",
           "author": "",
           "title": "Chinese Supercomputer Overtakes U.S. as World’s Fastest",
           "date": "2026-06-24",
@@ -973,7 +1032,35 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "FT",
+          "author": "",
+          "title": "Nvidia’s banned AI chips double in price on China’s black market",
+          "date": "2026-06-24",
+          "url": "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69",
+          "bullets": [
+            [
+              "Nvidia DGX B300 price doubled on China's black market",
+              "The server now fetches over Rmb8mn ($1.1mn), up from Rmb4mn six months ago, as US enforcement squeezes illicit supply routes, the FT reports."
+            ],
+            [
+              "Supermicro co-founder charged with $2.5bn Nvidia server smuggling",
+              "The March indictment - the largest US AI chip export case on record - further disrupted black-market supply chains, chip traders told the FT."
+            ],
+            [
+              "China GPU rental costs now match or exceed US rates",
+              "An FT platform survey found parity or a premium for Blackwell systems, reversing a prior discount that reflected plentiful smuggled supply."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "trade",
+            "supply-chain"
+          ]
+        },
+        {
+          "outlet": "FT",
           "author": "",
           "title": "How to power data centres",
           "date": "2026-06-24",
@@ -1027,7 +1114,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Caixin",
           "author": "",
           "title": "Beneath the Sea, China Tests the Future of AI Power",
           "date": "2026-06-26",
@@ -1079,7 +1166,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "FT",
           "author": "",
           "title": "China’s CATL to offer battery swapping for Europe’s electric trucks",
           "date": "2026-06-24",
@@ -1103,7 +1190,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Nikkei",
           "author": "",
           "title": "China's EV makers BYD, Xpeng move SUVs upmarket but risk glut",
           "date": "2026-06-24",
@@ -1124,35 +1211,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
-          "author": "",
-          "title": "Nvidia’s banned AI chips double in price on China’s black market",
-          "date": "2026-06-24",
-          "url": "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69",
-          "bullets": [
-            [
-              "Nvidia DGX B300 price doubled on China's black market",
-              "The server now fetches over Rmb8mn ($1.1mn), up from Rmb4mn six months ago, as US enforcement squeezes illicit supply routes, the FT reports."
-            ],
-            [
-              "Supermicro co-founder charged with $2.5bn Nvidia server smuggling",
-              "The March indictment - the largest US AI chip export case on record - further disrupted black-market supply chains, chip traders told the FT."
-            ],
-            [
-              "China GPU rental costs now match or exceed US rates",
-              "An FT platform survey found parity or a premium for Blackwell systems, reversing a prior discount that reflected plentiful smuggled supply."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "semcon",
-            "ai",
-            "trade",
-            "supply-chain"
-          ]
-        },
-        {
-          "outlet": "?",
+          "outlet": "WSJ",
           "author": "",
           "title": "InSilico Is on a Mission: Be No. 1 in China, Create ‘God Drug’ With AI",
           "date": "2026-06-24",
@@ -1199,7 +1258,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "SCMP",
           "author": "",
           "title": "Is the U.S. banning drones from China until it can make better ones itself?",
           "date": "2026-06-26",
@@ -1220,7 +1279,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Guardian",
           "author": "",
           "title": "The Guardian: What is China’s SpaceSail, and could it rival Elon Musk’s Starlink?",
           "date": "2026-06-24",
@@ -1242,7 +1301,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "SCMP",
           "author": "",
           "title": "Opinion: China’s evolving political economy, as seen through gaokao scramble",
           "date": "2026-06-24",
@@ -1272,190 +1331,6 @@ window.W26_2026 = {
       "label": "Geoeconomics — trade, finance & industrial policy",
       "items": [
         {
-          "outlet": "?",
-          "author": "",
-          "title": "Foreign Policy: China Flexes Its Rare-Earth Muscle – Again",
-          "date": "2026-06-22",
-          "url": "https://foreignpolicy.com/2026/06/22/china-us-rare-earth-export-control-trade",
-          "bullets": [
-            [
-              "Beijing banned rare-earth exports to MP Materials and USA Rare Earth",
-              "China's Commerce Ministry prohibited dual-use exports to 10 U.S. firms it designates as military-linked, in direct response to Pentagon listings of Chinese companies."
-            ],
-            [
-              "China controls roughly 90% of rare-earth refining and 95% of permanent magnet production",
-              "Analysts cited by Foreign Policy describe the move as a \"warning shot\" rather than a materially disruptive measure, given that China was not actively supplying the two firms."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "rare-earths"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "China Tightens Rare Earth Grip on U.S. Firms, Threatening Trade Clash",
-          "date": "2026-06-22",
-          "url": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html",
-          "bullets": [
-            [
-              "China bans MP Materials and USA Rare Earth from Chinese goods",
-              "Beijing barred 10 US firms from buying dual-use goods, targeting the two DoD-backed companies leading efforts to rebuild domestic magnet manufacturing."
-            ],
-            [
-              "Chinese heavy rare earth shipments to the US remain halted",
-              "Customs data show no dysprosium exports to the US since April 2025 and no terbium since last October, the article reports."
-            ],
-            [
-              "China preparing tighter global rare earth export restrictions for November",
-              "Beijing plans stricter worldwide controls, compounding 14 months of restrictions that have disrupted car, military, and robotics supply chains outside China."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "auto",
-            "robotics",
-            "rare-earths",
-            "trade",
-            "supply-chain"
-          ]
-        },
-        {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "China Slaps Restrictions on Dozens of U.S. Companies",
-          "date": "2026-06-22",
-          "url": "https://www.wsj.com/world/china/china-slaps-restrictions-on-dozens-of-u-s-companies-bd337a1c",
-          "bullets": [
-            [
-              "Beijing added rare earth producers to its military export controls",
-              "China's Commerce Ministry barred Chinese exports with military applications to MP Materials, USA Rare Earth and 10 U.S. defense firms."
-            ],
-            [
-              "Finance Ministry excluded 46 U.S. companies from Chinese government procurement",
-              "Lockheed Martin, RTX and Boeing's defense division were named, with a carve-out protecting U.S.-invested enterprises operating inside China."
-            ],
-            [
-              "Analysts described both measures as largely symbolic",
-              "EIU economist Xu Tianchen cited U.S. firms' limited China presence and framed the moves as leverage-building for ongoing bilateral trade negotiations."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "rare-earths",
-            "aerospace",
-            "trade",
-            "export-controls"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "A $30 Billion Cancer Breakthrough Is Under Threat From Global Conflicts",
-          "date": "2026-06-24",
-          "url": "https://www.bloomberg.com/news/features/2026-06-24/how-geopolitical-tensions-threaten-a-30-billion-cancer-breakthrough",
-          "bullets": [
-            [
-              "China added ytterbium to its rare earth export controls in October",
-              "Implementation is suspended until November 2026, but the measure has already added supply-chain uncertainty for radiopharmaceutical producers, the article reports."
-            ],
-            [
-              "Beijing requires trade secrets as part of export licence applications for controlled materials",
-              "Companies seeking ytterbium export permits must disclose proprietary information, according to Bloomberg Economics analyst Chris Kennedy."
-            ],
-            [
-              "China has identified radiopharmaceuticals as a priority area for accelerated domestic research",
-              "Chinese firms are starting to generate early clinical data for new cancer targets, while Novartis plans to build a manufacturing site in China."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "bio-pharma",
-            "rare-earths",
-            "trade",
-            "export-controls"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "Foreign Policy: China’s De-Dollarization Drive Has Hit a Wall",
-          "date": "2026-06-25",
-          "url": "https://foreignpolicy.com/2026/06/24/china-dollar-dedollarization-yuan-renminbi-brics-finance-banks-sanctions",
-          "bullets": [
-            [
-              "PBoC unveiled a new yuan internationalisation blueprint on 17 June",
-              "The governor announced offshore trading pilots and fresh central bank swap lines ahead of the September BRICS summit in New Delhi."
-            ],
-            [
-              "Yuan use remains under 5% of global trade",
-              "Capital controls and thin clearing networks confine renminbi settlement almost entirely to deals involving Chinese counterparts, with global take-up marginal."
-            ],
-            [
-              "Dollar stablecoins reach $317 billion as the e-CNY stalls",
-              "The digital yuan processes $6 billion daily against $150 billion for Alipay and WeChat Pay combined, the article reports."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "india-cn",
-            "brics",
-            "macro",
-            "trade",
-            "diplomacy"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "China Is Luring the World to the Yuan – and Hobbling Western Sanctions",
-          "date": "2026-06-24",
-          "url": "https://www.wsj.com/world/china/yuan-sanctions-dollar-alternative-73b23c2f",
-          "bullets": [
-            [
-              "Iran earned up to $43 billion in oil revenues in 2024 despite U.S. sanctions",
-              "The U.S. Treasury reports most sales were settled in yuan through China's financial system, beyond Washington's monitoring reach."
-            ],
-            [
-              "China's CIPS network averaged $115 billion in daily transactions in early 2026, up from $100 billion in 2025",
-              "The Atlantic Council attributes the increase to greater use following the outbreak of the U.S.-Iran conflict."
-            ],
-            [
-              "China's mBridge platform recorded its first government-to-government payment in November 2025",
-              "The U.A.E. Vice President initiated the transfer to Beijing; digital yuan now constitutes 95% of the platform's cross-border payments, according to the Atlantic Council."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "mid-east",
-            "energy",
-            "sanctions"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "Opinion: Why sinodollars outweigh the petroyuan",
-          "date": "2026-06-24",
-          "url": "https://www.ft.com/content/0948fa97-1585-4484-90a5-6df769367dfe",
-          "bullets": [
-            [
-              "Yuan oil settlement rising but no petroyuan pool forming",
-              "Oil exporters spend yuan on imports rather than hold it, preventing the offshore accumulation that made petrodollars powerful, the article argues."
-            ],
-            [
-              "China's trade surpluses generate \"sinodollars\" that dwarf petroyuan",
-              "East Asian manufacturer surpluses recycled at over $1tn a year far exceed any plausible petroyuan volume, the author argues."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "energy",
-            "trade"
-          ]
-        },
-        {
           "outlet": "Substack",
           "author": "",
           "title": "Chartbook 454: China shock 2.0 and mercantilist-on-mercantilist violence.",
@@ -1463,27 +1338,29 @@ window.W26_2026 = {
           "url": "https://adamtooze.substack.com/p/chartbook-454-china-shock-20-and",
           "bullets": [
             [
-              "Li Qiang directly addressed \"China Shock 2.0\" at Summer Davos",
-              "The Premier quipped China is \"too poor\" to pay subsidies large enough to account for its export success, the author reports."
+              "\"China shock 2.0 is mercantilist-on-mercantilist violence\" – focused on Germany and on cars",
+              "Tooze frames 2.0 as fundamentally different from the early-2000s 1.0 (cost-of-production / low-wage shock that hit the US): 2.0 hits *Europe*, hits up-the-value-chain industrial sectors, and **60% of the €27 bn swing in Germany's China trade balance (2021→2025) is vehicles**. Germany itself runs a chronic trade surplus, and the EU's manufacturing trade surplus with the rest of the world is at new highs even as the China deficit widens – hence the \"mercantilist-on-mercantilist\" framing. The export surge is concentrated in green-energy goods (Europe's transition demand) and chemicals (Europe knocked back by gas prices)."
             ],
             [
-              "Germany's China trade balance swung €27bn between 2021 and 2025",
-              "Vehicles account for 60% of the shift, the article notes, as VW announced potential cuts of up to 100,000 jobs."
+              "Tooze refuses the easy \"subsidies + currency manipulation\" story – then doubles down on it anyway",
+              "CSIS estimates Chinese EV subsidies 2009–2023 at $231 bn – comparable in scale to the EU Green Deal or Biden's IRA, with arguably superior industrial results. Meanwhile German Big-3 automakers paid out **€31 bn in dividends in 2023 alone** rather than reinvesting against the visible EV avalanche (Tordoir & Setser: \"complacency\"). But the yuan is pegged at an undervalued rate AND the *real* exchange rate is now depreciating – Western prices have risen since 2021, China hovers at the edge of deflation, so Chinese goods are structurally becoming more competitive over time, not less."
             ],
             [
-              "Tooze argues no viable macro solution exists on either side",
-              "With China's currency pegged and domestic rebalancing politically constrained, the author recommends sectoral trade defenses and firm-level industrial bargaining for Europe."
+              "Four macro options exhausted → \"no macro solution on either side\": sectoral defences + firm-level industrial bargains are what's left",
+              "European internal devaluation is wrong-headed (EU runs an overall surplus; needs to raise demand, not lower it); yuan appreciation would deepen China's deflation; Chinese demand rebalancing is politically constrained (Pettis: Beijing has structural reasons to keep the current model – industrial development as an end + tens of millions of jobs). Tooze endorses the Setser/Tordoir prescription – sectoral trade defences + firm-level industrial bargains – with a hard demand on European industry: if EU protection is on the table, dividends should be capped and minimum reinvestment levels required. *\"European industry needs saving from itself.\"*"
             ]
           ],
           "related": [],
           "tags": [
             "de-cn",
+            "auto",
+            "energy",
             "macro",
             "trade"
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "FT",
           "author": "",
           "title": "China’s premier says competitiveness not down to subsidies",
           "date": "2026-06-24",
@@ -1505,32 +1382,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
-          "author": "",
-          "title": "China expo draws Nvidia, Apple, Micron as Beijing guards AI supply chain",
-          "date": "2026-06-23",
-          "url": "https://asia.nikkei.com/spotlight/supply-chain/china-expo-draws-nvidia-apple-micron-as-beijing-guards-ai-supply-chain",
-          "bullets": [
-            [
-              "US firms the largest foreign presence at Beijing supply chain expo",
-              "Nvidia, Apple, and Micron were among American companies attending the China International Supply Chain Expo, which opened in Beijing on June 22, according to Nikkei."
-            ],
-            [
-              "China expanded its export control list against US firms on the expo's opening day",
-              "Beijing added more American companies to its export control and procurement ban lists on the same day the event began."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "semcon",
-            "ai",
-            "trade",
-            "export-controls",
-            "supply-chain"
-          ]
-        },
-        {
-          "outlet": "?",
+          "outlet": "FT",
           "author": "",
           "title": "Chinese carmakers ‘knocking at U.S. gate’ from Mexico and Canada",
           "date": "2026-06-24",
@@ -1579,7 +1431,76 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "China expo draws Nvidia, Apple, Micron as Beijing guards AI supply chain",
+          "date": "2026-06-23",
+          "url": "https://asia.nikkei.com/spotlight/supply-chain/china-expo-draws-nvidia-apple-micron-as-beijing-guards-ai-supply-chain",
+          "bullets": [
+            [
+              "US firms the largest foreign presence at Beijing supply chain expo",
+              "Nvidia, Apple, and Micron were among American companies attending the China International Supply Chain Expo, which opened in Beijing on June 22, according to Nikkei."
+            ],
+            [
+              "China expanded its export control list against US firms on the expo's opening day",
+              "Beijing added more American companies to its export control and procurement ban lists on the same day the event began."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "trade",
+            "export-controls",
+            "supply-chain"
+          ]
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "Chinese door-to-door logistics networks grow in U.S. to counter trade war",
+          "date": "2026-06-25",
+          "url": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
+          "bullets": [
+            [
+              "Chinese logistics firms build end-to-end US delivery networks",
+              "Specialists help merchants cut costs and minimize tariff exposure, sidelining Western providers, according to industry experts cited by Nikkei."
+            ],
+            [
+              "Temu goods reach US consumers via fully Chinese-run supply chains",
+              "Products from Chinese bargain e-commerce platforms now travel from origin to American doorstep without entering Western-operated logistics networks."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "trade",
+            "supply-chain"
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "Cross-border biotech deals grow more complex as U.S. targets China investment links",
+          "date": "2026-06-24",
+          "url": "https://www.scmp.com/business/china-business/article/3357699/cross-border-biotech-deals-grow-more-complex-us-targets-china-investment-links",
+          "bullets": [
+            [
+              "US scrutiny expected to slow but not reverse China-US biotech deal flow",
+              "ING Research says investment controls may produce slightly fewer deals while Western pharma's broader trend of partnering with Chinese firms continues to expand."
+            ],
+            [
+              "ING estimates China-West biotech out-licensing to reach $240 billion in 2026",
+              "The figure represents a near-doubling from $136 billion in 2025, according to ING Research projections."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "bio-pharma",
+            "investment"
+          ]
+        },
+        {
+          "outlet": "SCMP",
           "author": "",
           "title": "U.S. targets Cuba mining sector in move with implications for China-linked supply chains",
           "date": "2026-06-24",
@@ -1603,51 +1524,191 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Foreign Policy",
           "author": "",
-          "title": "Chinese door-to-door logistics networks grow in U.S. to counter trade war",
-          "date": "2026-06-25",
-          "url": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
+          "title": "Foreign Policy: China Flexes Its Rare-Earth Muscle – Again",
+          "date": "2026-06-22",
+          "url": "https://foreignpolicy.com/2026/06/22/china-us-rare-earth-export-control-trade",
           "bullets": [
             [
-              "Chinese logistics firms build end-to-end US delivery networks",
-              "Specialists help merchants cut costs and minimize tariff exposure, sidelining Western providers, according to industry experts cited by Nikkei."
+              "Beijing banned rare-earth exports to MP Materials and USA Rare Earth",
+              "China's Commerce Ministry prohibited dual-use exports to 10 U.S. firms it designates as military-linked, in direct response to Pentagon listings of Chinese companies."
             ],
             [
-              "Temu goods reach US consumers via fully Chinese-run supply chains",
-              "Products from Chinese bargain e-commerce platforms now travel from origin to American doorstep without entering Western-operated logistics networks."
+              "China controls roughly 90% of rare-earth refining and 95% of permanent magnet production",
+              "Analysts cited by Foreign Policy describe the move as a \"warning shot\" rather than a materially disruptive measure, given that China was not actively supplying the two firms."
             ]
           ],
           "related": [],
           "tags": [
+            "rare-earths"
+          ]
+        },
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "China Slaps Restrictions on Dozens of U.S. Companies",
+          "date": "2026-06-22",
+          "url": "https://www.wsj.com/world/china/china-slaps-restrictions-on-dozens-of-u-s-companies-bd337a1c",
+          "bullets": [
+            [
+              "Beijing added rare earth producers to its military export controls",
+              "China's Commerce Ministry barred Chinese exports with military applications to MP Materials, USA Rare Earth and 10 U.S. defense firms."
+            ],
+            [
+              "Finance Ministry excluded 46 U.S. companies from Chinese government procurement",
+              "Lockheed Martin, RTX and Boeing's defense division were named, with a carve-out protecting U.S.-invested enterprises operating inside China."
+            ],
+            [
+              "Analysts described both measures as largely symbolic",
+              "EIU economist Xu Tianchen cited U.S. firms' limited China presence and framed the moves as leverage-building for ongoing bilateral trade negotiations."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "rare-earths",
+            "aerospace",
+            "trade",
+            "export-controls"
+          ]
+        },
+        {
+          "outlet": "NYT",
+          "author": "",
+          "title": "China Tightens Rare Earth Grip on U.S. Firms, Threatening Trade Clash",
+          "date": "2026-06-22",
+          "url": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html",
+          "bullets": [
+            [
+              "China bans MP Materials and USA Rare Earth from Chinese goods",
+              "Beijing barred 10 US firms from buying dual-use goods, targeting the two DoD-backed companies leading efforts to rebuild domestic magnet manufacturing."
+            ],
+            [
+              "Chinese heavy rare earth shipments to the US remain halted",
+              "Customs data show no dysprosium exports to the US since April 2025 and no terbium since last October, the article reports."
+            ],
+            [
+              "China preparing tighter global rare earth export restrictions for November",
+              "Beijing plans stricter worldwide controls, compounding 14 months of restrictions that have disrupted car, military, and robotics supply chains outside China."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "auto",
+            "robotics",
+            "rare-earths",
             "trade",
             "supply-chain"
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Bloomberg",
           "author": "",
-          "title": "Cross-border biotech deals grow more complex as U.S. targets China investment links",
+          "title": "A $30 Billion Cancer Breakthrough Is Under Threat From Global Conflicts",
           "date": "2026-06-24",
-          "url": "https://www.scmp.com/business/china-business/article/3357699/cross-border-biotech-deals-grow-more-complex-us-targets-china-investment-links",
+          "url": "https://www.bloomberg.com/news/features/2026-06-24/how-geopolitical-tensions-threaten-a-30-billion-cancer-breakthrough",
           "bullets": [
             [
-              "US scrutiny expected to slow but not reverse China-US biotech deal flow",
-              "ING Research says investment controls may produce slightly fewer deals while Western pharma's broader trend of partnering with Chinese firms continues to expand."
+              "The supply chain runs through Russia and China – two of Europe's most-frayed relationships",
+              "The active isotope, lutetium-177, is produced by neutron-bombarding enriched **ytterbium-176** in nuclear reactors. Until recently \"almost all of the ytterbium-176 came from Russia.\" China then added ytterbium to its rare-earth export-control list in **October 2024** (implementation suspended through November 2026) – and export-licence applications require companies to submit potentially proprietary information."
             ],
             [
-              "ING estimates China-West biotech out-licensing to reach $240 billion in 2026",
-              "The figure represents a near-doubling from $136 billion in 2025, according to ING Research projections."
+              "Reactor capacity + a 6.6-day half-life amplify the geopolitical risk",
+              "Aging European research reactors are prone to outages (a Dutch reactor went offline in 2024, cancelling thousands of patient appointments); lutetium-177's 6.6-day half-life means no inventory buffer is possible, and Middle East-conflict air-route disruptions have already hit logistics. China has separately designated radiopharmaceuticals a national priority research area and Novartis plans a Chinese manufacturing site – Beijing's own bid to capture the supply chain Europe still depends on."
             ]
           ],
           "related": [],
           "tags": [
+            "mid-east",
+            "ru-cn",
             "bio-pharma",
-            "investment"
+            "rare-earths",
+            "society",
+            "trade",
+            "supply-chain",
+            "nuclear"
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Foreign Policy",
+          "author": "",
+          "title": "Foreign Policy: China’s De-Dollarization Drive Has Hit a Wall",
+          "date": "2026-06-25",
+          "url": "https://foreignpolicy.com/2026/06/24/china-dollar-dedollarization-yuan-renminbi-brics-finance-banks-sanctions",
+          "bullets": [
+            [
+              "PBoC unveiled a new yuan internationalisation blueprint on 17 June",
+              "The governor announced offshore trading pilots and fresh central bank swap lines ahead of the September BRICS summit in New Delhi."
+            ],
+            [
+              "Yuan use remains under 5% of global trade",
+              "Capital controls and thin clearing networks confine renminbi settlement almost entirely to deals involving Chinese counterparts, with global take-up marginal."
+            ],
+            [
+              "Dollar stablecoins reach $317 billion as the e-CNY stalls",
+              "The digital yuan processes $6 billion daily against $150 billion for Alipay and WeChat Pay combined, the article reports."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "india-cn",
+            "brics",
+            "macro",
+            "trade",
+            "diplomacy"
+          ]
+        },
+        {
+          "outlet": "FT",
+          "author": "",
+          "title": "Opinion: Why sinodollars outweigh the petroyuan",
+          "date": "2026-06-24",
+          "url": "https://www.ft.com/content/0948fa97-1585-4484-90a5-6df769367dfe",
+          "bullets": [
+            [
+              "Yuan oil settlement rising but no petroyuan pool forming",
+              "Oil exporters spend yuan on imports rather than hold it, preventing the offshore accumulation that made petrodollars powerful, the article argues."
+            ],
+            [
+              "China's trade surpluses generate \"sinodollars\" that dwarf petroyuan",
+              "East Asian manufacturer surpluses recycled at over $1tn a year far exceed any plausible petroyuan volume, the author argues."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "energy",
+            "trade"
+          ]
+        },
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "China Is Luring the World to the Yuan – and Hobbling Western Sanctions",
+          "date": "2026-06-24",
+          "url": "https://www.wsj.com/world/china/yuan-sanctions-dollar-alternative-73b23c2f",
+          "bullets": [
+            [
+              "Iran earned up to $43 billion in oil revenues in 2024 despite U.S. sanctions",
+              "The U.S. Treasury reports most sales were settled in yuan through China's financial system, beyond Washington's monitoring reach."
+            ],
+            [
+              "China's CIPS network averaged $115 billion in daily transactions in early 2026, up from $100 billion in 2025",
+              "The Atlantic Council attributes the increase to greater use following the outbreak of the U.S.-Iran conflict."
+            ],
+            [
+              "China's mBridge platform recorded its first government-to-government payment in November 2025",
+              "The U.A.E. Vice President initiated the transfer to Beijing; digital yuan now constitutes 95% of the platform's cross-border payments, according to the Atlantic Council."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "mid-east",
+            "energy",
+            "sanctions"
+          ]
+        },
+        {
+          "outlet": "Newsletter (Mailchimp)",
           "author": "",
           "title": "Rest of World: China and the West are taking opposite paths on EV battery recycling",
           "date": "2026-06-24",
@@ -1676,28 +1737,6 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
-          "author": "",
-          "title": "Chinese appliance brands gain ground in Southeast Asia",
-          "date": "2026-06-24",
-          "url": "https://asia.nikkei.com/business/electronics/chinese-appliance-brands-gain-ground-in-southeast-asia",
-          "bullets": [
-            [
-              "Chinese appliances gain SE Asia market share via TVs and air conditioners",
-              "Share has risen over five years, with younger buyers attracted by price, innovative design, and 24/7 service support, according to Nikkei."
-            ],
-            [
-              "Chinese brands differentiate on service and design, not only cost",
-              "Manufacturers are competing through around-the-clock customer support and product innovation to challenge Japanese and South Korean rivals across the region."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "sea"
-          ]
-        },
-        {
           "outlet": "Reuters",
           "author": "",
           "title": "China lines up second LNG terminal for sanctioned Russian cargoes",
@@ -1718,6 +1757,28 @@ window.W26_2026 = {
             "ru-cn",
             "trade",
             "sanctions"
+          ]
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "Chinese appliance brands gain ground in Southeast Asia",
+          "date": "2026-06-24",
+          "url": "https://asia.nikkei.com/business/electronics/chinese-appliance-brands-gain-ground-in-southeast-asia",
+          "bullets": [
+            [
+              "Chinese appliances gain SE Asia market share via TVs and air conditioners",
+              "Share has risen over five years, with younger buyers attracted by price, innovative design, and 24/7 service support, according to Nikkei."
+            ],
+            [
+              "Chinese brands differentiate on service and design, not only cost",
+              "Manufacturers are competing through around-the-clock customer support and product innovation to challenge Japanese and South Korean rivals across the region."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "jp-cn",
+            "sea"
           ]
         },
         {
@@ -1752,27 +1813,6 @@ window.W26_2026 = {
       "label": "Foreign policy and 'Global China'",
       "items": [
         {
-          "outlet": "Reuters",
-          "author": "",
-          "title": "U.S. says China trying to discourage states, businesses from engaging with Taiwan",
-          "date": "2026-06-25",
-          "url": "https://www.reuters.com/world/china/us-says-china-trying-discourage-states-businesses-engaging-with-taiwan-2026-06-25",
-          "bullets": [
-            [
-              "Washington warned states and firms of Chinese pressure over Taiwan",
-              "Joint letters from State, Agriculture, and Commerce say Chinese embassies contact US officials and firms to discourage Taiwan engagement."
-            ],
-            [
-              "Letters accuse Beijing's missions of misrepresenting US Taiwan policy",
-              "China's embassies falsely claim Washington has accepted Beijing's specific position on Taiwan sovereignty, the letters allege."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "twn"
-          ]
-        },
-        {
           "outlet": "WSJ",
           "author": "",
           "title": "How China's Navy Is Tightening the Noose on Taiwan",
@@ -1800,9 +1840,30 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "Udn",
+          "outlet": "Reuters",
           "author": "",
-          "title": "谷立言專訪：維持現狀 是兩岸對話的基礎",
+          "title": "U.S. says China trying to discourage states, businesses from engaging with Taiwan",
+          "date": "2026-06-25",
+          "url": "https://www.reuters.com/world/china/us-says-china-trying-discourage-states-businesses-engaging-with-taiwan-2026-06-25",
+          "bullets": [
+            [
+              "Washington warned states and firms of Chinese pressure over Taiwan",
+              "Joint letters from State, Agriculture, and Commerce say Chinese embassies contact US officials and firms to discourage Taiwan engagement."
+            ],
+            [
+              "Letters accuse Beijing's missions of misrepresenting US Taiwan policy",
+              "China's embassies falsely claim Washington has accepted Beijing's specific position on Taiwan sovereignty, the letters allege."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "twn"
+          ]
+        },
+        {
+          "outlet": "UDN",
+          "author": "",
+          "title": "Raymond Greene interview: 'Maintaining the status quo is the basis for cross-strait dialogue' (谷立言專訪：維持現狀 是兩岸對話的基礎 / Gǔ Lìyán zhuānfǎng: Wéichí xiànzhuàng shì liǎng'àn duìhuà de jīchǔ)",
           "date": "2026-06-22",
           "url": "https://udn.com/news/story/124924/9581906",
           "bullets": [
@@ -1826,7 +1887,29 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "CNN",
+          "author": "",
+          "title": "'Salami-slicing': China's latest moves show how it's increasing control in the Pacific",
+          "date": "2026-06-25",
+          "url": "https://edition.cnn.com/2026/06/25/china/salami-slicing-china-control-pacific-intl-hnk-ml",
+          "bullets": [
+            [
+              "China expanded Coast Guard / Maritime Safety Administration presence inside the First Island Chain",
+              "Vessels operating east of Taiwan and around Scarborough Shoal mark a steady push outside the Nine-Dash Line baseline, per CNN."
+            ],
+            [
+              "Classic salami-slicing in the SCS and Taiwan flank",
+              "Beijing's incremental presence at Scarborough Shoal and east of Taiwan is each too small to trigger pushback but cumulatively shifts the operating envelope along the first island chain."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "twn",
+            "maritime"
+          ]
+        },
+        {
+          "outlet": "Nikkei",
           "author": "",
           "title": "China's pressure revives ancient Japanese sense of crisis",
           "date": "2026-06-25",
@@ -1870,29 +1953,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "SCMP",
-          "author": "",
-          "title": "‘China Opportunity 2.0’: Li Qiang pitches revised narrative at ‘Summer Davos’",
-          "date": "2026-06-24",
-          "url": "https://www.scmp.com/economy/china-economy/article/3358126/china-safe-haven-global-economy-says-premier-li-qiang-summer-davos",
-          "bullets": [
-            [
-              "Li Qiang reframes \"China Shock 2.0\" as \"China Opportunity 2.0\" at Summer Davos",
-              "Speaking at the World Economic Forum's Annual Meeting of the New Champions in Dalian, the Premier argued China's export competitiveness stems from industrial effort, not state subsidies."
-            ],
-            [
-              "Li cited Huawei's 1 trillion yuan decade-long R&D spend to rebut subsidy claims",
-              "He also flagged rising AI risks - including \"technological runaway\" - as requiring closer international cooperation."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "ai",
-            "trade"
-          ]
-        },
-        {
-          "outlet": "?",
+          "outlet": "WSJ",
           "author": "",
           "title": "China Sharpens Tools for Hitting Back at Foreign Sanctions",
           "date": "2026-06-24",
@@ -1937,7 +1998,29 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "SCMP",
+          "author": "",
+          "title": "‘China Opportunity 2.0’: Li Qiang pitches revised narrative at ‘Summer Davos’",
+          "date": "2026-06-24",
+          "url": "https://www.scmp.com/economy/china-economy/article/3358126/china-safe-haven-global-economy-says-premier-li-qiang-summer-davos",
+          "bullets": [
+            [
+              "Li Qiang reframes \"China Shock 2.0\" as \"China Opportunity 2.0\" at Summer Davos",
+              "Speaking at the World Economic Forum's Annual Meeting of the New Champions in Dalian, the Premier argued China's export competitiveness stems from industrial effort, not state subsidies."
+            ],
+            [
+              "Li cited Huawei's 1 trillion yuan decade-long R&D spend to rebut subsidy claims",
+              "He also flagged rising AI risks - including \"technological runaway\" - as requiring closer international cooperation."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "ai",
+            "trade"
+          ]
+        },
+        {
+          "outlet": "Nikkei",
           "author": "",
           "title": "China plans postwar aid for Iran, with eye on energy supply",
           "date": "2026-06-24",
@@ -1957,28 +2040,6 @@ window.W26_2026 = {
             "mid-east",
             "energy",
             "diplomacy"
-          ]
-        },
-        {
-          "outlet": "CNN",
-          "author": "",
-          "title": "'Salami-slicing': China's latest moves show how it's increasing control in the Pacific",
-          "date": "2026-06-25",
-          "url": "https://edition.cnn.com/2026/06/25/china/salami-slicing-china-control-pacific-intl-hnk-ml",
-          "bullets": [
-            [
-              "China expanded Coast Guard / Maritime Safety Administration presence inside the First Island Chain",
-              "Vessels operating east of Taiwan and around Scarborough Shoal mark a steady push outside the Nine-Dash Line baseline, per CNN."
-            ],
-            [
-              "Classic salami-slicing in the SCS and Taiwan flank",
-              "Beijing's incremental presence at Scarborough Shoal and east of Taiwan is each too small to trigger pushback but cumulatively shifts the operating envelope along the first island chain."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "twn",
-            "maritime"
           ]
         }
       ]
@@ -2021,7 +2082,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "?",
+          "outlet": "Foreign Affairs",
           "author": "",
           "title": "Foreign Affairs: China Could Win Taiwan Without Fighting",
           "date": "2026-06-24",
@@ -2103,6 +2164,156 @@ window.W26_2026 = {
           ]
         },
         {
+          "outlet": "Thecable",
+          "author": "",
+          "title": "The next phase in the U.S.-China economic war is here",
+          "date": "2026-06-23",
+          "url": "https://thecable.news/p/the-next-phase-in-the-us-china-economic?shareImageVariant=card&triedRedirect=true&hide_intro_popup=true",
+          "bullets": [
+            [
+              "Pentagon's 1260H list reached a record 188 Chinese designations",
+              "The June 8 update added 65 firms - including BYD, Alibaba, Baidu and TP-Link - expanding into consumer EVs, biotech and solar sectors."
+            ],
+            [
+              "China counter-listed MP Materials and USA Rare Earth",
+              "Beijing's Commerce Ministry barred Chinese firms from supplying the two companies central to Washington's domestic rare earth supply chain independence push."
+            ],
+            [
+              "Commerce Dept entity blacklist has not been updated since October",
+              "Reuters reported that over 100 approved Chinese designations - including DeepSeek and CXMT - remain unpublished, attributed to efforts to avoid bilateral escalation."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "auto",
+            "bio-pharma",
+            "rare-earths",
+            "energy",
+            "supply-chain"
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "‘China Initiative 2.0’: U.S. crackdown on Chinese scholars intensifies",
+          "date": "2026-06-24",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3358117/china-initiative-20-us-crackdown-chinese-scholars-intensifies",
+          "bullets": [
+            [
+              "US lawyers report a surge in investigations targeting China-linked researchers",
+              "Speaking at an Asian-American Scholar Forum panel, attorneys described a \"large uptick\" in federal and state probes, though most have not yet led to indictments."
+            ],
+            [
+              "Crackdown compared to the original \"China Initiative\" - which was scrapped in 2022",
+              "The Trump-era programme was discontinued after criticism of racial profiling; activists argue the current targeting of Chinese scientists is more aggressive than its predecessor."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "cn-discourse"
+          ]
+        },
+        {
+          "outlet": "FT",
+          "author": "",
+          "title": "Alibaba sues Pentagon over inclusion on Chinese military blacklist",
+          "date": "2026-06-24",
+          "url": "https://www.ft.com/content/23944164-b81a-4296-8b85-7d3648f1753c",
+          "bullets": [
+            [
+              "Alibaba filed suit against the Pentagon over its 1260H military-company listing",
+              "A California district court filing argues the designation was \"arbitrary and capricious\" and unsupported by substantial evidence of PLA ties."
+            ],
+            [
+              "Listing exposes the company to state divestment mandates and potential NYSE delisting",
+              "Alibaba warned in its filing that the federal designation materially increases the likelihood its securities face state-level divestiture orders."
+            ],
+            [
+              "China restricted US companies - including rare earths firms - in retaliation for the blacklist additions",
+              "The measure followed the Pentagon's designation of Alibaba, BYD, and other major Chinese companies, according to the FT."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "auto",
+            "rare-earths",
+            "pla"
+          ]
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "Canada calls for 'discipline' with China as it beefs up Japan defense ties",
+          "date": "2026-06-25",
+          "url": "https://asia.nikkei.com/politics/international-relations/canada-calls-for-discipline-with-china-as-it-beefs-up-japan-defense-ties",
+          "bullets": [
+            [
+              "Canada's defense minister called for \"disciplined\" China engagement during Tokyo visit",
+              "Ottawa is simultaneously pursuing improved relations with Beijing while deepening military cooperation with Japan, the minister said."
+            ],
+            [
+              "Minister cited the \"two Michaels\" precedent on a detained Japanese national",
+              "The case requires \"patience,\" Canada's defense minister said, recalling Canadians previously held by China in a diplomatic standoff."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "jp-cn",
+            "diplomacy"
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "Japan’s defence outreach to counter China’s military rise hits hidden roadblocks",
+          "date": "2026-06-23",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3357876/japans-defence-outreach-counter-chinas-military-rise-hits-hidden-roadblocks",
+          "bullets": [
+            [
+              "Japan rebutted Beijing's \"new militarism\" charge at Shangri-La Dialogue",
+              "Defence Minister Koizumi argued Tokyo's military buildup responds to China's growing capabilities and lack of transparency, not aggression."
+            ],
+            [
+              "Japan lifted its lethal weapons export ban in April",
+              "The policy change allows Tokyo to sell defence equipment to 17 countries, including six ASEAN nations, according to SCMP."
+            ],
+            [
+              "Tokyo deepened bilateral defence ties with Manila and Wellington",
+              "Japan and the Philippines advanced a classified military information agreement, while a Japanese frigate was shortlisted to replace New Zealand's Anzac-class fleet."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "jp-cn",
+            "sea",
+            "mil-tech",
+            "trade"
+          ]
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "Japan defense forces used USB drives with China-linked virus",
+          "date": "2026-06-25",
+          "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-defense-forces-used-usb-drives-with-china-linked-virus-nikkei-investigation",
+          "bullets": [
+            [
+              "Japan's Self-Defense Forces used China-linked infected USB drives on classified computers",
+              "The contaminated drives were operated on systems with access to classified information for nearly a year, a Nikkei investigation found."
+            ],
+            [
+              "SDF chose not to disclose the incident despite similar infected drives available online",
+              "Similar China-linked virus-infected memory sticks were widely obtainable from online retailers at the time, Nikkei reports."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "jp-cn"
+          ]
+        },
+        {
           "outlet": "Foreign Affairs",
           "author": "",
           "title": "The Middle Power Delusion",
@@ -2160,164 +2371,7 @@ window.W26_2026 = {
           ]
         },
         {
-          "outlet": "Europa",
-          "author": "",
-          "title": "Regulation - EU - 2026/1386 - EN",
-          "date": "2026-06-24",
-          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601386",
-          "bullets": [
-            [
-              "EU mandates universal foreign investment screening",
-              "Regulation 2026/1386, applying from January 2028, replaces the 2019 cooperative framework with binding harmonised screening requirements for all member states."
-            ],
-            [
-              "Prior authorisation required across eight sensitive sectors",
-              "The mandatory minimum scope covers semiconductors, quantum, AI, dual-use goods, strategic raw materials, critical infrastructure, financial market entities and voter registration systems."
-            ],
-            [
-              "Intra-EU investments via foreign-controlled subsidiaries now covered",
-              "The regulation closes a loophole allowing third-country investors to acquire sensitive EU assets through EU-established subsidiaries without triggering direct FDI screening."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "semcon",
-            "ai",
-            "investment-screening",
-            "investment"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "Canada calls for 'discipline' with China as it beefs up Japan defense ties",
-          "date": "2026-06-25",
-          "url": "https://asia.nikkei.com/politics/international-relations/canada-calls-for-discipline-with-china-as-it-beefs-up-japan-defense-ties",
-          "bullets": [
-            [
-              "Canada's defense minister called for \"disciplined\" China engagement during Tokyo visit",
-              "Ottawa is simultaneously pursuing improved relations with Beijing while deepening military cooperation with Japan, the minister said."
-            ],
-            [
-              "Minister cited the \"two Michaels\" precedent on a detained Japanese national",
-              "The case requires \"patience,\" Canada's defense minister said, recalling Canadians previously held by China in a diplomatic standoff."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "diplomacy"
-          ]
-        },
-        {
-          "outlet": "Thecable",
-          "author": "",
-          "title": "The next phase in the U.S.-China economic war is here",
-          "date": "2026-06-23",
-          "url": "https://thecable.news/p/the-next-phase-in-the-us-china-economic?shareImageVariant=card&triedRedirect=true&hide_intro_popup=true",
-          "bullets": [
-            [
-              "Pentagon's 1260H list reached a record 188 Chinese designations",
-              "The June 8 update added 65 firms - including BYD, Alibaba, Baidu and TP-Link - expanding into consumer EVs, biotech and solar sectors."
-            ],
-            [
-              "China counter-listed MP Materials and USA Rare Earth",
-              "Beijing's Commerce Ministry barred Chinese firms from supplying the two companies central to Washington's domestic rare earth supply chain independence push."
-            ],
-            [
-              "Commerce Dept entity blacklist has not been updated since October",
-              "Reuters reported that over 100 approved Chinese designations - including DeepSeek and CXMT - remain unpublished, attributed to efforts to avoid bilateral escalation."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "semcon",
-            "ai",
-            "auto",
-            "bio-pharma",
-            "rare-earths",
-            "energy",
-            "supply-chain"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "Alibaba sues Pentagon over inclusion on Chinese military blacklist",
-          "date": "2026-06-24",
-          "url": "https://www.ft.com/content/23944164-b81a-4296-8b85-7d3648f1753c",
-          "bullets": [
-            [
-              "Alibaba filed suit against the Pentagon over its 1260H military-company listing",
-              "A California district court filing argues the designation was \"arbitrary and capricious\" and unsupported by substantial evidence of PLA ties."
-            ],
-            [
-              "Listing exposes the company to state divestment mandates and potential NYSE delisting",
-              "Alibaba warned in its filing that the federal designation materially increases the likelihood its securities face state-level divestiture orders."
-            ],
-            [
-              "China restricted US companies - including rare earths firms - in retaliation for the blacklist additions",
-              "The measure followed the Pentagon's designation of Alibaba, BYD, and other major Chinese companies, according to the FT."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "auto",
-            "rare-earths",
-            "pla"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "Japan’s defence outreach to counter China’s military rise hits hidden roadblocks",
-          "date": "2026-06-23",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3357876/japans-defence-outreach-counter-chinas-military-rise-hits-hidden-roadblocks",
-          "bullets": [
-            [
-              "Japan rebutted Beijing's \"new militarism\" charge at Shangri-La Dialogue",
-              "Defence Minister Koizumi argued Tokyo's military buildup responds to China's growing capabilities and lack of transparency, not aggression."
-            ],
-            [
-              "Japan lifted its lethal weapons export ban in April",
-              "The policy change allows Tokyo to sell defence equipment to 17 countries, including six ASEAN nations, according to SCMP."
-            ],
-            [
-              "Tokyo deepened bilateral defence ties with Manila and Wellington",
-              "Japan and the Philippines advanced a classified military information agreement, while a Japanese frigate was shortlisted to replace New Zealand's Anzac-class fleet."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "sea",
-            "mil-tech",
-            "trade"
-          ]
-        },
-        {
-          "outlet": "?",
-          "author": "",
-          "title": "Japan defense forces used USB drives with China-linked virus",
-          "date": "2026-06-25",
-          "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-defense-forces-used-usb-drives-with-china-linked-virus-nikkei-investigation",
-          "bullets": [
-            [
-              "Japan's Self-Defense Forces used China-linked infected USB drives on classified computers",
-              "The contaminated drives were operated on systems with access to classified information for nearly a year, a Nikkei investigation found."
-            ],
-            [
-              "SDF chose not to disclose the incident despite similar infected drives available online",
-              "Similar China-linked virus-infected memory sticks were widely obtainable from online retailers at the time, Nikkei reports."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn"
-          ]
-        },
-        {
-          "outlet": "?",
+          "outlet": "FT",
           "author": "",
           "title": "U.S. Supreme Court limits scope of foreign human rights claims",
           "date": "2026-06-24",
@@ -2343,6 +2397,227 @@ window.W26_2026 = {
   "chineseSourcesSections": [
     {
       "number": "",
+      "slug": "cn-authoritative",
+      "short": "Authoritative",
+      "label": "Authoritative texts",
+      "items": [
+        {
+          "outlet": "Premier Li Qiang (State Council)",
+          "author": "",
+          "title": "Full text of Li Qiang's address at the opening plenary of the 17th Annual Meeting of the New Champions (Summer Davos, Dalian)",
+          "date": "2026-06-24",
+          "url": "https://english.news.cn/20260624/517bb7c03da9484dbebac017b8b834c9/c.html",
+          "bullets": [
+            [
+              "Li explicitly counter-frames \"China Shock 2.0\" as \"China Opportunity 2.0\"",
+              "The Premier rejects the Western narrative that China's industrial breakthroughs threaten others, arguing Chinese competitiveness stems from corporate R&D, manufacturing scale and a vast domestic application market – not from \"outsized\" subsidies. This is the highest-level Chinese rebuttal yet of the Setser/Tordoir framing that drove the EU Council week."
+            ],
+            [
+              "Sets the line for the 15th Five-Year Plan period (2026-2030) – innovation cooperation as the diplomatic ask",
+              "Li uses the address to position China as a global growth anchor entering the FYP transition, urging \"global leaders to advance global innovation cooperation, build bridges and generate fresh ideas through exchange and mutual learning\" – Beijing's diplomatic framing as Šefčovič-Wang talks open in Brussels."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "macro",
+            "diplomacy"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "",
+      "slug": "cn-regulatory",
+      "short": "Regulatory",
+      "label": "Regulatory & policy primary sources",
+      "items": [
+        {
+          "outlet": "MOFCOM + NDRC + MOF",
+          "author": "",
+          "title": "Action Plan for Stabilizing and Optimizing Foreign Investment Utilization (利用外资固稳促优行动方案, 商资发〔2026〕97号)",
+          "date": "2026-06-16",
+          "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_6ec41d10a569434c8ebc942aca23e544.html",
+          "bullets": [
+            [
+              "Joint three-ministry plan opens five fronts to re-court FDI",
+              "Market access expansion, deepened services opening, foreign-investment participation in priority industries, business-environment optimisation and approval simplification – explicit response to the FDI slump."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "investment"
+          ]
+        },
+        {
+          "outlet": "MOFCOM",
+          "author": "",
+          "title": "Measures for Industrial and Supply Chain Security Investigations (产业链供应链安全调查办法, MOFCOM Announcement No. 24 of 2026)",
+          "date": "2026-06-24",
+          "url": "https://global.chinadaily.com.cn/a/202606/24/WS6a3bc4fda310986e2b461b87.html",
+          "bullets": [
+            [
+              "Operationalises the State Council's April 2026 supply-chain security framework",
+              "22-article rules name MOFCOM as the lead investigative agency; Article 4 lists four harm categories (critical materials/tech/data; logistics-trade-people-capital-data flows; international competitiveness; \"other\")."
+            ],
+            [
+              "Article 8 expands investigative powers including cross-border on-site",
+              "Interviews, document inspection/copying, public solicitation, questionnaires, sampling, technical assessments, hearings, and – notably – on-site investigations in foreign jurisdictions where they \"do not object\" – substantial extraterritorial reach."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "trade",
+            "supply-chain"
+          ]
+        },
+        {
+          "outlet": "MOFCOM (Unreliable Entity List / Export Control)",
+          "author": "",
+          "title": "New restrictions on US defence, tech and rare-earth firms",
+          "date": "2026-06-22",
+          "url": "https://www.wsj.com/world/china/china-slaps-restrictions-on-dozens-of-u-s-companies-bd337a1c",
+          "bullets": [
+            [
+              "10 US defence firms added to MOFCOM's export-control list including MP Materials and USA Rare Earth",
+              "Bars exports of any Chinese-made products with potential military application – Beijing's most pointed rare-earth-side retaliation to date."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "rare-earths",
+            "trade",
+            "export-controls"
+          ]
+        },
+        {
+          "outlet": "NDRC + NEA",
+          "author": "",
+          "title": "15th Five-Year Plan for New Energy System Construction (新型能源体系建设十五五规划, 发改能源〔2026〕884号)",
+          "date": "2026-06-25",
+          "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202606/t20260625_1406079.html",
+          "bullets": [
+            [
+              "First joint NDRC-NEA five-year energy plan to follow approval by State Council",
+              "Sets the strategic frame for 2026-2030 build-out of \"new energy system\" – renewable scale-up, grid integration of variable power, energy storage, and the computing-power-synergy agenda flagged in Caixin's \"AI Boom Rewiring Power Grid\" piece."
+            ],
+            [
+              "Plan formalises shift from coal-anchored to renewable-anchored backbone",
+              "Sets binding targets for non-fossil installed capacity, transmission infrastructure, and integrated storage; provides regulatory cover for the Ulanqab / Zhongwei / \"Eastern Data Western Computing\" computing-hub model."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "ai",
+            "energy"
+          ]
+        },
+        {
+          "outlet": "NPC Standing Committee (14th NPC, 23rd session)",
+          "author": "",
+          "title": "Draft amendment on civil public-interest litigation incl. cross-border prosecution authority",
+          "date": "2026-06-23",
+          "url": "http://en.npc.gov.cn.cdurl.cn/2026-06/16/c_1191229.htm",
+          "bullets": [
+            [
+              "NPC SC reviewed a draft empowering procurators to bring civil suits against foreign actors for harming national/public interests",
+              "Per Trivium pointer (W26); reads alongside the just-passed Ethnic Unity Law (effective July 1) – explicit codification of Beijing's extraterritorial legal reach."
+            ],
+            [
+              "Session also took up trademark law revisions, financial stability law and public procurement law amendments",
+              "Broader package signals legislative emphasis on economic-security and statecraft infrastructure rather than market liberalisation."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "cn-discourse"
+          ]
+        },
+        {
+          "outlet": "National Audit Office",
+          "author": "",
+          "title": "Annual Audit Report on 2024 Central Budget Execution (关于2024年度中央预算执行和其他财政收支的审计工作报告)",
+          "date": "2026-06-24",
+          "url": "https://www.audit.gov.cn/n5/n26/c10792910/part/10792999.pdf",
+          "bullets": [
+            [
+              "Hidden local-government debt deception flagged in the audit",
+              "Several provinces artificially reduced reported hidden-debt balances – in some cases by deleting records from the debt-management system; some LGFVs falsely claimed resolved debts (see Caixin slot-3 write-up)."
+            ],
+            [
+              "17 counties inflated SPB project returns to secure 12.2bn yuan in special-purpose bond proceeds",
+              "Some regions also misused SPB funds for unauthorised expenses including government buildings and corporate loan repayments – quantifying enforcement failure in the deleverage mandate."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "cn-discourse"
+          ]
+        },
+        {
+          "outlet": "CCDI",
+          "author": "",
+          "title": "May 2026 monthly nationwide statistics: 24,513 cases of 八项规定 violations (2026年5月全国查处违反中央八项规定精神问题24513起)",
+          "date": "2026-06-24",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202606/t20260624_497604.html",
+          "bullets": [
+            [
+              "Sustained anti-graft enforcement at high tempo: 24,513 violations punished in May alone",
+              "The release maintains visibility of the campaign that has also taken down Bian Zhigang (SASTIND/CNSA), the 6 PLA generals removed from NPC, and other senior figures."
+            ],
+            [
+              "Eight-Point monthly cadence signals institutionalisation, not winding-down",
+              "Continued discipline-side pressure on cadres parallels the broader political-loyalty drive Xi has reinforced ahead of the 21st Party Congress preparations."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "ideology",
+            "pla"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "",
+      "slug": "cn-mfa",
+      "short": "Positions",
+      "label": "Government positions & readouts",
+      "items": [
+        {
+          "outlet": "MFA Spokesperson Guo Jiakun",
+          "author": "",
+          "title": "Press conference – Taiwan EEZ / east-of-Taiwan Coast Guard patrols",
+          "date": "2026-06-25",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202606/t20260625_11952387.html",
+          "bullets": [
+            [
+              "Beijing's most explicit official codification yet of jurisdiction in the waters east of Taiwan",
+              "Asked by Reuters about Chinese Coast Guard patrols east of Taiwan, Guo asserts that \"according to China's domestic law and international law including UNCLOS, China has exclusive economic zone and continental shelf in waters east of China's Taiwan island\" – framing the patrols as legitimate exercise of Chinese jurisdiction. Pairs directly with the CNN \"salami-slicing\" piece (Part III §4): the operational creep at Scarborough Shoal and east of Taiwan is now backed by an explicit MFA legal claim."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "twn",
+            "maritime"
+          ]
+        },
+        {
+          "outlet": "MFA Spokesperson Guo Jiakun",
+          "author": "",
+          "title": "Press conference – Xi-Pyongyang visit framing",
+          "date": "2026-06-24",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202606/t20260624_11951696.html",
+          "bullets": [],
+          "related": [],
+          "tags": [
+            "cn-discourse"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "",
       "slug": "cn-journalism",
       "short": "CN journalism",
       "label": "Quality CN journalism",
@@ -2360,7 +2635,7 @@ window.W26_2026 = {
             ],
             [
               "Deliberate gambit to fracture the Pax Silica alignment",
-              "Tsai's outreach lands days before the EU signs the US-led \"Pax Silica\" declaration singling out China on AI chips — a direct attempt to give European firms a counter-narrative."
+              "Tsai's outreach lands days before the EU signs the US-led \"Pax Silica\" declaration singling out China on AI chips – a direct attempt to give European firms a counter-narrative."
             ]
           ],
           "related": [],
@@ -2385,7 +2660,7 @@ window.W26_2026 = {
             ],
             [
               "Part of the broader \"law as a tool\" agenda",
-              "Reads alongside the 2023 Counter-Espionage Law expansion and the 2024 anti-sanctions framework — signalling Beijing is consolidating a permanent legal infrastructure for economic statecraft."
+              "Reads alongside the 2023 Counter-Espionage Law expansion and the 2024 anti-sanctions framework – signalling Beijing is consolidating a permanent legal infrastructure for economic statecraft."
             ]
           ],
           "related": [],
@@ -2405,7 +2680,7 @@ window.W26_2026 = {
           "bullets": [
             [
               "State Council unveiled a 15-point package to court foreign investors",
-              "Measures span market access expansion, simpler approval processes, and protections against discriminatory enforcement — a recognition that FDI inflows have slumped."
+              "Measures span market access expansion, simpler approval processes, and protections against discriminatory enforcement – a recognition that FDI inflows have slumped."
             ],
             [
               "Timed to counter the China-shock 2.0 narrative",
@@ -2429,7 +2704,7 @@ window.W26_2026 = {
         {
           "outlet": "SCMP (op-ed)",
           "author": "",
-          "title": "Wang Huiyao: Europe was happy with the trade rules — until China's industrial rise",
+          "title": "Wang Huiyao: Europe was happy with the trade rules – until China's industrial rise",
           "date": "2026-06-23",
           "url": "https://www.scmp.com/opinion/china-opinion/article/3357784/anxious-west-seeks-rewrite-global-trade-rules-counter-china",
           "bullets": [
@@ -2439,7 +2714,7 @@ window.W26_2026 = {
             ],
             [
               "Explicitly contests the \"non-market practices\" framing",
-              "Wang reframes EU/US complaints about subsidies and overcapacity as protectionism dressed up as fairness — a key elite-CN narrative ahead of the EU's anti-coercion deployment."
+              "Wang reframes EU/US complaints about subsidies and overcapacity as protectionism dressed up as fairness – a key elite-CN narrative ahead of the EU's anti-coercion deployment."
             ]
           ],
           "related": [],
@@ -2461,12 +2736,250 @@ window.W26_2026 = {
             ],
             [
               "Acknowledges innovation system frictions",
-              "Concedes that the same top-down model that drove industrial scale-up now bottlenecks frontier innovation — a notable internal admission as Beijing pushes the \"new productive forces\" line."
+              "Concedes that the same top-down model that drove industrial scale-up now bottlenecks frontier innovation – a notable internal admission as Beijing pushes the \"new productive forces\" line."
             ]
           ],
           "related": [],
           "tags": [
             "industrial-policy"
+          ]
+        },
+        {
+          "outlet": "Aisixiang – Tian Wenlin (RUC SIS / Middle East Studies Director)",
+          "author": "",
+          "title": "Modernization of the Global South: Key Issues and Lessons from China (5,211 views)",
+          "date": "2026-06-23",
+          "url": "https://www.aisixiang.com/data/178259.html",
+          "bullets": [
+            [
+              "Three structural dilemmas of Global South modernization, framed as failures of Western prescription",
+              "Tian diagnoses the \"infant industry protection paradox\" of import-substitution and the \"deindustrialization / dependent development / dollar-cycle\" trap of export-orientation – arguing both Western-derived strategies leave developing economies stuck on the periphery."
+            ],
+            [
+              "China's path positioned as a \"developmental state\" template for the Global South",
+              "Tian distils five lessons – alignment with national conditions, building a \"developmental state\" with \"development-first\" governance, technological \"overtaking on the curve,\" social transformation for \"modernization for the majority,\" and South-South solidarity inside a \"new globalization.\""
+            ],
+            [
+              "Treats the post-1945 \"liberal international order\" explicitly as a neocolonial system",
+              "The article reframes the Bretton Woods architecture as substituting capital expansion and unequal exchange for direct colonial rule – providing the intellectual backing for the Global Governance Initiative's restructuring agenda."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "mid-east",
+            "trade",
+            "cn-discourse"
+          ]
+        },
+        {
+          "outlet": "Aisixiang – Zheng Liping (Marxism School, Tongji U. / Shanghai Xi Jinping Thought Research Center)",
+          "author": "",
+          "title": "The Civilizational Value and Practical Effectiveness of the Global Governance Initiative – A Historical Materialism Analysis (3,502 views)",
+          "date": "2026-06-27",
+          "url": "https://www.aisixiang.com/data/178489.html",
+          "bullets": [
+            [
+              "Doctrinal grounding of the GGI in historical materialism",
+              "Zheng argues the new initiative responds to a structural mismatch between globalized productive forces (digital economy, AI, Global South rise) and the \"Western-dominated\" relations of production embedded in post-WWII institutions – establishing reform as a Marxist \"historical necessity.\""
+            ],
+            [
+              "Five-pillar GGI doctrine codified",
+              "Sovereign equality · international rule of law · multilateralism · people-centeredness · action-orientation – explicitly positioned as China's fourth global \"public good\" after the GDI, GSI and GCI."
+            ],
+            [
+              "Frames \"Western-centrism\" as the ideological superstructure of capital expansion",
+              "Zheng explicitly attacks \"universal values\" and the \"end of history\" narrative as a \"universalisation of the particular\" – and argues the GGI provides intellectual cover for civilizational diversity and \"pluralistic modernization paths,\" directly contesting Western normative authority."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "ai",
+            "ideology",
+            "cn-discourse"
+          ]
+        },
+        {
+          "outlet": "Aisixiang – Liu Chong",
+          "author": "",
+          "title": "Clarifying the Three Logical Boundaries of Nuclear Strategic Stability in the Intelligent Age (2,199 views)",
+          "date": "2026-06-26",
+          "url": "https://www.aisixiang.com/data/178468.html",
+          "bullets": [
+            [
+              "Reframes the AI/nuclear debate from \"human-in-the-loop\" to \"consequences-in-the-loop\"",
+              "Liu argues AI's most consequential effect is not replacing decision-makers but vastly expanding their menu of feasible options – citing the Maduro seizure, the Khamenei decapitation strike, and AI-enabled Gaza operations as examples where AI lowered the threshold for catastrophic actions."
+            ],
+            [
+              "Calls for mandatory time-buffers in nuclear-crisis decision-making",
+              "Drawing on the Cuban Missile Crisis precedent, Liu warns AI may compress decision-making timelines from hours to seconds – proposes a principle that \"AI should not become a tool for compressing nuclear-crisis decision-making time,\" requiring coordination among the major powers."
+            ],
+            [
+              "Warns of \"nuclear scope creep\" as cyber/critical-infrastructure threats migrate into the nuclear-deterrence frame",
+              "Liu argues AI's enhancement of target identification and cyber capabilities risks pulling conventional contingencies under a nuclear lens – implicitly criticising US doctrinal trends and pushing back on expansive nuclear-deterrence postures."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "mid-east",
+            "ai",
+            "mil-tech",
+            "cyber",
+            "nuclear",
+            "cn-discourse"
+          ]
+        },
+        {
+          "outlet": "Aisixiang – Zhou Li",
+          "author": "",
+          "title": "The Ukraine Issue Returns to the International Spotlight – G7 vs Russia (1,330 views)",
+          "date": "2026-06-25",
+          "url": "https://www.aisixiang.com/data/178337.html",
+          "bullets": [
+            [
+              "Chinese read of the June 16-17 G7 Évian summit as a Western consolidation of long-term Ukraine commitment",
+              "Zhou parses the G7 statement's four pillars – additional air defence + long-range capabilities, licensing Ukraine to produce weapons domestically (incl. Western defence factories on Ukrainian soil), energy/financial resilience aid for the winter, and stepped-up oil-and-gas sanctions on Russia – concluding Trump's \"promotion of peace through talks\" has been reversed by the European-led coalition."
+            ],
+            [
+              "Identifies a Trump-flattery pattern in the G7 statement",
+              "Zhou notes the G7 statement mentions Trump three times and ties Russia sanctions reinstatement to the Strait-of-Hormuz reopening – reading this as European leaders \"classically flattering\" Trump to secure US cooperation on Ukraine despite his earlier ambivalence."
+            ],
+            [
+              "Quotes vdL: \"The wind is turning in Ukraine's favor\" – Zhou reads this as European propaganda against Russian-side battlefield realities",
+              "The Chinese framing dismisses Western \"exhaustion\" claims and casts the new aid architecture as proof Europe is now the core external force prolonging the war, with Russia (via Lavrov's June 19 article) hardening its bottom line."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "mid-east",
+            "ru-cn",
+            "energy",
+            "mil-tech",
+            "sanctions",
+            "diplomacy",
+            "cn-discourse",
+            "propaganda"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "",
+      "slug": "cn-media",
+      "short": "CN ↔ EU/GER",
+      "label": "CN coverage of EU/GER",
+      "items": [
+        {
+          "outlet": "People's Daily / Wang Yi statement",
+          "author": "",
+          "title": "Wang Yi highlights Austria's role in China-Europe links",
+          "date": "2026-06-26",
+          "url": "https://www.chinadaily.com.cn/a/202606/26/WS6a3dd71ba310986e2b462054.html",
+          "bullets": [
+            [
+              "Wang Yi singles out Austria as a \"bridge\" between China and Europe",
+              "During his meeting with Austrian FM Beate Meinl-Reisinger – Beijing publicly rewarding member states that resist the bloc-level hardening on China and positioning Austria as a model of \"pragmatic\" EU-China engagement."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "cn-discourse",
+            "propaganda"
+          ]
+        },
+        {
+          "outlet": "Global Times",
+          "author": "",
+          "title": "China Chamber of Commerce to EU warns of additional uncertainty from EU's plan to develop the Industrial Accelerator Act",
+          "date": "2026-06-23",
+          "url": "https://www.globaltimes.cn/page/202606/1364208.shtml",
+          "bullets": [
+            [
+              "CCCEU frames EU Industrial Accelerator Act + \"Buy European\" as protectionism, not response to overcapacity",
+              "Beijing's most active industry voice in Brussels previews the narrative Beijing will deploy if the EU operationalises the diversification instrument and IPI extensions – framing the measures as costs to European consumers rather than legitimate trade defence."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "trade",
+            "industrial-policy",
+            "propaganda"
+          ]
+        },
+        {
+          "outlet": "Global Times (expert commentary)",
+          "author": "",
+          "title": "EU joining Pax Silica comes at cost of AI independence: expert",
+          "date": "2026-06-25",
+          "url": "https://www.globaltimes.cn/page/202606/1364438.shtml",
+          "bullets": [
+            [
+              "Pax Silica signature framed as US-vassalage",
+              "Chinese state-media analysts argue Europe traded \"AI independence\" for transatlantic AI security – the commentary lines up with Joe Tsai's parallel pitch to European firms to look beyond US tech (see Caixin Alibaba entry in slot 3 above)."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "ai",
+            "propaganda"
+          ]
+        },
+        {
+          "outlet": "China Daily editorial",
+          "author": "",
+          "title": "Brussels' protectionist moves risk being costly backfiring gamble to EU",
+          "date": "2026-06-21",
+          "url": "https://www.chinadaily.com.cn/a/202606/21/WS6a37ce41a310986e2b46100f.html",
+          "bullets": [
+            [
+              "Party-line editorial frames EU trade-defence moves as economic self-harm",
+              "Signals any EU activation of new instruments (anti-coercion, diversification, sectoral quotas) will draw not just retaliation but a co-ordinated narrative campaign aimed at European publics and capitals."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "trade"
+          ]
+        },
+        {
+          "outlet": "Xinhua Commentary",
+          "author": "",
+          "title": "Trade deficits alone cannot define China-EU economic ties",
+          "date": "2026-06-20",
+          "url": "https://english.news.cn/20260620/d0fd01c85ff141778d527c452490d0e4/c.html",
+          "bullets": [
+            [
+              "Xinhua pre-empts the €360 bn deficit headline",
+              "The commentary argues the deficit number obscures Chinese investment, climate cooperation and intermediate-goods value-chains – effectively Beijing's \"don't reduce us to a number\" message to EU leaders ahead of the Šefčovič-Wang Brussels meeting."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "eu-cn",
+            "climate",
+            "trade",
+            "investment",
+            "propaganda"
+          ]
+        },
+        {
+          "outlet": "Global Times Voice",
+          "author": "",
+          "title": "Chinese investment in Europe offers an opportunity, not a risk",
+          "date": "2026-06-23",
+          "url": "https://www.globaltimes.cn/page/202606/1364275.shtml",
+          "bullets": [
+            [
+              "Chinese FDI framed as opportunity, not security risk",
+              "Beijing leans hard on the EU-investment narrative – a direct counter to the new EU FDI-Screening Regulation 2026/1386 and the security-driven anti-subsidy / IPI tooling."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "investment",
+            "propaganda"
           ]
         }
       ]
