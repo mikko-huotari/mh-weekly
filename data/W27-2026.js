@@ -3192,7 +3192,43 @@ window.W27_2026 = {
       ]
     }
   ],
-  "topCharts": []
+  "topCharts": [
+    {
+      "src": "assets/charts/W27-2026-chart-1.png",
+      "alt": "Chinese%20semiconductor%20equipment%20domestic%20substitution",
+      "caption": "**Chart 1 – China's semiconductor equipment domestic substitution accelerated after 2019** (Soapbox Trade × MERICS, Issue 255 – Jul 6 2026; share of domestic equipment in Chinese SME purchases, 2015–2026)."
+    },
+    {
+      "src": "assets/charts/W27-2026-chart-2.png",
+      "alt": "EU%20imports%20CN%2038180090%20from%20China",
+      "caption": "**Chart 2 – China's Ga/Ge licensing regime hit values, not volumes: CN 38180090 physical volume barely changed while unit value nearly doubled** (Soapbox Trade × MERICS, Issue 255; EU imports under CN 38180090 from China, quantity and value, Jan 2022 – Apr 2026)."
+    },
+    {
+      "src": "assets/charts/W27-2026-chart-3.png",
+      "alt": "Taiwan%20exports%20by%20destination",
+      "caption": "**Chart 3 – Taiwan's export map follows the chip war: US demand pulling advanced electronics westwards** (Soapbox Trade × MERICS, Issue 255; Taiwan exports by destination, 2018–2026)."
+    },
+    {
+      "src": "assets/charts/W27-2026-chart-4.png",
+      "alt": "Chinese%20EV%20shipments%20to%20Canada",
+      "caption": "**Chart 4 – China shipped 3,500 EVs to Canada in April at ~$29,000 FOB – on pace to fill the 49,000-unit quota quickly** (Soapbox Trade × MERICS, Issue 255; Chinese EV shipments to Canada under new 6.1% quota deal, 2026)."
+    },
+    {
+      "src": "assets/charts/W27-2026-chart-5.png",
+      "alt": "China%20PMI%20employment%20subindex",
+      "caption": "**Chart 5 – China's PMI employment subindex has stayed below 50 for four straight years** (Soapbox Trade × MERICS, Issue 255; NBS manufacturing PMI employment subindex, monthly, 2021–2026)."
+    },
+    {
+      "src": "assets/charts/W27-2026-chart-6.png",
+      "alt": "China%20GDP%20deflator",
+      "caption": "**Chart 6 – China's H1 2026 GDP deflator turns positive for the first time since H1 2022 – but only at +0.1%** (Soapbox Trade × MERICS, Issue 255; implied GDP deflator, half-yearly, 2015–H1 2026 forecast)."
+    },
+    {
+      "src": "assets/charts/W27-2026-chart-7.png",
+      "alt": "China%20to%20EU%20simplified-clearance%20parcel%20exports",
+      "caption": "**Chart 7 – China-to-EU parcels under simplified customs procedures grew from US$1.7bn (2019) to US$26bn+ (2025)** (Soapbox Trade × MERICS, Issue 255; Chinese exports to EU cleared via simplified procedures, USD bn, 2019–2025)."
+    }
+  ]
 };
 
 if (window.W27_2026_WOCHENBERICHT) window.W27_2026.wochenbericht = window.W27_2026_WOCHENBERICHT;
