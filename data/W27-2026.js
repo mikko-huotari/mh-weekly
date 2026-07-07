@@ -56,12 +56,10 @@ window.W27_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**WSJ backdrop – Germany's shift from free-trade orthodoxy to sectoral protection**: A [Dec 2025 WSJ synthesis](https://www.wsj.com/world/europe/why-germany-wants-a-divorce-with-china-0d59fb81) by Tom Fairless and Bertrand Benoit lays out the arc Reformpaket §17 now codifies: BDI reclassifying China as \"systemic competitor\" (2019), VDMA calling for antidumping and sanctions (2025), Merz National Security Council (new) working on critical-minerals diversification, and the structural indicators driving the pivot – manufacturing output down 14% from its 2017 peak, industrial-sector jobs down ~5% since 2019, and Germany's 2025 goods-and-services trade deficit with China on track for a record €88bn (~$102bn). Rhodium's Noah Barkin flags the \"Shanghai syndrome\" risk – Berlin defaulting back to appeasement if Trump proves unreliable.",
+              "note": "**China now beating the Mittelstand at its own quality game** – Germany's midsize specialists – long protected by an unassailable quality moat – are losing to Chinese competitors closing the quality gap at half the price. [WSJ](https://www.wsj.com/economy/china-is-devastating-the-last-stronghold-of-german-industry-c7a98514) reports industry losing 10,000+ jobs per month (EY), industrial output –10% since Feb 2022, and Germany's capital-goods trade balance with China flipping from a €750M surplus to a €500M deficit (Apollo, 12-month rolling avg to Aug 2025); machine-tools exports to China down ~1/3 in Q1 YoY. VDMA's Richtberg puts Chinese competitors at one-third of global machinery production with 40–50% as the point of no return.",
               "tags": [
                 "de-cn",
-                "security",
-                "trade",
-                "sanctions"
+                "trade"
               ]
             },
             {
