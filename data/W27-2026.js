@@ -327,11 +327,11 @@ window.W27_2026 = {
               "outlet": "MERICS",
               "title": "",
               "date": "",
-              "url": "",
+              "url": "https://merics.org/en/events/kiel-merics-policy-panel",
               "bullets": [
                 [
                   "",
-                  "**Kiel-MERICS Policy Panel**"
+                  "**[Kiel-MERICS Policy Panel](https://merics.org/en/events/kiel-merics-policy-panel)**"
                 ]
               ],
               "tags": [
@@ -342,11 +342,11 @@ window.W27_2026 = {
               "outlet": "MERICS",
               "title": "",
               "date": "",
-              "url": "",
+              "url": "https://merics.org/de/veranstaltungen/merics-closed-door-workshop-chinas-advancements-new-semiconductor-technologies-a",
               "bullets": [
                 [
                   "",
-                  "**CTO Workshop on Semiconductors**"
+                  "**[CTO Workshop on Semiconductors](https://merics.org/de/veranstaltungen/merics-closed-door-workshop-chinas-advancements-new-semiconductor-technologies-a)**"
                 ]
               ],
               "tags": [
@@ -373,11 +373,11 @@ window.W27_2026 = {
               "outlet": "MERICS",
               "title": "",
               "date": "",
-              "url": "",
+              "url": "https://merics.org/de/veranstaltungen/advancing-economic-security-forum-2026",
               "bullets": [
                 [
                   "",
-                  "**Advancing Economic Security Forum 2026**"
+                  "**[Advancing Economic Security Forum 2026](https://merics.org/de/veranstaltungen/advancing-economic-security-forum-2026)**"
                 ]
               ],
               "tags": [
