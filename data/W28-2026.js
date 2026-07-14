@@ -4295,38 +4295,43 @@ window.W28_2026 = {
     },
     {
       "src": "assets/charts/W28-2026-chart-2.png",
-      "alt": "Chinese exports to EU H1",
-      "caption": "**Chart 2 – China's H1 exports to EU projected at CNY 2.12tn, up 40 % from H1 2021 (CNY 1.51tn)** (Soapbox #256 × MERICS; China Customs, CNY, H1 2021–H1 2026 estimate)"
+      "alt": "China high-end export prices",
+      "caption": "**Chart 2 – China's exports of high-end goods rise in value, but price per ton flattens (+1.5 % since 2024) while value still climbs** (MERICS Data Insight, Esther Goreichy; export value, volume and price-per-ton indices in USD, 12-month moving averages, Dec 2015 = 100, 2016–2026)"
     },
     {
       "src": "assets/charts/W28-2026-chart-3.png",
-      "alt": "German exports to China YoY",
-      "caption": "**Chart 3 – German exports to China fell 13 % YoY in Jan–May 2026, with monthly drops of 10–17 %** (Soapbox #256 × MERICS; Destatis, % YoY, Jan–May 2026)"
+      "alt": "Chinese exports to EU H1",
+      "caption": "**Chart 3 – China's H1 exports to EU projected at CNY 2.12tn, up 40 % from H1 2021 (CNY 1.51tn)** (Soapbox #256 × MERICS; China Customs, CNY, H1 2021–H1 2026 estimate)"
     },
     {
       "src": "assets/charts/W28-2026-chart-4.png",
-      "alt": "EU antibiotic API imports by source",
-      "caption": "**Chart 4 – China supplied 86 % of EU penicillin-family API imports in 2025; Sandoz filed an anti-dumping complaint on amoxicillin in May 2026** (Soapbox #256 × MERICS; Eurostat + China Customs, % of quantity, 2025)"
+      "alt": "German exports to China YoY",
+      "caption": "**Chart 4 – German exports to China fell 13 % YoY in Jan–May 2026, with monthly drops of 10–17 %** (Soapbox #256 × MERICS; Destatis, % YoY, Jan–May 2026)"
     },
     {
       "src": "assets/charts/W28-2026-chart-5.png",
-      "alt": "EU tyre imports from China",
-      "caption": "**Chart 5 – EU passenger-car tyre imports from China ran at 56 % of prior-year volume and 54 % of prior-year value in Jan–Apr 2026 – already contracting before July anti-dumping duties took effect** (Soapbox #256 × MERICS; Eurostat CN 40111000, % of Jan–Apr 2025, Jan–Apr 2026)"
+      "alt": "EU antibiotic API imports by source",
+      "caption": "**Chart 5 – China supplied 86 % of EU penicillin-family API imports in 2025; Sandoz filed an anti-dumping complaint on amoxicillin in May 2026** (Soapbox #256 × MERICS; Eurostat + China Customs, % of quantity, 2025)"
     },
     {
       "src": "assets/charts/W28-2026-chart-6.png",
-      "alt": "EU magnesium import share",
-      "caption": "**Chart 6 – China supplied 93 % by quantity and 89 % by value of EU unwrought-magnesium imports in 2025, at unit values roughly 40 % below non-China alternatives** (Soapbox #256 × MERICS; Eurostat + China Customs, % of EU imports, 2025)"
+      "alt": "EU tyre imports from China",
+      "caption": "**Chart 6 – EU passenger-car tyre imports from China ran at 56 % of prior-year volume and 54 % of prior-year value in Jan–Apr 2026 – already contracting before July anti-dumping duties took effect** (Soapbox #256 × MERICS; Eurostat CN 40111000, % of Jan–Apr 2025, Jan–Apr 2026)"
     },
     {
       "src": "assets/charts/W28-2026-chart-7.png",
-      "alt": "Ferro-tungsten trade flows",
-      "caption": "**Chart 7 – China supplied ~69 % of EU ferro-tungsten imports in 2025 while the EU absorbed 43 % of China's ferro-tungsten exports – Chinese-origin unit value ran about 5 % below alternatives** (Soapbox #256 × MERICS; Eurostat + China Customs, % of trade flows, 2025)"
+      "alt": "EU magnesium import share",
+      "caption": "**Chart 7 – China supplied 93 % by quantity and 89 % by value of EU unwrought-magnesium imports in 2025, at unit values roughly 40 % below non-China alternatives** (Soapbox #256 × MERICS; Eurostat + China Customs, % of EU imports, 2025)"
     },
     {
       "src": "assets/charts/W28-2026-chart-8.png",
+      "alt": "Ferro-tungsten trade flows",
+      "caption": "**Chart 8 – China supplied ~69 % of EU ferro-tungsten imports in 2025 while the EU absorbed 43 % of China's ferro-tungsten exports – Chinese-origin unit value ran about 5 % below alternatives** (Soapbox #256 × MERICS; Eurostat + China Customs, % of trade flows, 2025)"
+    },
+    {
+      "src": "assets/charts/W28-2026-chart-9.png",
       "alt": "Solar panel EU dependency loop",
-      "caption": "**Chart 8 – EU absorbed 37.3 % of China's 2025 solar-panel exports, making it China's largest single market amid global overcapacity** (Soapbox #256 × MERICS; China Customs, % of Chinese solar-panel export volume, 2025)"
+      "caption": "**Chart 9 – EU absorbed 37.3 % of China's 2025 solar-panel exports, making it China's largest single market amid global overcapacity** (Soapbox #256 × MERICS; China Customs, % of Chinese solar-panel export volume, 2025)"
     }
   ]
 };
