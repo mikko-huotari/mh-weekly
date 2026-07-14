@@ -1890,27 +1890,6 @@ window.W28_2026 = {
           ]
         },
         {
-          "outlet": "Caixin",
-          "author": "",
-          "title": "Chinese Lenders Chase Commercial-Space Boom",
-          "date": "2026-07-08",
-          "url": "https://www.caixinglobal.com/2026-07-08/chinese-lenders-chase-commercial-space-boom-102461952.html",
-          "bullets": [
-            [
-              "Chinese banks step up credit for commercial space sector",
-              "Lenders are increasing financing following a July 5 Long March-8A rocket launch that deployed 20 satellites for the Qianfan constellation, the article reports."
-            ],
-            [
-              "Qianfan reaches 218 satellites as it trails Starlink",
-              "China's low-Earth-orbit internet network remains far behind Elon Musk's Starlink, which holds a first-mover advantage with more than 10,000 satellites in orbit."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "semcon"
-          ]
-        },
-        {
           "outlet": "NYT",
           "author": "",
           "title": "In Deep Space, China Meets Earth’s ‘Amazing’ Quasi-Moon",
@@ -2825,8 +2804,8 @@ window.W28_2026 = {
               "Two ships operated up to 140 miles off the island's east coast, explicitly asserting Chinese jurisdiction over surrounding Pacific waters."
             ],
             [
-              "One commercial vessel complied with Chinese coast guard crew information demands",
-              "A Singapore-flagged carrier supplied crew data to CCG officers by radio - the first publicly confirmed case of commercial compliance, AFP reported."
+              "Crew member on one commercial ship complied with Chinese coast guard demands",
+              "A Singapore-flagged cargo carrier's crew member supplied information to a Chinese coast guard officer by radio – first reported by AFP and confirmed by two Taiwanese officials, per the NYT."
             ],
             [
               "China's June patrols came after Japan-Philippines EEZ negotiations that Beijing rejected",
@@ -2863,28 +2842,6 @@ window.W28_2026 = {
           "tags": [
             "jp-cn",
             "twn"
-          ]
-        },
-        {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "Bookseller died 'in line of duty' resisting Xi Jinping's rule",
-          "date": "2026-07-09",
-          "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-bookseller-died-in-line-of-duty-resisting-xi-jinping-s-rule",
-          "bullets": [
-            [
-              "Hong Kong bookseller Lam Wing-kee died in Taipei on July 2",
-              "The former Causeway Bay Books manager had been detained by Chinese authorities in 2015 before fleeing to Taiwan in 2019, according to Taiwanese media."
-            ],
-            [
-              "New ethnic unity law holds diaspora legally liable for speech abroad",
-              "Article 63 stipulates individuals and organisations outside China are accountable for acts deemed to undermine ethnic unity or incite ethnic division."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "twn",
-            "hk"
           ]
         },
         {
@@ -3210,29 +3167,6 @@ window.W28_2026 = {
             "twn",
             "semcon",
             "diplomacy"
-          ]
-        },
-        {
-          "outlet": "NYT",
-          "author": "",
-          "title": "China, Russia and others seek to inflame debate over A.I. data centers",
-          "date": "2026-07-09",
-          "url": "https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html",
-          "bullets": [
-            [
-              "Foreign state media posted roughly 700 data-centre items targeting US audiences",
-              "China, Russia and Iran averaged nearly four daily mentions between January and June, according to analysis by influence-tracking firm Alethea."
-            ],
-            [
-              "OpenAI attributed ChatGPT-generated fake local news strips to China-based operators",
-              "The accounts, designed to mimic US local outlets and stoke opposition to data centres, generated little authentic engagement and were removed from X."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "mid-east",
-            "ru-cn",
-            "propaganda"
           ]
         },
         {
@@ -3825,29 +3759,6 @@ window.W28_2026 = {
             "ai",
             "trade",
             "export-controls"
-          ]
-        },
-        {
-          "outlet": "FT",
-          "author": "",
-          "title": "Santander axes top China banker and scraps perks in Asia overhaul",
-          "date": "2026-07-08",
-          "url": "https://www.ft.com/content/2169b73c-7583-4d28-91d5-6459846ad769",
-          "bullets": [
-            [
-              "Santander removed its Beijing branch manager and shifted Asia-Pacific CIB focus toward Southeast Asia, Japan, and South Korea",
-              "The overhaul, led by new regional head Alberto Rivero since January, also includes cost cuts and mandatory weekly reporting requirements for bankers."
-            ],
-            [
-              "New Asia-Pacific head relocated to Singapore rather than Santander's traditional Hong Kong hub",
-              "The bank plans to name a new China head within weeks and officials said the mainland business would not be deprioritised."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "hk",
-            "sea"
           ]
         }
       ]
