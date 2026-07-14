@@ -236,15 +236,15 @@ window.W28_2026 = {
                 ],
                 [
                   "",
-                  "**Chinese experts claim Europe's own problems are causing China's export surge** — **Grzegorz Stec** reviews 30+ Chinese analyses (mid-April to early July) and identifies a counter-narrative that recasts Europe's China Shock 2.0 diagnosis as a European competitiveness problem, not a Chinese overcapacity problem — timed to blunt the June European Council mandate before October decisions."
+                  "**Chinese experts claim Europe's own problems are causing China's export surge** – **Grzegorz Stec** reviews 30+ Chinese analyses (mid-April to early July) and identifies a counter-narrative that recasts Europe's China Shock 2.0 diagnosis as a European competitiveness problem, not a Chinese overcapacity problem – timed to blunt the June European Council mandate before October decisions."
                 ],
                 [
                   "",
-                  "**Huawei's Tau Scaling Law: No real revolution, but a key messaging tool** — **Antonia Hmaidi** on how Huawei is deploying its \"Tau Scaling Law\" less as a genuine AI-architecture breakthrough than as a domestic and international signalling device around Chinese chip and AI resilience."
+                  "**Huawei's Tau Scaling Law: No real revolution, but a key messaging tool** – **Antonia Hmaidi** on how Huawei is deploying its \"Tau Scaling Law\" less as a genuine AI-architecture breakthrough than as a domestic and international signalling device around Chinese chip and AI resilience."
                 ],
                 [
                   "",
-                  "**SOAPBOX-MERICS Data Highlight: Sino-German trade relations** — H1 2026 data on the widening German-Chinese trade imbalance, with the drivers (Chinese export price competitiveness, subdued German export demand) that also underpin the H1 GAC figures in Part I."
+                  "**SOAPBOX-MERICS Data Highlight: Sino-German trade relations** – H1 2026 data on the widening German-Chinese trade imbalance, with the drivers (Chinese export price competitiveness, subdued German export demand) that also underpin the H1 GAC figures in Part I."
                 ]
               ],
               "tags": [
@@ -472,50 +472,52 @@ window.W28_2026 = {
           "label": "MERICS institutionally cited (no named expert)",
           "items": [
             {
-              "outlet": "FT (Edward White)",
-              "title": "",
-              "date": "",
-              "url": "https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595",
+              "outlet": "Reuters",
+              "author": "",
+              "title": "FCC denies US firm with Chinese links approval to provide telecom services",
+              "date": "2026-07-07",
+              "url": "https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07",
               "bullets": [
                 [
-                  "",
-                  "**[FT (Edward White)](https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595)**: MERICS China Overcapacities Monitor cited on lossmaking industrial businesses rising from ~10% (2010) to ~25% (2025)."
+                  "FCC adds Digitalsystem Technology to national security risk list",
+                  "The Los Angeles IT firm was denied international telecom operating rights, citing partnerships with China Unicom, China Mobile, and PCCW."
+                ],
+                [
+                  "FCC cited collection and disruption risks from Chinese government actors",
+                  "The agency warned that vulnerabilities in Digitalsystem's network could be exploited to collect, disrupt, or misroute US communications."
                 ]
               ],
+              "related": [],
               "tags": [
-                "de-cn"
+                "security"
               ]
             },
             {
-              "outlet": "Asia Society (Philippe Le Corre)",
-              "title": "",
-              "date": "",
-              "url": "https://asiasociety.org/policy-institute/europes-wake-call",
+              "outlet": "Nikkei",
+              "author": "",
+              "title": "Taiwan's top shipbuilder bets on defense drive amid China's power play",
+              "date": "2026-07-08",
+              "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-s-top-shipbuilder-bets-on-defense-drive-amid-china-s-power-play",
               "bullets": [
                 [
-                  "",
-                  "**[Asia Society (Philippe Le Corre)](https://asiasociety.org/policy-institute/europes-wake-call)**: MERICS Europe-China Resilience Audit cited on the complexity of European perceptions of China across economic, political, security and societal dimensions."
-                ]
-              ],
-              "tags": [
-                "de-cn",
-                "society"
-              ]
-            },
-            {
-              "outlet": "Neue Zürcher Zeitung",
-              "title": "",
-              "date": "",
-              "url": "https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784",
-              "bullets": [
+                  "CSBC chairman says Taiwan's Narwhal submarine on track for H2 2026 delivery",
+                  "The vessel is completing final sea trials; delivery would unlock parliamentary funds frozen for the broader eight-submarine program."
+                ],
                 [
-                  "",
-                  "**[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784)** (Sabine Gusbeth): MERICS analysis cited that nearly 24% of Chinese firms were loss-making last year – deflation risk from ruinous domestic price competition."
+                  "Taiwan's KMT-controlled legislature froze submarine funds and cut all domestic drone spending",
+                  "The opposition withheld half the eight-submarine budget pending Narwhal delivery and stripped unmanned vehicle spending from Lai's defense plans."
+                ],
+                [
+                  "CSBC's Endeavor Manta uncrewed surface vessel reaches 40-unit annual production capacity",
+                  "The trimaran drone - sourced entirely from non-Chinese suppliers - can be configured for patrol, rescue, or armed combat in Taiwan Strait conditions."
                 ]
               ],
+              "related": [],
               "tags": [
-                "de-cn",
-                "macro"
+                "twn",
+                "sea",
+                "mil-tech",
+                "maritime"
               ]
             }
           ]
@@ -649,57 +651,6 @@ window.W28_2026 = {
           "related": [],
           "tags": [
             "macro"
-          ]
-        },
-        {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "China's state-directed absorption of local bank highlights debt pressure",
-          "date": "2026-07-06",
-          "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/china-s-state-directed-absorption-of-local-bank-highlights-debt-pressure",
-          "bullets": [
-            [
-              "NFRA placed Wuhan Z-Bank under one-year state management",
-              "Regulators cited severe credit risks at the private online lender; Hankou Bank was designated to absorb its assets and operations."
-            ],
-            [
-              "China's piecemeal small-bank absorption campaign continued in Hubei",
-              "Beijing has guided larger banks to absorb smaller, distressed rural lenders over the past year amid a property downturn."
-            ],
-            [
-              "Fitch identified smaller, unrated banks as China's highest credit risk",
-              "The warning followed state intervention at Z-Bank, which had issued a 500 million yuan interbank CD as recently as June."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "property"
-          ]
-        },
-        {
-          "outlet": "FT",
-          "author": "",
-          "title": "China needs another Zhu Rongji to cut industrial excess",
-          "date": "2026-07-08",
-          "url": "https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595",
-          "bullets": [
-            [
-              "Auto capacity nearly doubles domestic car sales",
-              "China's car-making capacity of 45-50mn units far exceeds 2025 domestic sales of 23.9mn, the FT reports."
-            ],
-            [
-              "Consolidation via M&A seen as Beijing's likely response",
-              "Professor Keyu Jin expects mergers to cut brand numbers while preserving jobs - echoing Zhu Rongji's 1990s \"zhua da, fang xiao\" strategy."
-            ],
-            [
-              "Auto exports surged 60% year-on-year in early 2026",
-              "Shipments reached over 4mn cars by end of May, with industry forecasts predicting up to 10mn for the full year against 7.1mn in 2025."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "auto",
-            "investment"
           ]
         },
         {
@@ -865,29 +816,6 @@ window.W28_2026 = {
           ]
         },
         {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "Beijing and Tokyo can learn from China's 'Hong Kong of the north'",
-          "date": "2026-07-10",
-          "url": "https://asia.nikkei.com/spotlight/comment/beijing-and-tokyo-can-learn-from-china-s-hong-kong-of-the-north",
-          "bullets": [
-            [
-              "Li Qiang invoked \"innovation\" 62 times in a 40-minute Davos speech",
-              "The premier framed R&D-driven development as the path to long-term growth, dismissing state subsidies as unaffordable."
-            ],
-            [
-              "China's corporate R&D spending grew 23-fold between 2000 and 2023",
-              "OECD data nonetheless show Chinese firms received 3-8 times more state support than OECD counterparts over the same period, the article notes."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "hk",
-            "macro"
-          ]
-        },
-        {
           "outlet": "Caixin",
           "author": "",
           "title": "China Adds Semaglutide, Cancer Drugs to Essential Medicines List After",
@@ -906,6 +834,128 @@ window.W28_2026 = {
           "related": [],
           "tags": [
             "bio-pharma"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "Catastrophic storms to test China's resilience in 2026, scientists warn",
+          "date": "2026-07-08",
+          "url": "https://www.reuters.com/business/environment/catastrophic-storms-test-chinas-resilience-2026-scientists-warn-2026-07-08",
+          "bullets": [
+            [
+              "Typhoon Maysak killed at least 6 and affected 375,000 in Guangxi",
+              "Reservoir failures in Hengzhou inundated farmland and trapped residents on rooftops, with Super Typhoon Bavi expected to make landfall imminently."
+            ],
+            [
+              "China's National Climate Center forecasts above-average typhoon activity for July",
+              "Up to six storms may form in the Northwest Pacific, with up to three landfalls - nearly double the seasonal norm of 1.8."
+            ],
+            [
+              "Scientists link the intensified 2026 storm season to El Niño and climate change",
+              "Experts cited westward-shifted typhoon tracks and wetter storms, warning of more frequent extreme weather events through the remainder of the year."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "climate"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "China's booming gig economy masks job market pain, strains welfare system",
+          "date": "2026-07-06",
+          "url": "https://www.reuters.com/business/world-at-work/chinas-booming-gig-economy-masks-job-market-pain-strains-welfare-system-2026-07-06",
+          "bullets": [
+            [
+              "China's flexible workforce projected to reach 320 million in 2026",
+              "The China New Employment Forms Research Center estimates gig workers will constitute 44% of the workforce, up from 280 million in 2025, as property and manufacturing job losses accelerate."
+            ],
+            [
+              "Low social insurance enrolment among gig workers deepens pension funding risk",
+              "A December 2025 government report found only 70.6 million flexible workers enrolled in the urban pension scheme, while central government transfers to cover social insurance gaps have trebled over the past decade to around 3 trillion yuan."
+            ],
+            [
+              "Wage growth stalling as gig supply outpaces demand",
+              "Income for China's 37.2 million ride-hailing drivers fell 1.8% in 2025, with at least four cities issuing market saturation warnings since April."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "macro",
+            "property"
+          ]
+        },
+        {
+          "outlet": "Caixin",
+          "author": "",
+          "title": "Commentary: China's Employment Shift Highlights the Need to Support Wage Growth",
+          "date": "2026-07-07",
+          "url": "https://www.caixinglobal.com/2026-07-07/commentary-chinas-employment-shift-highlights-the-need-to-support-wage-growth-102461647.html",
+          "bullets": [
+            [
+              "Secondary sector shed nearly 7 million jobs in 2025",
+              "Construction lost 7.62 million positions as the property bust curtailed demand - a structural shift not seen since 2002."
+            ],
+            [
+              "Worker overflow into low-skill services is depressing wages",
+              "Catering wage growth fell to 2.0% and resident services contracted 0.2% in 2025, as automation-displaced workers crowd low-barrier roles."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "auto",
+            "macro",
+            "property"
+          ]
+        },
+        {
+          "outlet": "Bloomberg",
+          "author": "",
+          "title": "China's Reflation Shows Signs of Peaking as War Shock Fades",
+          "date": "2026-07-09",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/china-consumer-inflation-surprises-by-slowing-more-than-forecast",
+          "bullets": [
+            [
+              "China's CPI slowed to 1% in June, missing forecasts",
+              "The first deceleration since March signals weak consumer demand as factories struggle to pass higher input costs on to buyers, Bloomberg reports."
+            ],
+            [
+              "PPI rose 4.1% year-on-year but fell 0.3% month-on-month",
+              "Goldman Sachs economists said producer price inflation has \"likely peaked,\" with the oil-driven reflation surge seen as front-loaded and temporary."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "energy",
+            "macro"
+          ]
+        },
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "China's Auto Market Remains Under Pressure on Sluggish Domestic Demand",
+          "date": "2026-07-08",
+          "url": "https://www.wsj.com/business/autos/chinas-auto-market-remains-under-pressure-on-sluggish-domestic-demand-f3b820e7",
+          "bullets": [
+            [
+              "Passenger car retail sales fell 23.2% year-on-year in June",
+              "China sold 1.60 million units last month; H1 retail volumes declined 20.2%, the China Passenger Car Association reported."
+            ],
+            [
+              "New-energy vehicles captured 62.8% of total June sales",
+              "Surging fuel prices drove consumers toward EVs and hybrids, displacing traditional fuel-powered vehicles, the CPCA said."
+            ],
+            [
+              "China exported 877,000 vehicles in June, NEV exports more than doubling",
+              "The CPCA cut its 2026 passenger car retail forecast to a 14% decline amid continued domestic weakness."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "auto",
+            "energy"
           ]
         }
       ]
@@ -1033,31 +1083,6 @@ window.W28_2026 = {
           ]
         },
         {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "Deadly Factory Fire Highlights Dangers of China’s Manufacturing Might",
-          "date": "2026-07-10",
-          "url": "https://www.wsj.com/world/china/deadly-factory-fire-highlights-dangers-of-chinas-manufacturing-might-d74e6603",
-          "bullets": [
-            [
-              "Fatal shoe factory fire kills 28 in Jinjiang, Fujian",
-              "The blaze at Huiteng Shoes, with 237 workers on site, prompted Xi Jinping to call for an investigation and urge production safety vigilance."
-            ],
-            [
-              "Authorities detained the company head and froze accounts",
-              "The fire follows recent fatal accidents including a coal mine explosion in May that killed more than 80 people."
-            ],
-            [
-              "Safety costs first cut under financial pressure, advocacy group says",
-              "China Labor Watch founder Li Qiang cited economic slowdown as driving safety shortcuts, with workers lacking effective channels to raise concerns."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "society"
-          ]
-        },
-        {
           "outlet": "Bloomberg",
           "author": "",
           "title": "Gao Shanwen, Economist Who Challenged China’s GDP Data, Dies at 54 - Bloomberg",
@@ -1076,52 +1101,6 @@ window.W28_2026 = {
           "related": [],
           "tags": [
             "macro"
-          ]
-        },
-        {
-          "outlet": "FT",
-          "author": "",
-          "title": "Outspoken Chinese economist who doubted official GDP data dies",
-          "date": "2026-07-08",
-          "url": "https://www.ft.com/content/e201f9f4-e3b2-4c59-8300-e50e9310a554",
-          "bullets": [
-            [
-              "Gao Shanwen died after publicly contesting China's official GDP figures",
-              "At a 2024 Washington conference, the SDIC Securities economist estimated real growth at \"around 2%\" - against the official 5%."
-            ],
-            [
-              "His death drew Weibo comparisons to the Li Wenliang moment",
-              "Users mourned him as a \"truth teller\", echoing the 2020 online vigil for China's Covid-19 whistleblower."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "macro"
-          ]
-        },
-        {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "Opinion: I’m Free. Now Pray for China",
-          "date": "2026-07-09",
-          "url": "https://www.wsj.com/opinion/pastor-ezra-jin-im-free-now-pray-for-china-b5c6ca86",
-          "bullets": [
-            [
-              "Zion Church pastor freed after 266 days, all charges dropped",
-              "Ezra Jin, detained in October among 28 total pastors, staff and church members, was released without confession required and credits Trump's diplomacy for securing his freedom."
-            ],
-            [
-              "Eight church members and other prisoners of conscience remain in detention",
-              "The author reports detainees sleep on floor mats in blistering heat in cramped cells, many leaving young families behind."
-            ],
-            [
-              "Jin calls for legalising house churches alongside state-run congregations",
-              "The author proposes recognising unofficial worship under the same dual-track model China applies to private industry alongside state-owned enterprises."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "society"
           ]
         },
         {
@@ -1218,6 +1197,88 @@ window.W28_2026 = {
           "related": [],
           "tags": [
             "ai"
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "slug": "geoecon",
+      "short": "Geoecon",
+      "label": "Geoeconomics: trade, tech, finance, investment",
+      "items": [
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "Christian NGO welcomes release of pastor held in southern China",
+          "date": "2026-07-05",
+          "url": "https://www.reuters.com/world/china/christian-ngo-welcomes-release-pastor-held-southern-china-2026-07-05",
+          "bullets": [
+            [
+              "Zion Church pastor Jin Mingri freed from Chinese detention",
+              "Jin arrived in Los Angeles on 5 July after being held in Beihai since October on charges of \"illegally using information networks.\""
+            ],
+            [
+              "Trump personally raised Jin's case with Xi Jinping in May 2026",
+              "A U.S. official confirmed the intervention; eight other Zion Church members remain detained in China."
+            ],
+            [
+              "China's illegal \"house churches\" hold tens of millions beyond state control",
+              "Official figures cite 44 million registered Christians, but NGOs estimate far more worship outside Communist Party-sanctioned institutions."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "us-cn",
+            "sanctions"
+          ]
+        },
+        {
+          "outlet": "NYT",
+          "author": "",
+          "title": "Inside 'Chinese Dreamcore,' Where Gen Z Relives a Brighter Past",
+          "date": "2026-07-05",
+          "url": "https://www.nytimes.com/interactive/2026/07/05/world/asia/china-nostalgia-dream-core.html",
+          "bullets": [
+            [
+              "Chinese Gen Z nostalgia trend tied to economic pessimism",
+              "Young Chinese share early-2000s imagery online to cope with falling wages and a dire job market, academics and artists say."
+            ],
+            [
+              "State media warns \"Chinese Dreamcore\" poses ideological risks",
+              "A Gansu provincial propaganda journal cited \"hidden ideological threats\" and risks to young people's \"healthy worldview and core values,\" the article reports."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "ideology",
+            "propaganda"
+          ]
+        },
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "How Xi Jinping Steamrolls Dissent With Tactics From Stalin and Mao",
+          "date": "2026-07-04",
+          "url": "https://www.wsj.com/world/china/xi-jinping-leadership-tactics-china-318b3413",
+          "bullets": [
+            [
+              "Xi purged three sitting Politburo members in six months",
+              "The largest cull at Politburo level since 1976, with defence, foreign affairs and agriculture ministers also removed, the article reports."
+            ],
+            [
+              "Xi eyes a fourth term with no viable successor identified",
+              "He repealed the two-term limit and delegates only to loyalists too old to be viable heirs, party insiders say."
+            ],
+            [
+              "Xi excluded outside experts from the latest five-year plan",
+              "Advisers accepted fewer suggestions from officials and foreign institutions - a break with post-Mao practice, per Asia Society Policy Institute analysis."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "society",
+            "ideology"
           ]
         }
       ]
@@ -1444,27 +1505,6 @@ window.W28_2026 = {
             [
               "Withdrawal coincides with enforcement of new Chinese rules on human-like AI",
               "Beijing's regulations governing persona-based AI services take effect on the same date as the platforms' service removal."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "ai"
-          ]
-        },
-        {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "China's leading chatbots to ditch AI personas as Beijing tightens rules",
-          "date": "2026-07-06",
-          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-leading-chatbots-to-ditch-ai-personas-as-beijing-tightens-rules",
-          "bullets": [
-            [
-              "Major Chinese platforms dropping AI persona features ahead of July 15 rules",
-              "Alibaba, ByteDance, Tencent and NetEase are disabling customised chatbot personas as new CAC regulations on anthropomorphic AI take effect."
-            ],
-            [
-              "New rules prohibit virtual intimate relationships for minors and require parental consent for under-14s",
-              "Under the CAC's broader four-month Qinglang crackdown launched in April, Shanghai took down ~3,500 noncompliant AI products; nationally more than 14,000 AI products have been removed."
             ]
           ],
           "related": [],
@@ -1711,31 +1751,6 @@ window.W28_2026 = {
           ]
         },
         {
-          "outlet": "Economist",
-          "author": "",
-          "title": "China may struggle to fund Xi Jinping’s tech ambitions - The Economist",
-          "date": "2026-07-09",
-          "url": "https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-ambitions",
-          "bullets": [
-            [
-              "China's public equity fundraising doubled to ~$32bn in 2026",
-              "Regulators re-opened the STAR market to loss-making tech startups after a two-year freeze, driving a broad IPO surge."
-            ],
-            [
-              "State tech fund capital surged 20-fold to 230bn yuan",
-              "Over 9,500 equity funds also launched in January to May 2026 - half again the year-earlier pace."
-            ],
-            [
-              "State-directed investing may hinder China's tech ambitions, the article argues",
-              "Government mandates make professional investors more cautious, leaving inefficient state banks as the primary source of frontier-technology capital."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "markets"
-          ]
-        },
-        {
           "outlet": "SCMP",
           "author": "",
           "title": "U.S.-China scientific decoupling: the hidden costs of geopolitical rivalry",
@@ -1938,34 +1953,30 @@ window.W28_2026 = {
           ]
         },
         {
-          "outlet": "Nikkei",
+          "outlet": "Bloomberg",
           "author": "",
-          "title": "China overtakes U.S. in fintech patent filings to seize global lead",
-          "date": "2026-07-07",
-          "url": "https://asia.nikkei.com/business/finance/china-overtakes-us-in-fintech-patent-filings-to-seize-global-lead",
+          "title": "China's top solar firm makes switch from silver to copper",
+          "date": "2026-07-09",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/china-s-top-solar-firm-makes-switch-from-silver-to-copper",
           "bullets": [
             [
-              "China claimed 38% of global fintech patents over the past decade",
-              "Filings surged 10-fold from the prior decade, when China had ranked third behind the US and South Korea."
+              "Longi's Shaanxi facility begins mass-producing copper-based solar cells",
+              "The plant makes Alloy Contact Matrix cells replacing silver to cut costs, with Longi reporting greater efficiency and a three-month startup."
             ],
             [
-              "Chinese companies swept the top five fintech patent rankings",
-              "ICBC led globally with 3,198 filings, with state-owned banks driving development alongside tech firms such as Tencent."
+              "Silver hit a record $121 per ounce in January",
+              "The solar sector, consuming 17% of global silver demand, has been racing to find cheaper alternatives to the precious metal."
+            ],
+            [
+              "Copper hit its own record highs as a substitute",
+              "The metal topped $14,000 a ton in May on ore shortages worldwide, highlighting pitfalls of switching materials when commodity prices remain volatile."
             ]
           ],
           "related": [],
           "tags": [
-            "semcon"
+            "energy"
           ]
-        }
-      ]
-    },
-    {
-      "number": "3b",
-      "slug": "trade",
-      "short": "Geoecon · Trade",
-      "label": "Geoeconomics — trade, finance & industrial policy",
-      "items": [
+        },
         {
           "outlet": "Nikkei",
           "author": "",
@@ -1986,28 +1997,6 @@ window.W28_2026 = {
           "tags": [
             "latam",
             "auto"
-          ]
-        },
-        {
-          "outlet": "Caixin",
-          "author": "",
-          "title": "China’s monthly auto exports top 1 million vehicles for first time",
-          "date": "2026-07-09",
-          "url": "https://www.caixinglobal.com/2026-07-10/chinas-monthly-auto-exports-top-1-million-vehicles-for-first-time-102462538.html",
-          "bullets": [
-            [
-              "China's auto exports exceeded 1 million monthly units for the first time",
-              "June shipments reached 1.04 million vehicles, up 75.1% year-on-year, according to the China Association of Automobile Manufacturers."
-            ],
-            [
-              "New-energy vehicles drove half the record total, surging 160% year-on-year",
-              "NEV shipments hit 523,000 units in June, as automakers accelerated overseas sales amid intensifying domestic market pressure."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "auto",
-            "energy"
           ]
         },
         {
@@ -2214,28 +2203,6 @@ window.W28_2026 = {
           ]
         },
         {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "China Regulator Is Keeping a Close Eye on Susquehanna Case",
-          "date": "2026-07-07",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-07/china-watchdog-monitoring-us-lawsuit-over-insider-trading-claims",
-          "bullets": [
-            [
-              "CSRC acknowledged US lawsuit alleging Chinese official involvement in insider trades",
-              "China's securities regulator said it would \"carry out relevant work\" but stopped short of opening a domestic probe into Susquehanna's claims."
-            ],
-            [
-              "Traders netted over $100 million from put options on Futu and Up Fintech ahead of May 22 crackdown",
-              "Susquehanna alleges material non-public information - possibly from Chinese regulators or broker employees - enabled the bets, with Citadel Securities separately reporting $28 million in losses from the same scheme."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "trade",
-            "industrial-policy"
-          ]
-        },
-        {
           "outlet": "Nikkei",
           "author": "",
           "title": "China buys 15 tons of gold in June as central banks build up reserves",
@@ -2333,28 +2300,6 @@ window.W28_2026 = {
           ]
         },
         {
-          "outlet": "Bloomberg",
-          "author": "",
-          "title": "China’s next soft-power export could be beauty",
-          "date": "2026-07-06",
-          "url": "https://www.bloomberg.com/opinion/articles/2026-07-06/china-s-next-soft-power-export-could-be-beauty",
-          "bullets": [
-            [
-              "C-beauty exports to ASEAN more than doubled over five years",
-              "Chinese cosmetics and personal-care brands have expanded aggressively into Southeast Asia, driven by domestic market saturation, according to BMI/Fitch Solutions data."
-            ],
-            [
-              "Joy Group's international sales surged 10-fold to $87 million in 2025",
-              "The Shanghai-based firm opened its first overseas stores in Singapore, with three of its top five overseas markets now in Southeast Asia."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "sea",
-            "trade"
-          ]
-        },
-        {
           "outlet": "Caixin",
           "author": "",
           "title": "Chinese brands tear up playbook for World Cup sponsorship",
@@ -2372,8 +2317,7 @@ window.W28_2026 = {
           ],
           "related": [],
           "tags": [
-            "trade",
-            "industrial-policy"
+            "semcon"
           ]
         },
         {
@@ -2555,6 +2499,171 @@ window.W28_2026 = {
             "trade",
             "investment"
           ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "Beijing is looking at curbing overseas access to China’s top AI models, sources say -- Reuters",
+          "date": "2026-07-09",
+          "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07",
+          "bullets": [
+            [
+              "MOFCOM held talks with top AI firms on model access curbs",
+              "Chinese authorities discussed restricting overseas access to advanced and unreleased domestic models, three sources told Reuters."
+            ],
+            [
+              "Officials discussed criminalising AI theft under national security law",
+              "Participants also considered restricting foreign funding of domestic AI startups, one source told Reuters."
+            ],
+            [
+              "Legal experts proposed a tiered AI export control framework",
+              "A Supreme People's Court journal roundtable summary recommended simple filings for basic tools and domestic-only restrictions on frontier models."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "ai",
+            "security",
+            "trade",
+            "export-controls"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "China lifts fuel export curbs for July, sources say",
+          "date": "2026-07-08",
+          "url": "https://www.reuters.com/business/energy/china-further-eases-fuel-export-curbs-july-sources-say-2026-07-08",
+          "bullets": [
+            [
+              "China lifted refined fuel export curbs for July",
+              "trade sources told Reuters, with planned shipments of roughly 3 million metric tons - matching last year's monthly average."
+            ],
+            [
+              "Zhejiang Petrochemical cleared to resume fuel exports",
+              "the private refiner had been banned from shipments for over three months under restrictions Beijing imposed in March."
+            ],
+            [
+              "Refiner export margins remain above 1,000 yuan per ton",
+              "FGE NexantECA analysts project gasoline exports to see more upside than diesel as EV adoption erodes domestic fuel demand."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "auto",
+            "trade"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
+          "date": "2026-07-08",
+          "url": "https://www.reuters.com/world/china/china-plans-let-top-ai-firms-buy-limited-amount-nvidia-h200-chips-information-2026-07-08",
+          "bullets": [
+            [
+              "China may permit H200 chip sales to top AI firms",
+              "Chinese officials told Alibaba, ByteDance and DeepSeek they may soon receive permission to buy Nvidia's advanced chips, the Information reported."
+            ],
+            [
+              "Approved volume may fall below 200,000 chips total",
+              "The figure represents less than half of what the companies requested earlier this year, and Beijing has not yet finalised the number."
+            ],
+            [
+              "Nvidia's China market share has effectively fallen to zero",
+              "CEO Jensen Huang said in October that U.S. export controls and Beijing's push for self-reliance had eliminated the company's foothold."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "trade",
+            "export-controls"
+          ]
+        },
+        {
+          "outlet": "SCMP",
+          "author": "",
+          "title": "As its firms look overseas, China overtakes US to become top foreign investor in Germany",
+          "date": "2026-05-22",
+          "url": "https://www.scmp.com/economy/china-economy/article/3354505/its-firms-look-overseas-china-overtakes-us-become-top-foreign-investor-germany",
+          "bullets": [
+            [
+              "China surpassed the US in greenfield FDI projects in Germany",
+              "GTAI's annual report recorded 228 Chinese greenfield and expansion projects last year, against 206 from the United States."
+            ],
+            [
+              "Germany's total FDI fell 9.3% amid global trade uncertainty",
+              "GTAI attributed the decline to company caution over tariffs and trade conflicts, describing Germany's drop as moderate by European standards."
+            ],
+            [
+              "Merz urged Chinese investment during his February Beijing visit",
+              "He called on Chinese firms to invest in automotive, machinery, chemicals and electromobility, saying Germany had spent months improving its investment climate."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "de-cn",
+            "auto",
+            "climate",
+            "trade",
+            "investment"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "From factory to tech frontier: China becomes legacy automakers' innovation engine",
+          "date": "2026-07-08",
+          "url": "https://www.reuters.com/business/autos-transportation/factory-tech-frontier-china-becomes-legacy-automakers-innovation-engine-2026-07-07",
+          "bullets": [
+            [
+              "GM to use China-developed Buick platform for global Cadillac model",
+              "The Electra E7's Xiao Yao platform, built by SAIC-GM engineers in Shanghai, will replace GM's Detroit-developed Ultium system in the next Cadillac Optiq."
+            ],
+            [
+              "Germany's auto R&D in China tripled to 33% in two years",
+              "The German Chamber of Commerce reports the increase as automakers leverage China's growing advantage in EV powertrains and software technology."
+            ],
+            [
+              "Executives and analysts cite branding, cultural, and political risks",
+              "Gartner's Pacheco says shifting R&D to China risks weakening home supplier ecosystems and can be perceived politically as a strategic loss."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "de-cn",
+            "auto"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "China's DeepSeek developing its own AI chip, sources say",
+          "date": "2026-07-07",
+          "url": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07",
+          "bullets": [
+            [
+              "DeepSeek developing inference chip to reduce hardware dependence",
+              "Reuters sources say the Hangzhou startup began the effort about a year ago, privately recruiting chip engineers and holding discussions with foundry and memory companies."
+            ],
+            [
+              "U.S. export controls constrain DeepSeek's chip manufacturing options",
+              "The company is barred from accessing advanced overseas foundries and faces separate curbs on high-bandwidth memory - a component critical to AI inference chips, the article reports."
+            ],
+            [
+              "Huawei holds roughly half of China's $50 billion AI chip market",
+              "U.S. export bans on Nvidia helped Huawei gain that position, but its share is already weakening as Alibaba and Baidu develop competing in-house chips."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "semcon",
+            "ai",
+            "trade",
+            "export-controls"
+          ]
         }
       ]
     },
@@ -2580,33 +2689,22 @@ window.W28_2026 = {
               "Australia, New Zealand, and the Philippines condemned the launch, while Japan, South Korea, and Australia are all pursuing nuclear-powered submarines to track Chinese ballistic missile subs."
             ]
           ],
-          "related": [],
+          "related": [
+            {
+              "text": "NYT: Why China Fired a Long-Range Missile Into the Pacific",
+              "url": "https://www.nytimes.com/2026/07/07/world/asia/china-missile-test-submarine-pacific.html"
+            },
+            {
+              "text": "NYT: China Tests Long-Range Ballistic Missile in the Pacific, Angering Neighbors",
+              "url": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html"
+            },
+            {
+              "text": "WSJ: Chinese Nuclear Submarine Test-Launches Long-Range Missile",
+              "url": "https://www.wsj.com/world/china/chinese-nuclear-submarine-test-launches-long-range-missile-49923882"
+            }
+          ],
           "tags": [
             "jp-cn",
-            "sea",
-            "mil-tech",
-            "nuclear"
-          ]
-        },
-        {
-          "outlet": "NYT",
-          "author": "",
-          "title": "Why China Fired a Long-Range Missile Into the Pacific",
-          "date": "2026-07-07",
-          "url": "https://www.nytimes.com/2026/07/07/world/asia/china-missile-test-submarine-pacific.html",
-          "bullets": [
-            [
-              "China conducted its first-ever Pacific submarine-launched ballistic missile test",
-              "The missile flew over 4,300 miles from Chinese coastal waters, landing northeast of the Solomon Islands - only China's second Pacific ballistic missile test since 1980, the New York Times reports."
-            ],
-            [
-              "Test reflects China's drive to close its sea-based nuclear gap",
-              "Experts say more Pacific tests are likely as Beijing races to match U.S. and Russian submarine nuclear standards and complete a full nuclear triad."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "ru-cn",
             "sea",
             "mil-tech",
             "nuclear"
@@ -2633,62 +2731,6 @@ window.W28_2026 = {
             "jp-cn",
             "mil-tech",
             "pla",
-            "nuclear"
-          ]
-        },
-        {
-          "outlet": "NYT",
-          "author": "",
-          "title": "China Tests Long-Range Ballistic Missile in the Pacific, Angering Neighbors",
-          "date": "2026-07-06",
-          "url": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
-          "bullets": [
-            [
-              "China test-fired a submarine-launched ICBM into the Pacific",
-              "Xinhua confirmed the Monday launch from a nuclear-powered submarine, with a mock warhead landing \"accurately in the designated area.\""
-            ],
-            [
-              "Australia, New Zealand and Japan publicly condemned the launch",
-              "Foreign ministers from all three countries cited the test as part of China's rapid and non-transparent military buildup, calling it destabilising to the region."
-            ],
-            [
-              "Scholar assesses test as marking a new era of Chinese ICBM launches",
-              "Jeffrey Lewis of Middlebury College said Beijing appears willing to absorb the political costs of more frequent testing, likely including the new submarine-launched JL-3 missile."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "mil-tech",
-            "nuclear",
-            "diplomacy",
-            "propaganda"
-          ]
-        },
-        {
-          "outlet": "WSJ",
-          "author": "",
-          "title": "Chinese Nuclear Submarine Test-Launches Long-Range Missile",
-          "date": "2026-07-06",
-          "url": "https://www.wsj.com/world/china/chinese-nuclear-submarine-test-launches-long-range-missile-49923882",
-          "bullets": [
-            [
-              "China fired a submarine-launched ballistic missile into the South Pacific",
-              "Beijing called it routine annual training not targeting any country; analysts said the weapon was likely a nuclear-capable JL-2 or JL-3."
-            ],
-            [
-              "Australia and Japan condemned the launch as regionally destabilizing",
-              "Canberra cited China's \"rapid military buildup lacking transparency,\" while Tokyo raised \"serious concern\" in a joint cabinet statement."
-            ],
-            [
-              "Test ends China's restraint on Pacific-range submarine missile launches",
-              "Analyst Tianran Xu called the South Pacific trajectory - departing from prior desert testing norms - \"a show of strength or signaling.\""
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "mil-tech",
             "nuclear"
           ]
         },
@@ -2720,34 +2762,6 @@ window.W28_2026 = {
             "mil-tech",
             "pla",
             "maritime"
-          ]
-        },
-        {
-          "outlet": "The Diplomat",
-          "author": "",
-          "title": "What did China’s missile test have to do with the Marco Polo bridge incident?",
-          "date": "2026-07-09",
-          "url": "https://thediplomat.com/2026/07/what-did-chinas-missile-test-have-to-do-with-the-marco-polo-bridge-incident",
-          "bullets": [
-            [
-              "CASC linked the SLBM test to the Marco Polo Bridge Incident on Weibo",
-              "Its graphic paired wartime resistance imagery with the July 6 missile launch under a national rejuvenation slogan."
-            ],
-            [
-              "State media kept distance from anniversary links, the article argues",
-              "Online nationalist commentary instead connected the timing, amplifying the CCP's narrative of China's rise from historical humiliation."
-            ],
-            [
-              "Liaoning's September 2024 transit near Japan coincided with the Mukden Incident anniversary",
-              "State media framed the passage as routine training; online nationalists treated the timing as proof of China's military edge over Japan."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "jp-cn",
-            "mil-tech",
-            "ideology",
-            "propaganda"
           ]
         },
         {
@@ -2894,31 +2908,6 @@ window.W28_2026 = {
             "jp-cn",
             "twn",
             "hk"
-          ]
-        },
-        {
-          "outlet": "Nikkei",
-          "author": "",
-          "title": "Tibetan activists chain themselves to UN gates after fatal self-immolation",
-          "date": "2026-07-10",
-          "url": "https://asia.nikkei.com/politics/tibetan-activists-chain-themselves-to-un-gates-after-fatal-self-immolation",
-          "bullets": [
-            [
-              "Three Tibetan protesters arrested at UN gates in New York",
-              "Police detained them after they blocked traffic, following activist Lobsang Palden's fatal self-immolation at the same site the previous week."
-            ],
-            [
-              "China's ethnic unity law extends legal liability to diaspora",
-              "The legislation, which took effect last week, makes anyone abroad accountable for \"undermining ethnic unity\" and mandates Mandarin instruction in schools."
-            ],
-            [
-              "US and EU flag risks of the law's extraterritorial scope",
-              "Human rights groups warn Beijing could use the legislation to target diaspora activists and seek their extradition."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "human-rights"
           ]
         },
         {
@@ -3298,6 +3287,156 @@ window.W28_2026 = {
           "tags": [
             "society"
           ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "expressed alarm",
+          "date": "2026-07-07",
+          "url": "https://www.reuters.com/world/china/china-test-fires-missile-into-pacific-alarming-regional-powers-2026-07-06",
+          "bullets": [
+            [
+              "China test-fired a submarine-launched ballistic missile into the Pacific",
+              "Beijing described it as routine annual training not directed at any country and urged other governments not to over-interpret the launch."
+            ],
+            [
+              "Australia, Japan and New Zealand received only short advance notice",
+              "The test coincided with Australia and Fiji signing a mutual defence pact; all four regional powers expressed concern or criticism of the launch."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "jp-cn",
+            "mil-tech"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "Philippines rejects Chinese scholars’ claim over its island province near Taiwan | Reuters",
+          "date": "2026-07-09",
+          "url": "https://www.reuters.com/world/china/philippines-rejects-chinese-scholars-claim-over-its-island-province-near-taiwan-2026-07-09",
+          "bullets": [
+            [
+              "Philippines defence chief dismissed Chinese scholars' claim over Batanes province as \"ludicrous\"",
+              "Teodoro called the assertion - that Batanes is a natural extension of Taiwan and belongs to China - \"baseless\" and \"concerning.\""
+            ],
+            [
+              "Chinese academics argued at a June 30 symposium that Batanes belongs to China",
+              "Scholars from institutions including Nanjing University made the claim, reported by state-run GDToday; Beijing has not formally endorsed the position."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "twn",
+            "sea",
+            "cn-discourse"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "US criticizes China for short notice ahead of missile test",
+          "date": "2026-07-09",
+          "url": "https://www.reuters.com/business/aerospace-defense/china-gave-little-notice-detail-us-before-july-6-missile-test-state-dept-2026-07-08",
+          "bullets": [
+            [
+              "China gave the US only hours' notice before SLBM test",
+              "A State Department official said the warning fell \"considerably short\" of standards observed by all other P5 nuclear-weapon states."
+            ],
+            [
+              "Beijing called US criticism \"double standards and hegemonism\"",
+              "China's foreign ministry said Washington conducts its own annual submarine launches and has no standing to criticise China's routine tests."
+            ],
+            [
+              "Missile likely the JL-3, China's most advanced SLBM",
+              "State media, citing a military expert, said the weapon can reach the continental US from Chinese coastal waters."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "mil-tech",
+            "nuclear",
+            "propaganda"
+          ]
+        },
+        {
+          "outlet": "The Atlantic",
+          "author": "",
+          "title": "China Is Abusing AI",
+          "date": "2026-07-07",
+          "url": "https://www.theatlantic.com/international/2026/07/xi-jinping-censorship-ai-training/687696",
+          "bullets": [
+            [
+              "OpenAI linked Chinese provincial-government accounts to US-targeted propaganda",
+              "Users allegedly used ChatGPT to generate polarising English-language content opposing American AI infrastructure construction, OpenAI reported."
+            ],
+            [
+              "Chinese operatives sought ChatGPT assistance to discredit Japan's prime minister",
+              "OpenAI described a sustained operation with hundreds of staff and thousands of fake accounts targeting critics of China globally."
+            ],
+            [
+              "Nature study finds Chinese state media biases AI chatbots",
+              "DeepSeek favoured China over ChatGPT 99% of the time; both gave more positive China responses in Chinese than in English."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "jp-cn",
+            "ai",
+            "propaganda"
+          ]
+        },
+        {
+          "outlet": "WSJ",
+          "author": "",
+          "title": "China Releases Imprisoned Pastor Ezra Jin After U.S. Pressure",
+          "date": "2026-07-05",
+          "url": "https://www.wsj.com/world/china/china-releases-imprisoned-pastor-ezra-jin-after-u-s-pressure-340d6d08",
+          "bullets": [
+            [
+              "China freed underground church pastor Ezra Jin following U.S. diplomatic pressure",
+              "Jin, 57, arrived in Los Angeles on Friday after nearly nine months in detention, his family confirmed."
+            ],
+            [
+              "Nine other Zion Church members also released on bail in recent weeks",
+              "Of 18 church-affiliated detainees held at the time of Trump's May Beijing summit, Jin and nine others have since been freed, according to his family and ChinaAid."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "diplomacy"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "Missile test showcases sensitive Chinese submarine capabilities key to nuclear deterrent",
+          "date": "2026-07-10",
+          "url": "https://www.reuters.com/business/aerospace-defense/missile-test-showcases-sensitive-chinese-submarine-capabilities-key-nuclear-2026-07-10",
+          "bullets": [
+            [
+              "China tested an SLBM from a Type-094 nuclear submarine",
+              "Beijing called it a routine drill; analysts say the exercise also evaluated command and control of nuclear-armed submarines operating undetected."
+            ],
+            [
+              "JL-3 missile range limits SSBN reach without exposing submarines to detection",
+              "To threaten the U.S. mainland, submarines must transit beyond the South China Sea - risking exposure to rival navies, analysts say."
+            ],
+            [
+              "Bulletin of the Atomic Scientists questions nuclear warhead deployment on SSBNs",
+              "The study notes Xi Jinping's purge of PLA rocket force leaders makes warhead handover to the military \"unlikely under normal circumstances.\""
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "sea",
+            "mil-tech",
+            "corruption",
+            "pla",
+            "nuclear",
+            "maritime"
+          ]
         }
       ]
     },
@@ -3387,35 +3526,6 @@ window.W28_2026 = {
             "macro",
             "trade",
             "export-controls"
-          ]
-        },
-        {
-          "outlet": "NYT",
-          "author": "",
-          "title": "Opinion: The American Economy Isn’t as Bad as You Might Think",
-          "date": "2026-07-08",
-          "url": "https://www.nytimes.com/2026/07/08/opinion/american-economy-decline-china-europe.html",
-          "bullets": [
-            [
-              "Authors argue US still leads China and Europe economically",
-              "Sarin and Wang conclude America remains the \"cleanest shirt,\" citing AI lab dominance, deep capital markets, and immigrant entrepreneurship as durable advantages."
-            ],
-            [
-              "China's property crash and fertility crisis suppress consumer confidence",
-              "Property values have fallen roughly one-third from peak; the fertility rate stands at 1.0 against 1.6-1.7 in the US, Wang reports from a recent visit."
-            ],
-            [
-              "Authors warn US structural advantages face mounting risks",
-              "Immigration restrictions, rule-of-law erosion, and China's rare-earth leverage during tariff retaliation are cited as threats to America's competitive position."
-            ]
-          ],
-          "related": [],
-          "tags": [
-            "ai",
-            "rare-earths",
-            "property",
-            "society",
-            "trade"
           ]
         },
         {
@@ -3652,7 +3762,7 @@ window.W28_2026 = {
             ],
             [
               "Chinese state financing of $1.2 billion backed Nuctech's global rollout",
-              "AidData recorded 66 grant and loan commitments from 2000 to 2024, funding scanner purchases and installations across more than 170 countries."
+              "AidData recorded 66 grant and loan commitments from Chinese state-owned lenders and aid agencies from 2000 to 2024, funding Nuctech scanner purchases and installations at airports and seaports across more than 170 countries."
             ]
           ],
           "related": [],

@@ -21,356 +21,326 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-09",
             "title": "Mindestens 28 Tote bei Brand in Schuhfabrik in China"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Johann Wadephul",
-          "text": "Bundesaußenminister, CDU nennt am Donnerstag die Erkenntnisse zur militärischen Kooperation zwischen Russland und China „äußerst besorgniserregend\".",
+          "text": "Bundesaußenminister, CDU nennt am Donnerstag die Erkenntnisse zur militärischen Kooperation zwischen Russland und China „äußerst besorgniserregend“.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "WELT",
             "date": "2026-07-09",
             "title": "Geheimdokumente deuten auf engere Zusammenarbeit Russlands und Chinas hin – Wadephul besorgt"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Dorothee Bär",
-          "text": "Bundesforschungsministerin, CSU sagt am Mittwoch in Potsdam: „Wir haben Partner. Wir haben Wettbewerber. Wir haben Systemrivalen\" – „China ist das eklatanteste Beispiel\"; „Wissenschaftsfreiheit bedeutet nicht Spionagefreiheit\".",
+          "text": "Bundesforschungsministerin, CSU sagt am Mittwoch in Potsdam: „Wir haben Partner. Wir haben Wettbewerber. Wir haben Systemrivalen“ – „China ist das eklatanteste Beispiel“; „Wissenschaftsfreiheit bedeutet nicht Spionagefreiheit“.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-08",
             "title": "Ministerin Bär äußert sich erstmals zur China-Affäre"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Penny Wong",
-          "text": "Außenministerin, Australien nennt am Montag in Fidschi Chinas Raketentest im Pazifik „destabilisierend für die Region\", der „vor dem Hintergrund eines raschen militärischen Aufrüstungsprozesses Chinas\" erfolge.",
+          "text": "Außenministerin, Australien nennt am Montag in Fidschi Chinas Raketentest im Pazifik „destabilisierend für die Region“, der „vor dem Hintergrund eines raschen militärischen Aufrüstungsprozesses Chinas“ erfolge.",
           "source": {
             "outlet": "Spiegel",
             "outletDisplay": "Der Spiegel",
             "date": "2026-07-06",
             "title": "China testet Raketenstart von Atom-U-Boot im Südpazifik"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Winston Peters",
-          "text": "Außenminister, Neuseeland erklärt am Montag, er sei „tief besorgt\" über Chinas Raketentest, der „einem wiederkehrenden Muster\" folge: „Wir wie unsere Nachbarn in anderen Pazifikstaaten haben kein Interesse daran, dass China den Südpazifik als Testgebiet für seine Raketenfähigkeiten nutzt.\".",
+          "text": "Außenminister, Neuseeland erklärt am Montag, er sei „tief besorgt“ über Chinas Raketentest, der „einem wiederkehrenden Muster“ folge: „Wir wie unsere Nachbarn in anderen Pazifikstaaten haben kein Interesse daran, dass China den Südpazifik als Testgebiet für seine Raketenfähigkeiten nutzt.“",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "FAZ.NET",
             "date": "2026-07-06",
             "title": "Chinesisches Atom-U-Boot feuert Langstreckenrakete ab"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Justin Tkatchenko",
-          "text": "Außenminister, Papua-Neuguinea sagt am Montag zu Chinas vorab angekündigtem Raketentest im Pazifik: „Ich wurde persönlich vom chinesischen Botschafter angerufen\".",
+          "text": "Außenminister, Papua-Neuguinea sagt am Montag zu Chinas vorab angekündigtem Raketentest im Pazifik: „Ich wurde persönlich vom chinesischen Botschafter angerufen“.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "WELT",
             "date": "2026-07-06",
             "title": "China testet Interkontinentalrakete im Pazifik – und startet Marinemanöver mit Russland"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Mao Ning",
-          "text": "Sprecherin, Außenministerium der Volksrepublik China weist am Montag in Peking Berichte über die Ausbildung russischer Soldaten in China als „reine Verleumdung ohne jede faktische Grundlage\" zurück und fordert Deutschland auf, Chinas Position „objektiv und rational\" zu betrachten; China habe „stets eine objektive und unparteiische Position vertreten, sich der Förderung einer politischen Lösung der Krise verpflichtet gezeigt und weiterhin auf eigene Weise zu Friedensgesprächen ermutigt\".",
+          "text": "Sprecherin, Außenministerium der Volksrepublik China weist am Montag in Peking Berichte über die Ausbildung russischer Soldaten in China als „reine Verleumdung ohne jede faktische Grundlage“ zurück und fordert Deutschland auf, Chinas Position „objektiv und rational“ zu betrachten; China habe „stets eine objektive und unparteiische Position vertreten, sich der Förderung einer politischen Lösung der Krise verpflichtet gezeigt und weiterhin auf eigene Weise zu Friedensgesprächen ermutigt“.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-06",
             "title": "China weist Berichte über Ausbildung russischer Soldaten zurück"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Tommy Pigott",
-          "text": "Sprecher, US-Außenministerium sagt am Dienstag in Washington: „In einer Zeit, in der die Vereinigten Staaten mehr denn je daran arbeiten, die Verbreitung von Atomwaffen zu verhindern, tut China genau das Gegenteil\" – „Pekings rascher und intransparenter Atomwaffenausbau ist von großer Besorgnis für die Region und die Welt.\".",
+          "text": "Sprecher, US-Außenministerium sagt am Dienstag in Washington: „In einer Zeit, in der die Vereinigten Staaten mehr denn je daran arbeiten, die Verbreitung von Atomwaffen zu verhindern, tut China genau das Gegenteil“ – „Pekings rascher und intransparenter Atomwaffenausbau ist von großer Besorgnis für die Region und die Welt.“",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "ZEIT ONLINE",
             "date": "2026-07-07",
             "title": "USA reagieren mit »großer Besorgnis« auf chinesischen Raketentest"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Rahm Emanuel",
-          "text": "US-Demokrat, möglicher Präsidentschaftskandidat 2028 fordert am Freitag im WELT-Interview in Berlin, Europa müsse „Resilienz aufbauen, gemeinsame Forschung in Robotik, KI, Quantencomputing und Fusionstechnologie betreiben, um China voraus zu sein\".",
+          "text": "US-Demokrat, möglicher Präsidentschaftskandidat 2028 fordert am Freitag im WELT-Interview in Berlin, Europa müsse „Resilienz aufbauen, gemeinsame Forschung in Robotik, KI, Quantencomputing und Fusionstechnologie betreiben, um China voraus zu sein“.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "WELT",
             "date": "2026-07-10",
             "title": "Die Nato muss fähig sein, konventionelle und unkonventionelle Kriege gleichzeitig zu führen"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Anne Applebaum",
-          "text": "US-Historikerin, Friedenspreisträgerin des Deutschen Buchhandels sagt am Freitag der „Süddeutschen Zeitung\", die europäische Souveränität stehe „unter großem Druck durch die USA, Russland und in wirtschaftlicher Hinsicht auch durch China\".",
+          "text": "US-Historikerin, Friedenspreisträgerin des Deutschen Buchhandels sagt am Freitag der „Süddeutschen Zeitung“, die europäische Souveränität stehe „unter großem Druck durch die USA, Russland und in wirtschaftlicher Hinsicht auch durch China“.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "WELT",
             "date": "2026-07-10",
             "title": "Könnte das Mitte-rechts-Spektrum diskreditieren – Anne Applebaum warnt vor CDU/AfD-Koalition"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Jens Eskelund",
-          "text": "Präsident, Europäische Handelskammer in China sagt am Dienstag in Peking zu Europas Abhängigkeit von China: „Das sehen wir nicht. Wenn überhaupt, wird Europa gerade abhängiger von China\".",
+          "text": "Präsident, Europäische Handelskammer in China sagt am Dienstag in Peking zu Europas Abhängigkeit von China: „Das sehen wir nicht. Wenn überhaupt, wird Europa gerade abhängiger von China“.",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
             "date": "2026-07-07",
             "title": "Deutschland hat die größte Abhängigkeit von China"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Jens Eskelund",
-          "text": "Präsident, Europäische Handelskammer in China sagt am Dienstag in Peking zu Pekings Exportkontrollen für Seltene Erden, „fast 44 Prozent unserer großen Mitgliedsunternehmen, die mehr als tausend Beschäftigte haben, waren davon betroffen. Einige haben erhebliche Verluste erlitten\".",
+          "text": "Präsident, Europäische Handelskammer in China sagt am Dienstag in Peking zu Pekings Exportkontrollen für Seltene Erden, „fast 44 Prozent unserer großen Mitgliedsunternehmen, die mehr als tausend Beschäftigte haben, waren davon betroffen. Einige haben erhebliche Verluste erlitten“.",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
             "date": "2026-07-07",
             "title": "Deutschland hat die größte Abhängigkeit von China"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Wang Xuemeng",
-          "text": "Sprecher, chinesische Marine erklärt am Montag im Onlinedienst WeChat, die mit einem „Übungsgefechtskopf\" ausgestattete Rakete sei „präzise im vorgesehenen Seegebiet\" im Pazifik eingeschlagen und Teil der „jährlichen militärischen Übungen Chinas\".",
+          "text": "Sprecher, chinesische Marine erklärt am Montag im Onlinedienst WeChat, die mit einem „Übungsgefechtskopf“ ausgestattete Rakete sei „präzise im vorgesehenen Seegebiet“ im Pazifik eingeschlagen und Teil der „jährlichen militärischen Übungen Chinas“.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "WELT",
             "date": "2026-07-06",
             "title": "China testet Interkontinentalrakete im Pazifik – und startet Marinemanöver mit Russland"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Johannes Volkmann",
-          "text": "CDU-Bundestagsabgeordneter, CDU-Vorstand sagt am Dienstag zum Systemwettbewerb mit China: „Bestehen wir den Systemwettbewerb?\"; „So viel Bürokratie können wir gar nicht abbauen, so viele Steuern können wir gar nicht senken, so viele Nebenkosten können wir nicht reduzieren, um diesen unfairen Vorteil auszugleichen\".",
+          "text": "CDU-Bundestagsabgeordneter, CDU-Vorstand sagt am Dienstag zum Systemwettbewerb mit China: „Bestehen wir den Systemwettbewerb?“; „So viel Bürokratie können wir gar nicht abbauen, so viele Steuern können wir gar nicht senken, so viele Nebenkosten können wir nicht reduzieren, um diesen unfairen Vorteil auszugleichen“.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "FAZ.NET",
             "date": "2026-07-07",
             "title": "Bestehen wir den Systemwettbewerb?"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Anton Hofreiter",
-          "text": "Vorsitzender Europaausschuss, Bündnis 90/Die Grünen sagt am Dienstag, China habe als autokratisches System erstmals „Kapitalismus mit Langfristdenken verheiratet\"; er schlägt „atmenden Zöllen\" vor, die je nach Chinas unfairen Praktiken steigen oder sinken könnten.",
+          "text": "Vorsitzender Europaausschuss, Bündnis 90/Die Grünen sagt am Dienstag, China habe als autokratisches System erstmals „Kapitalismus mit Langfristdenken verheiratet“; er schlägt „atmenden Zöllen“ vor, die je nach Chinas unfairen Praktiken steigen oder sinken könnten.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "FAZ.NET",
             "date": "2026-07-07",
             "title": "Bestehen wir den Systemwettbewerb?"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Janka Oertel",
-          "text": "Asien-Direktorin, European Council on Foreign Relations sagt am Dienstag, im Systemwettbewerb mit China gehe es „um unsere industriell - wirtschaftliche Zukunft und um die Jobs unserer Kinder\".",
+          "text": "Asien-Direktorin, European Council on Foreign Relations sagt am Dienstag, im Systemwettbewerb mit China gehe es „um unsere industriell - wirtschaftliche Zukunft und um die Jobs unserer Kinder“.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "FAZ.NET",
             "date": "2026-07-07",
             "title": "Bestehen wir den Systemwettbewerb?"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Ayse Asar",
-          "text": "forschungspolitische Sprecherin, Bündnis 90/Die Grünen sagt am Mittwoch im Bundestags-Forschungsausschuss zur Chinaverbindung des Cispa: „Der heutige Bericht der Bundesregierung hat jedoch mehr Fragen offengelassen als beantwortet\"; „Der Cispa-Fall ist ein Stresstest für die deutsche Forschungssicherheit\".",
+          "text": "forschungspolitische Sprecherin, Bündnis 90/Die Grünen sagt am Mittwoch im Bundestags-Forschungsausschuss zur Chinaverbindung des Cispa: Der heutige Bericht der Bundesregierung hat jedoch mehr Fragen offengelassen als beantwortet; Der Cispa-Fall ist ein Stresstest für die deutsche Forschungssicherheit.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-09",
             "title": "Ministerin Bär äußert sich zur China-Affäre"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Christoph M. Schmidt",
-          "text": "Präsident, Leibniz-Gemeinschaft sagt am Dienstag dem Handelsblatt, internationale Offenheit der Wissenschaft bleibe „unverzichtbar\"; „Sie muss aber stärker als früher gegen die Risiken des Wissensabflusses und des Missbrauchs abgewogen werden\".",
+          "text": "Präsident, Leibniz-Gemeinschaft sagt am Dienstag dem Handelsblatt, internationale Offenheit der Wissenschaft bleibe „unverzichtbar“; „Sie muss aber stärker als früher gegen die Risiken des Wissensabflusses und des Missbrauchs abgewogen werden“.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-07",
             "title": "Spitzenforscher fordern Maßnahmen gegen Wissenschaftsspionage"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Holger Hanselka",
-          "text": "Präsident, Fraunhofer-Gesellschaft fordert am Dienstag im Umgang mit sensiblen China-Kooperationen „belastbare Leitlinien, um Risiken faktenbasiert bewerten zu können\" sowie „klare Kriterien und Rechtssicherheit für die Bewertung sensibler Technologien\".",
+          "text": "Präsident, Fraunhofer-Gesellschaft fordert am Dienstag im Umgang mit sensiblen China-Kooperationen „belastbare Leitlinien, um Risiken faktenbasiert bewerten zu können“ sowie „klare Kriterien und Rechtssicherheit für die Bewertung sensibler Technologien“.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-07",
             "title": "Spitzenforscher fordern Maßnahmen gegen Wissenschaftsspionage"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Jürgen Matthes",
-          "text": "Institut der deutschen Wirtschaft, IW Köln sagt am Samstag in WELT AM SONNTAG: „China bietet seine Produkte oft für 50 bis 60 Prozent unserer Preise an\"; das sei „volkswirtschaftlich unplausibel\"; „China ist besser geworden und billiger. Da stimmt etwas nicht.\".",
+          "text": "Institut der deutschen Wirtschaft, IW Köln sagt am Samstag in WELT AM SONNTAG: „China bietet seine Produkte oft für 50 bis 60 Prozent unserer Preise an“; das sei „volkswirtschaftlich unplausibel“; „China ist besser geworden und billiger. Da stimmt etwas nicht.“",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "WELT",
             "date": "2026-07-04",
             "title": "Appell an Regierung Merz – Ökonomen warnen vor Chinas Aggression"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Jürgen Matthes",
-          "text": "Institut der deutschen Wirtschaft, IW Köln fordert am Samstag, unfaire Preisvorteile aus Subventionen und künstlich schwacher Währung zu quantifizieren und mit Zöllen auszugleichen: „Ausgleichszölle, die nur den unfairen Teil herausnehmen, haben nichts mit Protektionismus zu tun, sondern sind im Kern gute Wettbewerbspolitik\".",
+          "text": "Institut der deutschen Wirtschaft, IW Köln fordert am Samstag, unfaire Preisvorteile aus Subventionen und künstlich schwacher Währung zu quantifizieren und mit Zöllen auszugleichen: „Ausgleichszölle, die nur den unfairen Teil herausnehmen, haben nichts mit Protektionismus zu tun, sondern sind im Kern gute Wettbewerbspolitik“.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "WELT",
             "date": "2026-07-04",
             "title": "Appell an Regierung Merz – Ökonomen warnen vor Chinas Aggression"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Alicia García-Herrero",
-          "text": "Chefökonomin Asien-Pazifik, Natixis; Senior Fellow, Bruegel sagt am Donnerstag zu Pekings neuer Meldepflicht gegen Kapitalflucht: „Die Maßnahmen stopfen ein großes Leck und setzen ein starkes Signal, doch sie werden nicht den gesamten Druck beseitigen\"; ein Großteil der Abflüsse erfolge „über Untergrundkanäle oder durch manipulierte Rechnungsstellung\".",
+          "text": "Chefökonomin Asien-Pazifik, Natixis; Senior Fellow, Bruegel sagt am Donnerstag zu Pekings neuer Meldepflicht gegen Kapitalflucht: „Die Maßnahmen stopfen ein großes Leck und setzen ein starkes Signal, doch sie werden nicht den gesamten Druck beseitigen“; ein Großteil der Abflüsse erfolge „über Untergrundkanäle oder durch manipulierte Rechnungsstellung“.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "FAZ.NET",
             "date": "2026-07-09",
             "title": "China kämpft gegen die chinesische Kapitalflucht"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Sonali Chowdhry",
-          "text": "Ökonomin, Deutsches Institut für Wirtschaftsforschung, DIW Berlin sagt am Mittwoch zu geplanten US-Hafengebühren auf in China gebaute Schiffe: „Die Hafengebühren auf in China gebaute Schiffe sind eine neue Eskalationsstufe im Handelskonflikt\". „Erstmals geraten nicht nur Waren, sondern auch die Transportmittel selbst ins Visier.\".",
+          "text": "Ökonomin, Deutsches Institut für Wirtschaftsforschung, DIW Berlin sagt am Mittwoch zu geplanten US-Hafengebühren auf in China gebaute Schiffe: „Die Hafengebühren auf in China gebaute Schiffe sind eine neue Eskalationsstufe im Handelskonflikt“. „Erstmals geraten nicht nur Waren, sondern auch die Transportmittel selbst ins Visier.“",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-08",
             "title": "Deutschland profitiert von US-Hafengebühren gegen Chinas Schiffe"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Björn Alexander Düben",
-          "text": "Politikwissenschaftler, Hertie School Berlin sagt am Freitag im SPIEGEL-Interview: „Russland ist in den vergangenen Jahren immer abhängiger von China geworden.\"; „China hat Russland genau dort, wo es Russland haben möchte.\".",
+          "text": "Politikwissenschaftler, Hertie School Berlin sagt am Freitag im SPIEGEL-Interview: „Russland ist in den vergangenen Jahren immer abhängiger von China geworden.“; „China hat Russland genau dort, wo es Russland haben möchte.“",
           "source": {
             "outlet": "Spiegel",
             "outletDisplay": "Der Spiegel",
             "date": "2026-07-10",
             "title": "China hat Russland genau dort, wo es Russland haben möchte"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Wendy Chang",
-          "text": "Senior Analyst, Mercator Institute for China Studies, MERICS sagt am Mittwoch dem Handelsblatt zu Chinas wachsender KI-Verbreitung im globalen Süden: „Wir können daher mit einer weiter zunehmenden weltweiten Nutzung rechnen – zumal sich chinesische Modelle weiter verbessern\"; allerdings „könnten Bedenken hinsichtlich der Datensicherheit ihre Verbreitung in anderen Märkten begrenzen\".",
+          "text": "Senior Analyst, Mercator Institute for China Studies, MERICS sagt am Mittwoch dem Handelsblatt zu Chinas wachsender KI-Verbreitung im globalen Süden: „Wir können daher mit einer weiter zunehmenden weltweiten Nutzung rechnen – zumal sich chinesische Modelle weiter verbessern“; allerdings „könnten Bedenken hinsichtlich der Datensicherheit ihre Verbreitung in anderen Märkten begrenzen“.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-08",
             "title": "Geopolitischer Hebel – China holt auf und drängt in den globalen Süden"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Justin Bronk",
-          "text": "Analyst, Royal United Services Institute, RUSI London sagt am Donnerstag zum gemeinsamen russisch-chinesischen Raketenabwehrprojekt, es wirke, „als wäre es durch den Wunsch motiviert, Waffen wie den neuen bodengestützten Hyperschallflugkörper der US-Streitkräfte frühzeitig abzufangen\".",
+          "text": "Analyst, Royal United Services Institute, RUSI London sagt am Donnerstag zum gemeinsamen russisch-chinesischen Raketenabwehrprojekt, es wirke, „als wäre es durch den Wunsch motiviert, Waffen wie den neuen bodengestützten Hyperschallflugkörper der US-Streitkräfte frühzeitig abzufangen“.",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "WELT",
             "date": "2026-07-09",
             "title": "Geheimdokumente deuten auf engere Zusammenarbeit Russlands und Chinas hin – Wadephul besorgt"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Roman Koidl",
-          "text": "Gründer und Vorstandschef, eClear ist am Mittwoch zur neuen EU-Zollpflicht für chinesische Kleinsendungen überzeugt: „Der Markt für E-Commerce, insbesondere aus China , wird dadurch um 70 bis 75 Prozent einbrechen\"; „Schon jetzt ziehen sich zahlreiche Marktteilnehmer zurück.\".",
+          "text": "Gründer und Vorstandschef, eClear ist am Mittwoch zur neuen EU-Zollpflicht für chinesische Kleinsendungen überzeugt: „Der Markt für E-Commerce, insbesondere aus China , wird dadurch um 70 bis 75 Prozent einbrechen“; „Schon jetzt ziehen sich zahlreiche Marktteilnehmer zurück.“",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-08",
             "title": "Deutsches Start-up hilft China aus der Zollmisere"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Olaf Scale",
-          "text": "Asia-Pacific-Chef, Rosenberger sagt am Mittwoch auf der Messe „electronica China\" in Shanghai: „Es ist vielleicht noch nicht in allen Konzernetagen hinreichend angekommen, dass das hier ein Hightech-Land ist\"; „Es ist kein Billigland mehr.\"; deutsche Unternehmen sollten „China als Bootcamp für Innovation\" nutzen.",
+          "text": "Asia-Pacific-Chef, Rosenberger sagt am Mittwoch auf der Messe „electronica China“ in Shanghai: „Es ist vielleicht noch nicht in allen Konzernetagen hinreichend angekommen, dass das hier ein Hightech-Land ist“; „Es ist kein Billigland mehr.“; deutsche Unternehmen sollten „China als Bootcamp für Innovation“ nutzen.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-07",
             "title": "China als Bootcamp für Innovation"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Thomas Luk",
-          "text": "Unternehmensberater für Automobilfirmen, China/Deutschland sagt am Donnerstag dem Handelsblatt: „Bei deutschen Premiumherstellern wie BMW dürfte in guten Zeiten rund 60 Prozent des Gewinns aus China gekommen sein\".",
+          "text": "Unternehmensberater für Automobilfirmen, China/Deutschland sagt am Donnerstag dem Handelsblatt: „Bei deutschen Premiumherstellern wie BMW dürfte in guten Zeiten rund 60 Prozent des Gewinns aus China gekommen sein“.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-09",
             "title": "So groß ist das China-Problem von BMW"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         },
         {
           "lead": "Jochen Goller",
-          "text": "Vertriebsvorstand, BMW AG sagt am Freitag zum Absatzeinbruch in China: „Trotz weltweiter Herausforderungen konnten wir in den USA und Europa unseren Absatz steigern\".",
+          "text": "Vertriebsvorstand, BMW AG sagt am Freitag zum Absatzeinbruch in China: „Trotz weltweiter Herausforderungen konnten wir in den USA und Europa unseren Absatz steigern“.",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
             "date": "2026-07-10",
             "title": "Absatz von BMW schrumpft wegen des schwachen China-Geschäfts"
           },
-          "kind": "quote",
-          "tags": []
+          "kind": "quote"
         }
       ]
     },
@@ -389,8 +359,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-06",
             "title": "Rohstoff-Wettlauf mit deutschen Hemmschuhen"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Deutschland stark von chinesischen Seltenerden-Importen abhängig",
@@ -401,8 +370,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-06",
             "title": "Rohstoff-Wettlauf mit deutschen Hemmschuhen"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Chinesische Preise unterbieten deutsche Industrie deutlich",
@@ -413,8 +381,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-04",
             "title": "Appell an Regierung Merz"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Chinas aggressive Politik kostet deutsche Industriejobs",
@@ -425,8 +392,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-04",
             "title": "Appell an Regierung Merz"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "China treibt Chip-Eigenproduktion voran",
@@ -437,8 +403,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-06",
             "title": "Europlatz Frankfurt: Schaufeln und Spitzhacken"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Chinesischer KI-Chip-Markt wächst auf Milliardenvolumen",
@@ -449,8 +414,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-07",
             "title": "Deepseek entwickelt offenbar eigenen KI-Chip"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "China kontrolliert fast die Hälfte der größten Rüstungskonzerne weltweit",
@@ -461,8 +425,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-07",
             "title": "Nato in Ankara; Rüstungsgipfel der Amerika-Deals"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Fast ein Viertel der chinesischen Unternehmen schreibt rote Zahlen",
@@ -473,8 +436,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-09",
             "title": "Überkapazitäten; China droht ein Rückfall in die Deflation"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Chinas Autoabsatz bricht im Juni deutlich ein",
@@ -485,8 +447,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-09",
             "title": "Überkapazitäten; China droht ein Rückfall in die Deflation"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "China baut inzwischen die Hälfte aller neuen Handelsschiffe weltweit",
@@ -497,8 +458,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-08",
             "title": "Schiffhandel; Deutschland profitiert von US-Hafengebühren gegen Chinas Schiffe"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "China ordnet sein Hochschulsystem massiv um",
@@ -509,8 +469,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-08",
             "title": "Asia Techonomics; China setzt nun auf Bildungslieferketten"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Peking setzt sich ambitioniertes KI-Ziel",
@@ -521,8 +480,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-08",
             "title": "Asia Techonomics; China setzt nun auf Bildungslieferketten"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Chinas Exportüberschuss hat sich seit 2020 vervierfacht",
@@ -533,8 +491,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-08",
             "title": "Verfehlte Handelsstrategien; Was Peking und Berlin verbindet"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "Deutsch-chinesischer Handel wächst spürbar",
@@ -545,8 +502,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-09",
             "title": "Außenhandel; Deutsche Exporte steigen vierten Monat in Folge, US-Geschäft wächst"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         },
         {
           "lead": "VW verliert massiv an Boden in China",
@@ -557,8 +513,7 @@ window.W28_2026_WOCHENBERICHT = {
             "date": "2026-07-09",
             "title": "Neue Details zum Sparhammer; VW-Geheimpapier: Bis zu 120.000 Jobs weg!"
           },
-          "kind": "fact",
-          "tags": []
+          "kind": "fact"
         }
       ]
     },
@@ -570,7 +525,7 @@ window.W28_2026_WOCHENBERICHT = {
       "items": [
         {
           "title": "Chinas wachsende militärische Kooperation mit Russland",
-          "text": "Nach F.A.Z.-Informationen bildet China russische Soldaten – sowohl in Russland als auch in China – an Drohnen, im Minenräumen und im Pionierwesen aus, während chinesische Streitkräfte umgekehrt Kriegserfahrungen aus der Ukraine für die eigene Ausbildung nutzen. Peking bestreitet dies offiziell als „Verleumdung ohne jede faktische Grundlage\", nachdem der chinesische Botschafter zu einem „dringlichen Gespräch\" ins Auswärtige Amt gebeten worden war. Laut Recherchen, auf die sich Welt beruft, sollen Moskau und Peking zudem im Geheimen an einem gemeinsamen Luft- und Raketenabwehrsystem der nächsten Generation arbeiten – Außenminister Wadephul nannte die Erkenntnisse „äußerst besorgniserregend\".",
+          "text": "Nach F.A.Z.-Informationen bildet China russische Soldaten – sowohl in Russland als auch in China – an Drohnen, im Minenräumen und im Pionierwesen aus, während chinesische Streitkräfte umgekehrt Kriegserfahrungen aus der Ukraine für die eigene Ausbildung nutzen. Peking bestreitet dies offiziell als „Verleumdung ohne jede faktische Grundlage“, nachdem der chinesische Botschafter zu einem „dringlichen Gespräch“ ins Auswärtige Amt gebeten worden war. Laut Recherchen, auf die sich Welt beruft, sollen Moskau und Peking zudem im Geheimen an einem gemeinsamen Luft- und Raketenabwehrsystem der nächsten Generation arbeiten – Außenminister Wadephul nannte die Erkenntnisse „äußerst besorgniserregend“.",
           "sources": [
             {
               "outlet": "FAZ",
@@ -591,12 +546,11 @@ window.W28_2026_WOCHENBERICHT = {
               "title": "Medienbericht; Geheimdokumente deuten auf engere Zusammenarbeit Russlands und Chinas hin – Wadephul besorgt"
             }
           ],
-          "kind": "theme",
-          "tags": []
+          "kind": "theme"
         },
         {
           "title": "Chinesischer Interkontinentalraketentest im Pazifik löst regionale Proteste aus",
-          "text": "China hat nach eigenen Angaben erstmals seit zwei Jahren eine Langstreckenrakete von einem atomgetriebenen U-Boot aus in den Südpazifik abgefeuert und spricht von einem routinemäßigen, völkerrechtskonformen Test mit Übungssprengkopf. Australien bezeichnete das Manöver als „destabilisierend\", auch Japan äußerte sich besorgt – zumal der Test zeitgleich mit einem gemeinsamen chinesisch-russischen Marinemanöver vor Qingdao stattfand. Die USA reagierten mit „großer Besorgnis\" und forderten China auf, seine Meldepflichten als ständiges UN-Sicherheitsratsmitglied bei Raketen- und Weltraumstarts einzuhalten.",
+          "text": "China hat nach eigenen Angaben erstmals seit zwei Jahren eine Langstreckenrakete von einem atomgetriebenen U-Boot aus in den Südpazifik abgefeuert und spricht von einem routinemäßigen, völkerrechtskonformen Test mit Übungssprengkopf. Australien bezeichnete das Manöver als „destabilisierend“, auch Japan äußerte sich besorgt – zumal der Test zeitgleich mit einem gemeinsamen chinesisch-russischen Marinemanöver vor Qingdao stattfand. Die USA reagierten mit „großer Besorgnis“ und forderten China auf, seine Meldepflichten als ständiges UN-Sicherheitsratsmitglied bei Raketen- und Weltraumstarts einzuhalten.",
           "sources": [
             {
               "outlet": "DIE ZEIT",
@@ -617,12 +571,11 @@ window.W28_2026_WOCHENBERICHT = {
               "title": "Benachbarte Staaten besorgt; China testet Raketenstart von Atom-U-Boot im Südpazifik"
             }
           ],
-          "kind": "theme",
-          "tags": []
+          "kind": "theme"
         },
         {
-          "title": "Debatte um deutsche Abhängigkeit von China und „Systemwettbewerb\" vor den Merz-Reformen",
-          "text": "Der Chef der Europäischen Handelskammer in China, Jens Eskelund, warnt im SZ-Interview, Europa werde trotz jahrelanger De-Risking-Rhetorik eher abhängiger von China statt unabhängiger, weil chinesische Wettbewerber inzwischen in fast jeder Branche präsent seien. Ökonomen wie IfW-Chef Moritz Schularick und IW-Forscher Jürgen Matthes warnen laut Welt, das schwarz-rote Reformpaket löse den technologischen Rückstand nicht, während Chinas „aggressive Exportpolitik\" mit Preisen von 50 bis 60 Prozent des deutschen Niveaus erheblich zum Verlust von Industriejobs beitrage. CDU- und Grünen-Politiker (Volkmann, Hofreiter) fordern laut F.A.Z. zudem gemeinsam eine härtere Linie im „Systemwettbewerb\" mit Peking, weil es dabei um die „industriell-wirtschaftliche Zukunft\" und die Systemfrage Demokratie gegen Autokratie gehe.",
+          "title": "Debatte um deutsche Abhängigkeit von China und „Systemwettbewerb“ vor den Merz-Reformen",
+          "text": "Der Chef der Europäischen Handelskammer in China, Jens Eskelund, warnt im SZ-Interview, Europa werde trotz jahrelanger De-Risking-Rhetorik eher abhängiger von China statt unabhängiger, weil chinesische Wettbewerber inzwischen in fast jeder Branche präsent seien. Ökonomen wie IfW-Chef Moritz Schularick und IW-Forscher Jürgen Matthes warnen laut Welt, das schwarz-rote Reformpaket löse den technologischen Rückstand nicht, während Chinas „aggressive Exportpolitik“ mit Preisen von 50 bis 60 Prozent des deutschen Niveaus erheblich zum Verlust von Industriejobs beitrage. CDU- und Grünen-Politiker (Volkmann, Hofreiter) fordern laut F.A.Z. zudem gemeinsam eine härtere Linie im „Systemwettbewerb“ mit Peking, weil es dabei um die „industriell-wirtschaftliche Zukunft“ und die Systemfrage Demokratie gegen Autokratie gehe.",
           "sources": [
             {
               "outlet": "Süddeutsche Zeitung",
@@ -643,12 +596,11 @@ window.W28_2026_WOCHENBERICHT = {
               "title": "Umgang mit China; ‚Bestehen wir den Systemwettbewerb?‘"
             }
           ],
-          "kind": "theme",
-          "tags": []
+          "kind": "theme"
         },
         {
           "title": "Schwaches China-Geschäft drückt Absatzzahlen deutscher Autobauer",
-          "text": "Eine Handelsblatt-Datenanalyse zeigt, dass BMWs Neuzulassungen in China auf den tiefsten Stand seit mindestens sechs Jahren gefallen sind, was der Konzern jüngst mit einer Gewinnwarnung quittierte. Im zweiten Quartal brach der BMW-Absatz in China um rund 30 Prozent ein, was laut Zeit den Gesamtkonzernabsatz um 4,9 Prozent drückte, obwohl Europa und die USA zulegten. Audi meldete laut Welt einen Absatzrückgang von 8,2 Prozent und begründete dies explizit mit einem „weiterhin anspruchsvollen und hoch wettbewerbsintensiven\" Marktumfeld in China.",
+          "text": "Eine Handelsblatt-Datenanalyse zeigt, dass BMWs Neuzulassungen in China auf den tiefsten Stand seit mindestens sechs Jahren gefallen sind, was der Konzern jüngst mit einer Gewinnwarnung quittierte. Im zweiten Quartal brach der BMW-Absatz in China um rund 30 Prozent ein, was laut Zeit den Gesamtkonzernabsatz um 4,9 Prozent drückte, obwohl Europa und die USA zulegten. Audi meldete laut Welt einen Absatzrückgang von 8,2 Prozent und begründete dies explizit mit einem „weiterhin anspruchsvollen und hoch wettbewerbsintensiven“ Marktumfeld in China.",
           "sources": [
             {
               "outlet": "Handelsblatt",
@@ -669,12 +621,11 @@ window.W28_2026_WOCHENBERICHT = {
               "title": "Audi-Absatz sinkt um gut 8 Prozent"
             }
           ],
-          "kind": "theme",
-          "tags": []
+          "kind": "theme"
         },
         {
           "title": "Nato-Gipfel rückt China neben Russland als zentrale Bedrohung für die westliche Verteidigungsindustrie in den Fokus",
-          "text": "Im Vorfeld des Nato-Gipfels in Ankara verschiebt sich laut WirtschaftsWoche der strategische Fokus der USA zunehmend von der russischen Bedrohung hin zur Rivalität mit China, dessen wirtschaftliche, politische und militärische Dominanz als „ernste Gefahr\" gilt. Nato-Generalsekretär Rutte forderte laut Welt angesichts der Bedrohungen durch „Russland, China und Nordkorea\" eine „Revolution\" in der transatlantischen Verteidigungsindustrie. Im Streit um Grönland verweist Handelsblatt zudem darauf, dass China sich bei kritischen Mineralien für Halbleiter, Batterien und Waffensysteme bereits früh strategische Claims gesichert habe, was den Wettlauf um die Insel befeuere.",
+          "text": "Im Vorfeld des Nato-Gipfels in Ankara verschiebt sich laut WirtschaftsWoche der strategische Fokus der USA zunehmend von der russischen Bedrohung hin zur Rivalität mit China, dessen wirtschaftliche, politische und militärische Dominanz als „ernste Gefahr“ gilt. Nato-Generalsekretär Rutte forderte laut Welt angesichts der Bedrohungen durch „Russland, China und Nordkorea“ eine „Revolution“ in der transatlantischen Verteidigungsindustrie. Im Streit um Grönland verweist Handelsblatt zudem darauf, dass China sich bei kritischen Mineralien für Halbleiter, Batterien und Waffensysteme bereits früh strategische Claims gesichert habe, was den Wettlauf um die Insel befeuere.",
           "sources": [
             {
               "outlet": "WirtschaftsWoche",
@@ -695,13 +646,13 @@ window.W28_2026_WOCHENBERICHT = {
               "title": "Nato-Gipfel; Warum der Grönland-Streit nie erledigt war"
             }
           ],
-          "kind": "theme",
-          "tags": []
+          "kind": "theme"
         }
       ]
     }
   ]
 };
+
 // Late-attach if the main week file has already executed; otherwise
 // the main file's tail picks this up when it runs.
 if (window.W28_2026) window.W28_2026.wochenbericht = window.W28_2026_WOCHENBERICHT;
