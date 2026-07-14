@@ -51,6 +51,16 @@ window.W28_2026 = {
               "tags": [
                 "ru-cn"
               ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**German-Chinese trade imbalance worsens** – H1 2026 GAC data: Chinese exports to Germany +19.0% YoY ($67.4bn), imports from Germany +1.8% ($45.1bn). [F. Bermingham (X)](https://x.com/fbermingham).",
+              "tags": [
+                "de-cn",
+                "trade"
+              ]
             }
           ]
         },
@@ -200,16 +210,6 @@ window.W28_2026 = {
               "note": "**Lithuania to normalize diplomatic ties with China** – Point 380 of the new Vilnius government's work programme reverses the previous administration's confrontational line: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*. [F. Bermingham (X)](https://x.com/fbermingham).",
               "tags": [
                 "diplomacy"
-              ]
-            },
-            {
-              "outlet": "",
-              "date": "",
-              "url": "",
-              "note": "**German-Chinese trade imbalance worsens** – H1 2026 GAC data: Chinese exports to Germany +19.0% YoY ($67.4bn), imports from Germany +1.8% ($45.1bn). [F. Bermingham (X)](https://x.com/fbermingham).",
-              "tags": [
-                "de-cn",
-                "trade"
               ]
             }
           ]
