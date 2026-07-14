@@ -97,6 +97,8 @@
   // STRIP HTML comments FIRST — they're MH-internal curation notes (e.g.
   // <!-- pub date not set in Dynamics -->) and must never reach readers.
   const inlineMd = (s) => curlify(esc((s || "").replace(/<!--[\s\S]*?-->/g, "")))
+    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, "$2")
+    .replace(/\[\[([^\]]+)\]\]/g, "$1")
     .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
              '<a href="$2" target="_blank" rel="noopener">$1</a>')
     .replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>")
