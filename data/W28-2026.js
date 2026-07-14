@@ -465,59 +465,52 @@ window.W28_2026 = {
                 "de-cn",
                 "bio-pharma"
               ]
-            }
-          ]
-        },
-        {
-          "label": "MERICS institutionally cited (no named expert)",
-          "items": [
+            },
             {
-              "outlet": "Reuters",
-              "author": "",
-              "title": "FCC denies US firm with Chinese links approval to provide telecom services",
-              "date": "2026-07-07",
-              "url": "https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07",
+              "outlet": "FT (Edward White)",
+              "title": "",
+              "date": "",
+              "url": "https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595",
               "bullets": [
                 [
-                  "FCC adds Digitalsystem Technology to national security risk list",
-                  "The Los Angeles IT firm was denied international telecom operating rights, citing partnerships with China Unicom, China Mobile, and PCCW."
-                ],
-                [
-                  "FCC cited collection and disruption risks from Chinese government actors",
-                  "The agency warned that vulnerabilities in Digitalsystem's network could be exploited to collect, disrupt, or misroute US communications."
+                  "",
+                  "**[FT (Edward White)](https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595)** cited MERICS China Overcapacities Monitor on lossmaking industrial businesses rising from ~10% (2010) to ~25% (2025)."
                 ]
               ],
-              "related": [],
               "tags": [
-                "security"
+                "de-cn"
               ]
             },
             {
-              "outlet": "Nikkei",
-              "author": "",
-              "title": "Taiwan's top shipbuilder bets on defense drive amid China's power play",
-              "date": "2026-07-08",
-              "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-s-top-shipbuilder-bets-on-defense-drive-amid-china-s-power-play",
+              "outlet": "Asia Society (Philippe Le Corre)",
+              "title": "",
+              "date": "",
+              "url": "https://asiasociety.org/policy-institute/europes-wake-call",
               "bullets": [
                 [
-                  "CSBC chairman says Taiwan's Narwhal submarine on track for H2 2026 delivery",
-                  "The vessel is completing final sea trials; delivery would unlock parliamentary funds frozen for the broader eight-submarine program."
-                ],
-                [
-                  "Taiwan's KMT-controlled legislature froze submarine funds and cut all domestic drone spending",
-                  "The opposition withheld half the eight-submarine budget pending Narwhal delivery and stripped unmanned vehicle spending from Lai's defense plans."
-                ],
-                [
-                  "CSBC's Endeavor Manta uncrewed surface vessel reaches 40-unit annual production capacity",
-                  "The trimaran drone - sourced entirely from non-Chinese suppliers - can be configured for patrol, rescue, or armed combat in Taiwan Strait conditions."
+                  "",
+                  "**[Asia Society (Philippe Le Corre)](https://asiasociety.org/policy-institute/europes-wake-call)** cited MERICS Europe-China Resilience Audit on the complexity of European perceptions of China across economic, political, security and societal dimensions."
                 ]
               ],
-              "related": [],
               "tags": [
-                "twn",
-                "sea",
-                "mil-tech",
-                "maritime"
+                "de-cn",
+                "society"
+              ]
+            },
+            {
+              "outlet": "Neue Zürcher Zeitung",
+              "title": "",
+              "date": "",
+              "url": "https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784",
+              "bullets": [
+                [
+                  "",
+                  "**[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784)** (Sabine Gusbeth) cited MERICS analysis that nearly 24% of Chinese firms were loss-making last year – deflation risk from ruinous domestic price competition."
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "macro"
               ]
             }
           ]
@@ -3759,6 +3752,55 @@ window.W28_2026 = {
             "ai",
             "trade",
             "export-controls"
+          ]
+        },
+        {
+          "outlet": "Reuters",
+          "author": "",
+          "title": "FCC denies US firm with Chinese links approval to provide telecom services",
+          "date": "2026-07-07",
+          "url": "https://www.reuters.com/business/media-telecom/fcc-denies-us-firm-with-chinese-links-approval-provide-telecom-services-2026-07-07",
+          "bullets": [
+            [
+              "FCC adds Digitalsystem Technology to national security risk list",
+              "The Los Angeles IT firm was denied international telecom operating rights, citing partnerships with China Unicom, China Mobile, and PCCW."
+            ],
+            [
+              "FCC cited collection and disruption risks from Chinese government actors",
+              "The agency warned that vulnerabilities in Digitalsystem's network could be exploited to collect, disrupt, or misroute US communications."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "security"
+          ]
+        },
+        {
+          "outlet": "Nikkei",
+          "author": "",
+          "title": "Taiwan's top shipbuilder bets on defense drive amid China's power play",
+          "date": "2026-07-08",
+          "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-s-top-shipbuilder-bets-on-defense-drive-amid-china-s-power-play",
+          "bullets": [
+            [
+              "CSBC chairman says Taiwan's Narwhal submarine on track for H2 2026 delivery",
+              "The vessel is completing final sea trials; delivery would unlock parliamentary funds frozen for the broader eight-submarine program."
+            ],
+            [
+              "Taiwan's KMT-controlled legislature froze submarine funds and cut all domestic drone spending",
+              "The opposition withheld half the eight-submarine budget pending Narwhal delivery and stripped unmanned vehicle spending from Lai's defense plans."
+            ],
+            [
+              "CSBC's Endeavor Manta uncrewed surface vessel reaches 40-unit annual production capacity",
+              "The trimaran drone – sourced entirely from non-Chinese suppliers – can be configured for patrol, rescue, or armed combat in Taiwan Strait conditions."
+            ]
+          ],
+          "related": [],
+          "tags": [
+            "twn",
+            "sea",
+            "mil-tech",
+            "maritime"
           ]
         }
       ]
