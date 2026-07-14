@@ -163,12 +163,9 @@
   }
 
   // Render the row of clickable tag chips beneath an entry. Only tags in the
-  // controlled vocabulary render; unknown ids are silently dropped. Tags are
-  // still stored in the data (used by the search index + filter logic) — this
-  // only controls whether the chip row is drawn under each entry.
-  function renderEntryTags(tags, opts) {
+  // controlled vocabulary render; unknown ids are silently dropped.
+  function renderEntryTags(tags) {
     if (!tags || !tags.length) return "";
-    if (opts && opts.hideTags) return "";
     const chips = tags
       .filter(id => TAG_LOOKUP.has(id))
       .map(id => {
@@ -180,7 +177,7 @@
   }
 
   // -------- entry render ----------------------------------------------------
-  function renderEntry(e, opts) {
+  function renderEntry(e) {
     const url = e.url || "#";
     const date = fmtDate(e.date);
     const badge = (window.outletBadge ? window.outletBadge(e.outlet || "") : "");
@@ -193,7 +190,7 @@
           ${date ? `<span class="entry-sep">&middot;</span><span class="entry-date">${esc(date)}</span>` : ""}
         </div>`;
 
-    const tagsHtml = renderEntryTags(e.tags, opts);
+    const tagsHtml = renderEntryTags(e.tags);
 
     // Compact note style \u2014 used for the brief context items that mirror the
     // PDF's one-line "ticker" entries (German Lens etc). Spotlight bullets and
@@ -395,7 +392,7 @@
         ${itemsHtml}
       </section>`;
   }
-  function renderNumbered(sec, anchorPrefix = "intl-", opts) {
+  function renderNumbered(sec, anchorPrefix = "intl-") {
     const items = filtered(sec.items);
     if (!items.length && activeFilters.size) return "";
     const numHtml = sec.number ? `<span class="num">${esc(sec.number)}.</span>` : "";
@@ -407,7 +404,7 @@
           <h2 class="label">${curlify(esc(sec.label))}</h2>
         </header>
         ${sec.note ? `<p class="section-note">${esc(sec.note)}</p>` : ""}
-        ${items.map(it => renderEntry(it, opts)).join("")}
+        ${items.map(renderEntry).join("")}
       </section>`;
   }
 
@@ -469,18 +466,18 @@
       </div>
       <p class="wb-text">${(() => {
         let lead = (item.lead || "").trim();
-        let text = item.text || "";
-        // If the lead ends with "(verb/role)", the bracket content is sentence
-        // material — unwrap it and move it to the start of the body so the
-        // bold stays just the name and the sentence reads correctly.
+        const text = item.text || "";
+        // If the lead ends with "(role)", keep the bracketed role visible
+        // right after the bold name: "<b>Name</b> (Role) text".
         const m = lead.match(/^(.*?)\s*\(([^)]+)\)\s*$/);
+        let roleHtml = "";
         if (m) {
           lead = m[1].trim();
-          text = (m[2].trim() + " " + text).trim();
+          roleHtml = ` (${esc(m[2].trim())})`;
         }
-        // Facts read "Thesis: detail" (colon); quotes read "Name verb …" (space).
+        // Facts read "Thesis: detail" (colon); quotes read "Name (Role) verb …" (space).
         const sep = (item.kind === "fact" && lead) ? ": " : " ";
-        return `<strong>${esc(lead)}</strong>${sep}${esc(text)}`;
+        return `<strong>${esc(lead)}</strong>${roleHtml}${sep}${esc(text)}`;
       })()}</p>
       ${src.title ? `<p class="wb-source">“${esc(src.title)}”</p>` : ""}
     </article>`;
@@ -524,9 +521,7 @@
       return sections || empty("No international-sources entries in this issue.");
     }
     if (tab === "cnsources") {
-      // Tags are kept in the data (search/filter use them) but tag chips are
-      // not drawn under each entry — they were noisy on policy/regulatory items.
-      const sections = (w.chineseSourcesSections || []).map(s => renderNumbered(s, "", { hideTags: true })).join("");
+      const sections = (w.chineseSourcesSections || []).map(s => renderNumbered(s, "")).join("");
       return sections || empty("No Chinese-sources entries in this issue.");
     }
     if (tab === "lens") {
@@ -611,7 +606,7 @@
     // the entry count is large enough that filtering pays off. Highlights /
     // MERICS / Wochenbericht are curated and the chips just add visual noise.
     let filterBarHtml = "";
-    if (tab === "intl") {
+    if (tab === "intl" || tab === "cnsources") {
       const { counts } = entriesForTab(w, tab);
       const tagList = [...counts.entries()]
         .sort((a, b) => {

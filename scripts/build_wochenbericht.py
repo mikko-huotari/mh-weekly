@@ -188,7 +188,7 @@ PROMPT = """Du konvertierst eine deutsche Wochen-Presseschau (Wochenbericht zur 
 Regeln (zwingend):
 1. Behalte den deutschen Text WORT-WÖRTLICH. Keine Übersetzung, keine Paraphrase, keine Zusammenfassung.
 2. Entferne führende "- " und "**" Bold-Marker bei den Zitaten/Fakten/Themen.
-3. Zitate (`quotes[]`): `lead` = NUR der Name der Person (z.B. "Donald Trump", "Xi Jinping"). KEINE Rolle, KEIN Verb, KEINE Klammern im Lead. `text` = der gesamte Body-Satz (inklusive eventueller Verben wie "bekräftigte"/"warnte" und Rollenangaben) bis "(Source:".
+3. Zitate (`quotes[]`): `lead` = Name der Person UND Rolle in Klammern, exakt wie in der Quelle (z.B. "Li Qiang (Ministerpräsident, Staatsrat, VR China)", "Ursula von der Leyen (Präsidentin, EU-Kommission)"). KEIN Verb im Lead. `text` = der Body-Satz ab dem Verb (z.B. "warnte", "erklärte", "kündigte an") bis "(Source:". Der Renderer trennt automatisch Name (bleibt fett) von Rolle (rutscht an den Satzanfang).
 4. Fakten (`facts[]`): `lead` = fett markierter Kurz-Titel. `text` = Body bis "(Source:".
 5. Themen (`themes[]`): `title` = fett markierter Titel. `text` = alles zwischen Titel und "Prominente Quellen:". `sources` = die Liste danach.
 6. Deutsche Daten "27. April 2026" → ISO "2026-04-27". Monate: Januar=01, Februar=02, März=03, April=04, Mai=05, Juni=06, Juli=07, August=08, September=09, Oktober=10, November=11, Dezember=12.

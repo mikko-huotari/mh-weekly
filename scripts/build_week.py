@@ -835,6 +835,15 @@ def main() -> None:
     week_id = sys.argv[1]
     week_no = int(week_id[1:3])
     year = int(week_id.split("-")[1])
+
+    # W26 retro: refuse to build if any XPS failure is unresolved.
+    try:
+        sys.path.insert(0, str(VAULT / "5 SYSTEM"))
+        from xps_failures import assert_clean as _xps_assert_clean
+        _xps_assert_clean(week_id, scope="build_week")
+    except ImportError:
+        pass  # helper not deployed yet
+
     source_path = EXPORT_DIR / f"{week_id}.md"
     if not source_path.exists():
         print(f"ERROR: source not found at {source_path}")

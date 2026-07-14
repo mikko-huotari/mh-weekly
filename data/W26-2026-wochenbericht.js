@@ -13,7 +13,7 @@ window.W26_2026_WOCHENBERICHT = {
       "label": "Prominente Zitate und Positionen zu China-bezogenen Angelegenheiten",
       "items": [
         {
-          "lead": "Li Qiang",
+          "lead": "Li Qiang (Ministerpräsident, VR China)",
           "text": "wies am 24. Juni beim Sommer-Weltwirtschaftsforum (Sommer-Davos) in Dalian die These eines China-Schocks zurück und forderte stattdessen, von China-Chance 2.0 zu sprechen: „Es sollte nicht China -Schock 2.0 sein, sondern China -Chance 2.0\"; Chinas Wettbewerbsfähigkeit beruhe auf harter Arbeit und starken Lieferketten, nicht auf übermäßigen Subventionen: „So reich ist die chinesische Regierung nicht – solche Subventionen könnten wir gar nicht in diesem Umfang leisten\"",
           "source": {
             "outlet": "Handelsblatt",
@@ -25,7 +25,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Ding Xuexiang",
+          "lead": "Ding Xuexiang (Vize-Premierminister, VR China)",
           "text": "warnte am am 23. Juni, zur Eröffnung der Lieferkettenmesse in Peking, einige Akteure würden „das Konzept der Sicherheit überstrapazieren und Exportkontrollen missbrauchen\"; China verstehe sich als Verteidiger und Mitgestalter stabiler globaler Lieferketten",
           "source": {
             "outlet": "Handelsblatt",
@@ -37,7 +37,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Ursula von der Leyen",
+          "lead": "Ursula von der Leyen (Präsidentin, EU-Kommission)",
           "text": "kündigte am am 20. Juni, in Brüssel nach dem EU-Gipfel an, Unternehmen per Gesetz zur breiteren Streuung ihrer Lieferanten zu verpflichten, um die Abhängigkeit von China zu verringern; Unternehmen bauten ihre Risiken bislang zu langsam ab; die Dringlichkeit habe sich 2025 gezeigt, als China seine Vormachtstellung bei Seltenen Erden für Exportbeschränkungen genutzt habe",
           "source": {
             "outlet": "DIE ZEIT",
@@ -49,7 +49,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "António Costa",
+          "lead": "António Costa (Präsident, Europäischer Rat)",
           "text": "erklärte am am 20. Juni, in Brüssel, das EU-China-Handelsdefizit von rund einer Milliarde Euro pro Tag sei „schlicht nicht tragbar\" und China habe „leider nicht geliefert\": Wir können dieses Thema nicht weiter ansprechen, ohne konkrete Ergebnisse zu erzielen. Und bis jetzt hat China leider nicht geliefert.",
           "source": {
             "outlet": "DIE ZEIT",
@@ -61,7 +61,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Friedrich Merz",
+          "lead": "Friedrich Merz (Bundeskanzler, CDU)",
           "text": "erklärte am am 20. Juni, nach dem EU-Gipfel in Brüssel: „Wir waren uns einig, dass wir uns als größter Binnenmarkt der Welt vor marktverzerrenden Praktiken und Ungleichgewichten besser schützen müssen\"; forderte zudem eine Neuauflage des Plaza-Abkommens zur Aufwertung des chinesischen Yuan, den er als um 20 bis 30 Prozent unterbewertet bezeichnete",
           "source": {
             "outlet": "Handelsblatt",
@@ -73,7 +73,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Manfred Weber",
+          "lead": "Manfred Weber (CSU-Vizechef, Vorsitzender der EVP-Fraktion, EU-Parlament)",
           "text": "warnte am 20. Juni anlässlich des EU-Gipfels: „Entweder wir wehren uns oder China macht Teile unserer Industrie platt\"",
           "source": {
             "outlet": "DIE ZEIT",
@@ -85,7 +85,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Bart De Wever",
+          "lead": "Bart De Wever (Premierminister, Belgien)",
           "text": "erklärte am am 20. Juni, in Brüssel, Vergeltungsmaßnahmen Chinas würden EU-Mitglieder unterschiedlich treffen: „Nicht jeder ist gleichermaßen verwundbar\" – die Einigkeit der EU-Mitglieder sei daher „entscheidend\"",
           "source": {
             "outlet": "DIE ZEIT",
@@ -97,7 +97,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Christian Stocker",
+          "lead": "Christian Stocker (Bundeskanzler, Österreich, ÖVP)",
           "text": "erklärte am am 20. Juni, in Brüssel: „Wir gehen mit vielen Partnern sehr vorsichtig um, inklusive China\" und forderte eine Neuausrichtung des EU-China-Verhältnisses; China sei derzeit eher ein systemischer Rivale als ein Kooperationspartner",
           "source": {
             "outlet": "FAZ",
@@ -109,7 +109,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Stéphane Séjourné",
+          "lead": "Stéphane Séjourné (EU-Industriekommissar)",
           "text": "gab am 20. Juni der EU maximal drei Jahre, um die eigene Industrie vor dem Druck chinesischer Einfuhren zu schützen; das EU-China-Handelsdefizit könnte bis 2027 auf 500 Milliarden Euro steigen",
           "source": {
             "outlet": "FAZ",
@@ -121,7 +121,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Johann Wadephul",
+          "lead": "Johann Wadephul (Bundesaußenminister, CDU)",
           "text": "gab kurz vor dem 23. Juni zu Protokoll, dass eine Eskalation in der Taiwanstraße deutsche Interessen unmittelbar beträfe; für Berlin blieben Beziehungen und Geschäfte mit Peking dennoch prioritär, und man wolle sich Taipeh nicht zu stark zuwenden",
           "source": {
             "outlet": "Die Welt",
@@ -133,7 +133,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Anke Rehlinger",
+          "lead": "Anke Rehlinger (Ministerpräsidentin Saarland, SPD)",
           "text": "erklärte am am 23. Juni, in Saarbrücken, eine externe Untersuchung der CISPA-China-Vorwürfe sei „sicherlich auch der zuverlässigste und schnellste Weg\" zur Aufklärung; beide Gesellschafter, Bund und Saarland, nähmen die Vorwürfe ernst",
           "source": {
             "outlet": "Die Welt",
@@ -145,7 +145,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Norbert Röttgen",
+          "lead": "Norbert Röttgen (CDU-Fraktionsvize, Bundestag)",
           "text": "erklärte am 22. Juni: „Im Umgang mit China ist Naivität fehl am Platz\" und hielt es für „unabdingbar, dass staatliche Gelder, die an Universitäten oder Institute fließen, an klare Anforderungen zur Forschungssicherheit geknüpft werden\"",
           "source": {
             "outlet": "Handelsblatt",
@@ -157,7 +157,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Florian Müller",
+          "lead": "Florian Müller (CDU, forschungspolitischer Sprecher, Unionsbundestagsfraktion)",
           "text": "erklärte am 22. Juni, die Situation am CISPA sei inakzeptabel: „Wenn eine vom Bund finanzierte Forschungseinrichtung mutmaßlich seit vielen Jahren in hochsensiblen Feldern in großem Stil chinesische Wissenschaftler einstellt, die wohl ganze Abteilungen dominieren, dann ist das inakzeptabel\"; in den vergangenen Jahren sei eine sichtbare Schieflage entstanden",
           "source": {
             "outlet": "Handelsblatt",
@@ -169,7 +169,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Johannes Schätzl",
+          "lead": "Johannes Schätzl (SPD, digitalpolitischer Sprecher, Bundestagsfraktion)",
           "text": "drängte am 24. Juni auf eine Befassung des Digitalausschusses im Bundestag mit der CISPA-Affäre; gerade in der Cybersicherheitsforschung könnten Ergebnisse „sicherheits- und verteidigungspolitische Relevanz haben\"; Kooperationen mit China nahestehenden Einrichtungen bräuchten „eine umfassende Prüfung\"",
           "source": {
             "outlet": "Handelsblatt",
@@ -181,7 +181,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "VDA",
+          "lead": "VDA (Verband der Automobilindustrie)",
           "text": "akzeptierte laut Stellungnahme vom 22. Juni erstmals ausdrücklich europäische Local-Content-Anforderungen als wirtschaftspolitisches Instrument und stellte fest: „Hier hat sich ein deutliches Ungleichgewicht entwickelt, das insbesondere für die automobilen Zulieferer und den industriellen Mittelstand eine erhebliche Herausforderung darstellt\" – ein deutlicher Schwenk weg von der bisherigen Freihandelsdoktrin",
           "source": {
             "outlet": "Süddeutsche Zeitung",
@@ -205,7 +205,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Michael Hüther",
+          "lead": "Michael Hüther (Direktor, Institut der deutschen Wirtschaft, IW)",
           "text": "sagte am 22. Juni im Handelsblatt-Podcast: „Die preisliche Wettbewerbsfähigkeit Chinas ist eine politische\" – selbst wenn Deutschland alle wirtschaftspolitischen Hausaufgaben erledige, reiche das gegen staatlich gestützte chinesische Konkurrenz nicht aus",
           "source": {
             "outlet": "Handelsblatt",
@@ -217,7 +217,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Jürgen Matthes",
+          "lead": "Jürgen Matthes (IW Köln, Außenhandelsexperte)",
           "text": "erklärte am 20. Juni zur IW-Studie im Auftrag des Auswärtigen Amts: „Für den freien Handel ist Chinas Währungsmanagement Gift\" und „China spielt mit gezinkten Karten. Europa sollte mit Ausgleichszöllen für gleiche Bedingungen sorgen\"; bei fairem Yuan-Kurs könnte Deutschlands BIP 2028 um bis zu 0,3 Prozent höher ausfallen",
           "source": {
             "outlet": "Die Welt",
@@ -229,7 +229,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Julian Hinz",
+          "lead": "Julian Hinz (Direktor, Forschungsgruppe Handelspolitik, Kiel Institut für Weltwirtschaft)",
           "text": "warnte am 22. Juni vor einem rein konfrontativen China-Kurs: Nur etwa ein Drittel des deutschen Marktanteilsrückgangs in Drittstaaten lasse sich auf Chinas Expansion zurückführen; Handelspolitik „ausschließlich auf die Abwehr chinesischer Konkurrenz auszurichten\" sei problematisch, da ein wesentlicher Teil der Herausforderungen hausgemacht sei",
           "source": {
             "outlet": "Handelsblatt",
@@ -241,7 +241,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Sander Tordoir",
+          "lead": "Sander Tordoir (Chefökonom, Centre for European Reform)",
           "text": "sagte am 24. Juni der Frankfurter Allgemeinen Zeitung, Li Qiangs Rede beim Sommer-Davos betreibe „Gaslighting\", also psychologische Manipulation; Tordoir hatte im Mai als Ko-Autor die Studie China-Schock 2.0: Die Kosten der deutschen Selbstzufriedenheit veröffentlicht, die die Debatte über unausgeglichene Handelsbeziehungen mit China stark befeuert habe",
           "source": {
             "outlet": "FAZ",
@@ -253,7 +253,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Francois Wu",
+          "lead": "Francois Wu (stellvertretender Außenminister, Taiwan)",
           "text": "erklärte am 23. Juni in Taipeh gegenüber europäischen Journalisten: China will der Welt weismachen, es gäbe ein Taiwan -Problem. Die Welt hat ein China -Problem; die fünf größten Unternehmen der Welt benötigten alle ein Produkt, das es nur in Taiwan gebe – Chips – und ein Angriff Chinas würde die Weltwirtschaft zum Absturz bringen",
           "source": {
             "outlet": "Die Welt",
@@ -265,7 +265,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Robin Zeng",
+          "lead": "Robin Zeng (CEO, CATL)",
           "text": "erklärte am am 24. Juni, beim Sommer-Weltwirtschaftsforum in Nordostchina: „Wir wollen die Produktion von Natriumbatterien hochfahren\"; CATL hatte tags zuvor in München die Pläne für das neue Batteriesystem „Tener\" vorgestellt und bezeichnete Lithium und Natrium als zwei Pfeiler der Energiespeicherung der Zukunft; 95 Prozent der globalen Produktionskapazitäten für Natriumbatterien liegen in China",
           "source": {
             "outlet": "FAZ",
@@ -277,7 +277,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Ralf Brandstätter",
+          "lead": "Ralf Brandstätter (CEO, Volkswagen China)",
           "text": "sagte am 25. Juni am Rande des Sommer-Davos in Dalian: „Die Innovationsgeschwindigkeit in China ist in vielen Technologiefeldern extrem hoch\" – dies führe dazu, Strategien in China zu entwickeln, die dann für andere Märkte genutzt werden könnten",
           "source": {
             "outlet": "Handelsblatt",
@@ -289,7 +289,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Arran Hope",
+          "lead": "Arran Hope (China-Experte, Jamestown Foundation)",
           "text": "sagte am 25. Juni dem Handelsblatt: „Dass Kooperationen trotz militärnaher Bezüge und Dual-Use-Risiken weiterlaufen, ist aus meiner Sicht kontraproduktiv\" – der persönliche Austausch mit China bleibe gleichwohl „von unschätzbarem Wert\"; besonders in MINT-Fächern und technologisch sensiblen Feldern seien Kooperationen ein wachsendes Risiko",
           "source": {
             "outlet": "Handelsblatt",
@@ -301,7 +301,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Adrian Geiges",
+          "lead": "Adrian Geiges (Journalist, Autor der Xi-Jinping-Biografie)",
           "text": "warnte am 23. Juni: „Wir schlafwandeln in ein chinesisches Zeitalter. Es ist fünf vor zwölf\" – Xi verbinde kommunistische Ideologie mit chinesischem Nationalismus, das strategische Ziel sei die Abhängigkeit des Auslands von China; die Energiewende wiederhole den Fehler der Gas-Abhängigkeit von Russland, diesmal mit China",
           "source": {
             "outlet": "BILD",
@@ -313,7 +313,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Michael Backes",
+          "lead": "Michael Backes (Wissenschaftlicher Geschäftsführer, CISPA, freigestellt)",
           "text": "verteidigte sich auf LinkedIn bis zum 26. Juni: Lange gab es keinen klaren gesellschaftlichen oder politischen Konsens im Umgang mit China, oftmals sogar widersprüchliche Linien; sein Institut habe sich stets auf der vorsichtigen Seite bewegt und begrüße die Sonderprüfung „im Interesse einer lückenlosen Aufklärung\"",
           "source": {
             "outlet": "taz",
@@ -325,7 +325,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Bert Rürup",
+          "lead": "Bert Rürup (Chefökonom, Handelsblatt)",
           "text": "erklärte am 22. Juni im Podcast: „Das traditionelle Geschäftsmodell bricht zusammen, der Alterungsschub hat eingesetzt und die demokratischen Parteien verlieren an Stärke\" – Deutschland stecke in einer Multikrise, aus der auch eine Korrektur der China-Handelspolitik allein nicht herausführe",
           "source": {
             "outlet": "Handelsblatt",
@@ -337,7 +337,7 @@ window.W26_2026_WOCHENBERICHT = {
           "tags": []
         },
         {
-          "lead": "Peter Felser",
+          "lead": "Peter Felser (AfD, MdB)",
           "text": "warnte am 22. Juni vor falschen Konsequenzen aus dem CISPA-Fall: Nun ausschließlich auf Abschottung zu setzen und jede Kooperation mit China pauschal abzulehnen, ist für unseren ohnehin schwächelnden Technologiestandort keine Lösung und stellte sich damit gegen den parteiübergreifenden Tenor der schärferen Forschungssicherheitsregeln",
           "source": {
             "outlet": "Handelsblatt",
