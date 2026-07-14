@@ -37,7 +37,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Wadephul on Spiegel CN-RU military leak: \"violates the absolute core of European security interests\"** – [Der Spiegel investigation](https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3) (with [The Insider](https://theins.press/en/inv/294635) and Le Monde) publishes leaked slides from a Nov 2023 China-Russia Military-Technical Cooperation Forum plus a Jun 2023 bilateral protocol on space/anti-satellite weapons, integrated air-missile defense, autonomous swarm munitions and next-gen armor. Wadephul called the findings \"extremely worrying\"; Auswärtiges Amt summoned China's ambassador for a formal démarche.",
+              "note": "**Wadephul on Spiegel CN-RU military leak: \"violates the absolute core of European security interests\"** – [Der Spiegel investigation](https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3) (with [The Insider](https://theins.press/en/inv/294635) and Le Monde) publishes leaked slides from a Nov 2023 China-Russia Military-Technical Cooperation Forum plus a Jun 2023 bilateral protocol on space/anti-satellite weapons, integrated air-missile defense, autonomous swarm munitions and next-gen armor. Wadephul called the findings \"extremely worrying\"; Auswärtiges Amt called in China's ambassador for an urgent talk (\"dringliches Gespräch\").",
               "tags": [
                 "ru-cn",
                 "mil-tech"
