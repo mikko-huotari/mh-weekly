@@ -37,7 +37,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Wadephul on Spiegel CN-RU military leak: \"violates the absolute core of European security interests\"** – [Der Spiegel investigation](https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3) (joint with [The Insider](https://theins.press/en/inv/294635) and Le Monde) publishes leaked slides from the 3rd China-Russia Military-Technical Cooperation Forum (Guangzhou, Nov 2023) plus a signed bilateral protocol from Moscow (Jun 2023) – covering space/anti-satellite weapons, integrated air+missile defense, autonomous swarm loitering munitions, next-gen armored vehicles and military aviation. Foreign Minister Wadephul told Spiegel the findings are \"extremely worrying\" and that Berlin will raise the issue with EU partners: *\"Every act of support for Russia's violation of international law prolongs the war and creates only further immeasurable suffering.\"*",
+              "note": "**Wadephul on Spiegel CN-RU military leak: \"violates the absolute core of European security interests\"** – [Der Spiegel investigation](https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3) (joint with [The Insider](https://theins.press/en/inv/294635) and Le Monde) publishes leaked slides from the 3rd China-Russia Military-Technical Cooperation Forum (Guangzhou, Nov 2023) plus a signed bilateral protocol from Moscow (Jun 2023) – covering space/anti-satellite weapons, integrated air+missile defense, autonomous swarm loitering munitions, next-gen armored vehicles and military aviation. Foreign Minister Wadephul told Spiegel the findings are \"extremely worrying\" and that Berlin will raise the issue with EU partners: *\"Every act of support for Russia's violation of international law prolongs the war and creates only further immeasurable suffering.\"* Auswärtiges Amt summoned China's ambassador in Berlin for a \"dringliches Gespräch\" (formal démarche) over the leaked cooperation dossier.",
               "tags": [
                 "de-cn",
                 "ru-cn",
@@ -149,7 +149,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Finbarr Bermingham (SCMP) on X. Briefing the European Parliament on EU-China relations, EU trade enforcer Denis Redonnet officially confirmed that the EU intends to press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*.",
+              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Briefing the European Parliament on EU-China relations, EU trade enforcer Denis Redonnet officially confirmed that the EU intends to press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*. [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
               "tags": [
                 "eu-cn",
                 "trade"
@@ -159,7 +159,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Chinese customs data highlights widening EU trade deficit** – Finbarr Bermingham (SCMP) on X. Official June 2026 figures from China's General Administration of Customs (GAC) underscore the growing imbalance driving Brussels' concerns. Year-to-date data (Jan – June) shows Chinese exports to the EU surged by 16.8% (to $312.2 billion), while imports from the EU grew by only 8.7% (to $135.6 billion).",
+              "note": "**Chinese customs data highlights widening EU trade deficit** – Official June 2026 figures from China's General Administration of Customs (GAC) underscore the growing imbalance driving Brussels' concerns. Year-to-date data (Jan – June) shows Chinese exports to the EU surged by 16.8% (to $312.2 billion), while imports from the EU grew by only 8.7% (to $135.6 billion). [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
               "tags": [
                 "eu-cn",
                 "trade"
@@ -203,7 +203,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Lithuania to normalize diplomatic ties with China** – Finbarr Bermingham (SCMP) on X. Reversing the confrontational stance of the previous administration, the new Lithuanian government's work programme explicitly commits to repairing relations with Beijing. Point 380 in the Twenty-First Programme states: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*.",
+              "note": "**Lithuania to normalize diplomatic ties with China** – Reversing the confrontational stance of the previous administration, the new Lithuanian government's work programme explicitly commits to repairing relations with Beijing. Point 380 in the Twenty-First Programme states: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*. [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
               "tags": [
                 "diplomacy"
               ]
@@ -212,7 +212,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**German-Chinese trade imbalance worsens** – Finbarr Bermingham (SCMP) on X. The latest Chinese customs data reflects a severe exacerbation of the bilateral trade deficit. For the first half of 2026, Chinese exports to Germany jumped 19.0% year-on-year (to $67.4 billion), compared to a meager 1.8% increase in imports from Germany (to $45.1 billion).",
+              "note": "**German-Chinese trade imbalance worsens** – The latest Chinese customs data reflects a severe exacerbation of the bilateral trade deficit. For the first half of 2026, Chinese exports to Germany jumped 19.0% year-on-year (to $67.4 billion), compared to a meager 1.8% increase in imports from Germany (to $45.1 billion). [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
               "tags": [
                 "de-cn",
                 "trade"
@@ -228,26 +228,285 @@ window.W28_2026 = {
       "label": "MERICS",
       "groups": [
         {
-          "label": "Selected insights for media by colleagues",
+          "label": "MERICS research and (media) insights",
           "items": [
             {
               "outlet": "MERICS",
-              "title": "MERICS institutionally cited (no named expert)",
+              "title": "",
               "date": "",
-              "url": "",
+              "url": "https://merics.org/en/merics-briefs/chinas-export-surge-huaweis-tau-scaling-law-sino-german-trade",
               "bullets": [
                 [
-                  "[FT (Edward White)](https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595)",
-                  "MERICS China Overcapacities Monitor cited on lossmaking industrial businesses rising from ~10% (2010) to ~25% (2025)."
-                ],
+                  "",
+                  "[**China's export surge + Huawei's Tau Scaling Law + Sino-German trade**](https://merics.org/en/merics-briefs/chinas-export-surge-huaweis-tau-scaling-law-sino-german-trade). Beijing is promoting the narrative that China's flood of exports is more an issue of European competitiveness than a threat from Chinese overproduction. *(MERICS Briefs, Jul 10)*"
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "trade"
+              ]
+            },
+            {
+              "outlet": "MERICS",
+              "title": "",
+              "date": "",
+              "url": "https://merics.org/en/comment/chinas-moment-shape-new-global-order",
+              "bullets": [
                 [
-                  "[Asia Society (Philippe Le Corre)](https://asiasociety.org/policy-institute/europes-wake-call)",
-                  "MERICS Europe-China Resilience Audit cited on the complexity of European perceptions of China across economic, political, security and societal dimensions."
+                  "",
+                  "[**China's moment to shape a new global order**](https://merics.org/en/comment/chinas-moment-shape-new-global-order). Recent visits to Beijing by Trump and Putin and a more favorable geopolitical environment have given Beijing more strategic space to advance its vision, says Claus Soong. *(Comment, Jul 07)*"
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "ru-cn"
+              ]
+            },
+            {
+              "outlet": "MERICS",
+              "title": "",
+              "date": "",
+              "url": "https://merics.org/en/comment/merics-data-insight-chinese-export-prices",
+              "bullets": [
+                [
+                  "",
+                  "[**MERICS Data Insight: Chinese export prices**](https://merics.org/en/comment/merics-data-insight-chinese-export-prices). In this edition of MERICS Data Insights, MERICS Visiting Fellow Esther Goreichy looks at Chinese exports of high-end goods to the European Union. *(Comment, Jul 06)*"
+                ]
+              ],
+              "tags": [
+                "eu-cn",
+                "de-cn",
+                "trade"
+              ]
+            },
+            {
+              "outlet": "Soapbox",
+              "title": "",
+              "date": "",
+              "url": "https://soapboxtrade.substack.com/p/eu-china-and-the-mirage-of-dialogue",
+              "bullets": [
+                [
+                  "",
+                  "[**EU-China and the mirage of dialogue**](https://soapboxtrade.substack.com/p/eu-china-and-the-mirage-of-dialogue). Issue 255 | In collaboration with Mercator Institute for China Studies (MERICS). *(Soapbox, Jul 06)*"
+                ]
+              ],
+              "tags": [
+                "eu-cn",
+                "de-cn"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Selected insights for media by colleagues",
+          "items": [
+            {
+              "outlet": "NZZ International",
+              "title": "",
+              "date": "",
+              "url": "https://www.nzz.ch/technologie/china-versucht-amerikaner-gegen-ihre-eigenen-ki-firmen-aufzuwiegeln-ld.10013013",
+              "bullets": [
+                [
+                  "",
+                  "**Daria Impiombato** quoted by **[NZZ International](https://www.nzz.ch/technologie/china-versucht-amerikaner-gegen-ihre-eigenen-ki-firmen-aufzuwiegeln-ld.10013013)** on why China's influence operation campaign was not a complete failure for Beijing."
+                ]
+              ],
+              "tags": [
+                "fimi"
+              ]
+            },
+            {
+              "outlet": "International Economic Law and Policy Bl",
+              "title": "",
+              "date": "",
+              "url": "https://ielp.worldtradelaw.net/2026/07/how-should-the-eu-get-tough-with-china-unilateral-action-vs-wto-complaints",
+              "bullets": [
+                [
+                  "",
+                  "**Grzegorz Stec** quoted by **[International Economic Law and Policy Blog](https://ielp.worldtradelaw.net/2026/07/how-should-the-eu-get-tough-with-china-unilateral-action-vs-wto-complaints)** – \"Writing for The Wire, Grzegorz Stec of the Mercator\""
+                ]
+              ],
+              "tags": [
+                "trade"
+              ]
+            },
+            {
+              "outlet": "Handelsblatt",
+              "title": "",
+              "date": "",
+              "url": "https://www.handelsblatt.com/politik/international/ki-geopolitischer-hebel-china-holt-auf-und-draengt-in-den-globalen-sueden/100238086.html",
+              "bullets": [
+                [
+                  "",
+                  "**Wendy Chang** quoted by **[Handelsblatt](https://www.handelsblatt.com/politik/international/ki-geopolitischer-hebel-china-holt-auf-und-draengt-in-den-globalen-sueden/100238086.html)** on rising global use of Chinese AI models as they keep improving."
+                ]
+              ],
+              "tags": [
+                "ai"
+              ]
+            },
+            {
+              "outlet": "Soapbox",
+              "title": "",
+              "date": "",
+              "url": "https://soapboxtrade.substack.com/p/eu-china-and-the-mirage-of-dialogue",
+              "bullets": [
+                [
+                  "",
+                  "**MERICS** op-ed in [SOAPBOX](https://soapboxtrade.substack.com/p/eu-china-and-the-mirage-of-dialogue): on EU-China dialogue"
+                ]
+              ],
+              "tags": [
+                "eu-cn",
+                "de-cn"
+              ]
+            },
+            {
+              "outlet": "International Business Times SG",
+              "title": "",
+              "date": "",
+              "url": "https://www.ibtimes.sg/china-russia-naval-drill-adds-pressure-across-asia-pacific-regional-militaries-high-alert-89134",
+              "bullets": [
+                [
+                  "",
+                  "**MERICS** cited by [International Business Times SG](https://www.ibtimes.sg/china-russia-naval-drill-adds-pressure-across-asia-pacific-regional-militaries-high-alert-89134): on China-Russia military cooperation and naval drills"
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "ru-cn"
+              ]
+            },
+            {
+              "outlet": "The Economic Times",
+              "title": "",
+              "date": "",
+              "url": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-how-the-meta-manus-deal-came-apart-and-tencent-moved-in/articleshow/132312650.cms?from=mdr",
+              "bullets": [
+                [
+                  "",
+                  "**Wendy Chang** quoted by [The Economic Times](https://economictimes.indiatimes.com/tech/technology/ettech-explainer-how-the-meta-manus-deal-came-apart-and-tencent-moved-in/articleshow/132312650.cms?from=mdr): on the Meta-Manus deal as a turning point in the US-China AI race"
+                ]
+              ],
+              "tags": [
+                "us-cn",
+                "ai"
+              ]
+            },
+            {
+              "outlet": "elDiarioAR",
+              "title": "",
+              "date": "",
+              "url": "https://www.eldiarioar.com/tecnologia/china-ultima-desembarco-ia-similar-coches-llegar-ola-no-preparados_1_13360961.html",
+              "bullets": [
+                [
+                  "",
+                  "**MERICS** cited by [elDiarioAR](https://www.eldiarioar.com/tecnologia/china-ultima-desembarco-ia-similar-coches-llegar-ola-no-preparados_1_13360961.html): on China's AI expansion"
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "ai"
+              ]
+            },
+            {
+              "outlet": "ESB",
+              "title": "",
+              "date": "",
+              "url": "https://esb.nu/opmars-complexe-chinese-export-bedreigt-europese-industrie/",
+              "bullets": [
+                [
+                  "",
+                  "**MERICS** cited by [ESB](https://esb.nu/opmars-complexe-chinese-export-bedreigt-europese-industrie/): on China's Five-Year Plan and industry policy"
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "trade"
+              ]
+            },
+            {
+              "outlet": "WirtschaftsWoche",
+              "title": "",
+              "date": "",
+              "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/kuenstliche-intelligenz-china-bereitet-den-sturz-von-nvidia-anthropic-und-openai-vor/100237423.html",
+              "bullets": [
+                [
+                  "",
+                  "**Antonia Hmaidi** quoted by [WirtschaftsWoche](https://www.wiwo.de/technologie/wirtschaft-von-oben/kuenstliche-intelligenz-china-bereitet-den-sturz-von-nvidia-anthropic-und-openai-vor/100237423.html): on China's AI ambitions and the fourth industrial revolution"
+                ]
+              ],
+              "tags": [
+                "semcon",
+                "ai"
+              ]
+            },
+            {
+              "outlet": "Tagesschau",
+              "title": "",
+              "date": "",
+              "url": "https://www.tagesschau.de/wirtschaft/biotechnologie-china-102.html",
+              "bullets": [
+                [
+                  "",
+                  "**Alexander Brown** quoted by [Tagesschau](https://www.tagesschau.de/wirtschaft/biotechnologie-china-102.html): on China's biotech advantages in cost, scale and speed, and the need to strengthen European biotech supply-chain resilience – piece draws on Brown's MERICS analysis of China's biotech rise."
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "bio-pharma"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "MERICS institutionally cited (no named expert)",
+          "items": [
+            {
+              "outlet": "FT (Edward White)",
+              "title": "",
+              "date": "",
+              "url": "https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595",
+              "bullets": [
+                [
+                  "",
+                  "**[FT (Edward White)](https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595)**: MERICS China Overcapacities Monitor cited on lossmaking industrial businesses rising from ~10% (2010) to ~25% (2025)."
+                ]
+              ],
+              "tags": [
+                "de-cn"
+              ]
+            },
+            {
+              "outlet": "Asia Society (Philippe Le Corre)",
+              "title": "",
+              "date": "",
+              "url": "https://asiasociety.org/policy-institute/europes-wake-call",
+              "bullets": [
+                [
+                  "",
+                  "**[Asia Society (Philippe Le Corre)](https://asiasociety.org/policy-institute/europes-wake-call)**: MERICS Europe-China Resilience Audit cited on the complexity of European perceptions of China across economic, political, security and societal dimensions."
                 ]
               ],
               "tags": [
                 "de-cn",
                 "society"
+              ]
+            },
+            {
+              "outlet": "Neue Zürcher Zeitung",
+              "title": "",
+              "date": "",
+              "url": "https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784",
+              "bullets": [
+                [
+                  "",
+                  "**[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784)** (Sabine Gusbeth): MERICS analysis cited that nearly 24% of Chinese firms were loss-making last year – deflation risk from ruinous domestic price competition."
+                ]
+              ],
+              "tags": [
+                "de-cn",
+                "macro"
               ]
             }
           ]
