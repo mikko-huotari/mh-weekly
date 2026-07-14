@@ -145,7 +145,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Briefing the European Parliament, EU trade enforcer Denis Redonnet said the EU will press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*. [Finbarr Bermingham on X](https://x.com/fbermingham).",
+              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Briefing the European Parliament, EU trade enforcer Denis Redonnet said the EU will press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*. [F. Bermingham (X)](https://x.com/fbermingham).",
               "tags": [
                 "trade"
               ]
@@ -154,7 +154,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Chinese customs data highlights widening EU trade deficit** – June 2026 GAC data (H1 YTD): Chinese exports to the EU +16.8% ($312.2bn), imports from the EU +8.7% ($135.6bn). [Finbarr Bermingham on X](https://x.com/fbermingham).",
+              "note": "**Chinese customs data highlights widening EU trade deficit** – June 2026 GAC data (H1 YTD): Chinese exports to the EU +16.8% ($312.2bn), imports from the EU +8.7% ($135.6bn). [F. Bermingham (X)](https://x.com/fbermingham).",
               "tags": [
                 "trade"
               ]
@@ -197,7 +197,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Lithuania to normalize diplomatic ties with China** – Point 380 of the new Vilnius government's work programme reverses the previous administration's confrontational line: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*. [Finbarr Bermingham on X](https://x.com/fbermingham).",
+              "note": "**Lithuania to normalize diplomatic ties with China** – Point 380 of the new Vilnius government's work programme reverses the previous administration's confrontational line: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*. [F. Bermingham (X)](https://x.com/fbermingham).",
               "tags": [
                 "diplomacy"
               ]
@@ -206,7 +206,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**German-Chinese trade imbalance worsens** – H1 2026 GAC data: Chinese exports to Germany +19.0% YoY ($67.4bn), imports from Germany +1.8% ($45.1bn). [Finbarr Bermingham on X](https://x.com/fbermingham).",
+              "note": "**German-Chinese trade imbalance worsens** – H1 2026 GAC data: Chinese exports to Germany +19.0% YoY ($67.4bn), imports from Germany +1.8% ($45.1bn). [F. Bermingham (X)](https://x.com/fbermingham).",
               "tags": [
                 "de-cn",
                 "trade"
