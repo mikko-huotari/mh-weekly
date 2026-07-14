@@ -145,7 +145,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Briefing the European Parliament, EU trade enforcer Denis Redonnet said the EU will press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*. [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
+              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Briefing the European Parliament, EU trade enforcer Denis Redonnet said the EU will press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*. [Finbarr Bermingham on X](https://x.com/fbermingham).",
               "tags": [
                 "trade"
               ]
@@ -154,7 +154,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Chinese customs data highlights widening EU trade deficit** – June 2026 GAC data (H1 YTD): Chinese exports to the EU +16.8% ($312.2bn), imports from the EU +8.7% ($135.6bn). [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
+              "note": "**Chinese customs data highlights widening EU trade deficit** – June 2026 GAC data (H1 YTD): Chinese exports to the EU +16.8% ($312.2bn), imports from the EU +8.7% ($135.6bn). [Finbarr Bermingham on X](https://x.com/fbermingham).",
               "tags": [
                 "trade"
               ]
@@ -197,7 +197,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Lithuania to normalize diplomatic ties with China** – Point 380 of the new Vilnius government's work programme reverses the previous administration's confrontational line: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*. [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
+              "note": "**Lithuania to normalize diplomatic ties with China** – Point 380 of the new Vilnius government's work programme reverses the previous administration's confrontational line: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*. [Finbarr Bermingham on X](https://x.com/fbermingham).",
               "tags": [
                 "diplomacy"
               ]
@@ -206,7 +206,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**German-Chinese trade imbalance worsens** – H1 2026 GAC data: Chinese exports to Germany +19.0% YoY ($67.4bn), imports from Germany +1.8% ($45.1bn). [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
+              "note": "**German-Chinese trade imbalance worsens** – H1 2026 GAC data: Chinese exports to Germany +19.0% YoY ($67.4bn), imports from Germany +1.8% ($45.1bn). [Finbarr Bermingham on X](https://x.com/fbermingham).",
               "tags": [
                 "de-cn",
                 "trade"
@@ -232,12 +232,27 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "[**China's export surge + Huawei's Tau Scaling Law + Sino-German trade**](https://merics.org/en/merics-briefs/chinas-export-surge-huaweis-tau-scaling-law-sino-german-trade). Beijing is promoting the narrative that China's flood of exports is more an issue of European competitiveness than a threat from Chinese overproduction. *(MERICS Europe China 360°, Jul 10)*"
+                  "[**MERICS Europe China 360°: China's export surge + Huawei's Tau Scaling Law + Sino-German trade**](https://merics.org/en/merics-briefs/chinas-export-surge-huaweis-tau-scaling-law-sino-german-trade). Three-piece issue with Grzegorz Stec and Antonia Hmaidi. *(Jul 10)*"
+                ],
+                [
+                  "",
+                  "**Chinese experts claim Europe's own problems are causing China's export surge** — **Grzegorz Stec** reviews 30+ Chinese analyses (mid-April to early July) and identifies a counter-narrative that recasts Europe's China Shock 2.0 diagnosis as a European competitiveness problem, not a Chinese overcapacity problem — timed to blunt the June European Council mandate before October decisions."
+                ],
+                [
+                  "",
+                  "**Huawei's Tau Scaling Law: No real revolution, but a key messaging tool** — **Antonia Hmaidi** on how Huawei is deploying its \"Tau Scaling Law\" less as a genuine AI-architecture breakthrough than as a domestic and international signalling device around Chinese chip and AI resilience."
+                ],
+                [
+                  "",
+                  "**SOAPBOX-MERICS Data Highlight: Sino-German trade relations** — H1 2026 data on the widening German-Chinese trade imbalance, with the drivers (Chinese export price competitiveness, subdued German export demand) that also underpin the H1 GAC figures in Part I."
                 ]
               ],
               "tags": [
                 "de-cn",
-                "trade"
+                "semcon",
+                "ai",
+                "trade",
+                "industrial-policy"
               ]
             },
             {
