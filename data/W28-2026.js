@@ -37,22 +37,18 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Wadephul on Spiegel CN-RU military leak: \"violates the absolute core of European security interests\"** – [Der Spiegel investigation](https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3) (joint with [The Insider](https://theins.press/en/inv/294635) and Le Monde) publishes leaked slides from the 3rd China-Russia Military-Technical Cooperation Forum (Guangzhou, Nov 2023) plus a signed bilateral protocol from Moscow (Jun 2023) – covering space/anti-satellite weapons, integrated air+missile defense, autonomous swarm loitering munitions, next-gen armored vehicles and military aviation. Foreign Minister Wadephul told Spiegel the findings are \"extremely worrying\" and that Berlin will raise the issue with EU partners: *\"Every act of support for Russia's violation of international law prolongs the war and creates only further immeasurable suffering.\"* Auswärtiges Amt summoned China's ambassador in Berlin for a \"dringliches Gespräch\" (formal démarche) over the leaked cooperation dossier.",
+              "note": "**Wadephul on Spiegel CN-RU military leak: \"violates the absolute core of European security interests\"** – [Der Spiegel investigation](https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3) (with [The Insider](https://theins.press/en/inv/294635) and Le Monde) publishes leaked slides from a Nov 2023 China-Russia Military-Technical Cooperation Forum plus a Jun 2023 bilateral protocol on space/anti-satellite weapons, integrated air-missile defense, autonomous swarm munitions and next-gen armor. Wadephul called the findings \"extremely worrying\"; Auswärtiges Amt summoned China's ambassador for a formal démarche.",
               "tags": [
-                "de-cn",
                 "ru-cn",
-                "mil-tech",
-                "aerospace",
-                "diplomacy"
+                "mil-tech"
               ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Wadephul in Norway names China's Arctic push alongside Russia** – [Auswärtiges Amt release](https://www.auswaertiges-amt.de/en/newsroom/news/wadephul-reise-norwegen-2778030) (2026-07-13). Wadephul: *\"Russia is becoming ever more active in a region that is of enormous strategic importance for our security\"* – *\"China is also systematically boosting its presence in the Arctic.\"* Trip covered NATO's north flank, Germany-Norway-Canada 212CD-class submarine cooperation, critical raw materials, space research.",
+              "note": "**Wadephul in Norway names China's Arctic push alongside Russia** – [Auswärtiges Amt release](https://www.auswaertiges-amt.de/en/newsroom/news/wadephul-reise-norwegen-2778030) (2026-07-13). Wadephul: *\"China is also systematically boosting its presence in the Arctic.\"* Trip covered NATO's north flank, DE-NO-CA 212CD-class submarine cooperation, critical raw materials.",
               "tags": [
-                "de-cn",
                 "ru-cn"
               ]
             }
@@ -149,9 +145,8 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Briefing the European Parliament on EU-China relations, EU trade enforcer Denis Redonnet officially confirmed that the EU intends to press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*. [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
+              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Briefing the European Parliament, EU trade enforcer Denis Redonnet said the EU will press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*. [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
               "tags": [
-                "eu-cn",
                 "trade"
               ]
             },
@@ -159,9 +154,8 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Chinese customs data highlights widening EU trade deficit** – Official June 2026 figures from China's General Administration of Customs (GAC) underscore the growing imbalance driving Brussels' concerns. Year-to-date data (Jan – June) shows Chinese exports to the EU surged by 16.8% (to $312.2 billion), while imports from the EU grew by only 8.7% (to $135.6 billion). [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
+              "note": "**Chinese customs data highlights widening EU trade deficit** – June 2026 GAC data (H1 YTD): Chinese exports to the EU +16.8% ($312.2bn), imports from the EU +8.7% ($135.6bn). [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
               "tags": [
-                "eu-cn",
                 "trade"
               ]
             }
@@ -203,7 +197,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**Lithuania to normalize diplomatic ties with China** – Reversing the confrontational stance of the previous administration, the new Lithuanian government's work programme explicitly commits to repairing relations with Beijing. Point 380 in the Twenty-First Programme states: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*. [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
+              "note": "**Lithuania to normalize diplomatic ties with China** – Point 380 of the new Vilnius government's work programme reverses the previous administration's confrontational line: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*. [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
               "tags": [
                 "diplomacy"
               ]
@@ -212,7 +206,7 @@ window.W28_2026 = {
               "outlet": "",
               "date": "",
               "url": "",
-              "note": "**German-Chinese trade imbalance worsens** – The latest Chinese customs data reflects a severe exacerbation of the bilateral trade deficit. For the first half of 2026, Chinese exports to Germany jumped 19.0% year-on-year (to $67.4 billion), compared to a meager 1.8% increase in imports from Germany (to $45.1 billion). [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
+              "note": "**German-Chinese trade imbalance worsens** – H1 2026 GAC data: Chinese exports to Germany +19.0% YoY ($67.4bn), imports from Germany +1.8% ($45.1bn). [Finbarr Bermingham on X](https://x.com/fbermingham) / [SCMP](https://www.scmp.com/author/finbarr-bermingham).",
               "tags": [
                 "de-cn",
                 "trade"
@@ -238,7 +232,7 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "[**China's export surge + Huawei's Tau Scaling Law + Sino-German trade**](https://merics.org/en/merics-briefs/chinas-export-surge-huaweis-tau-scaling-law-sino-german-trade). Beijing is promoting the narrative that China's flood of exports is more an issue of European competitiveness than a threat from Chinese overproduction. *(MERICS Briefs, Jul 10)*"
+                  "[**China's export surge + Huawei's Tau Scaling Law + Sino-German trade**](https://merics.org/en/merics-briefs/chinas-export-surge-huaweis-tau-scaling-law-sino-german-trade). Beijing is promoting the narrative that China's flood of exports is more an issue of European competitiveness than a threat from Chinese overproduction. *(MERICS Europe China 360°, Jul 10)*"
                 ]
               ],
               "tags": [
