@@ -38,14 +38,23 @@ window.W28_2026 = {
               "date": "",
               "url": "",
               "note": "**Wadephul on Spiegel CN-RU military leak: \"violates the absolute core of European security interests\"** – [Der Spiegel investigation](https://www.spiegel.de/international/world/the-new-axis-of-evil-der-spiegel-investigation-reveals-deep-military-cooperation-between-russia-and-china-a-12dc295a-413d-4a2f-b44f-2922092270e3) (joint with [The Insider](https://theins.press/en/inv/294635) and Le Monde) publishes leaked slides from the 3rd China-Russia Military-Technical Cooperation Forum (Guangzhou, Nov 2023) plus a signed bilateral protocol from Moscow (Jun 2023) – covering space/anti-satellite weapons, integrated air+missile defense, autonomous swarm loitering munitions, next-gen armored vehicles and military aviation. Foreign Minister Wadephul told Spiegel the findings are \"extremely worrying\" and that Berlin will raise the issue with EU partners: *\"Every act of support for Russia's violation of international law prolongs the war and creates only further immeasurable suffering.\"*",
-              "tags": []
+              "tags": [
+                "de-cn",
+                "ru-cn",
+                "mil-tech",
+                "aerospace",
+                "diplomacy"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**Wadephul in Norway names China's Arctic push alongside Russia** – [Auswärtiges Amt release](https://www.auswaertiges-amt.de/en/newsroom/news/wadephul-reise-norwegen-2778030) (2026-07-13). Wadephul: *\"Russia is becoming ever more active in a region that is of enormous strategic importance for our security\"* – *\"China is also systematically boosting its presence in the Arctic.\"* Trip covered NATO's north flank, Germany-Norway-Canada 212CD-class submarine cooperation, critical raw materials, space research.",
-              "tags": []
+              "tags": [
+                "de-cn",
+                "ru-cn"
+              ]
             }
           ]
         },
@@ -57,56 +66,104 @@ window.W28_2026 = {
               "date": "",
               "url": "",
               "note": "**EU drafts \"Buy European\" rules for public tenders to curb foreign dependence** – [Reuters](https://www.reuters.com/world/china/eu-drafts-buy-european-rules-public-tenders-curb-foreign-dependence-2026-07-09).",
-              "tags": []
+              "tags": [
+                "de-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**French commissioner pushes \"Buy European\" in public procurement** – [FT](https://www.ft.com/content/aafbb53c-ace9-4c40-b3d6-9743995ccf54). Coordinated with the Reuters draft above.",
-              "tags": []
+              "tags": [
+                "de-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**EU imposes anti-dumping measures on Chinese tyre firms** – [SCMP](https://www.scmp.com/economy/china-economy/article/3359799/eu-imposes-anti-dumping-measures-chinese-tyre-firms).",
-              "tags": []
+              "tags": [
+                "de-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**Peking duck dispute heightens EU-China trade tensions** – [FT](https://www.ft.com/content/1a4765e3-07c3-4633-bd9f-e01c31474d7b). First EU anti-dumping probe on a Chinese agricultural product.",
-              "tags": []
+              "tags": [
+                "eu-cn",
+                "trade"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**China offers to defuse EU trade clash after Wang Yi's Nordic trip** – [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-08/china-offers-to-defuse-eu-trade-clash-after-landmark-nordic-trip).",
-              "tags": []
+              "tags": [
+                "trade",
+                "cn-discourse"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**Wang Yi says China welcomes stronger European business relations** – [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-05/wang-yi-says-china-welcomes-stronger-european-business-relations).",
-              "tags": []
+              "tags": [
+                "cn-discourse"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**\"The EU can stand up to China if it hangs together\"** – [Reuters Breakingviews](https://www.reuters.com/commentary/breakingviews/eu-can-stand-up-china-if-it-hangs-together-2026-07-06).",
-              "tags": []
+              "tags": [
+                "de-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**Europe's \"China shock\" panic is ill-informed** – [FT (Free Lunch, Martin Sandbu)](https://www.ft.com/content/5817f869-7b5d-4260-87b3-1500750172e0). Pushes back on the alarmist framing driving Brussels.",
-              "tags": []
+              "tags": [
+                "eu-cn"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**EU weighs emergency import curbs amid trade gap surge** – [SCMP](https://www.scmp.com/news/china/diplomacy/article/3360556/eu-signals-emergency-import-curbs-after-dramatic-surge-chinese-trade-gap). Brussels is signaling the potential for emergency import restrictions following a dramatic widening of the trade deficit with Beijing.",
+              "tags": [
+                "eu-cn",
+                "trade"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Redonnet confirms push for Chinese government procurement commitments** – Finbarr Bermingham (SCMP) on X. Briefing the European Parliament on EU-China relations, EU trade enforcer Denis Redonnet officially confirmed that the EU intends to press Beijing for *\"direct purchase commitments, in particular where trade is taking place via government procurement\"*.",
+              "tags": [
+                "eu-cn",
+                "trade"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Chinese customs data highlights widening EU trade deficit** – Finbarr Bermingham (SCMP) on X. Official June 2026 figures from China's General Administration of Customs (GAC) underscore the growing imbalance driving Brussels' concerns. Year-to-date data (Jan – June) shows Chinese exports to the EU surged by 16.8% (to $312.2 billion), while imports from the EU grew by only 8.7% (to $135.6 billion).",
+              "tags": [
+                "eu-cn",
+                "trade"
+              ]
             }
           ]
         },
@@ -118,21 +175,48 @@ window.W28_2026 = {
               "date": "",
               "url": "",
               "note": "**Deal between Danish NATO port and Chinese peer draws criticism** – [Nikkei](https://asia.nikkei.com/politics/defense/deal-between-danish-nato-port-and-chinese-peer-draws-criticism).",
-              "tags": []
+              "tags": [
+                "de-cn"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**Beijing seeks chip stability and fair market access during Dutch trade minister's trip** – [SCMP](https://www.scmp.com/economy/global-economy/article/3359872/beijing-seeks-chip-stability-and-fair-market-access-during-dutch-trade-ministers-trip).",
-              "tags": []
+              "tags": [
+                "semcon",
+                "trade"
+              ]
             },
             {
               "outlet": "",
               "date": "",
               "url": "",
               "note": "**Norway urges China to help bring Russia to Ukraine peace talks** – [SCMP](https://www.scmp.com/news/world/russia-central-asia/article/3359648/norway-urges-china-help-bring-russia-ukraine-peace-talks). Wang Yi's Nordic stop, same trip context as Wadephul's.",
-              "tags": []
+              "tags": [
+                "ru-cn",
+                "cn-discourse"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**Lithuania to normalize diplomatic ties with China** – Finbarr Bermingham (SCMP) on X. Reversing the confrontational stance of the previous administration, the new Lithuanian government's work programme explicitly commits to repairing relations with Beijing. Point 380 in the Twenty-First Programme states: *\"We will normalize diplomatic relations with China to the level of diplomatic representation that exists in other EU member states\"*.",
+              "tags": [
+                "diplomacy"
+              ]
+            },
+            {
+              "outlet": "",
+              "date": "",
+              "url": "",
+              "note": "**German-Chinese trade imbalance worsens** – Finbarr Bermingham (SCMP) on X. The latest Chinese customs data reflects a severe exacerbation of the bilateral trade deficit. For the first half of 2026, Chinese exports to Germany jumped 19.0% year-on-year (to $67.4 billion), compared to a meager 1.8% increase in imports from Germany (to $45.1 billion).",
+              "tags": [
+                "de-cn",
+                "trade"
+              ]
             }
           ]
         }
@@ -161,7 +245,10 @@ window.W28_2026 = {
                   "MERICS Europe-China Resilience Audit cited on the complexity of European perceptions of China across economic, political, security and societal dimensions."
                 ]
               ],
-              "tags": []
+              "tags": [
+                "de-cn",
+                "society"
+              ]
             }
           ]
         }
@@ -196,7 +283,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "macro",
+            "property",
+            "trade",
+            "investment"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -219,7 +312,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "FT",
@@ -238,7 +333,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -261,7 +358,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "property"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -280,7 +379,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -303,7 +404,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "property"
+          ]
         },
         {
           "outlet": "FT",
@@ -326,7 +429,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "auto",
+            "investment"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -345,7 +451,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "energy",
+            "macro",
+            "climate"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -364,7 +474,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "auto",
+            "energy",
+            "climate"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -383,7 +497,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mid-east",
+            "macro",
+            "trade"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -406,7 +524,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro",
+            "society"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -425,7 +546,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -444,7 +567,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -467,7 +592,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -486,7 +613,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "hk",
+            "macro"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -505,7 +636,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "bio-pharma"
+          ]
         }
       ]
     },
@@ -536,7 +669,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "society"
+          ]
         },
         {
           "outlet": "Jamestown",
@@ -555,7 +690,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ideology"
+          ]
         },
         {
           "outlet": "NYT",
@@ -578,7 +715,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ideology",
+            "corruption",
+            "trade",
+            "pla"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -597,7 +739,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "corruption"
+          ]
         },
         {
           "outlet": "NYT",
@@ -616,7 +760,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "propaganda"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -639,7 +785,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "society"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -658,7 +806,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "FT",
@@ -677,7 +827,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -700,7 +852,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "society"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -723,7 +877,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "human-rights"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -742,7 +898,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "society"
+          ]
         },
         {
           "outlet": "Guardian",
@@ -765,7 +923,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "society"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -788,7 +948,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai"
+          ]
         }
       ]
     },
@@ -819,7 +981,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "us-cn",
+            "semcon",
+            "ai"
+          ]
         },
         {
           "outlet": "NYT",
@@ -842,7 +1008,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "ai",
+            "trade",
+            "export-controls"
+          ]
         },
         {
           "outlet": "The Atlantic",
@@ -865,7 +1036,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "us-cn",
+            "semcon",
+            "ai",
+            "trade",
+            "export-controls"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -884,7 +1061,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "macro"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -903,7 +1083,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "trade",
+            "export-controls"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -926,7 +1110,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "macro"
+          ]
         },
         {
           "outlet": "NYT",
@@ -949,7 +1136,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -968,7 +1157,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "hk",
+            "ai"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -987,7 +1179,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1006,7 +1200,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -1029,7 +1225,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -1052,7 +1250,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "mil-tech",
+            "trade",
+            "export-controls"
+          ]
         },
         {
           "outlet": "NYT",
@@ -1071,7 +1274,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "energy",
+            "investment"
+          ]
         },
         {
           "outlet": "Economist",
@@ -1094,7 +1301,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "ai"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1117,7 +1327,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "ai",
+            "macro",
+            "trade",
+            "export-controls"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -1136,7 +1352,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "ai",
+            "trade"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -1159,7 +1379,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "ai"
+          ]
         },
         {
           "outlet": "FT",
@@ -1182,7 +1405,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "macro",
+            "markets",
+            "trade"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -1205,7 +1433,14 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "macro",
+            "markets",
+            "trade",
+            "export-controls",
+            "supply-chain"
+          ]
         },
         {
           "outlet": "Economist",
@@ -1228,7 +1463,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "markets"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -1251,7 +1488,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "bio-pharma"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -1274,7 +1513,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "bio-pharma"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -1297,7 +1539,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "bio-pharma"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -1316,7 +1560,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "bio-pharma"
+          ]
         },
         {
           "outlet": "FT",
@@ -1335,7 +1581,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "sea"
+          ]
         },
         {
           "outlet": "NYT",
@@ -1354,7 +1602,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "aerospace"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -1373,7 +1623,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon"
+          ]
         },
         {
           "outlet": "NYT",
@@ -1392,7 +1644,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -1411,7 +1665,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1430,7 +1686,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon"
+          ]
         }
       ]
     },
@@ -1457,7 +1715,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "latam",
+            "auto"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -1476,7 +1737,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "auto",
+            "energy"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1499,7 +1763,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "de-cn",
+            "jp-cn",
+            "auto",
+            "industrial-policy"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -1522,7 +1791,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "auto",
+            "ideology",
+            "trade",
+            "espionage"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -1541,7 +1815,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "trade",
+            "export-controls",
+            "supply-chain",
+            "human-rights"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -1564,7 +1843,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "eu-cn",
+            "auto",
+            "batteries",
+            "energy",
+            "trade"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -1587,7 +1872,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro",
+            "trade"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -1606,7 +1894,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -1625,7 +1915,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "FT",
@@ -1648,7 +1940,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "hk",
+            "macro"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -1667,7 +1962,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "trade",
+            "industrial-policy"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1686,7 +1984,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "macro"
+          ]
         },
         {
           "outlet": "FT",
@@ -1709,7 +2009,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "rare-earths",
+            "trade",
+            "export-controls"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1728,7 +2033,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "rare-earths",
+            "trade"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1751,7 +2060,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "batteries"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -1770,7 +2081,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "sea",
+            "trade"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -1789,7 +2103,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "trade",
+            "industrial-policy"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1812,7 +2129,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "sea",
+            "semcon",
+            "trade"
+          ]
         },
         {
           "outlet": "Gulfnews",
@@ -1831,7 +2152,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mid-east",
+            "energy",
+            "maritime"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -1854,7 +2179,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mid-east",
+            "semcon",
+            "sanctions",
+            "maritime"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -1877,7 +2207,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "us-cn",
+            "trade",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "Economist",
@@ -1900,7 +2234,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "robotics",
+            "markets"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -1919,7 +2256,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "batteries",
+            "energy"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -1942,7 +2282,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "batteries",
+            "trade",
+            "investment"
+          ]
         }
       ]
     },
@@ -1969,7 +2313,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "sea",
+            "mil-tech",
+            "nuclear"
+          ]
         },
         {
           "outlet": "NYT",
@@ -1988,7 +2337,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ru-cn",
+            "sea",
+            "mil-tech",
+            "nuclear"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2007,7 +2361,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "mil-tech",
+            "pla",
+            "nuclear"
+          ]
         },
         {
           "outlet": "NYT",
@@ -2030,7 +2389,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "mil-tech",
+            "nuclear",
+            "diplomacy",
+            "propaganda"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -2053,7 +2418,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "mil-tech",
+            "nuclear"
+          ]
         },
         {
           "outlet": "CSIS",
@@ -2076,7 +2445,14 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "ru-cn",
+            "sea",
+            "mil-tech",
+            "pla",
+            "maritime"
+          ]
         },
         {
           "outlet": "The Diplomat",
@@ -2099,7 +2475,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "mil-tech",
+            "ideology",
+            "propaganda"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2122,7 +2503,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mil-tech",
+            "nuclear"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -2141,7 +2525,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "twn",
+            "mil-tech",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "NYT",
@@ -2164,7 +2552,14 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "de-cn",
+            "jp-cn",
+            "twn",
+            "uk-cn",
+            "sea",
+            "maritime"
+          ]
         },
         {
           "outlet": "Foreign Policy",
@@ -2183,7 +2578,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "twn"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -2202,7 +2600,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "twn",
+            "hk"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -2221,7 +2622,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "twn",
+            "hk"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -2244,7 +2649,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "human-rights"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2267,7 +2674,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "sea",
+            "maritime"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -2290,7 +2701,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "india-cn",
+            "sea",
+            "maritime",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2309,7 +2726,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "sea",
+            "maritime"
+          ]
         },
         {
           "outlet": "Caixin",
@@ -2328,7 +2748,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "trade",
+            "diplomacy",
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Brookings",
@@ -2351,7 +2775,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ru-cn",
+            "sanctions"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -2374,7 +2801,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "india-cn",
+            "twn",
+            "mil-tech"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2393,7 +2824,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "india-cn",
+            "trade",
+            "investment"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -2412,7 +2847,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "india-cn",
+            "maritime"
+          ]
         },
         {
           "outlet": "Bloomberg",
@@ -2435,7 +2873,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "us-cn",
+            "auto",
+            "trade",
+            "investment"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2454,7 +2897,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "cn-discourse"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -2477,7 +2922,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "NYT",
@@ -2500,7 +2948,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "us-cn",
+            "twn",
+            "semcon",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "NYT",
@@ -2519,7 +2972,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mid-east",
+            "ru-cn",
+            "propaganda"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -2542,7 +2999,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mid-east",
+            "ru-cn",
+            "energy",
+            "mil-tech"
+          ]
         },
         {
           "outlet": "Foreign Policy",
@@ -2565,7 +3027,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "society"
+          ]
         }
       ]
     },
@@ -2596,7 +3060,14 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "us-cn",
+            "energy",
+            "trade",
+            "export-controls",
+            "investment-screening",
+            "investment"
+          ]
         },
         {
           "outlet": "Foreign Policy",
@@ -2615,7 +3086,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "us-cn",
+            "twn",
+            "semcon",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "Politico",
@@ -2638,7 +3114,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "macro",
+            "trade",
+            "export-controls"
+          ]
         },
         {
           "outlet": "NYT",
@@ -2661,7 +3142,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "ai",
+            "rare-earths",
+            "property",
+            "society",
+            "trade"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2684,7 +3171,15 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "india-cn",
+            "ru-cn",
+            "mil-tech",
+            "macro",
+            "pla",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "NYT",
@@ -2707,7 +3202,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mil-tech",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -2730,7 +3228,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "mil-tech",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "SCMP",
@@ -2749,7 +3250,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "twn",
+            "sea",
+            "mil-tech",
+            "pla",
+            "maritime"
+          ]
         },
         {
           "outlet": "Foreign Policy",
@@ -2772,7 +3279,10 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "twn",
+            "pla"
+          ]
         },
         {
           "outlet": "WSJ",
@@ -2795,7 +3305,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "eu-cn",
+            "de-cn",
+            "trade",
+            "diplomacy"
+          ]
         },
         {
           "outlet": "FT",
@@ -2818,7 +3333,15 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "semcon",
+            "ai",
+            "energy",
+            "markets",
+            "trade",
+            "export-controls",
+            "investment"
+          ]
         },
         {
           "outlet": "NYT",
@@ -2837,7 +3360,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "de-cn",
+            "jp-cn",
+            "auto",
+            "investment"
+          ]
         },
         {
           "outlet": "NYT",
@@ -2860,7 +3388,9 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "trade"
+          ]
         },
         {
           "outlet": "Nikkei",
@@ -2883,7 +3413,12 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "sea",
+            "society",
+            "trade"
+          ]
         },
         {
           "outlet": "FT",
@@ -2906,7 +3441,13 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "sea",
+            "semcon",
+            "ai",
+            "trade",
+            "export-controls"
+          ]
         },
         {
           "outlet": "FT",
@@ -2925,7 +3466,11 @@ window.W28_2026 = {
             ]
           ],
           "related": [],
-          "tags": []
+          "tags": [
+            "jp-cn",
+            "hk",
+            "sea"
+          ]
         }
       ]
     }
@@ -3512,4 +4057,5 @@ window.W28_2026 = {
     }
   ]
 };
+
 if (window.W28_2026_WOCHENBERICHT) window.W28_2026.wochenbericht = window.W28_2026_WOCHENBERICHT;
