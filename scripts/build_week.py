@@ -382,8 +382,20 @@ def _parse_part_ii_new_schema(text: str) -> dict | None:
     end = start + nxt.start() if nxt else len(text)
     body = text[start:end]
 
+    # Whitelist of Part II sub-tabs — matches newsletter_structure.yaml
+    # merics.subsections + strict_sub_tabs. Any H2 outside this list has its
+    # content folded into media_insights (never rendered as its own tab).
+    # Fixes W28+ recurring drift: "MERICS institutionally cited" appeared as
+    # menu tab because build_week previously created a group per H2.
+    WHITELIST = {"merics research", "selected insights for media"}
+
+    def _in_whitelist(label: str) -> bool:
+        low = label.lower()
+        return any(w in low for w in WHITELIST)
+
     sub_headers = list(re.finditer(r"^##\s+(.+?)\s*$", body, re.MULTILINE))
     groups = []
+    media_insights_ref: list[dict] | None = None  # target for off-whitelist fold-in
     for i, sh in enumerate(sub_headers):
         label = sh.group(1).strip()
         if "Top Chart" in label or "Visual" in label:
@@ -446,7 +458,22 @@ def _parse_part_ii_new_schema(text: str) -> dict | None:
                     "bullets": [["", content]],
                 })
         if items:
-            groups.append({"label": label, "items": items})
+            if _in_whitelist(label):
+                grp = {"label": label, "items": items}
+                groups.append(grp)
+                if "selected insights" in label.lower():
+                    media_insights_ref = grp["items"]
+            else:
+                # Off-whitelist H2: do NOT create a tab. Fold items into
+                # media_insights so nothing is lost (per strict_sub_tabs).
+                if media_insights_ref is None:
+                    # media_insights not yet seen → create placeholder, fill later
+                    placeholder = {"label": "Selected insights for media by colleagues",
+                                    "items": list(items)}
+                    groups.append(placeholder)
+                    media_insights_ref = placeholder["items"]
+                else:
+                    media_insights_ref.extend(items)
 
     if not groups:
         return None

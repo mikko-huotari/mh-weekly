@@ -310,14 +310,14 @@ window.W28_2026 = {
           "label": "Selected insights for media by colleagues",
           "items": [
             {
-              "outlet": "NZZ International",
+              "outlet": "NZZ",
               "title": "",
               "date": "",
               "url": "https://www.nzz.ch/technologie/china-versucht-amerikaner-gegen-ihre-eigenen-ki-firmen-aufzuwiegeln-ld.10013013",
               "bullets": [
                 [
                   "",
-                  "**Daria Impiombato** quoted by **[NZZ International](https://www.nzz.ch/technologie/china-versucht-amerikaner-gegen-ihre-eigenen-ki-firmen-aufzuwiegeln-ld.10013013)** on why China's influence operation campaign was not a complete failure for Beijing."
+                  "**[NZZ](https://www.nzz.ch/technologie/china-versucht-amerikaner-gegen-ihre-eigenen-ki-firmen-aufzuwiegeln-ld.10013013)** International quoted **Daria Impiombato** on why China's influence operation campaign was not a complete failure for Beijing."
                 ]
               ],
               "tags": [
@@ -332,7 +332,7 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "**Grzegorz Stec** quoted by **[International Economic Law and Policy Blog](https://ielp.worldtradelaw.net/2026/07/how-should-the-eu-get-tough-with-china-unilateral-action-vs-wto-complaints)** – \"Writing for The Wire, Grzegorz Stec of the Mercator\""
+                  "**[International Economic Law and Policy Blog](https://ielp.worldtradelaw.net/2026/07/how-should-the-eu-get-tough-with-china-unilateral-action-vs-wto-complaints)** quoted **Grzegorz Stec** – \"Writing for The Wire, Grzegorz Stec of the Mercator\"."
                 ]
               ],
               "tags": [
@@ -347,27 +347,11 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "**Wendy Chang** quoted by **[Handelsblatt](https://www.handelsblatt.com/politik/international/ki-geopolitischer-hebel-china-holt-auf-und-draengt-in-den-globalen-sueden/100238086.html)** on rising global use of Chinese AI models as they keep improving."
+                  "**[Handelsblatt](https://www.handelsblatt.com/politik/international/ki-geopolitischer-hebel-china-holt-auf-und-draengt-in-den-globalen-sueden/100238086.html)** quoted **Wendy Chang** on rising global use of Chinese AI models as they keep improving."
                 ]
               ],
               "tags": [
                 "ai"
-              ]
-            },
-            {
-              "outlet": "Soapbox",
-              "title": "",
-              "date": "",
-              "url": "https://soapboxtrade.substack.com/p/eu-china-and-the-mirage-of-dialogue",
-              "bullets": [
-                [
-                  "",
-                  "**MERICS** op-ed in [SOAPBOX](https://soapboxtrade.substack.com/p/eu-china-and-the-mirage-of-dialogue): on EU-China dialogue"
-                ]
-              ],
-              "tags": [
-                "eu-cn",
-                "de-cn"
               ]
             },
             {
@@ -378,7 +362,7 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "**MERICS** cited by [International Business Times SG](https://www.ibtimes.sg/china-russia-naval-drill-adds-pressure-across-asia-pacific-regional-militaries-high-alert-89134): on China-Russia military cooperation and naval drills"
+                  "**[International Business Times SG](https://www.ibtimes.sg/china-russia-naval-drill-adds-pressure-across-asia-pacific-regional-militaries-high-alert-89134)** cited **MERICS** on China-Russia military cooperation and naval drills."
                 ]
               ],
               "tags": [
@@ -394,7 +378,7 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "**Wendy Chang** quoted by [The Economic Times](https://economictimes.indiatimes.com/tech/technology/ettech-explainer-how-the-meta-manus-deal-came-apart-and-tencent-moved-in/articleshow/132312650.cms?from=mdr): on the Meta-Manus deal as a turning point in the US-China AI race"
+                  "**[The Economic Times](https://economictimes.indiatimes.com/tech/technology/ettech-explainer-how-the-meta-manus-deal-came-apart-and-tencent-moved-in/articleshow/132312650.cms?from=mdr)** quoted **Wendy Chang** on the Meta-Manus deal as a turning point in the US-China AI race."
                 ]
               ],
               "tags": [
@@ -410,7 +394,7 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "**MERICS** cited by [elDiarioAR](https://www.eldiarioar.com/tecnologia/china-ultima-desembarco-ia-similar-coches-llegar-ola-no-preparados_1_13360961.html): on China's AI expansion"
+                  "**[elDiarioAR](https://www.eldiarioar.com/tecnologia/china-ultima-desembarco-ia-similar-coches-llegar-ola-no-preparados_1_13360961.html)** cited **MERICS** on China's AI expansion."
                 ]
               ],
               "tags": [
@@ -426,7 +410,7 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "**MERICS** cited by [ESB](https://esb.nu/opmars-complexe-chinese-export-bedreigt-europese-industrie/): on China's Five-Year Plan and industry policy"
+                  "**[ESB](https://esb.nu/opmars-complexe-chinese-export-bedreigt-europese-industrie/)** cited **MERICS** on China's Five-Year Plan and industry policy."
                 ]
               ],
               "tags": [
@@ -442,7 +426,7 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "**Antonia Hmaidi** quoted by [WirtschaftsWoche](https://www.wiwo.de/technologie/wirtschaft-von-oben/kuenstliche-intelligenz-china-bereitet-den-sturz-von-nvidia-anthropic-und-openai-vor/100237423.html): on China's AI ambitions and the fourth industrial revolution"
+                  "**[WirtschaftsWoche](https://www.wiwo.de/technologie/wirtschaft-von-oben/kuenstliche-intelligenz-china-bereitet-den-sturz-von-nvidia-anthropic-und-openai-vor/100237423.html)** quoted **Antonia Hmaidi** on China's AI ambitions and the fourth industrial revolution."
                 ]
               ],
               "tags": [
@@ -458,7 +442,7 @@ window.W28_2026 = {
               "bullets": [
                 [
                   "",
-                  "**Alexander Brown** quoted by [Tagesschau](https://www.tagesschau.de/wirtschaft/biotechnologie-china-102.html): on China's biotech advantages in cost, scale and speed, and the need to strengthen European biotech supply-chain resilience – piece draws on Brown's MERICS analysis of China's biotech rise."
+                  "**[Tagesschau](https://www.tagesschau.de/wirtschaft/biotechnologie-china-102.html)** quoted **Alexander Brown** on China's biotech advantages in cost, scale and speed, and the need to strengthen European biotech supply-chain resilience – piece draws on Brown's MERICS analysis of China's biotech rise."
                 ]
               ],
               "tags": [
@@ -467,14 +451,14 @@ window.W28_2026 = {
               ]
             },
             {
-              "outlet": "FT (Edward White)",
+              "outlet": "FT",
               "title": "",
               "date": "",
               "url": "https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595",
               "bullets": [
                 [
                   "",
-                  "**[FT (Edward White)](https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595)** cited MERICS China Overcapacities Monitor on lossmaking industrial businesses rising from ~10% (2010) to ~25% (2025)."
+                  "**[FT](https://www.ft.com/content/9c4fe066-8353-4322-8571-17f89011c595)** (Edward White) cited MERICS China Overcapacities Monitor on lossmaking industrial businesses rising from ~10% (2010) to ~25% (2025)."
                 ]
               ],
               "tags": [
@@ -482,14 +466,14 @@ window.W28_2026 = {
               ]
             },
             {
-              "outlet": "Asia Society (Philippe Le Corre)",
+              "outlet": "Asia Society",
               "title": "",
               "date": "",
               "url": "https://asiasociety.org/policy-institute/europes-wake-call",
               "bullets": [
                 [
                   "",
-                  "**[Asia Society (Philippe Le Corre)](https://asiasociety.org/policy-institute/europes-wake-call)** cited MERICS Europe-China Resilience Audit on the complexity of European perceptions of China across economic, political, security and societal dimensions."
+                  "**[Asia Society](https://asiasociety.org/policy-institute/europes-wake-call)** (Philippe Le Corre) cited MERICS Europe-China Resilience Audit on the complexity of European perceptions of China across economic, political, security and societal dimensions."
                 ]
               ],
               "tags": [
@@ -498,14 +482,14 @@ window.W28_2026 = {
               ]
             },
             {
-              "outlet": "Neue Zürcher Zeitung",
+              "outlet": "NZZ",
               "title": "",
               "date": "",
               "url": "https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784",
               "bullets": [
                 [
                   "",
-                  "**[Neue Zürcher Zeitung](https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784)** (Sabine Gusbeth) cited MERICS analysis that nearly 24% of Chinese firms were loss-making last year – deflation risk from ruinous domestic price competition."
+                  "**[NZZ](https://www.nzz.ch/wirtschaft/china-produziert-waren-und-muss-die-abnehmer-im-ausland-suchen-dem-land-droht-ein-rueckfall-in-die-deflation-ld.10014784)** (Sabine Gusbeth) cited MERICS analysis that nearly 24% of Chinese firms were loss-making last year – deflation risk from ruinous domestic price competition."
                 ]
               ],
               "tags": [
@@ -1948,7 +1932,15 @@ window.W28_2026 = {
           "tags": [
             "energy"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "number": "3b",
+      "slug": "trade",
+      "short": "Geoecon · Trade",
+      "label": "Geoeconomics — trade, finance & industrial policy",
+      "items": [
         {
           "outlet": "Nikkei",
           "author": "",
@@ -2289,7 +2281,8 @@ window.W28_2026 = {
           ],
           "related": [],
           "tags": [
-            "semcon"
+            "trade",
+            "industrial-policy"
           ]
         },
         {
