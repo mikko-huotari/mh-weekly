@@ -14,7 +14,7 @@ window.W29_2026_WOCHENBERICHT = {
       "items": [
         {
           "lead": "Friedrich Merz",
-          "text": "Bundeskanzler, CDU sagte am Mittwoch/15.07. auf seiner Sommerpressekonferenz in Berlin: „Wir können auf Dauer nicht akzeptieren, dass Länder auf der Welt, insbesondere wenn sie große Wettbewerber sind, künstlich ihre Währung niedrig bewerten, und dadurch Wettbewerbsvorteile haben.\".",
+          "text": "Bundeskanzler, CDU sagte am Mittwoch/15.07. auf seiner Sommerpressekonferenz in Berlin: „Wir können auf Dauer nicht akzeptieren, dass Länder auf der Welt, insbesondere wenn sie große Wettbewerber sind, künstlich ihre Währung niedrig bewerten, und dadurch Wettbewerbsvorteile haben.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -25,7 +25,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Friedrich Merz",
-          "text": "Bundeskanzler, CDU sagte am Montag/13.07.: „Wir haben die Macht und auch die wirtschaftliche Kraft der Volksrepublik China über lange Zeit unterschätzt.\".",
+          "text": "Bundeskanzler, CDU sagte am Montag/13.07.: „Wir haben die Macht und auch die wirtschaftliche Kraft der Volksrepublik China über lange Zeit unterschätzt.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -58,7 +58,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Johann Wadephul",
-          "text": "Bundesaußenminister, CDU kritisierte diese Woche in einem „Spiegel\"-Interview die militärische Kooperation zwischen Peking und Moskau scharf: „China muss wissen, dass das den absoluten Kernbereich europäischer Sicherheitsinteressen verletzt.\".",
+          "text": "Bundesaußenminister, CDU kritisierte diese Woche in einem „Spiegel\"-Interview die militärische Kooperation zwischen Peking und Moskau scharf: „China muss wissen, dass das den absoluten Kernbereich europäischer Sicherheitsinteressen verletzt.\"",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "Die Welt",
@@ -80,7 +80,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Bertram Kawlath",
-          "text": "Präsident, VDMA forderte am Mittwoch/15.07. in einem FAZ-Interview eine härtere EU-Linie gegen unfaire chinesische Handelspraktiken: „Die EU muss uns helfen, einen Schild vor die anfliegenden Pfeile zu halten.\".",
+          "text": "Präsident, VDMA forderte am Mittwoch/15.07. in einem FAZ-Interview eine härtere EU-Linie gegen unfaire chinesische Handelspraktiken: „Die EU muss uns helfen, einen Schild vor die anfliegenden Pfeile zu halten.\"",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -91,7 +91,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Johannes Volkmann",
-          "text": "MdB, CDU sagte am Freitag/17.07.: „Eine wachsende Zahl an Studien legt nahe, dass Chinas rapide Marktanteilsgewinne in Anteilen auf unfaire Wettbewerbspraktiken wie eine Unterbewertung des Yuans zurückzuführen sind\", forderte aber zugleich: „Wir sollten dialogbereit mit China sein.\".",
+          "text": "MdB, CDU sagte am Freitag/17.07.: „Eine wachsende Zahl an Studien legt nahe, dass Chinas rapide Marktanteilsgewinne in Anteilen auf unfaire Wettbewerbspraktiken wie eine Unterbewertung des Yuans zurückzuführen sind\", forderte aber zugleich: „Wir sollten dialogbereit mit China sein.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -102,7 +102,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Toshimitsu Motegi",
-          "text": "Außenminister, Japan erklärte am Sonntag/12.07., Chinas Weigerung, den Schiedsspruch zum Südchinesischen Meer anzuerkennen, „untergrabe die Rechtsstaatlichkeit in der internationalen Gemeinschaft.\".",
+          "text": "Außenminister, Japan erklärte am Sonntag/12.07., Chinas Weigerung, den Schiedsspruch zum Südchinesischen Meer anzuerkennen, „untergrabe die Rechtsstaatlichkeit in der internationalen Gemeinschaft.\"",
           "source": {
             "outlet": "Süddeutsche Zeitung",
             "outletDisplay": "Süddeutsche Zeitung",
@@ -124,7 +124,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Chinas Außenministerium",
-          "text": "hielt am Sonntag/12.07. zum zehnten Jahrestag des Haager Schiedsspruchs dagegen: „China lehnt jeden Anspruch oder jede Handlung auf Grundlage dieser Schiedssprüche ab und wird sie niemals akzeptieren.\".",
+          "text": "hielt am Sonntag/12.07. zum zehnten Jahrestag des Haager Schiedsspruchs dagegen: „China lehnt jeden Anspruch oder jede Handlung auf Grundlage dieser Schiedssprüche ab und wird sie niemals akzeptieren.\"",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -135,7 +135,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "14 Demokratien",
-          "text": "gemeinsame Erklärung bekräftigten am Wochenende/11.-12.07. anlässlich des zehnten Jahrestags des Schiedsspruchs zum Südchinesischen Meer: „Wir bekräftigen unsere entschiedene Ablehnung jeglicher destabilisierender oder einseitiger Handlungen, auch durch Gewalt oder Zwang, die Frieden und Stabilität in der Region bedrohen.\".",
+          "text": "gemeinsame Erklärung bekräftigten am Wochenende/11.-12.07. anlässlich des zehnten Jahrestags des Schiedsspruchs zum Südchinesischen Meer: „Wir bekräftigen unsere entschiedene Ablehnung jeglicher destabilisierender oder einseitiger Handlungen, auch durch Gewalt oder Zwang, die Frieden und Stabilität in der Region bedrohen.\"",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -146,7 +146,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Europäische Union",
-          "text": "27 Mitgliedstaaten bekräftigten am Wochenende/11.-12.07. den Schiedsspruch von Den Haag als „wegweisende Entscheidung bei der friedlichen Beilegung von Streitigkeiten.\".",
+          "text": "27 Mitgliedstaaten bekräftigten am Wochenende/11.-12.07. den Schiedsspruch von Den Haag als „wegweisende Entscheidung bei der friedlichen Beilegung von Streitigkeiten.\"",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "faz.net",
@@ -157,7 +157,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Xi Jinping",
-          "text": "Staats- und Parteichef, China erklärte am Freitag/17.07. in seiner Eröffnungsrede zur „World AI Conference\" in Shanghai, die Entwicklung Künstlicher Intelligenz „sollte keine Soloaufführung eines einzelnen Landes sein, sondern eine Symphonie internationaler Zusammenarbeit.\".",
+          "text": "Staats- und Parteichef, China erklärte am Freitag/17.07. in seiner Eröffnungsrede zur „World AI Conference\" in Shanghai, die Entwicklung Künstlicher Intelligenz „sollte keine Soloaufführung eines einzelnen Landes sein, sondern eine Symphonie internationaler Zusammenarbeit.\"",
           "source": {
             "outlet": "DIE ZEIT",
             "outletDisplay": "zeit.de",
@@ -168,7 +168,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Xinhua",
-          "text": "staatliche Nachrichtenagentur, China schrieb diese Woche: „Während Europa unter der schweren Hitzewelle leidet, finden in China hergestellte Klimaanlagen reißenden Absatz.\".",
+          "text": "staatliche Nachrichtenagentur, China schrieb diese Woche: „Während Europa unter der schweren Hitzewelle leidet, finden in China hergestellte Klimaanlagen reißenden Absatz.\"",
           "source": {
             "outlet": "Tagesspiegel",
             "outletDisplay": "Der Tagesspiegel",
@@ -179,7 +179,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "People's Daily / Renmin Ribao",
-          "text": "Parteizeitung, China schrieb diese Woche zum Handelskonflikt mit der EU: „Die wirtschaftliche und handelspolitische Zusammenarbeit zwischen China und Europa ist grundsätzlich für beide Seiten von Vorteil.\".",
+          "text": "Parteizeitung, China schrieb diese Woche zum Handelskonflikt mit der EU: „Die wirtschaftliche und handelspolitische Zusammenarbeit zwischen China und Europa ist grundsätzlich für beide Seiten von Vorteil.\"",
           "source": {
             "outlet": "Tagesspiegel",
             "outletDisplay": "Der Tagesspiegel",
@@ -190,7 +190,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Esther Goreichy",
-          "text": "Wirtschaftsexpertin, MERICS sagte am Samstag/11.07. zum «China-Schock 2.0» in der deutschen Industrie: „Der Druck ist bereits im gesamten industriellen Kern Deutschlands spürbar.\".",
+          "text": "Wirtschaftsexpertin, MERICS sagte am Samstag/11.07. zum «China-Schock 2.0» in der deutschen Industrie: „Der Druck ist bereits im gesamten industriellen Kern Deutschlands spürbar.\"",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -201,7 +201,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Martin Gornig",
-          "text": "Forschungsdirektor Industriepolitik, DIW Berlin betonte am Samstag/11.07.: „Technologieoffenheit ist der Niedergang der deutschen Industrie, wenn dadurch in keiner Technologie hinreichend investiert wird.\".",
+          "text": "Forschungsdirektor Industriepolitik, DIW Berlin betonte am Samstag/11.07.: „Technologieoffenheit ist der Niedergang der deutschen Industrie, wenn dadurch in keiner Technologie hinreichend investiert wird.\"",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -212,7 +212,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Martin Gornig",
-          "text": "Forschungsdirektor Industriepolitik, DIW Berlin sagte am Samstag/11.07. zu Zöllen auf chinesische E-Autos: „Zölle auf E-Autos zu legen, ist doch gruselig\", stattdessen brauche es „eine wettbewerbsorientierte Handelspolitik auch mit Blick auf China.\".",
+          "text": "Forschungsdirektor Industriepolitik, DIW Berlin sagte am Samstag/11.07. zu Zöllen auf chinesische E-Autos: „Zölle auf E-Autos zu legen, ist doch gruselig\", stattdessen brauche es „eine wettbewerbsorientierte Handelspolitik auch mit Blick auf China.\"",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "welt.de",
@@ -223,7 +223,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Thomas Gitzel",
-          "text": "Chefökonom, VP Bank sagte am Donnerstag/16.07. zu Chinas Konjunkturdaten: „Die Binnenwirtschaft scheint damit das Hinkebein der chinesischen Volkswirtschaft zu bleiben.\".",
+          "text": "Chefökonom, VP Bank sagte am Donnerstag/16.07. zu Chinas Konjunkturdaten: „Die Binnenwirtschaft scheint damit das Hinkebein der chinesischen Volkswirtschaft zu bleiben.\"",
           "source": {
             "outlet": "Die Welt",
             "outletDisplay": "Die Welt",
@@ -234,7 +234,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Patrick Hummel",
-          "text": "Autoanalyst, UBS sagte am Dienstag/14.07. zum Preiskampf im chinesischen E-Auto-Markt: „Ich glaube nicht, dass auch nur eine Handvoll chinesischer Hersteller dort profitabel arbeitet.\".",
+          "text": "Autoanalyst, UBS sagte am Dienstag/14.07. zum Preiskampf im chinesischen E-Auto-Markt: „Ich glaube nicht, dass auch nur eine Handvoll chinesischer Hersteller dort profitabel arbeitet.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -256,7 +256,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Henry Cai",
-          "text": "Leiter Landesniederlassung Zeiss Taiwan sagte diese Woche: „Taiwans Wirtschaft wächst wirklich großartig und wir in Taiwan auch.\".",
+          "text": "Leiter Landesniederlassung Zeiss Taiwan sagte diese Woche: „Taiwans Wirtschaft wächst wirklich großartig und wir in Taiwan auch.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "Handelsblatt",
@@ -267,7 +267,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "CSRC – Chinesische Wertpapieraufsicht",
-          "text": "teilte am Samstag/11.07. zur Bekämpfung illegaler Kapitalflucht mit: „Die chinesische Wertpapieraufsicht wird illegale Institutionen streng bestrafen und entschlossen die Risiken illegaler grenzüberschreitender Finanzaktivitäten eindämmen.\".",
+          "text": "teilte am Samstag/11.07. zur Bekämpfung illegaler Kapitalflucht mit: „Die chinesische Wertpapieraufsicht wird illegale Institutionen streng bestrafen und entschlossen die Risiken illegaler grenzüberschreitender Finanzaktivitäten eindämmen.\"",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Zeitung",
@@ -289,7 +289,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Zhu Yiming",
-          "text": "Geschäftsführer, CXMT sagte am Mittwoch/15.07. bei einer Roadshow vor dem Börsengang, man wolle „einen Beitrag zur Entwicklung der chinesischen Halbleiterindustrie sowie des gesamten industriellen Ökosystems leisten.\".",
+          "text": "Geschäftsführer, CXMT sagte am Mittwoch/15.07. bei einer Roadshow vor dem Börsengang, man wolle „einen Beitrag zur Entwicklung der chinesischen Halbleiterindustrie sowie des gesamten industriellen Ökosystems leisten.\"",
           "source": {
             "outlet": "Handelsblatt",
             "outletDisplay": "handelsblatt.com",
@@ -322,7 +322,7 @@ window.W29_2026_WOCHENBERICHT = {
         },
         {
           "lead": "Anton Hofreiter (MdB, Grüne) und Johannes Volkmann",
-          "text": "MdB, CDU stellten diese Woche in einem gemeinsamen Papier fest, die Konkurrenz mit China sei mehr als ein Verdrängungswettbewerb zwischen Volkswagen und BYD: „Es ist ein Knock-out-Kampf zwischen Demokratie und Diktatur.\".",
+          "text": "MdB, CDU stellten diese Woche in einem gemeinsamen Papier fest, die Konkurrenz mit China sei mehr als ein Verdrängungswettbewerb zwischen Volkswagen und BYD: „Es ist ein Knock-out-Kampf zwischen Demokratie und Diktatur.\"",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Sonntagszeitung",
@@ -332,8 +332,8 @@ window.W29_2026_WOCHENBERICHT = {
           "kind": "quote"
         },
         {
-          "lead": "Französische Regierung",
-          "text": "Studie „Chinesische Dampfwalze\" warnte diese Woche, „auf mittlere Sicht\" könnte „die Industrieproduktion in Deutschland um 70 Prozent schrumpfen\", getrieben vom Exportwachstum chinesischer Autohersteller.",
+          "lead": "Anton Hofreiter (MdB, Grüne) und Johannes Volkmann",
+          "text": "MdB, CDU griffen in einem FAS-Gastbeitrag „China widerstehen\" (Sonntag, 12.07.) eine ältere französische Regierungsstudie („Chinesische Dampfwalze\") auf, die warnt, „auf mittlere Sicht\" könnte „die Industrieproduktion in Deutschland um 70 Prozent schrumpfen\", getrieben vom Exportwachstum chinesischer Autohersteller.",
           "source": {
             "outlet": "FAZ",
             "outletDisplay": "Frankfurter Allgemeine Sonntagszeitung",
